@@ -164,13 +164,23 @@ def run(dry=False, only=None):
                     cd[listkey][lid]["year"] = cfg_year
         if not dry: save_city(city, cd)
 
-    _write_report(today, manual, applied, proposals, src["settings"].get("monitors", {}))
+    _write_report(today, manual, applied, proposals, src["settings"].get("monitors", {}),
+                  src["settings"].get("release_calendar", []))
     print(f"applied {len(applied)} edits · {len(proposals)} new-venue proposals · {len(manual)} need manual pull")
     return manual, applied, proposals
 
-def _write_report(today, manual, applied, proposals, monitors=None):
+def _write_report(today, manual, applied, proposals, monitors=None, calendar=None):
     REPORTS.mkdir(exist_ok=True)
     lines = [f"# Weekly update — {today}", ""]
+    if calendar:
+        m = datetime.date.today().month
+        nxt = (m % 12) + 1
+        soon = [c for c in calendar if c.get("month") in (m, nxt)]
+        if soon:
+            lines += ["## 📣 List releases approaching — pull these", ""]
+            for c in soon:
+                lines.append(f"- **{c['label']}** (typically month {c['month']}) → lists: `{'`, `'.join(c.get('pull', []))}`")
+            lines.append("")
     if monitors:
         lines += ["## 👀 Monitors", ""]
         for key, cfg in monitors.items():

@@ -92,7 +92,75 @@
         ],
         "note": "When a watched publication posts a NEW prestigious city list, it is flagged for your approval (never auto-added) to keep prestige discipline."
       }
-    }
+    },
+    "release_calendar": [
+      {
+        "month": 2,
+        "label": "Washingtonian 100 Very Best (DC)",
+        "pull": [
+          "washdc"
+        ]
+      },
+      {
+        "month": 4,
+        "label": "James Beard Award nominees",
+        "pull": [
+          "jba",
+          "jbny",
+          "jbdc",
+          "jbsf",
+          "jbla",
+          "jbbny",
+          "jbbdc",
+          "jbbsf"
+        ]
+      },
+      {
+        "month": 6,
+        "label": "World's 50 Best Restaurants; Boston Mag Best of Boston",
+        "pull": [
+          "bosmag"
+        ]
+      },
+      {
+        "month": 9,
+        "label": "Bon Appétit Best New; Michelin Chicago",
+        "pull": [
+          "bacg",
+          "mich",
+          "bib"
+        ]
+      },
+      {
+        "month": 10,
+        "label": "Condé Nast Readers' Choice; NYT Best Restaurants in America",
+        "pull": [
+          "nyt50chi",
+          "nyt50ny",
+          "nyt50dc",
+          "nyt50bos",
+          "nyt50sf",
+          "nyt50la"
+        ]
+      },
+      {
+        "month": 11,
+        "label": "World's 50 Best Bars; Michelin New York",
+        "pull": [
+          "michny"
+        ]
+      },
+      {
+        "month": 12,
+        "label": "LA Times 101; Eater Awards; Michelin California",
+        "pull": [
+          "latimesla",
+          "michsf",
+          "michla"
+        ]
+      }
+    ],
+    "release_calendar_note": "Approximate annual windows; dates shift. A scheduled Claude reminder also pings ~3 weeks ahead. update.py flags windows in the current or next month."
   },
   "lists": {
     "chicago": {
