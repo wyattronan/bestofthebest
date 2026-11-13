@@ -1,0 +1,25 @@
+{
+  "restos": [
+    {"name": "Example Trattoria", "hood": "Downtown", "type": "italian", "typekind": "cui",
+     "lat": 0.0, "lng": 0.0, "pr": 3, "vg": 1,
+     "lists": [["eater38", null], ["infat25", 4]], "vb": "italian", "dual": false}
+  ],
+  "bars": [
+    {"name": "Example Cocktail Room", "hood": "Downtown", "type": "m", "typekind": "drink",
+     "lat": 0.0, "lng": 0.0,
+     "lists": [["punch", null]], "vb": "mixo", "dual": false}
+  ],
+  "rlists": {
+    "eater38": {"cls": "plate r-eater38", "mono": "E38", "tag": "EATER",
+                "name": "Eater's 38 Best Restaurants in <CITY>", "year": "2026",
+                "ranked": false, "starChip": false},
+    "infat25": {"cls": "plate r-infat25", "mono": "25", "tag": "INFAT",
+                "name": "The Infatuation's Top 25 in <CITY>", "year": "2026",
+                "ranked": false, "starChip": false}
+  },
+  "blists": {
+    "punch": {"cls": "b-punch", "mono": "P!", "tag": "CKTL",
+              "name": "PUNCH Best <CITY> Cocktail Bars", "year": "2026",
+              "ranked": false, "starChip": false}
+  }
+}

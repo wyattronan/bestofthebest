@@ -1,0 +1,4017 @@
+{
+ "restos": [
+  {
+   "name": "Mahaniyom",
+   "hood": "Brookline Village",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 42.3327,
+   "lng": -71.1203,
+   "vg": 1,
+   "note": "Thai — BosMag prints it Mahaniyon",
+   "pr": 2,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "bibbos",
+     null
+    ],
+    [
+     "bosmag",
+     13
+    ],
+    [
+     "eater38bos",
+     null
+    ],
+    [
+     "cnt35bos",
+     null
+    ],
+    [
+     "infatbos",
+     null
+    ],
+    [
+     "beli25bos",
+     10
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Mooncusser",
+   "hood": "Back Bay",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 42.3495,
+   "lng": -71.0705,
+   "pr": 3,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "bosmag",
+     3
+    ],
+    [
+     "eater38bos",
+     null
+    ],
+    [
+     "cnt35bos",
+     null
+    ],
+    [
+     "infatbos",
+     null
+    ],
+    [
+     "beli25bos",
+     9
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Comfort Kitchen",
+   "hood": "Upham's Corner",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 42.3186,
+   "lng": -71.0631,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "bosmag",
+     5
+    ],
+    [
+     "eater38bos",
+     null
+    ],
+    [
+     "cnt35bos",
+     null
+    ],
+    [
+     "beli25bos",
+     15
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Field & Vine",
+   "hood": "Union Square",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 42.38,
+   "lng": -71.0945,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "bosmag",
+     9
+    ],
+    [
+     "cnt35bos",
+     null
+    ],
+    [
+     "infatbos",
+     null
+    ],
+    [
+     "beli25bos",
+     11
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "La Padrona",
+   "hood": "Back Bay",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 42.3484,
+   "lng": -71.0751,
+   "vg": 1,
+   "note": "In the Raffles",
+   "pr": 2,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "bosmag",
+     7
+    ],
+    [
+     "eater38bos",
+     null
+    ],
+    [
+     "cnt35bos",
+     null
+    ],
+    [
+     "infatbos",
+     null
+    ],
+    [
+     "nyt50bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Neptune Oyster",
+   "hood": "North End",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 42.3634,
+   "lng": -71.0561,
+   "pr": 3,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "eater38bos",
+     null
+    ],
+    [
+     "cnt35bos",
+     null
+    ],
+    [
+     "infatbos",
+     null
+    ],
+    [
+     "beli25bos",
+     25
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "Sarma",
+   "hood": "Winter Hill",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 42.3924,
+   "lng": -71.0875,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "bosmag",
+     1
+    ],
+    [
+     "eater38bos",
+     null
+    ],
+    [
+     "cnt35bos",
+     null
+    ],
+    [
+     "beli25bos",
+     3
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Tonino",
+   "hood": "Jamaica Plain",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 42.3125,
+   "lng": -71.1143,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "bosmag",
+     25
+    ],
+    [
+     "eater38bos",
+     null
+    ],
+    [
+     "cnt35bos",
+     null
+    ],
+    [
+     "beli25bos",
+     2
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "311 Omakase",
+   "hood": "South End",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 42.3431,
+   "lng": -71.0736,
+   "note": "Eater prints it as Three 1 One",
+   "pr": 3,
+   "lists": [
+    [
+     "michbos",
+     1
+    ],
+    [
+     "eater38bos",
+     null
+    ],
+    [
+     "infatbos",
+     null
+    ],
+    [
+     "beli25bos",
+     6
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Bar Vlaha",
+   "hood": "Washington Square",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 42.3387,
+   "lng": -71.1366,
+   "vg": 1,
+   "note": "Greek",
+   "pr": 2,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "bosmag",
+     4
+    ],
+    [
+     "infatbos",
+     null
+    ],
+    [
+     "beli25bos",
+     8
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Brassica Kitchen + Cafe",
+   "hood": "Jamaica Plain",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 42.3005,
+   "lng": -71.1132,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "bosmag",
+     10
+    ],
+    [
+     "eater38bos",
+     null
+    ],
+    [
+     "cnt35bos",
+     null
+    ],
+    [
+     "beli25bos",
+     16
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Grill 23 & Bar",
+   "hood": "Back Bay",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 42.3499,
+   "lng": -71.0731,
+   "pr": 4,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ],
+    [
+     "cnt35bos",
+     null
+    ],
+    [
+     "infatbos",
+     null
+    ],
+    [
+     "beli25bos",
+     21
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Lê Madeline",
+   "hood": "North Quincy",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 42.2732,
+   "lng": -71.0255,
+   "vg": 1,
+   "note": "Modern Vietnamese",
+   "pr": 2,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "bosmag",
+     23
+    ],
+    [
+     "eater38bos",
+     null
+    ],
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "O Ya",
+   "hood": "Leather District",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 42.3512,
+   "lng": -71.057,
+   "pr": 3,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "bosmag",
+     8
+    ],
+    [
+     "cnt35bos",
+     null
+    ],
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Celeste",
+   "hood": "Union Square",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 42.3813,
+   "lng": -71.0973,
+   "vg": 1,
+   "note": "Peruvian",
+   "pr": 1,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "cnt35bos",
+     null
+    ],
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "La Royal",
+   "hood": "Observatory Hill",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 42.3829,
+   "lng": -71.1315,
+   "vg": 1,
+   "note": "Peruvian",
+   "pr": 1,
+   "lists": [
+    [
+     "bosmag",
+     24
+    ],
+    [
+     "eater38bos",
+     null
+    ],
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Oleana",
+   "hood": "Cambridge",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 42.3722,
+   "lng": -71.0995,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bosmag",
+     19
+    ],
+    [
+     "infatbos",
+     null
+    ],
+    [
+     "beli25bos",
+     7
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Sumiao Hunan Kitchen",
+   "hood": "Kendall Square",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 42.3665,
+   "lng": -71.081,
+   "vg": 1,
+   "note": "NYT & Michelin print it Sumo Hunan",
+   "pr": 2,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "bibbos",
+     null
+    ],
+    [
+     "eater38bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Banh Mi Ba Le",
+   "hood": "Dorchester",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 42.3121,
+   "lng": -71.0565,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "beli25bos",
+     20
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Fox & The Knife",
+   "hood": "South Boston",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 42.3421,
+   "lng": -71.0577,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibbos",
+     null
+    ],
+    [
+     "cnt35bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Giulia",
+   "hood": "Cambridge",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 42.3865,
+   "lng": -71.1191,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Jahunger",
+   "hood": "Cambridgeport",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 42.3573,
+   "lng": -71.1077,
+   "vg": 1,
+   "note": "Uyghur",
+   "pr": 2,
+   "lists": [
+    [
+     "bibbos",
+     null
+    ],
+    [
+     "eater38bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Kaia",
+   "hood": "South End",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 42.3441,
+   "lng": -71.0636,
+   "vg": 1,
+   "note": "Greek",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ],
+    [
+     "cnt35bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Lenox Sophia",
+   "hood": "South Boston",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 42.3424,
+   "lng": -71.0546,
+   "tg": 1,
+   "pr": 4,
+   "lists": [
+    [
+     "bosmag",
+     12
+    ],
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Moona",
+   "hood": "Inman Square",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 42.3741,
+   "lng": -71.1011,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ],
+    [
+     "cnt35bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Nightshade Noodle Bar",
+   "hood": "Lynn",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 42.4632,
+   "lng": -70.9422,
+   "tg": 1,
+   "note": "French-Vietnamese",
+   "pr": 4,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "bosmag",
+     11
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Puritan Oyster Bar",
+   "hood": "Inman Square",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 42.373,
+   "lng": -71.0968,
+   "note": "The Infatuation lists it as Puritan & Co.",
+   "pr": 3,
+   "lists": [
+    [
+     "cnt35bos",
+     null
+    ],
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "Row 34",
+   "hood": "Fort Point",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 42.3513,
+   "lng": -71.0468,
+   "pr": 3,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "cnt35bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "Sammy's",
+   "hood": "Brighton",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 42.3488,
+   "lng": -71.1404,
+   "vg": 1,
+   "note": "Pizza & fried chicken",
+   "pr": 1,
+   "lists": [
+    [
+     "bosmag",
+     17
+    ],
+    [
+     "beli25bos",
+     4
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Somaek",
+   "hood": "Downtown Crossing",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 42.3552,
+   "lng": -71.0626,
+   "vg": 1,
+   "note": "Korean — above Temple Records",
+   "pr": 2,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "bosmag",
+     14
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Spoke Wine Bar",
+   "hood": "Davis Square",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 42.3989,
+   "lng": -71.1243,
+   "vg": 1,
+   "note": "Also on the Bars page",
+   "pr": 3,
+   "lists": [
+    [
+     "bosmag",
+     16
+    ],
+    [
+     "eater38bos",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "datenight"
+  },
+  {
+   "name": "SRV",
+   "hood": "South End",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 42.341,
+   "lng": -71.0806,
+   "vg": 1,
+   "note": "Venetian bacaro",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ],
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Taqueria Jalisco",
+   "hood": "Orient Heights",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 42.3869,
+   "lng": -71.0072,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ],
+    [
+     "cnt35bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Toro",
+   "hood": "South End",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 42.3373,
+   "lng": -71.0755,
+   "vg": 1,
+   "note": "Barcelona-style tapas",
+   "pr": 2,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "cnt35bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Urban Hearth",
+   "hood": "Inman Square",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 42.3737,
+   "lng": -71.0988,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "bosmag",
+     6
+    ],
+    [
+     "eater38bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Via Cannuccia",
+   "hood": "Dorchester",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 42.2909,
+   "lng": -71.063,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Woods Hill Pier 4",
+   "hood": "Seaport",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 42.3527,
+   "lng": -71.0423,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "cnt35bos",
+     null
+    ],
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Yume Ga Arukara",
+   "hood": "Porter Square",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 42.3886,
+   "lng": -71.1191,
+   "note": "Udon",
+   "pr": 3,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "beli25bos",
+     18
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Zurito",
+   "hood": "Beacon Hill",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 42.3568,
+   "lng": -71.0699,
+   "vg": 1,
+   "note": "Basque pintxos",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ],
+    [
+     "cnt35bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Aatma Curry House",
+   "hood": "Brighton",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 42.3557,
+   "lng": -71.148,
+   "vg": 1,
+   "note": "Inside Widowmaker's taproom",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Asta",
+   "hood": "Back Bay",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 42.3468,
+   "lng": -71.088,
+   "tg": 1,
+   "pr": 4,
+   "lists": [
+    [
+     "bosmag",
+     15
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Bab Al-Yemen",
+   "hood": "Kenmore",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 42.3486,
+   "lng": -71.0935,
+   "vg": 1,
+   "note": "Yemeni — Eater prints it Bob Al-Yemen",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Baleia",
+   "hood": "South End",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 42.3432,
+   "lng": -71.0629,
+   "vg": 1,
+   "note": "Portuguese",
+   "pr": 2,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Bar Mezzana",
+   "hood": "South End",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 42.3446,
+   "lng": -71.0651,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "cnt35bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Bar Volpe",
+   "hood": "South Boston",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 42.3419,
+   "lng": -71.0521,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Bistro du Midi",
+   "hood": "Back Bay",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 42.3524,
+   "lng": -71.0699,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "cnt35bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Blue Nile",
+   "hood": "Jamaica Plain",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 42.3225,
+   "lng": -71.1077,
+   "vg": 1,
+   "note": "Ethiopian",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Bricco",
+   "hood": "North End",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 42.3632,
+   "lng": -71.0546,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "cnt35bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Brookline Lunch",
+   "hood": "Central Square",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 42.3638,
+   "lng": -71.1017,
+   "note": "Cash-friendly brunch counter",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "Chickadee",
+   "hood": "Seaport",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 42.3427,
+   "lng": -71.0331,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Cutty's",
+   "hood": "Brookline Village",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 42.3332,
+   "lng": -71.1193,
+   "note": "Sandwich shop",
+   "pr": 2,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "Dear Annie",
+   "hood": "Neighborhood Nine",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 42.3846,
+   "lng": -71.1192,
+   "vg": 1,
+   "note": "Natural wine bar",
+   "pr": 3,
+   "lists": [
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Desnuda",
+   "hood": "South End",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 42.3422,
+   "lng": -71.0754,
+   "vg": 1,
+   "note": "Also on the Bars page",
+   "pr": 1,
+   "lists": [
+    [
+     "cnt35bos",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "quick"
+  },
+  {
+   "name": "Dovetail",
+   "hood": "Charlestown",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 42.3752,
+   "lng": -71.0547,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "cnt35bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Eastern Standard Kitchen & Drinks",
+   "hood": "Audubon Circle",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 42.3475,
+   "lng": -71.1014,
+   "vg": 1,
+   "note": "Also on the Bars page",
+   "pr": 3,
+   "lists": [
+    [
+     "cnt35bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "El Centro",
+   "hood": "South End",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 42.3386,
+   "lng": -71.0759,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "cnt35bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Fallow Kin",
+   "hood": "Cambridge",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 42.3635,
+   "lng": -71.0987,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Ganko Ittetsu Ramen",
+   "hood": "Coolidge Corner",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 42.3432,
+   "lng": -71.1235,
+   "note": "Sapporo ramen — Eater prints it Banjo Ittetsu",
+   "pr": 3,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Gustazo Cuban Kitchen & Bar",
+   "hood": "North Cambridge",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 42.3913,
+   "lng": -71.1228,
+   "vg": 1,
+   "note": "Eater prints it Gustavo",
+   "pr": 1,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Himalayan Bistro",
+   "hood": "West Roxbury",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 42.2793,
+   "lng": -71.1615,
+   "vg": 1,
+   "note": "Nepali",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Iru",
+   "hood": "Brookline Village",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 42.3327,
+   "lng": -71.1188,
+   "note": "Korean",
+   "pr": 2,
+   "lists": [
+    [
+     "beli25bos",
+     23
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "James Hook & Co",
+   "hood": "Waterfront",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 42.3539,
+   "lng": -71.0503,
+   "note": "Lobster shack",
+   "pr": 3,
+   "lists": [
+    [
+     "cnt35bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "KAVA neo-taverna",
+   "hood": "South End",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 42.3424,
+   "lng": -71.0705,
+   "vg": 1,
+   "note": "Greek",
+   "pr": 2,
+   "lists": [
+    [
+     "beli25bos",
+     5
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Krasi",
+   "hood": "Back Bay",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 42.3487,
+   "lng": -71.084,
+   "vg": 1,
+   "note": "Greek wine",
+   "pr": 2,
+   "lists": [
+    [
+     "bosmag",
+     18
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Lehrhaus",
+   "hood": "Somerville",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 42.3783,
+   "lng": -71.1069,
+   "vg": 1,
+   "note": "Jewish tavern & house of learning",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "McGonagle's",
+   "hood": "Neponset",
+   "type": "gastropub",
+   "typekind": "cui",
+   "lat": 42.2866,
+   "lng": -71.0451,
+   "note": "Irish pub",
+   "pr": 2,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ],
+    [
+     "nyt50bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Merengue",
+   "hood": "Grove Hall",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 42.3192,
+   "lng": -71.0776,
+   "vg": 1,
+   "note": "Dominican",
+   "pr": 1,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Mistral",
+   "hood": "South End",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 42.3474,
+   "lng": -71.0723,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "beli25bos",
+     13
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Mooch",
+   "hood": "Boston",
+   "type": "newam",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 3,
+   "lists": [
+    [
+     "bosmag",
+     21
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Mooo Beacon Hill",
+   "hood": "Beacon Hill",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 42.3583,
+   "lng": -71.062,
+   "pr": 4,
+   "lists": [
+    [
+     "beli25bos",
+     24
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Mountain House",
+   "hood": "Allston",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 42.353,
+   "lng": -71.1299,
+   "vg": 1,
+   "note": "Szechuan Mountain House",
+   "pr": 2,
+   "lists": [
+    [
+     "beli25bos",
+     22
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Moëca",
+   "hood": "Cambridge",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 42.3819,
+   "lng": -71.1201,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Nautilus Pier 4",
+   "hood": "Seaport",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 42.3522,
+   "lng": -71.0426,
+   "pr": 3,
+   "lists": [
+    [
+     "beli25bos",
+     17
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "No Relation",
+   "hood": "South End",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 42.3454,
+   "lng": -71.0639,
+   "note": "Omakase hidden inside Shore Leave",
+   "pr": 3,
+   "lists": [
+    [
+     "bosmag",
+     20
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Ostra",
+   "hood": "Bay Village",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 42.3517,
+   "lng": -71.0679,
+   "pr": 3,
+   "lists": [
+    [
+     "beli25bos",
+     12
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "Pagu",
+   "hood": "Central Square",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 42.3629,
+   "lng": -71.0972,
+   "vg": 1,
+   "note": "Japanese-Spanish",
+   "pr": 2,
+   "lists": [
+    [
+     "bibbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Pammy's",
+   "hood": "Cambridge",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 42.3661,
+   "lng": -71.1069,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "nytbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Pho Le",
+   "hood": "Fields Corner",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 42.3045,
+   "lng": -71.0589,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Pho Pasteur",
+   "hood": "Chinatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 42.3512,
+   "lng": -71.0625,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "cnt35bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Qiao Lin Hotpot",
+   "hood": "Allston",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 42.355,
+   "lng": -71.1335,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "beli25bos",
+     19
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Rubato",
+   "hood": "North Quincy",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 42.2733,
+   "lng": -71.0251,
+   "vg": 1,
+   "note": "Hong Kong café",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Shojo",
+   "hood": "Chinatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 42.3509,
+   "lng": -71.0607,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "cnt35bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Si Cara",
+   "hood": "Central Square",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 42.3637,
+   "lng": -71.1004,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Singh's Roti Shop",
+   "hood": "Uphams Corner",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 42.3163,
+   "lng": -71.0662,
+   "vg": 1,
+   "note": "Trinidadian",
+   "pr": 1,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Sofra",
+   "hood": "Watertown line",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 42.3849,
+   "lng": -71.1352,
+   "vg": 1,
+   "note": "Bakery & meze",
+   "pr": 2,
+   "lists": [
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Sugidama Soba & Izakaya",
+   "hood": "Davis Square",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 42.3948,
+   "lng": -71.1217,
+   "note": "Soba & izakaya",
+   "pr": 3,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Sushi at Temple Records",
+   "hood": "Downtown Crossing",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 42.3557,
+   "lng": -71.0615,
+   "note": "Omakase inside the listening bar — also on the Bars page",
+   "pr": 3,
+   "lists": [
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Suya Joint",
+   "hood": "Roxbury",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 42.3283,
+   "lng": -71.0819,
+   "vg": 1,
+   "note": "Nigerian",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "TABLE Mercato",
+   "hood": "North End",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 42.3661,
+   "lng": -71.0526,
+   "vg": 1,
+   "note": "Jen Royle's sandwich counter",
+   "pr": 2,
+   "lists": [
+    [
+     "beli25bos",
+     14
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Taiwan Cafe",
+   "hood": "Chinatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 42.3517,
+   "lng": -71.0603,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Talulla",
+   "hood": "Huron Village",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 42.3837,
+   "lng": -71.1344,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "bosmag",
+     22
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "The Dubliner",
+   "hood": "Government Center",
+   "type": "gastropub",
+   "typekind": "cui",
+   "lat": 42.3605,
+   "lng": -71.0605,
+   "vg": 1,
+   "note": "Also on the Bars page",
+   "pr": 2,
+   "lists": [
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "global"
+  },
+  {
+   "name": "Uni",
+   "hood": "Back Bay",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 42.3496,
+   "lng": -71.0879,
+   "note": "In the Eliot Hotel",
+   "pr": 3,
+   "lists": [
+    [
+     "bosmag",
+     2
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Wa Shin",
+   "hood": "Bay Village",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 42.3504,
+   "lng": -71.0683,
+   "note": "Edomae omakase",
+   "pr": 3,
+   "lists": [
+    [
+     "beli25bos",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Wusong Road",
+   "hood": "Harvard Square",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 42.3721,
+   "lng": -71.1215,
+   "vg": 1,
+   "note": "Tiki — also on the Bars page",
+   "pr": 2,
+   "lists": [
+    [
+     "cnt35bos",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "global"
+  },
+  {
+   "name": "Yoshida Omakase",
+   "hood": "Back Bay",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 42.3497,
+   "lng": -71.0892,
+   "pr": 3,
+   "lists": [
+    [
+     "cnt35bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Yume Wo Katare",
+   "hood": "Porter Square",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 42.3901,
+   "lng": -71.1203,
+   "note": "Ramen & dreams",
+   "pr": 3,
+   "lists": [
+    [
+     "cnt35bos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  }
+ ],
+ "bars": [
+  {
+   "name": "The Wig Shop",
+   "hood": "Downtown Crossing",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3555,
+   "lng": -71.0618,
+   "note": "Behind the old wig-store sign",
+   "lists": [
+    [
+     "eaterbbos",
+     null
+    ],
+    [
+     "cnnabbos",
+     86
+    ],
+    [
+     "timeoutbos",
+     null
+    ],
+    [
+     "thrillbos",
+     null
+    ],
+    [
+     "cnt23bos",
+     14
+    ],
+    [
+     "globebos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "haley.henry",
+   "hood": "Downtown Crossing",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 42.3568,
+   "lng": -71.0605,
+   "lists": [
+    [
+     "eaterbbos",
+     null
+    ],
+    [
+     "timeoutbos",
+     null
+    ],
+    [
+     "thrillbos",
+     null
+    ],
+    [
+     "cnt23bos",
+     17
+    ],
+    [
+     "globebos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Offsuit",
+   "hood": "Leather District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3506,
+   "lng": -71.058,
+   "lists": [
+    [
+     "eaterbbos",
+     null
+    ],
+    [
+     "timeoutbos",
+     null
+    ],
+    [
+     "thrillbos",
+     null
+    ],
+    [
+     "cnt23bos",
+     11
+    ],
+    [
+     "globebos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Backbar",
+   "hood": "Union Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3796,
+   "lng": -71.0952,
+   "lists": [
+    [
+     "eaterbbos",
+     null
+    ],
+    [
+     "punchbos",
+     null
+    ],
+    [
+     "thrillbos",
+     null
+    ],
+    [
+     "globebos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Blossom Bar",
+   "hood": "Brookline Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3339,
+   "lng": -71.1206,
+   "note": "Sichuan tropical drinks",
+   "lists": [
+    [
+     "eaterbbos",
+     null
+    ],
+    [
+     "timeoutbos",
+     null
+    ],
+    [
+     "thrillbos",
+     null
+    ],
+    [
+     "cnt23bos",
+     22
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Brick & Mortar",
+   "hood": "Central Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3654,
+   "lng": -71.1032,
+   "lists": [
+    [
+     "eaterbbos",
+     null
+    ],
+    [
+     "timeoutbos",
+     null
+    ],
+    [
+     "punchbos",
+     null
+    ],
+    [
+     "thrillbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Hecate",
+   "hood": "Back Bay",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3487,
+   "lng": -71.0841,
+   "note": "Beneath Krasi",
+   "lists": [
+    [
+     "cnnabbos",
+     87
+    ],
+    [
+     "thrillbos",
+     null
+    ],
+    [
+     "babos",
+     null
+    ],
+    [
+     "cnt23bos",
+     3
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Farmacia",
+   "hood": "North Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.364,
+   "lng": -71.0535,
+   "note": "Reservation-first apothecary bar",
+   "lists": [
+    [
+     "timeoutbos",
+     null
+    ],
+    [
+     "babos",
+     null
+    ],
+    [
+     "belibbos",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Next Door",
+   "hood": "East Boston",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.373,
+   "lng": -71.0362,
+   "note": "Speakeasy & raw bar",
+   "lists": [
+    [
+     "timeoutbos",
+     null
+    ],
+    [
+     "thrillbos",
+     null
+    ],
+    [
+     "globebos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Temple Records",
+   "hood": "Downtown Crossing",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3557,
+   "lng": -71.0615,
+   "note": "Listening bar — also on the Restaurants page",
+   "lists": [
+    [
+     "timeoutbos",
+     null
+    ],
+    [
+     "babos",
+     null
+    ],
+    [
+     "globebos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "89 Charles",
+   "hood": "Beacon Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3573,
+   "lng": -71.0703,
+   "lists": [
+    [
+     "timeoutbos",
+     null
+    ],
+    [
+     "belibbos",
+     4
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Aeronaut Brewing",
+   "hood": "Somerville",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3812,
+   "lng": -71.103,
+   "lists": [
+    [
+     "thrillbos",
+     null
+    ],
+    [
+     "infatbrewbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brewery"
+  },
+  {
+   "name": "Bubble Bath",
+   "hood": "Back Bay",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 42.348,
+   "lng": -71.0888,
+   "note": "Rooftop champagne bar",
+   "lists": [
+    [
+     "babos",
+     null
+    ],
+    [
+     "cnt23bos",
+     4
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Bully Boy Distillers",
+   "hood": "Newmarket",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3306,
+   "lng": -71.0672,
+   "note": "Distillery tasting room",
+   "lists": [
+    [
+     "thrillbos",
+     null
+    ],
+    [
+     "cnt23bos",
+     9
+    ]
+   ],
+   "dual": false,
+   "vb": "brewery"
+  },
+  {
+   "name": "Extra Dirty Cocktail Club",
+   "hood": "North End",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3654,
+   "lng": -71.0513,
+   "note": "Ticketed tasting-menu cocktails",
+   "lists": [
+    [
+     "timeoutbos",
+     null
+    ],
+    [
+     "belibbos",
+     2
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "JJ Foley's Cafe",
+   "hood": "South End",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3436,
+   "lng": -71.0655,
+   "note": "Pouring since 1909",
+   "lists": [
+    [
+     "eaterbbos",
+     null
+    ],
+    [
+     "timeoutbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "OAK Long Bar + Kitchen",
+   "hood": "Copley Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3496,
+   "lng": -71.0757,
+   "note": "In the Fairmont Copley Plaza",
+   "lists": [
+    [
+     "babos",
+     null
+    ],
+    [
+     "cnt23bos",
+     13
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Shore Leave",
+   "hood": "South End",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3454,
+   "lng": -71.064,
+   "note": "Subterranean tiki",
+   "lists": [
+    [
+     "thrillbos",
+     null
+    ],
+    [
+     "cnt23bos",
+     20
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Koji Club",
+   "hood": "Brighton",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 42.3618,
+   "lng": -71.145,
+   "note": "Sake bar at the Speedway",
+   "lists": [
+    [
+     "eaterbbos",
+     null
+    ],
+    [
+     "cnt23bos",
+     10
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "The Longfellow Bar",
+   "hood": "Harvard Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3737,
+   "lng": -71.1214,
+   "note": "Above Alden & Harlow",
+   "lists": [
+    [
+     "thrillbos",
+     null
+    ],
+    [
+     "cnt23bos",
+     2
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Trillium Brewing",
+   "hood": "Fort Point",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3506,
+   "lng": -71.0455,
+   "lists": [
+    [
+     "cnt23bos",
+     7
+    ],
+    [
+     "infatbrewbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brewery"
+  },
+  {
+   "name": "Wusong Road",
+   "hood": "Harvard Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3721,
+   "lng": -71.1215,
+   "note": "Tiki — also on the Restaurants page; Eater lists its tiki bar",
+   "lists": [
+    [
+     "eaterbbos",
+     null
+    ],
+    [
+     "timeoutbos",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "mixo"
+  },
+  {
+   "name": "Yvonne's",
+   "hood": "Downtown Crossing",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3555,
+   "lng": -71.062,
+   "lists": [
+    [
+     "timeoutbos",
+     null
+    ],
+    [
+     "cnt23bos",
+     6
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Acapella by X",
+   "hood": "Fields Corner",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.2993,
+   "lng": -71.0607,
+   "lists": [
+    [
+     "globebos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Alden & Harlow",
+   "hood": "Harvard Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3736,
+   "lng": -71.1216,
+   "lists": [
+    [
+     "punchbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bar Lunette",
+   "hood": "Coolidge Corner",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3425,
+   "lng": -71.122,
+   "note": "French apothecary cocktails",
+   "lists": [
+    [
+     "globebos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Barra",
+   "hood": "Union Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3814,
+   "lng": -71.0973,
+   "note": "Mezcal & tacos",
+   "lists": [
+    [
+     "cnt23bos",
+     15
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Beyond Proof",
+   "hood": "Jamaica Plain",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3149,
+   "lng": -71.1143,
+   "note": "Zero-proof bar",
+   "lists": [
+    [
+     "globebos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Blind Duck",
+   "hood": "Back Bay",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3485,
+   "lng": -71.0748,
+   "note": "Atop the Raffles",
+   "lists": [
+    [
+     "cnt23bos",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Brendan Behan",
+   "hood": "Jamaica Plain",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3228,
+   "lng": -71.1071,
+   "lists": [
+    [
+     "timeoutbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Bukowski's Tavern",
+   "hood": "Back Bay",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3472,
+   "lng": -71.0837,
+   "lists": [
+    [
+     "punchbeerbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Carrie Nation",
+   "hood": "Beacon Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3582,
+   "lng": -71.0618,
+   "lists": [
+    [
+     "timeoutbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Castle Island Brewing",
+   "hood": "South Boston",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.332,
+   "lng": -71.057,
+   "lists": [
+    [
+     "infatbrewbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brewery"
+  },
+  {
+   "name": "Daiquiris & Daisies",
+   "hood": "Financial District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3545,
+   "lng": -71.0553,
+   "note": "Inside High Street Place",
+   "lists": [
+    [
+     "cnt23bos",
+     12
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Darling",
+   "hood": "Central Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3636,
+   "lng": -71.1013,
+   "lists": [
+    [
+     "belibbos",
+     3
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Deep Ellum",
+   "hood": "Allston",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3543,
+   "lng": -71.1372,
+   "lists": [
+    [
+     "punchbeerbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Delux Cafe",
+   "hood": "South End",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3459,
+   "lng": -71.0719,
+   "lists": [
+    [
+     "timeoutbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Desnuda",
+   "hood": "South End",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3422,
+   "lng": -71.0754,
+   "note": "Also on the Restaurants page",
+   "lists": [
+    [
+     "belibbos",
+     5
+    ]
+   ],
+   "dual": true,
+   "vb": "mixo"
+  },
+  {
+   "name": "Dorchester Brewing",
+   "hood": "Dorchester",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3221,
+   "lng": -71.0664,
+   "lists": [
+    [
+     "infatbrewbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brewery"
+  },
+  {
+   "name": "Drink",
+   "hood": "Fort Point",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3517,
+   "lng": -71.0479,
+   "note": "No menu — bartender's choice",
+   "lists": [
+    [
+     "punchbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Eastern Standard",
+   "hood": "Audubon Circle",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3475,
+   "lng": -71.1014,
+   "note": "Also on the Restaurants page",
+   "lists": [
+    [
+     "punchbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Eire Pub",
+   "hood": "Adams Village",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.2856,
+   "lng": -71.0623,
+   "note": "A gentlemen's prestige bar",
+   "lists": [
+    [
+     "babos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Equal Measure",
+   "hood": "Audubon Circle",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3475,
+   "lng": -71.1014,
+   "lists": [
+    [
+     "globebos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Fool's Errand",
+   "hood": "Fenway",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3439,
+   "lng": -71.1009,
+   "note": "Standing-room aperitivo",
+   "lists": [
+    [
+     "cnt23bos",
+     18
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Harpoon Brewery",
+   "hood": "Seaport",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3479,
+   "lng": -71.0345,
+   "lists": [
+    [
+     "infatbrewbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brewery"
+  },
+  {
+   "name": "Highball Lounge",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3577,
+   "lng": -71.0613,
+   "lists": [
+    [
+     "punchbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Hojoko",
+   "hood": "Fenway",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3446,
+   "lng": -71.0985,
+   "note": "Izakaya party bar",
+   "lists": [
+    [
+     "thrillbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Hue",
+   "hood": "Back Bay",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3484,
+   "lng": -71.0787,
+   "lists": [
+    [
+     "globebos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Idle Hands",
+   "hood": "Malden",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.4287,
+   "lng": -71.0714,
+   "lists": [
+    [
+     "infatbrewbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Island Creek Oyster Bar",
+   "hood": "Kenmore",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3489,
+   "lng": -71.0955,
+   "lists": [
+    [
+     "punchbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Jadu",
+   "hood": "Jamaica Plain",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 42.3102,
+   "lng": -71.1154,
+   "note": "Café by day, wine bar by night",
+   "lists": [
+    [
+     "globebos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "JM Curley",
+   "hood": "Downtown Crossing",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3556,
+   "lng": -71.0617,
+   "lists": [
+    [
+     "punchbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Lamplighter Brewing",
+   "hood": "Cambridge",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.366,
+   "lng": -71.0895,
+   "lists": [
+    [
+     "infatbrewbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brewery"
+  },
+  {
+   "name": "Local 149",
+   "hood": "City Point",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3345,
+   "lng": -71.0343,
+   "lists": [
+    [
+     "punchbeerbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Lord Hobo",
+   "hood": "Inman Square",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3706,
+   "lng": -71.0972,
+   "lists": [
+    [
+     "punchbeerbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Marcelino's",
+   "hood": "Seaport",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3543,
+   "lng": -71.048,
+   "lists": [
+    [
+     "timeoutbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Merai",
+   "hood": "Brookline Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3337,
+   "lng": -71.119,
+   "note": "Thai late-night — Mahaniyom's sibling",
+   "lists": [
+    [
+     "globebos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Mighty Squirrel",
+   "hood": "Waltham",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3853,
+   "lng": -71.2199,
+   "lists": [
+    [
+     "infatbrewbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "nathálie",
+   "hood": "Fenway",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 42.3439,
+   "lng": -71.1018,
+   "lists": [
+    [
+     "cnt23bos",
+     8
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Night Shift Brewing",
+   "hood": "Everett",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3985,
+   "lng": -71.069,
+   "lists": [
+    [
+     "infatbrewbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brewery"
+  },
+  {
+   "name": "No. 9 Park",
+   "hood": "Beacon Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3577,
+   "lng": -71.0629,
+   "lists": [
+    [
+     "punchbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Noir",
+   "hood": "Harvard Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3724,
+   "lng": -71.1227,
+   "note": "In the Charles Hotel",
+   "lists": [
+    [
+     "globebos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Notch Brewing",
+   "hood": "Brighton",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3618,
+   "lng": -71.1452,
+   "note": "Lagers at the Speedway",
+   "lists": [
+    [
+     "infatbrewbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brewery"
+  },
+  {
+   "name": "Olde Magoun's Saloon",
+   "hood": "Magoun Square",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3967,
+   "lng": -71.104,
+   "lists": [
+    [
+     "eaterbbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Porter Cafe",
+   "hood": "West Roxbury",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.2799,
+   "lng": -71.161,
+   "lists": [
+    [
+     "punchbeerbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Portico Brewing",
+   "hood": "Somerville",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3747,
+   "lng": -71.0913,
+   "lists": [
+    [
+     "infatbrewbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brewery"
+  },
+  {
+   "name": "Rebel Rebel",
+   "hood": "Bow Market",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 42.3799,
+   "lng": -71.0955,
+   "lists": [
+    [
+     "globebos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Remnant Brewing",
+   "hood": "Bow Market",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3799,
+   "lng": -71.0956,
+   "lists": [
+    [
+     "infatbrewbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brewery"
+  },
+  {
+   "name": "Roundhead Brewing",
+   "hood": "Hyde Park",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.2557,
+   "lng": -71.1245,
+   "lists": [
+    [
+     "infatbrewbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brewery"
+  },
+  {
+   "name": "Select Oyster Bar",
+   "hood": "Back Bay",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 42.3494,
+   "lng": -71.0835,
+   "lists": [
+    [
+     "babos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Shy Bird",
+   "hood": "Kendall Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3627,
+   "lng": -71.0841,
+   "lists": [
+    [
+     "globebos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Spoke Wine Bar",
+   "hood": "Davis Square",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 42.3989,
+   "lng": -71.1243,
+   "note": "Also on the Restaurants page",
+   "lists": [
+    [
+     "globebos",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "wine"
+  },
+  {
+   "name": "State Park",
+   "hood": "Kendall Square",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3672,
+   "lng": -71.0902,
+   "lists": [
+    [
+     "punchbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Stoddard's",
+   "hood": "Downtown Crossing",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3554,
+   "lng": -71.062,
+   "lists": [
+    [
+     "punchbeerbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Straight Law",
+   "hood": "Boston",
+   "type": "m",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "punchbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Sullivan's Tap",
+   "hood": "West End",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3653,
+   "lng": -71.062,
+   "note": "Next to the Garden",
+   "lists": [
+    [
+     "cnt23bos",
+     19
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Sunset Bar & Grille",
+   "hood": "Allston",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3529,
+   "lng": -71.1319,
+   "lists": [
+    [
+     "punchbeerbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Tavern Road",
+   "hood": "Fort Point",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3516,
+   "lng": -71.0475,
+   "lists": [
+    [
+     "punchbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Beehive",
+   "hood": "South End",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3441,
+   "lng": -71.0699,
+   "note": "Live music nightly",
+   "lists": [
+    [
+     "thrillbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "The Dubliner",
+   "hood": "Government Center",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3605,
+   "lng": -71.0605,
+   "note": "Also on the Restaurants page",
+   "lists": [
+    [
+     "babos",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "dive"
+  },
+  {
+   "name": "The Gallows",
+   "hood": "South End",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.341,
+   "lng": -71.0716,
+   "lists": [
+    [
+     "punchbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Haven",
+   "hood": "Jamaica Plain",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3184,
+   "lng": -71.1055,
+   "note": "Scottish pub",
+   "lists": [
+    [
+     "eaterbbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Hawthorne",
+   "hood": "Kenmore",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3489,
+   "lng": -71.0952,
+   "lists": [
+    [
+     "punchbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Lower Depths",
+   "hood": "Kenmore",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3489,
+   "lng": -71.0958,
+   "lists": [
+    [
+     "punchbeerbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Publick House",
+   "hood": "Washington Square",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3399,
+   "lng": -71.1373,
+   "lists": [
+    [
+     "punchbeerbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Red Fox",
+   "hood": "North End",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3654,
+   "lng": -71.0513,
+   "note": "Above Extra Dirty",
+   "lists": [
+    [
+     "cnt23bos",
+     5
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Tall Ship",
+   "hood": "East Boston",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.367,
+   "lng": -71.042,
+   "note": "Bar on a schooner",
+   "lists": [
+    [
+     "cnt23bos",
+     21
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Warren Tavern",
+   "hood": "Charlestown",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3782,
+   "lng": -71.0645,
+   "note": "Pouring since 1780",
+   "lists": [
+    [
+     "cnt23bos",
+     23
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Trina's Starlite Lounge",
+   "hood": "Inman Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3736,
+   "lng": -71.101,
+   "lists": [
+    [
+     "cnt23bos",
+     16
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Vera's",
+   "hood": "Union Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3798,
+   "lng": -71.0951,
+   "lists": [
+    [
+     "globebos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Wally's Cafe Jazz Club",
+   "hood": "South End",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3407,
+   "lng": -71.0822,
+   "note": "Live jazz since 1947 — Eater prints it Walley's",
+   "lists": [
+    [
+     "eaterbbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "West Bridge",
+   "hood": "Kendall Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.367,
+   "lng": -71.09,
+   "lists": [
+    [
+     "punchbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Widowmaker Taproom",
+   "hood": "Brighton",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3557,
+   "lng": -71.148,
+   "note": "Aatma cooks the kitchen",
+   "lists": [
+    [
+     "infatbrewbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brewery"
+  },
+  {
+   "name": "Winter Hill Brewing",
+   "hood": "Winter Hill",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3931,
+   "lng": -71.093,
+   "lists": [
+    [
+     "infatbrewbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brewery"
+  }
+ ],
+ "rlists": {
+  "nytbos": {
+   "cls": "plate r-nyt",
+   "mono": "NYT",
+   "tag": "TIMES",
+   "name": "New York Times Top 25 Restaurants in Boston",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "bibbos": {
+   "cls": "plate r-bib",
+   "mono": "BIB",
+   "tag": "MICHELIN",
+   "name": "Michelin Bib Gourmand, Boston",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "michbos": {
+   "cls": "plate r-mich",
+   "mono": "★",
+   "tag": "MICHELIN",
+   "name": "Michelin Starred Restaurants, Boston",
+   "year": "2026",
+   "ranked": true,
+   "starChip": true
+  },
+  "bosmag": {
+   "cls": "plate r-bosmag",
+   "mono": "BM",
+   "tag": "25 BEST",
+   "name": "Boston Magazine Top 25 Restaurants in Boston",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "eater38bos": {
+   "cls": "plate r-eater38",
+   "mono": "E38",
+   "tag": "EATER",
+   "name": "Eater's 38 Best Restaurants in Boston",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "cnt35bos": {
+   "cls": "plate r-cnt33",
+   "mono": "35",
+   "tag": "CN TRAV",
+   "name": "CN Traveller 35 Best Restaurants in Boston",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "infatbos": {
+   "cls": "plate r-infat25",
+   "mono": "25",
+   "tag": "INFAT",
+   "name": "The Infatuation's Top 25 Restaurants in Boston",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "beli25bos": {
+   "cls": "plate r-beli25",
+   "mono": "B25",
+   "tag": "BELI",
+   "name": "Beli Top 25 Restaurants in Boston",
+   "year": "2025",
+   "ranked": true,
+   "starChip": false
+  },
+  "nyt50bos": {
+   "cls": "plate r-nyt50",
+   "mono": "50",
+   "tag": "NYT USA",
+   "name": "NYT 50 Best Restaurants in America",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  }
+ },
+ "blists": {
+  "eaterbbos": {
+   "cls": "b-eater",
+   "mono": "E",
+   "tag": "BARS",
+   "name": "Eater Best Bars in Boston",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "cnnabbos": {
+   "cls": "b-cnna",
+   "mono": "CN",
+   "tag": "100 NA",
+   "name": "Condé Nast 100 Best Bars in North America",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "timeoutbos": {
+   "cls": "b-timeout",
+   "mono": "TO",
+   "tag": "TIMEOUT",
+   "name": "TimeOut 17 Best Bars in Boston Right Now",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "punchbos": {
+   "cls": "b-punch",
+   "mono": "P!",
+   "tag": "CKTL",
+   "name": "PUNCH Best Craft Cocktails in Boston",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "thrillbos": {
+   "cls": "b-thrill",
+   "mono": "TH",
+   "tag": "THRLLST",
+   "name": "Thrillist: Don't Leave Boston Without Trying These Bars",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false
+  },
+  "babos": {
+   "cls": "b-ba",
+   "mono": "BA",
+   "tag": "8 BEST",
+   "name": "Bon Appétit 8 Best Bars in Boston",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "cnt23bos": {
+   "cls": "b-cnt40",
+   "mono": "23",
+   "tag": "CN TRAV",
+   "name": "CN Traveller Best Bars in Boston",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "belibbos": {
+   "cls": "b-beli",
+   "mono": "B5",
+   "tag": "TOP 5",
+   "name": "Beli Top 5 Bars in Boston",
+   "year": "2025",
+   "ranked": true,
+   "starChip": false
+  },
+  "punchbeerbos": {
+   "cls": "b-punch",
+   "mono": "P!",
+   "tag": "BEER",
+   "name": "PUNCH Best Craft Beer Bars in Boston",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "infatbrewbos": {
+   "cls": "b-infat",
+   "mono": "IN",
+   "tag": "BREWERY",
+   "name": "The Infatuation Best Breweries in Boston",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false
+  },
+  "globebos": {
+   "cls": "b-globe",
+   "mono": "BG",
+   "tag": "GLOBE",
+   "name": "Boston Globe: 18 Top-Notch Cocktail and Wine Bars",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  }
+ }
+}

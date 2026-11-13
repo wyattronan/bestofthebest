@@ -1,0 +1,1403 @@
+{
+  "settings": {
+    "cadence": "weekly",
+    "user_agent": "BestOfTheBestBot/1.0 (+https://github.com/wyattronan/bestofthebest) personal list aggregator",
+    "request_delay_seconds": 4,
+    "respect_robots_txt": true,
+    "auto_apply": {
+      "closures": true,
+      "ranking_updates": true,
+      "list_membership": true,
+      "new_venues": "propose"
+    },
+    "notes": "Fill `url` for each list with the canonical page for THAT specific, pinned list. The scraper only updates the list whose identity matches below (same prestige/list year over year) — a publication's other, lesser lists are ignored."
+  },
+  "lists": {
+    "chicago": {
+      "restaurants": {
+        "eater38": {
+          "publication": "EATER",
+          "name": "Eater's 38 Best Restaurants in Chicago",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "eater-essentials",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "bacg": {
+          "publication": "CITY GDE",
+          "name": "Bon Appétit Chicago City Guide",
+          "year": "",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "cnt33": {
+          "publication": "CN TRAV",
+          "name": "CN Traveler 33 Best Restaurants in Chicago",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "cnna50": {
+          "publication": "50 NA",
+          "name": "Condé Nast 50 Best Restaurants in North America",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "infat25": {
+          "publication": "INFAT",
+          "name": "The Infatuation's Top 25 Best Restaurants in Chicago",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "jba": {
+          "publication": "BEARD",
+          "name": "Chicago James Beard Award Nominees",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "james-beard",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "beli25": {
+          "publication": "BELI",
+          "name": "Beli's Top 25",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "nyt": {
+          "publication": "TIMES",
+          "name": "New York Times Best Restaurants in Chicago Right Now",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "bib": {
+          "publication": "MICHELIN",
+          "name": "Michelin Bib Gourmand, Chicago",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "michelin",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "mich": {
+          "publication": "MICHELIN",
+          "name": "Michelin Starred Restaurants, Chicago",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "michelin",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "chimag50": {
+          "publication": "50 BEST",
+          "name": "Chicago Magazine's 50 Best Restaurants",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "wyattR": {
+          "publication": "TOP 14",
+          "name": "Wyatt's Top 14 Restaurants in Chicago",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "nyt50chi": {
+          "publication": "NYT USA",
+          "name": "NYT 50 Best Restaurants in America",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        }
+      },
+      "bars": {
+        "cnna": {
+          "publication": "100 NA",
+          "name": "Condé Nast World's 100 Best: North America",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "cnw": {
+          "publication": "WORLD",
+          "name": "Condé Nast World's 100 Best: World",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "punch": {
+          "publication": "CKTL",
+          "name": "PUNCH Best Chicago Cocktail Bars",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "ptav": {
+          "publication": "TAVERN",
+          "name": "PUNCH Chicago's Essential Taverns",
+          "year": "2024",
+          "ranked": false,
+          "track_kind": "eater-essentials",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "tiptop": {
+          "publication": "TIPTOP",
+          "name": "TipTop Proper Cocktails Chicago Travel Guide",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "eater": {
+          "publication": "EATER",
+          "name": "Eater Best Places to Drink Cocktails in Chicago",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "chimag": {
+          "publication": "20 BEST",
+          "name": "Chicago Magazine's 20 Best Cocktails",
+          "year": "2024",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "cnt40": {
+          "publication": "CN TRAV",
+          "name": "CN Traveler: Chicago's Best 40 Bars",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "infat": {
+          "publication": "GRT HITS",
+          "name": "The Infatuation Greatest Hits: 24 Best Bars",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "ba": {
+          "publication": "16 BEST",
+          "name": "Bon Appétit 16 Best Bars in Chicago",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "beli": {
+          "publication": "TOP 5",
+          "name": "Beli Top 5 Bars",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "esq": {
+          "publication": "BIG NITE",
+          "name": "Esquire: Big Night Out in Chicago",
+          "year": "2024",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "wyatt": {
+          "publication": "TOP 11",
+          "name": "Wyatt's Top 11 Bars in Chicago",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        }
+      }
+    },
+    "newyork": {
+      "restaurants": {
+        "cnna50ny": {
+          "publication": "50 NA",
+          "name": "Condé Nast 50 Best Restaurants in North America",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "cnwny": {
+          "publication": "WORLD",
+          "name": "Condé Nast 100 Best Restaurants in the World",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "nytny": {
+          "publication": "TIMES",
+          "name": "New York Times Top 25 Restaurants in New York City",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "eater38ny": {
+          "publication": "EATER",
+          "name": "Eater's 38 Best Restaurants in New York City",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "eater-essentials",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "cnt30ny": {
+          "publication": "CN TRAV",
+          "name": "CN Traveller 30 Best Restaurants in NYC",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "infatny": {
+          "publication": "INFAT",
+          "name": "The Infatuation's Top 25 Restaurants in NYC",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "bibny": {
+          "publication": "MICHELIN",
+          "name": "Michelin Bib Gourmand, New York",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "michelin",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "michny": {
+          "publication": "MICHELIN",
+          "name": "Michelin Starred Restaurants, New York",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "michelin",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "beli25ny": {
+          "publication": "BELI",
+          "name": "Beli Top 25 Restaurants in NYC",
+          "year": "2025",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "nyt50ny": {
+          "publication": "NYT USA",
+          "name": "NYT 50 Best Restaurants in America",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "jbny": {
+          "publication": "BEARD",
+          "name": "New York James Beard Award Nominees",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "james-beard",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        }
+      },
+      "bars": {
+        "cnnabny": {
+          "publication": "100 NA",
+          "name": "Condé Nast 100 Best Bars in North America",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "cnwbny": {
+          "publication": "WORLD",
+          "name": "Condé Nast 100 Best Bars in the World",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "eatercny": {
+          "publication": "CKTL",
+          "name": "Eater Best Cocktail Bars in NYC",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "eaterdny": {
+          "publication": "DIVE",
+          "name": "Eater Best Dive Bars in NYC",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "eaterwny": {
+          "publication": "WINE",
+          "name": "Eater Best NYC Places to Drink Wine",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "infatbny": {
+          "publication": "CKTL",
+          "name": "The Infatuation Best Cocktail Bars in NYC",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "timeoutny": {
+          "publication": "TIMEOUT",
+          "name": "TimeOut Best Bars in NYC Right Now",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "punchny": {
+          "publication": "DRINK",
+          "name": "PUNCH Where To Drink In NYC",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "cnt20ny": {
+          "publication": "DIVES",
+          "name": "CN Traveller 20 NYC Dive Bars",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "cnt33bny": {
+          "publication": "CN TRAV",
+          "name": "CN Traveller 33 Best Bars in NYC",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "bany": {
+          "publication": "11 BEST",
+          "name": "Bon Appétit 11 Best Bars in NYC Right Now",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "belibny": {
+          "publication": "TOP 14",
+          "name": "Beli Top 14 Cocktail Bars in NYC",
+          "year": "2025",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "jbbny": {
+          "publication": "BEARD",
+          "name": "New York James Beard Bar Award Nominees",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "james-beard",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        }
+      }
+    },
+    "washington": {
+      "restaurants": {
+        "eater38dc": {
+          "publication": "EATER",
+          "name": "Eater: The 38 Best Restaurants Around D.C.",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "eater-essentials",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "cnna50dc": {
+          "publication": "50 NA",
+          "name": "Condé Nast 50 Best Restaurants in North America",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "washdc": {
+          "publication": "WASHNGTN",
+          "name": "Washingtonian's Top 25 Restaurants in DC",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "nytdc": {
+          "publication": "TIMES",
+          "name": "New York Times 25 Best Restaurants in Washington, D.C., Right Now",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "infatdc": {
+          "publication": "VISIT DC",
+          "name": "The Infatuation: Where To Eat When You're Visiting DC",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "bibdc": {
+          "publication": "MICHELIN",
+          "name": "Michelin Bib Gourmand, Washington D.C.",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "michelin",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "michdc": {
+          "publication": "MICHELIN",
+          "name": "Michelin Starred Restaurants, Washington D.C.",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "michelin",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "beli25dc": {
+          "publication": "BELI",
+          "name": "Beli Top 25 Restaurants in DC",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "wyattRdc": {
+          "publication": "TOP 14",
+          "name": "Wyatt's Top 14 Restaurants in DC",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "nyt50dc": {
+          "publication": "NYT USA",
+          "name": "NYT 50 Best Restaurants in America",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "jbdc": {
+          "publication": "BEARD",
+          "name": "Washington, D.C. James Beard Award Nominees",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "james-beard",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        }
+      },
+      "bars": {
+        "cnnadc": {
+          "publication": "100 NA",
+          "name": "Condé Nast 100 Best Bars in North America",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "eaterdc": {
+          "publication": "EATER",
+          "name": "Eater Best Cocktail Bars in DC",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "timeout": {
+          "publication": "TIMEOUT",
+          "name": "TimeOut Best Bars in DC Right Now",
+          "year": "2025",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "infatbdc": {
+          "publication": "BEST BARS",
+          "name": "The Infatuation Best Bars in DC",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "belib5dc": {
+          "publication": "TOP 5",
+          "name": "Beli Top 5 Bars",
+          "year": "2025",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "wyattdc": {
+          "publication": "TOP 8",
+          "name": "Wyatt's Top 8 Bars in DC",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "jbbdc": {
+          "publication": "BEARD",
+          "name": "Washington, D.C. James Beard Bar Award Nominees",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "james-beard",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        }
+      }
+    },
+    "boston": {
+      "restaurants": {
+        "nytbos": {
+          "publication": "TIMES",
+          "name": "New York Times Top 25 Restaurants in Boston",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "bibbos": {
+          "publication": "MICHELIN",
+          "name": "Michelin Bib Gourmand, Boston",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "michelin",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "michbos": {
+          "publication": "MICHELIN",
+          "name": "Michelin Starred Restaurants, Boston",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "michelin",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "bosmag": {
+          "publication": "25 BEST",
+          "name": "Boston Magazine Top 25 Restaurants in Boston",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "eater38bos": {
+          "publication": "EATER",
+          "name": "Eater's 38 Best Restaurants in Boston",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "eater-essentials",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "cnt35bos": {
+          "publication": "CN TRAV",
+          "name": "CN Traveller 35 Best Restaurants in Boston",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "infatbos": {
+          "publication": "INFAT",
+          "name": "The Infatuation's Top 25 Restaurants in Boston",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "beli25bos": {
+          "publication": "BELI",
+          "name": "Beli Top 25 Restaurants in Boston",
+          "year": "2025",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "nyt50bos": {
+          "publication": "NYT USA",
+          "name": "NYT 50 Best Restaurants in America",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        }
+      },
+      "bars": {
+        "eaterbbos": {
+          "publication": "BARS",
+          "name": "Eater Best Bars in Boston",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "cnnabbos": {
+          "publication": "100 NA",
+          "name": "Condé Nast 100 Best Bars in North America",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "timeoutbos": {
+          "publication": "TIMEOUT",
+          "name": "TimeOut 17 Best Bars in Boston Right Now",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "punchbos": {
+          "publication": "CKTL",
+          "name": "PUNCH Best Craft Cocktails in Boston",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "thrillbos": {
+          "publication": "THRLLST",
+          "name": "Thrillist: Don't Leave Boston Without Trying These Bars",
+          "year": "2024",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "babos": {
+          "publication": "8 BEST",
+          "name": "Bon Appétit 8 Best Bars in Boston",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "cnt23bos": {
+          "publication": "CN TRAV",
+          "name": "CN Traveller Best Bars in Boston",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "belibbos": {
+          "publication": "TOP 5",
+          "name": "Beli Top 5 Bars in Boston",
+          "year": "2025",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "punchbeerbos": {
+          "publication": "BEER",
+          "name": "PUNCH Best Craft Beer Bars in Boston",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "infatbrewbos": {
+          "publication": "BREWERY",
+          "name": "The Infatuation Best Breweries in Boston",
+          "year": "2024",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "globebos": {
+          "publication": "GLOBE",
+          "name": "Boston Globe: 18 Top-Notch Cocktail and Wine Bars",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        }
+      }
+    },
+    "sanfrancisco": {
+      "restaurants": {
+        "nytsf": {
+          "publication": "TIMES",
+          "name": "NYT Best 25 Restaurants in San Francisco",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "cnna50sf": {
+          "publication": "50 NA",
+          "name": "Condé Nast 50 Best Restaurants in North America",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "cnwsf": {
+          "publication": "WORLD",
+          "name": "World's Best 100 Restaurants",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "resysf": {
+          "publication": "RESY",
+          "name": "Resy: Where in San Francisco You'll Want to Eat",
+          "year": "2025",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "bibsf": {
+          "publication": "MICHELIN",
+          "name": "Michelin Bib Gourmand, Bay Area",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "michelin",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "cnt38sf": {
+          "publication": "CN TRAV",
+          "name": "CN Traveler Best 38 Restaurants in SF",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "michsf": {
+          "publication": "MICHELIN",
+          "name": "Michelin Starred Restaurants, Bay Area",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "michelin",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "chron25sf": {
+          "publication": "CHRON",
+          "name": "SF Chronicle Top 25 Restaurants in the Bay Area",
+          "year": "2025",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "beli14sf": {
+          "publication": "BELI",
+          "name": "Beli's 14 Best Restaurants in SF",
+          "year": "2025",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "eater38sf": {
+          "publication": "EATER",
+          "name": "Eater Best 38 Restaurants in SF",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "eater-essentials",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "timeoutsf": {
+          "publication": "TIMEOUT",
+          "name": "TimeOut Best Restaurants in SF Right Now",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "infat25sf": {
+          "publication": "INFAT",
+          "name": "The Infatuation's Top 25 Best Restaurants in SF",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "jbsf": {
+          "publication": "BEARD",
+          "name": "San Francisco James Beard Award Nominees",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "james-beard",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "nyt50sf": {
+          "publication": "NYT USA",
+          "name": "NYT 50 Best Restaurants in America",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        }
+      },
+      "bars": {
+        "chronbsf": {
+          "publication": "CHRON",
+          "name": "SF Chronicle's Top Cocktail Bars in the Bay Area",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "cnt22bsf": {
+          "publication": "CN TRAV",
+          "name": "CN Traveller's Best 22 Bars in SF",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "infatbsf": {
+          "publication": "INFAT",
+          "name": "The Infatuation's Best Cocktail Bars in SF",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "punchsf": {
+          "publication": "PUNCH",
+          "name": "PUNCH: Where to Drink in SF",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "timeoutbsf": {
+          "publication": "TIMEOUT",
+          "name": "TimeOut SF Bars to Grab a Drink",
+          "year": "2025",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "ba9sf": {
+          "publication": "9 BEST",
+          "name": "Bon Appétit 9 Best Bars in SF and the Bay Area",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "eater15bsf": {
+          "publication": "CKTL",
+          "name": "Eater 15 Best Cocktail Bars in SF",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "infatwsf": {
+          "publication": "WINE",
+          "name": "The Infatuation's Best Wine Bars in SF",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "jbbsf": {
+          "publication": "BEARD",
+          "name": "San Francisco James Beard Bar Award Nominees",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "james-beard",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        }
+      }
+    },
+    "losangeles": {
+      "restaurants": {
+        "cnna50la": {
+          "publication": "50 NA",
+          "name": "Condé Nast 50 Best Restaurants in North America",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "beli25la": {
+          "publication": "BELI",
+          "name": "Beli Top 25 Restaurants in LA",
+          "year": "2025",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "eater38la": {
+          "publication": "EATER",
+          "name": "Eater's Top 38 Restaurants in LA",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "eater-essentials",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "bibla": {
+          "publication": "MICHELIN",
+          "name": "Michelin Bib Gourmand, Los Angeles",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "michelin",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "michla": {
+          "publication": "MICHELIN",
+          "name": "Michelin Starred Restaurants, Los Angeles",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "michelin",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "resyla": {
+          "publication": "RESY",
+          "name": "Resy LA Hit List",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "infat25la": {
+          "publication": "INFAT",
+          "name": "The Infatuation's 25 Best Restaurants in LA",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "nytla": {
+          "publication": "TIMES",
+          "name": "NYT 25 Best Restaurants in LA Right Now",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "timeoutla": {
+          "publication": "TIMEOUT",
+          "name": "TimeOut Best Restaurants in LA",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "latimesla": {
+          "publication": "LA TIMES",
+          "name": "LA Times 25 Best Restaurants in LA",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "cnt38la": {
+          "publication": "CN TRAV",
+          "name": "CN Traveler Best 38 Restaurants in LA",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "bala": {
+          "publication": "BON APP",
+          "name": "Bon Appétit: Where to Eat in Los Angeles Right Now",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "jbla": {
+          "publication": "BEARD",
+          "name": "Los Angeles James Beard Award Nominees",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "james-beard",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "nyt50la": {
+          "publication": "NYT USA",
+          "name": "NYT 50 Best Restaurants in America",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        }
+      },
+      "bars": {
+        "belibla": {
+          "publication": "TOP 5",
+          "name": "Beli Top 5 Bars in LA",
+          "year": "2025",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "timeoutbla": {
+          "publication": "TIMEOUT",
+          "name": "TimeOut Best Bars in LA",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "cnwbla": {
+          "publication": "WORLD",
+          "name": "Condé Nast World's Best 100 Bars",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "punchla": {
+          "publication": "CKTL",
+          "name": "PUNCH Best Craft Cocktail Bars in LA",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "punchwla": {
+          "publication": "WINE",
+          "name": "PUNCH Best Places to Drink Wine in LA",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "babla": {
+          "publication": "8 BEST",
+          "name": "Bon Appétit Best 8 Bars in LA",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "eatercla": {
+          "publication": "CKTL",
+          "name": "Eater Best Cocktail Bars in LA",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "eaterdla": {
+          "publication": "DIVE",
+          "name": "Eater Best Dive Bars in LA",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "infatbla": {
+          "publication": "INFAT",
+          "name": "The Infatuation Best Cocktail Bars in LA",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        },
+        "cnt25la": {
+          "publication": "CN TRAV",
+          "name": "Condé Nast Traveler's 25 Best Bars in Los Angeles",
+          "year": "2025",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true
+        }
+      }
+    }
+  }
+}

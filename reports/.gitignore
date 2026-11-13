@@ -1,0 +1,3 @@
+# generated weekly by scripts/update.py
+*.md
+!.gitkeep

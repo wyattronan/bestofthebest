@@ -1,0 +1,5951 @@
+{
+ "restos": [
+  {
+   "name": "Kato",
+   "hood": "Arts District",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 34.0335,
+   "lng": -118.234,
+   "tg": 1,
+   "note": "In the Row DTLA — also on the Bars page",
+   "pr": 4,
+   "lists": [
+    [
+     "cnna50la",
+     49
+    ],
+    [
+     "beli25la",
+     3
+    ],
+    [
+     "eater38la",
+     null
+    ],
+    [
+     "michla",
+     2
+    ],
+    [
+     "nytla",
+     null
+    ],
+    [
+     "timeoutla",
+     3
+    ],
+    [
+     "latimesla",
+     null
+    ],
+    [
+     "cnt38la",
+     null
+    ],
+    [
+     "jbla",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "tasting"
+  },
+  {
+   "name": "Dunsmoor",
+   "hood": "Glassell Park",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.112,
+   "lng": -118.2492,
+   "vg": 1,
+   "note": "Hearth cooking",
+   "pr": 3,
+   "lists": [
+    [
+     "beli25la",
+     11
+    ],
+    [
+     "eater38la",
+     null
+    ],
+    [
+     "infat25la",
+     5
+    ],
+    [
+     "nytla",
+     null
+    ],
+    [
+     "timeoutla",
+     30
+    ],
+    [
+     "latimesla",
+     null
+    ],
+    [
+     "cnt38la",
+     null
+    ],
+    [
+     "bala",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Holbox",
+   "hood": "Historic South Central",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 34.0176,
+   "lng": -118.2785,
+   "note": "Inside Mercado La Paloma",
+   "pr": 3,
+   "lists": [
+    [
+     "cnna50la",
+     26
+    ],
+    [
+     "beli25la",
+     9
+    ],
+    [
+     "eater38la",
+     null
+    ],
+    [
+     "michla",
+     1
+    ],
+    [
+     "infat25la",
+     2
+    ],
+    [
+     "nytla",
+     null
+    ],
+    [
+     "timeoutla",
+     9
+    ],
+    [
+     "jbla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Providence",
+   "hood": "Hollywood",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 34.0836,
+   "lng": -118.3378,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "cnna50la",
+     32
+    ],
+    [
+     "beli25la",
+     7
+    ],
+    [
+     "michla",
+     3
+    ],
+    [
+     "timeoutla",
+     4
+    ],
+    [
+     "latimesla",
+     null
+    ],
+    [
+     "cnt38la",
+     null
+    ],
+    [
+     "jbla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Anajak Thai",
+   "hood": "Sherman Oaks",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.1502,
+   "lng": -118.4576,
+   "vg": 1,
+   "note": "Thai Taco Tuesday",
+   "pr": 2,
+   "lists": [
+    [
+     "beli25la",
+     22
+    ],
+    [
+     "eater38la",
+     null
+    ],
+    [
+     "infat25la",
+     1
+    ],
+    [
+     "nytla",
+     null
+    ],
+    [
+     "timeoutla",
+     8
+    ],
+    [
+     "latimesla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Baroo",
+   "hood": "Arts District",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 34.0466,
+   "lng": -118.238,
+   "tg": 1,
+   "note": "Korean fermentation tasting",
+   "pr": 4,
+   "lists": [
+    [
+     "beli25la",
+     8
+    ],
+    [
+     "nytla",
+     null
+    ],
+    [
+     "timeoutla",
+     10
+    ],
+    [
+     "latimesla",
+     null
+    ],
+    [
+     "cnt38la",
+     null
+    ],
+    [
+     "jbla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "N/naka",
+   "hood": "Palms",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 34.0219,
+   "lng": -118.411,
+   "vg": 1,
+   "tg": 1,
+   "pr": 4,
+   "lists": [
+    [
+     "beli25la",
+     6
+    ],
+    [
+     "michla",
+     1
+    ],
+    [
+     "timeoutla",
+     1
+    ],
+    [
+     "latimesla",
+     null
+    ],
+    [
+     "cnt38la",
+     null
+    ],
+    [
+     "jbla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Bavel",
+   "hood": "Arts District",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 34.0405,
+   "lng": -118.2325,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "beli25la",
+     10
+    ],
+    [
+     "infat25la",
+     10
+    ],
+    [
+     "timeoutla",
+     5
+    ],
+    [
+     "latimesla",
+     null
+    ],
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Komal",
+   "hood": "Historic South Central",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 34.0176,
+   "lng": -118.2786,
+   "vg": 1,
+   "note": "Masa workshop at Mercado La Paloma",
+   "pr": 1,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ],
+    [
+     "bibla",
+     null
+    ],
+    [
+     "nytla",
+     null
+    ],
+    [
+     "bala",
+     null
+    ],
+    [
+     "jbla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Restaurant Ki",
+   "hood": "Little Tokyo",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 34.0501,
+   "lng": -118.2414,
+   "vg": 1,
+   "tg": 1,
+   "note": "Basement Korean tasting counter",
+   "pr": 4,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ],
+    [
+     "michla",
+     1
+    ],
+    [
+     "timeoutla",
+     15
+    ],
+    [
+     "latimesla",
+     null
+    ],
+    [
+     "jbla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Somni",
+   "hood": "West Hollywood",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 34.0857,
+   "lng": -118.3894,
+   "tg": 1,
+   "pr": 4,
+   "lists": [
+    [
+     "cnna50la",
+     46
+    ],
+    [
+     "beli25la",
+     1
+    ],
+    [
+     "michla",
+     3
+    ],
+    [
+     "infat25la",
+     4
+    ],
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Azizam",
+   "hood": "Silver Lake",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 34.0838,
+   "lng": -118.2738,
+   "vg": 1,
+   "note": "Persian home cooking",
+   "pr": 2,
+   "lists": [
+    [
+     "resyla",
+     5
+    ],
+    [
+     "nytla",
+     null
+    ],
+    [
+     "timeoutla",
+     31
+    ],
+    [
+     "latimesla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Hayato",
+   "hood": "Arts District",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 34.0339,
+   "lng": -118.2333,
+   "note": "Seven-seat kappo",
+   "pr": 3,
+   "lists": [
+    [
+     "beli25la",
+     2
+    ],
+    [
+     "michla",
+     2
+    ],
+    [
+     "timeoutla",
+     2
+    ],
+    [
+     "latimesla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Mori Nozomi",
+   "hood": "West LA",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 34.033,
+   "lng": -118.445,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ],
+    [
+     "michla",
+     1
+    ],
+    [
+     "nytla",
+     null
+    ],
+    [
+     "nyt50la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Quarter Sheets",
+   "hood": "Echo Park",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 34.0758,
+   "lng": -118.2544,
+   "vg": 1,
+   "note": "Detroit-style",
+   "pr": 1,
+   "lists": [
+    [
+     "bibla",
+     null
+    ],
+    [
+     "infat25la",
+     13
+    ],
+    [
+     "nytla",
+     null
+    ],
+    [
+     "latimesla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "RVR",
+   "hood": "Venice",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 33.993,
+   "lng": -118.473,
+   "vg": 1,
+   "note": "In the old Rose Café",
+   "pr": 3,
+   "lists": [
+    [
+     "nytla",
+     null
+    ],
+    [
+     "timeoutla",
+     13
+    ],
+    [
+     "bala",
+     null
+    ],
+    [
+     "nyt50la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "République",
+   "hood": "Hancock Park",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 34.0637,
+   "lng": -118.3442,
+   "vg": 1,
+   "note": "Also on the Bars page",
+   "pr": 3,
+   "lists": [
+    [
+     "nytla",
+     null
+    ],
+    [
+     "timeoutla",
+     14
+    ],
+    [
+     "latimesla",
+     null
+    ],
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "datenight"
+  },
+  {
+   "name": "Yang's Kitchen",
+   "hood": "Alhambra",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.093,
+   "lng": -118.129,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "infat25la",
+     16
+    ],
+    [
+     "nytla",
+     null
+    ],
+    [
+     "timeoutla",
+     32
+    ],
+    [
+     "bala",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "healthy"
+  },
+  {
+   "name": "Antico Nuovo",
+   "hood": "Larchmont",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 34.0759,
+   "lng": -118.309,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "infat25la",
+     9
+    ],
+    [
+     "nytla",
+     null
+    ],
+    [
+     "latimesla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Bistro Na's",
+   "hood": "Temple City",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.107,
+   "lng": -118.053,
+   "vg": 1,
+   "note": "Imperial Chinese",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ],
+    [
+     "infat25la",
+     3
+    ],
+    [
+     "timeoutla",
+     37
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Camélia",
+   "hood": "Arts District",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 34.046,
+   "lng": -118.235,
+   "vg": 1,
+   "note": "French-Japanese bistro",
+   "pr": 3,
+   "lists": [
+    [
+     "nytla",
+     null
+    ],
+    [
+     "timeoutla",
+     22
+    ],
+    [
+     "latimesla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Damian",
+   "hood": "Arts District",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 34.0334,
+   "lng": -118.2295,
+   "vg": 1,
+   "note": "Enrique Olvera",
+   "pr": 1,
+   "lists": [
+    [
+     "infat25la",
+     20
+    ],
+    [
+     "latimesla",
+     null
+    ],
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Jitlada",
+   "hood": "Thai Town",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.098,
+   "lng": -118.305,
+   "vg": 1,
+   "note": "Southern Thai",
+   "pr": 2,
+   "lists": [
+    [
+     "resyla",
+     20
+    ],
+    [
+     "timeoutla",
+     6
+    ],
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Moo's Craft BBQ",
+   "hood": "Lincoln Heights",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 34.07,
+   "lng": -118.213,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ],
+    [
+     "bibla",
+     null
+    ],
+    [
+     "infat25la",
+     12
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Morihiro",
+   "hood": "Atwater Village",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 34.118,
+   "lng": -118.261,
+   "pr": 3,
+   "lists": [
+    [
+     "infat25la",
+     22
+    ],
+    [
+     "nytla",
+     null
+    ],
+    [
+     "latimesla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Mélisse",
+   "hood": "Santa Monica",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 34.0248,
+   "lng": -118.49,
+   "vg": 1,
+   "tg": 1,
+   "pr": 4,
+   "lists": [
+    [
+     "beli25la",
+     16
+    ],
+    [
+     "michla",
+     2
+    ],
+    [
+     "latimesla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Osteria Mozza",
+   "hood": "Hancock Park",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 34.0837,
+   "lng": -118.3364,
+   "vg": 1,
+   "note": "Also on the Bars page",
+   "pr": 3,
+   "lists": [
+    [
+     "michla",
+     1
+    ],
+    [
+     "timeoutla",
+     11
+    ],
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "datenight"
+  },
+  {
+   "name": "Pizzeria Sei",
+   "hood": "Pico-Robertson",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 34.0553,
+   "lng": -118.3846,
+   "vg": 1,
+   "note": "Tokyo-Neapolitan",
+   "pr": 1,
+   "lists": [
+    [
+     "beli25la",
+     23
+    ],
+    [
+     "timeoutla",
+     34
+    ],
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Saffy's",
+   "hood": "East Hollywood",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 34.0946,
+   "lng": -118.295,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "beli25la",
+     24
+    ],
+    [
+     "infat25la",
+     24
+    ],
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Seline",
+   "hood": "Santa Monica",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 33.9978,
+   "lng": -118.4797,
+   "tg": 1,
+   "pr": 4,
+   "lists": [
+    [
+     "michla",
+     1
+    ],
+    [
+     "latimesla",
+     null
+    ],
+    [
+     "jbla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Si! Mon",
+   "hood": "Venice",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 33.9847,
+   "lng": -118.4703,
+   "vg": 1,
+   "note": "Coastal Latin American",
+   "pr": 1,
+   "lists": [
+    [
+     "beli25la",
+     21
+    ],
+    [
+     "eater38la",
+     null
+    ],
+    [
+     "infat25la",
+     17
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Sushi Kaneyoshi",
+   "hood": "Little Tokyo",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 34.05,
+   "lng": -118.241,
+   "note": "Basement omakase",
+   "pr": 3,
+   "lists": [
+    [
+     "michla",
+     1
+    ],
+    [
+     "timeoutla",
+     18
+    ],
+    [
+     "latimesla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Two Hommés",
+   "hood": "Inglewood",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 33.9748,
+   "lng": -118.3573,
+   "vg": 1,
+   "note": "Afro-Caribbean fusion",
+   "pr": 2,
+   "lists": [
+    [
+     "beli25la",
+     19
+    ],
+    [
+     "eater38la",
+     null
+    ],
+    [
+     "resyla",
+     17
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Baby Bistro",
+   "hood": "Chinatown",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 34.0656,
+   "lng": -118.247,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "nytla",
+     null
+    ],
+    [
+     "nyt50la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Berenjak",
+   "hood": "Arts District",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 34.0312,
+   "lng": -118.2298,
+   "vg": 1,
+   "note": "Persian",
+   "pr": 2,
+   "lists": [
+    [
+     "beli25la",
+     13
+    ],
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Chengdu Taste",
+   "hood": "Alhambra",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.079,
+   "lng": -118.144,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ],
+    [
+     "timeoutla",
+     40
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Cobi's",
+   "hood": "Santa Monica",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34,
+   "lng": -118.483,
+   "vg": 1,
+   "note": "Southeast Asian",
+   "pr": 2,
+   "lists": [
+    [
+     "beli25la",
+     14
+    ],
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Destroyer",
+   "hood": "Culver City",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0269,
+   "lng": -118.3843,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "latimesla",
+     null
+    ],
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Found Oyster",
+   "hood": "East Hollywood",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 34.0946,
+   "lng": -118.2937,
+   "pr": 3,
+   "lists": [
+    [
+     "infat25la",
+     6
+    ],
+    [
+     "nytla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Funke",
+   "hood": "Beverly Hills",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 34.067,
+   "lng": -118.399,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "timeoutla",
+     24
+    ],
+    [
+     "latimesla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Jon & Vinny's",
+   "hood": "Fairfax",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 34.0797,
+   "lng": -118.3614,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ],
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Langer's Delicatessen",
+   "hood": "Westlake",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 34.0565,
+   "lng": -118.274,
+   "note": "#19 pastrami",
+   "pr": 1,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ],
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Last",
+   "hood": "Los Angeles",
+   "type": "french",
+   "typekind": "cui",
+   "note": "Rotisserie & natural wine — location unverified",
+   "pr": 3,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ],
+    [
+     "nytla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Leo's Taco Truck",
+   "hood": "Mid-City",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 34.039,
+   "lng": -118.344,
+   "note": "Al pastor trompo",
+   "pr": 1,
+   "lists": [
+    [
+     "timeoutla",
+     19
+    ],
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Little Fish",
+   "hood": "Echo Park",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 34.0776,
+   "lng": -118.255,
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ],
+    [
+     "resyla",
+     3
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Lugya'h",
+   "hood": "West Adams",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 34.0258,
+   "lng": -118.3433,
+   "vg": 1,
+   "note": "Oaxacan tlayudas at Maydan Market",
+   "pr": 1,
+   "lists": [
+    [
+     "bibla",
+     null
+    ],
+    [
+     "nytla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Luv2Eat Thai Bistro",
+   "hood": "Hollywood",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.098,
+   "lng": -118.334,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "infat25la",
+     8
+    ],
+    [
+     "timeoutla",
+     35
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Orsa & Winston",
+   "hood": "Downtown",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 34.048,
+   "lng": -118.248,
+   "tg": 1,
+   "pr": 4,
+   "lists": [
+    [
+     "michla",
+     1
+    ],
+    [
+     "latimesla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Pasta|Bar",
+   "hood": "Encino",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 34.1587,
+   "lng": -118.5087,
+   "tg": 1,
+   "pr": 4,
+   "lists": [
+    [
+     "beli25la",
+     17
+    ],
+    [
+     "michla",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Perilla LA",
+   "hood": "Chinatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.0657,
+   "lng": -118.2469,
+   "vg": 1,
+   "note": "Korean dosirak",
+   "pr": 2,
+   "lists": [
+    [
+     "nytla",
+     null
+    ],
+    [
+     "latimesla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Petit Trois",
+   "hood": "Hollywood",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 34.084,
+   "lng": -118.338,
+   "pr": 3,
+   "lists": [
+    [
+     "timeoutla",
+     28
+    ],
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Pine & Crane",
+   "hood": "Silver Lake",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.0908,
+   "lng": -118.2802,
+   "vg": 1,
+   "note": "Taiwanese",
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ],
+    [
+     "nytla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Roasted Duck by Pa Ord",
+   "hood": "Thai Town",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.1017,
+   "lng": -118.3,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ],
+    [
+     "nytla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Soban",
+   "hood": "Koreatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.0521,
+   "lng": -118.3221,
+   "pr": 2,
+   "lists": [
+    [
+     "infat25la",
+     23
+    ],
+    [
+     "timeoutla",
+     7
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Sonoratown",
+   "hood": "Downtown",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 34.041,
+   "lng": -118.2521,
+   "note": "Flour tortillas from Sonora",
+   "pr": 1,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ],
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Sushi Sonagi",
+   "hood": "Gardena",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 33.873,
+   "lng": -118.3,
+   "pr": 3,
+   "lists": [
+    [
+     "infat25la",
+     11
+    ],
+    [
+     "timeoutla",
+     21
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Tacos Los Cholos",
+   "hood": "Anaheim",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 33.836,
+   "lng": -117.914,
+   "note": "Orange County",
+   "pr": 1,
+   "lists": [
+    [
+     "infat25la",
+     21
+    ],
+    [
+     "timeoutla",
+     16
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Vin Folk",
+   "hood": "Hermosa Beach",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 33.8646,
+   "lng": -118.4009,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ],
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "715",
+   "hood": "Los Angeles",
+   "type": "asian",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 2,
+   "lists": [
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "88 Club",
+   "hood": "Chinatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.063,
+   "lng": -118.238,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "A&J Seafood Shack",
+   "hood": "Los Angeles",
+   "type": "seafood",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 3,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Adana",
+   "hood": "Glendale",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 34.1755,
+   "lng": -118.29,
+   "vg": 1,
+   "note": "Armenian kebabs",
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Agen's Tijuana Tacos",
+   "hood": "Los Angeles",
+   "type": "mexican",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 1,
+   "lists": [
+    [
+     "beli25la",
+     25
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Alta Adams",
+   "hood": "West Adams",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 34.032,
+   "lng": -118.355,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Amiguita",
+   "hood": "Los Angeles",
+   "type": "mexican",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 1,
+   "lists": [
+    [
+     "resyla",
+     13
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Amor y Tacos",
+   "hood": "Cerritos",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 33.862,
+   "lng": -118.068,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "APL BBQ Pop Up",
+   "hood": "Los Angeles",
+   "type": "bbq",
+   "typekind": "cui",
+   "note": "Roving pop-up — not pinned on the map",
+   "pr": 2,
+   "lists": [
+    [
+     "beli25la",
+     12
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Apollonia's",
+   "hood": "Mid-Wilshire",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 34.062,
+   "lng": -118.348,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Badmaash Fairfax",
+   "hood": "Fairfax",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 34.08,
+   "lng": -118.3614,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Baja Subs",
+   "hood": "Northridge",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 34.235,
+   "lng": -118.53,
+   "vg": 1,
+   "note": "Market & deli",
+   "pr": 1,
+   "lists": [
+    [
+     "infat25la",
+     15
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Bar di Bello",
+   "hood": "Los Angeles",
+   "type": "italian",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 2,
+   "lists": [
+    [
+     "resyla",
+     2
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Bar Siesta",
+   "hood": "Silver Lake",
+   "type": "med",
+   "typekind": "cui",
+   "vg": 1,
+   "note": "Location unverified — not pinned on the map",
+   "pr": 2,
+   "lists": [
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Barbacoa Ramirez",
+   "hood": "Los Angeles",
+   "type": "mexican",
+   "typekind": "cui",
+   "note": "Weekend street stand — not pinned on the map",
+   "pr": 1,
+   "lists": [
+    [
+     "latimesla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Bell's",
+   "hood": "Los Alamos",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 34.7444,
+   "lng": -120.279,
+   "vg": 1,
+   "note": "Central Coast day trip",
+   "pr": 3,
+   "lists": [
+    [
+     "jbla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Bestia",
+   "hood": "Arts District",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 34.0335,
+   "lng": -118.2296,
+   "vg": 1,
+   "note": "Also on the Bars page",
+   "pr": 2,
+   "lists": [
+    [
+     "infat25la",
+     18
+    ]
+   ],
+   "dual": true,
+   "vb": "global"
+  },
+  {
+   "name": "Betsy",
+   "hood": "Los Angeles",
+   "type": "newam",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 3,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Boris Gogae",
+   "hood": "Los Angeles",
+   "type": "asian",
+   "typekind": "cui",
+   "note": "Korean fried chicken — location unverified",
+   "pr": 2,
+   "lists": [
+    [
+     "nytla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Brent's Deli",
+   "hood": "Northridge",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 34.228,
+   "lng": -118.561,
+   "pr": 2,
+   "lists": [
+    [
+     "infat25la",
+     19
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "Broken Spanish Comedor",
+   "hood": "Mar Vista",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 33.997,
+   "lng": -118.4323,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Café Telegrama",
+   "hood": "Hollywood",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 34.101,
+   "lng": -118.3265,
+   "note": "All-day café",
+   "pr": 2,
+   "lists": [
+    [
+     "bala",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Camphor",
+   "hood": "Arts District",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 34.045,
+   "lng": -118.237,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "timeoutla",
+     20
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Capo",
+   "hood": "Santa Monica",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 34.011,
+   "lng": -118.49,
+   "vg": 1,
+   "note": "Also on the Bars page",
+   "pr": 2,
+   "lists": [
+    [
+     "beli25la",
+     15
+    ]
+   ],
+   "dual": true,
+   "vb": "global"
+  },
+  {
+   "name": "Carlitos Gardel",
+   "hood": "Melrose",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 34.0837,
+   "lng": -118.362,
+   "note": "Argentine",
+   "pr": 4,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Carnes Asadas Pancho Lopez",
+   "hood": "Boyle Heights",
+   "type": "mexican",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 1,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Chainsaw",
+   "hood": "Los Angeles",
+   "type": "newam",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 3,
+   "lists": [
+    [
+     "bala",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Chi Spacca",
+   "hood": "Hancock Park",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 34.0836,
+   "lng": -118.3366,
+   "note": "Meat-centric Mozza sibling",
+   "pr": 4,
+   "lists": [
+    [
+     "timeoutla",
+     12
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "China",
+   "hood": "Los Angeles",
+   "type": "asian",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Citrin",
+   "hood": "Santa Monica",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 34.0248,
+   "lng": -118.4901,
+   "vg": 1,
+   "tg": 1,
+   "pr": 4,
+   "lists": [
+    [
+     "michla",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Colapasta",
+   "hood": "Santa Monica",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 34.018,
+   "lng": -118.493,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Coni Seafood",
+   "hood": "Inglewood",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 33.931,
+   "lng": -118.33,
+   "note": "Sinaloan",
+   "pr": 1,
+   "lists": [
+    [
+     "resyla",
+     19
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Corridor 109",
+   "hood": "Los Angeles",
+   "type": "tasting",
+   "typekind": "cui",
+   "tg": 1,
+   "note": "Location unverified — not pinned on the map",
+   "pr": 4,
+   "lists": [
+    [
+     "michla",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Cosetta",
+   "hood": "Los Angeles",
+   "type": "italian",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 2,
+   "lists": [
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Coucou",
+   "hood": "Los Angeles",
+   "type": "french",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 3,
+   "lists": [
+    [
+     "resyla",
+     15
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Courage Bagels",
+   "hood": "Virgil Village",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 34.084,
+   "lng": -118.287,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "infat25la",
+     25
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "Crossroads Kitchen",
+   "hood": "Beverly Grove",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0838,
+   "lng": -118.37,
+   "vg": 1,
+   "note": "Plant-based",
+   "pr": 3,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "healthy"
+  },
+  {
+   "name": "Dai Ho",
+   "hood": "Temple City",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.107,
+   "lng": -118.051,
+   "note": "Beef noodle soup",
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Dha Rae Oak",
+   "hood": "Koreatown",
+   "type": "asian",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Donna's",
+   "hood": "Echo Park",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 34.0779,
+   "lng": -118.256,
+   "vg": 1,
+   "note": "Red-sauce",
+   "pr": 2,
+   "lists": [
+    [
+     "timeoutla",
+     23
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Dudley Market",
+   "hood": "Venice",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 33.987,
+   "lng": -118.473,
+   "pr": 3,
+   "lists": [
+    [
+     "infat25la",
+     14
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Dulan's Soul Food Kitchen",
+   "hood": "Crenshaw",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 34.001,
+   "lng": -118.335,
+   "pr": 2,
+   "lists": [
+    [
+     "timeoutla",
+     29
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Escala",
+   "hood": "Koreatown",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 34.0637,
+   "lng": -118.294,
+   "vg": 1,
+   "note": "Korean-Colombian",
+   "pr": 1,
+   "lists": [
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Etra",
+   "hood": "Melrose Hill",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.083,
+   "lng": -118.296,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Evil Cooks",
+   "hood": "El Sereno",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 34.081,
+   "lng": -118.177,
+   "vg": 1,
+   "note": "Metal-themed taquería",
+   "pr": 1,
+   "lists": [
+    [
+     "resyla",
+     12
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Genwa Korean BBQ",
+   "hood": "Mid-Wilshire",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.062,
+   "lng": -118.345,
+   "pr": 2,
+   "lists": [
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Gjelina",
+   "hood": "Venice",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 33.9908,
+   "lng": -118.4658,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "infat25la",
+     7
+    ]
+   ],
+   "dual": false,
+   "vb": "healthy"
+  },
+  {
+   "name": "Gjusta",
+   "hood": "Venice",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 33.9946,
+   "lng": -118.47,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Goldburger Los Feliz",
+   "hood": "Los Feliz",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 34.105,
+   "lng": -118.2917,
+   "vg": 1,
+   "note": "Smashburgers",
+   "pr": 1,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Gra",
+   "hood": "Echo Park",
+   "type": "pizza",
+   "typekind": "cui",
+   "vg": 1,
+   "note": "Location unverified — not pinned on the map",
+   "pr": 1,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Guelaguetza",
+   "hood": "Koreatown",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 34.052,
+   "lng": -118.293,
+   "vg": 1,
+   "note": "Oaxacan",
+   "pr": 1,
+   "lists": [
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Hayama by WATAMI",
+   "hood": "Los Angeles",
+   "type": "japanese",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 3,
+   "lists": [
+    [
+     "resyla",
+     14
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Henry's Cuisine",
+   "hood": "Alhambra",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.088,
+   "lng": -118.129,
+   "vg": 1,
+   "note": "Cantonese",
+   "pr": 2,
+   "lists": [
+    [
+     "timeoutla",
+     39
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Hermon's",
+   "hood": "Los Angeles",
+   "type": "newam",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 3,
+   "lists": [
+    [
+     "resyla",
+     4
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Highly Likely",
+   "hood": "West Adams",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.025,
+   "lng": -118.339,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Hippo",
+   "hood": "Highland Park",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 34.114,
+   "lng": -118.185,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Holy Basil Market",
+   "hood": "Atwater Village",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.1171,
+   "lng": -118.2613,
+   "vg": 1,
+   "note": "Thai",
+   "pr": 2,
+   "lists": [
+    [
+     "nytla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "HomeState",
+   "hood": "Los Feliz",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 34.099,
+   "lng": -118.292,
+   "vg": 1,
+   "note": "Texas breakfast tacos",
+   "pr": 1,
+   "lists": [
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Howlin' Ray's",
+   "hood": "Chinatown",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 34.0614,
+   "lng": -118.239,
+   "note": "Nashville hot chicken",
+   "pr": 1,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "Ipoh Kopitiam",
+   "hood": "San Gabriel Valley",
+   "type": "asian",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Jones Hollywood",
+   "hood": "West Hollywood",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 34.0906,
+   "lng": -118.35,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Josephine",
+   "hood": "Los Angeles",
+   "type": "french",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 3,
+   "lists": [
+    [
+     "resyla",
+     8
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Joy",
+   "hood": "Highland Park",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.119,
+   "lng": -118.2,
+   "vg": 1,
+   "note": "Taiwanese",
+   "pr": 2,
+   "lists": [
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Jun Won Dak",
+   "hood": "Koreatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.0688,
+   "lng": -118.307,
+   "note": "Beli prints it as Jun Wok Dak",
+   "pr": 2,
+   "lists": [
+    [
+     "beli25la",
+     4
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Kali",
+   "hood": "Larchmont",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0836,
+   "lng": -118.311,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "michla",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "healthy"
+  },
+  {
+   "name": "Kismet",
+   "hood": "Los Feliz",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 34.0989,
+   "lng": -118.2925,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "healthy"
+  },
+  {
+   "name": "KOJIMA",
+   "hood": "Los Angeles",
+   "type": "japanese",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 3,
+   "lists": [
+    [
+     "michla",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "KTEAM BBQ",
+   "hood": "Koreatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.0546,
+   "lng": -118.2913,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Kuya Lord",
+   "hood": "Melrose Hill",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.0834,
+   "lng": -118.308,
+   "note": "Filipino",
+   "pr": 2,
+   "lists": [
+    [
+     "timeoutla",
+     27
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Lalibela",
+   "hood": "Little Ethiopia",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 34.053,
+   "lng": -118.365,
+   "vg": 1,
+   "note": "Ethiopian",
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "LaoXi Noodle House",
+   "hood": "Arcadia",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.103,
+   "lng": -118.053,
+   "note": "Shanxi knife-cut noodles",
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Lapaba",
+   "hood": "Los Angeles",
+   "type": "global",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Les Sisters'",
+   "hood": "Chatsworth",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 34.254,
+   "lng": -118.6008,
+   "note": "Creole & soul",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Lielle",
+   "hood": "Los Angeles",
+   "type": "tasting",
+   "typekind": "cui",
+   "tg": 1,
+   "note": "Location unverified — not pinned on the map",
+   "pr": 4,
+   "lists": [
+    [
+     "michla",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Little Fish Melrose Hill",
+   "hood": "Melrose Hill",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 34.0834,
+   "lng": -118.3,
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Liu's Cafe",
+   "hood": "Koreatown",
+   "type": "asian",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Longo Seafood",
+   "hood": "Rosemead",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.068,
+   "lng": -118.088,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Lucia",
+   "hood": "West Adams",
+   "type": "italian",
+   "typekind": "cui",
+   "vg": 1,
+   "note": "Location unverified — not pinned on the map",
+   "pr": 2,
+   "lists": [
+    [
+     "timeoutla",
+     25
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Lunasia",
+   "hood": "Alhambra",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.092,
+   "lng": -118.133,
+   "vg": 1,
+   "note": "Dim sum",
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Luscious Dumplings",
+   "hood": "San Gabriel",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.098,
+   "lng": -118.106,
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Lynx",
+   "hood": "Los Angeles",
+   "type": "global",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Maccheroni Republic",
+   "hood": "Downtown",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 34.053,
+   "lng": -118.245,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Macheen",
+   "hood": "Boyle Heights",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 34.0454,
+   "lng": -118.2042,
+   "vg": 1,
+   "note": "Breakfast burritos",
+   "pr": 1,
+   "lists": [
+    [
+     "nytla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Mae Malai",
+   "hood": "Thai Town",
+   "type": "asian",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Mariscos Jalisco",
+   "hood": "Boyle Heights",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 34.021,
+   "lng": -118.21,
+   "note": "Shrimp tacos dorados",
+   "pr": 1,
+   "lists": [
+    [
+     "timeoutla",
+     17
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Matū",
+   "hood": "Beverly Hills",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 34.064,
+   "lng": -118.399,
+   "note": "Wagyu",
+   "pr": 4,
+   "lists": [
+    [
+     "beli25la",
+     18
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Maydan Market",
+   "hood": "West Adams",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 34.0258,
+   "lng": -118.3433,
+   "vg": 1,
+   "note": "Food-hall sibling of D.C.'s Maydan",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "MDK Noodles",
+   "hood": "Koreatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.0637,
+   "lng": -118.298,
+   "note": "Myung Dong Kyoja",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Mercado La Paloma",
+   "hood": "Historic South Central",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 34.0176,
+   "lng": -118.2787,
+   "vg": 1,
+   "note": "The market itself — home to Holbox & Komal",
+   "pr": 1,
+   "lists": [
+    [
+     "latimesla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Meteora",
+   "hood": "Hollywood",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 34.0838,
+   "lng": -118.3372,
+   "tg": 1,
+   "note": "Primal fire cooking",
+   "pr": 4,
+   "lists": [
+    [
+     "michla",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Mini Kabob",
+   "hood": "Glendale",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 34.142,
+   "lng": -118.256,
+   "vg": 1,
+   "note": "Family-run Armenian",
+   "pr": 2,
+   "lists": [
+    [
+     "timeoutla",
+     36
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Mitsi",
+   "hood": "Los Angeles",
+   "type": "med",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 2,
+   "lists": [
+    [
+     "resyla",
+     6
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Miura",
+   "hood": "Los Angeles",
+   "type": "japanese",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 3,
+   "lists": [
+    [
+     "michla",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Mother Wolf",
+   "hood": "Hollywood",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 34.099,
+   "lng": -118.331,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "MUSE",
+   "hood": "Santa Monica Canyon",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 34.0284,
+   "lng": -118.519,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "beli25la",
+     5
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Nong Lá Cafe",
+   "hood": "Sawtelle",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.043,
+   "lng": -118.442,
+   "vg": 1,
+   "note": "Vietnamese",
+   "pr": 2,
+   "lists": [
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Nozawa Bar",
+   "hood": "Beverly Hills",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 34.069,
+   "lng": -118.399,
+   "pr": 3,
+   "lists": [
+    [
+     "michla",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Ototo",
+   "hood": "Echo Park",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 34.0779,
+   "lng": -118.2524,
+   "note": "Sake bar next to Tsubaki",
+   "pr": 3,
+   "lists": [
+    [
+     "resyla",
+     9
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Pann's",
+   "hood": "Westchester",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 33.977,
+   "lng": -118.37,
+   "note": "Googie diner since 1958",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Park's BBQ",
+   "hood": "Koreatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.0555,
+   "lng": -118.2917,
+   "pr": 2,
+   "lists": [
+    [
+     "timeoutla",
+     33
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "Pasjoli",
+   "hood": "Santa Monica",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 33.999,
+   "lng": -118.481,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Pho Ngoon",
+   "hood": "Los Angeles",
+   "type": "asian",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Pika Palace",
+   "hood": "Los Angeles",
+   "type": "global",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Pikunico",
+   "hood": "Arts District",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 34.033,
+   "lng": -118.234,
+   "note": "Karaage",
+   "pr": 3,
+   "lists": [
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Pizzana",
+   "hood": "Brentwood",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 34.053,
+   "lng": -118.465,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Pizzeria Bianco",
+   "hood": "Downtown",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 34.0335,
+   "lng": -118.233,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Pizzeria Mozza",
+   "hood": "Hancock Park",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 34.0837,
+   "lng": -118.3382,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Pollo a la Brasa",
+   "hood": "Koreatown",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 34.058,
+   "lng": -118.309,
+   "note": "Wood-fired Peruvian chicken",
+   "pr": 1,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "RasaRumah",
+   "hood": "HiFi",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.0721,
+   "lng": -118.2824,
+   "vg": 1,
+   "note": "Malaysian — Bib prints it Rasurumah",
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Redbird",
+   "hood": "Downtown",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.051,
+   "lng": -118.244,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Rocio's Mexican Kitchen",
+   "hood": "Bell Gardens",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 33.966,
+   "lng": -118.155,
+   "vg": 1,
+   "note": "Mole",
+   "pr": 1,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Ronan",
+   "hood": "Melrose",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 34.0837,
+   "lng": -118.354,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Rossoblu",
+   "hood": "Fashion District",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 34.033,
+   "lng": -118.256,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "San and Wolves",
+   "hood": "Los Angeles",
+   "type": "bakery",
+   "typekind": "cui",
+   "note": "Filipino bakeshop — location unverified",
+   "pr": 1,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "San Damián",
+   "hood": "Venice",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 33.9923,
+   "lng": -118.4718,
+   "vg": 1,
+   "note": "Resy prints it San Damien",
+   "pr": 1,
+   "lists": [
+    [
+     "resyla",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Sea Harbour",
+   "hood": "Rosemead",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.064,
+   "lng": -118.073,
+   "vg": 1,
+   "note": "Dim sum",
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Seedy",
+   "hood": "Los Angeles",
+   "type": "newam",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 3,
+   "lists": [
+    [
+     "resyla",
+     7
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Shin Sushi",
+   "hood": "Encino",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 34.158,
+   "lng": -118.5,
+   "pr": 3,
+   "lists": [
+    [
+     "michla",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Sichuan Impression",
+   "hood": "Alhambra",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.079,
+   "lng": -118.155,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Soowon Galbi",
+   "hood": "Koreatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.057,
+   "lng": -118.292,
+   "pr": 2,
+   "lists": [
+    [
+     "beli25la",
+     20
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Sqirl",
+   "hood": "Virgil Village",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 34.0838,
+   "lng": -118.287,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "resyla",
+     10
+    ]
+   ],
+   "dual": false,
+   "vb": "healthy"
+  },
+  {
+   "name": "Stir Crazy",
+   "hood": "Los Angeles",
+   "type": "classics",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 2,
+   "lists": [
+    [
+     "resyla",
+     18
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Sushi Gen",
+   "hood": "Little Tokyo",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 34.047,
+   "lng": -118.2395,
+   "pr": 3,
+   "lists": [
+    [
+     "timeoutla",
+     38
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Sushi Inaba",
+   "hood": "Torrance",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 33.838,
+   "lng": -118.352,
+   "pr": 3,
+   "lists": [
+    [
+     "michla",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Taqueria Frontera",
+   "hood": "Cypress Park",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 34.093,
+   "lng": -118.226,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Tev's & Family Kitchen",
+   "hood": "Los Angeles",
+   "type": "global",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "The Factory Kitchen",
+   "hood": "Arts District",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 34.033,
+   "lng": -118.23,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "The Tower Bar",
+   "hood": "West Hollywood",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.094,
+   "lng": -118.374,
+   "vg": 1,
+   "note": "Sunset Tower Hotel — also on the Bars page",
+   "pr": 3,
+   "lists": [
+    [
+     "resyla",
+     16
+    ]
+   ],
+   "dual": true,
+   "vb": "datenight"
+  },
+  {
+   "name": "Tito's Tacos",
+   "hood": "Culver City",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 34.011,
+   "lng": -118.408,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "cnt38la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Tomat",
+   "hood": "Westchester",
+   "type": "newam",
+   "typekind": "cui",
+   "vg": 1,
+   "note": "Location unverified — not pinned on the map",
+   "pr": 3,
+   "lists": [
+    [
+     "timeoutla",
+     26
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Tsubaki",
+   "hood": "Echo Park",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 34.0779,
+   "lng": -118.2523,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Union",
+   "hood": "Pasadena",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 34.146,
+   "lng": -118.149,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Vespertine",
+   "hood": "Culver City",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 34.027,
+   "lng": -118.3849,
+   "tg": 1,
+   "pr": 4,
+   "lists": [
+    [
+     "michla",
+     2
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Villa's Tacos",
+   "hood": "Highland Park",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 34.111,
+   "lng": -118.192,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "bibla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Wilde's",
+   "hood": "Los Angeles",
+   "type": "newam",
+   "typekind": "cui",
+   "note": "Location unverified — not pinned on the map",
+   "pr": 3,
+   "lists": [
+    [
+     "resyla",
+     11
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  }
+ ],
+ "bars": [
+  {
+   "name": "Death & Co LA",
+   "hood": "Arts District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.045,
+   "lng": -118.238,
+   "lists": [
+    [
+     "belibla",
+     4
+    ],
+    [
+     "timeoutbla",
+     11
+    ],
+    [
+     "babla",
+     null
+    ],
+    [
+     "eatercla",
+     null
+    ],
+    [
+     "infatbla",
+     null
+    ],
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bar Next Door",
+   "hood": "Los Angeles",
+   "type": "m",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "belibla",
+     5
+    ],
+    [
+     "babla",
+     null
+    ],
+    [
+     "eatercla",
+     null
+    ],
+    [
+     "infatbla",
+     null
+    ],
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Capri Club",
+   "hood": "Eagle Rock",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.1394,
+   "lng": -118.2246,
+   "note": "Aperitivo",
+   "lists": [
+    [
+     "belibla",
+     1
+    ],
+    [
+     "timeoutbla",
+     17
+    ],
+    [
+     "babla",
+     null
+    ],
+    [
+     "eatercla",
+     null
+    ],
+    [
+     "infatbla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Mirate",
+   "hood": "Los Feliz",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.1,
+   "lng": -118.2917,
+   "note": "Agave-first",
+   "lists": [
+    [
+     "timeoutbla",
+     1
+    ],
+    [
+     "cnwbla",
+     28
+    ],
+    [
+     "babla",
+     null
+    ],
+    [
+     "eatercla",
+     null
+    ],
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Thunderbolt",
+   "hood": "HiFi",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.067,
+   "lng": -118.257,
+   "lists": [
+    [
+     "timeoutbla",
+     7
+    ],
+    [
+     "cnwbla",
+     92
+    ],
+    [
+     "eatercla",
+     null
+    ],
+    [
+     "infatbla",
+     null
+    ],
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Tiki-Ti",
+   "hood": "Los Feliz",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.097,
+   "lng": -118.283,
+   "note": "Three seats deep since 1961",
+   "lists": [
+    [
+     "punchla",
+     null
+    ],
+    [
+     "eatercla",
+     null
+    ],
+    [
+     "eaterdla",
+     null
+    ],
+    [
+     "infatbla",
+     null
+    ],
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "tiki"
+  },
+  {
+   "name": "Accomplice Bar",
+   "hood": "Mar Vista",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.001,
+   "lng": -118.431,
+   "lists": [
+    [
+     "timeoutbla",
+     6
+    ],
+    [
+     "eatercla",
+     null
+    ],
+    [
+     "infatbla",
+     null
+    ],
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Apotheke",
+   "hood": "Chinatown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.062,
+   "lng": -118.24,
+   "lists": [
+    [
+     "timeoutbla",
+     13
+    ],
+    [
+     "infatbla",
+     null
+    ],
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Big Bar",
+   "hood": "Los Feliz",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.107,
+   "lng": -118.287,
+   "lists": [
+    [
+     "timeoutbla",
+     15
+    ],
+    [
+     "eatercla",
+     null
+    ],
+    [
+     "infatbla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Dante Beverly Hills",
+   "hood": "Beverly Hills",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.07,
+   "lng": -118.4,
+   "note": "At the Maybourne",
+   "lists": [
+    [
+     "timeoutbla",
+     5
+    ],
+    [
+     "babla",
+     null
+    ],
+    [
+     "eatercla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Wolves",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.047,
+   "lng": -118.251,
+   "lists": [
+    [
+     "timeoutbla",
+     20
+    ],
+    [
+     "eatercla",
+     null
+    ],
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Baby Gee",
+   "hood": "Long Beach",
+   "type": "m",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "eatercla",
+     null
+    ],
+    [
+     "infatbla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bar Benjamin",
+   "hood": "Los Angeles",
+   "type": "m",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "timeoutbla",
+     9
+    ],
+    [
+     "infatbla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bar Covell",
+   "hood": "Los Feliz",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.099,
+   "lng": -118.292,
+   "lists": [
+    [
+     "punchwla",
+     null
+    ],
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Bar Flores",
+   "hood": "Echo Park",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.078,
+   "lng": -118.257,
+   "lists": [
+    [
+     "eatercla",
+     null
+    ],
+    [
+     "infatbla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Everson Royce Bar",
+   "hood": "Arts District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0335,
+   "lng": -118.231,
+   "lists": [
+    [
+     "timeoutbla",
+     3
+    ],
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Good Neighbor Bar",
+   "hood": "Los Angeles",
+   "type": "m",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "eatercla",
+     null
+    ],
+    [
+     "infatbla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Kato",
+   "hood": "Arts District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0335,
+   "lng": -118.234,
+   "note": "Also on the Restaurants page",
+   "lists": [
+    [
+     "babla",
+     null
+    ],
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "mixo"
+  },
+  {
+   "name": "Night on Earth",
+   "hood": "Los Angeles",
+   "type": "m",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "timeoutbla",
+     8
+    ],
+    [
+     "infatbla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Let's Go! Disco & Cocktail Club",
+   "hood": "Los Angeles",
+   "type": "m",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "timeoutbla",
+     19
+    ],
+    [
+     "eatercla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "The Normandie Club",
+   "hood": "Koreatown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.064,
+   "lng": -118.301,
+   "lists": [
+    [
+     "eatercla",
+     null
+    ],
+    [
+     "infatbla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Roger Room",
+   "hood": "West Hollywood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.079,
+   "lng": -118.376,
+   "lists": [
+    [
+     "timeoutbla",
+     4
+    ],
+    [
+     "infatbla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Tokyo Noir",
+   "hood": "Los Angeles",
+   "type": "m",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "timeoutbla",
+     10
+    ],
+    [
+     "eatercla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Vandell",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "timeoutbla",
+     2
+    ],
+    [
+     "cnwbla",
+     68
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "1886 Bar at the Raymond",
+   "hood": "Pasadena",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.133,
+   "lng": -118.15,
+   "lists": [
+    [
+     "eatercla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "a.o.c.",
+   "hood": "Beverly Grove",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.073,
+   "lng": -118.381,
+   "lists": [
+    [
+     "punchwla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "All Season Brewing",
+   "hood": "Mid-Wilshire",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 34.057,
+   "lng": -118.344,
+   "note": "In the old Firestone garage",
+   "lists": [
+    [
+     "timeoutbla",
+     21
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Andys",
+   "hood": "Los Angeles",
+   "type": "m",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "belibla",
+     2
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bar at Chateau Marmont",
+   "hood": "West Hollywood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.098,
+   "lng": -118.368,
+   "lists": [
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Bar Bandini",
+   "hood": "Echo Park",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.0776,
+   "lng": -118.26,
+   "lists": [
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Bar Jackalope",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.046,
+   "lng": -118.256,
+   "note": "Whiskey den inside Seven Grand",
+   "lists": [
+    [
+     "punchla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bar Stella",
+   "hood": "Silver Lake",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.091,
+   "lng": -118.283,
+   "lists": [
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Bar Toni's",
+   "hood": "Los Angeles",
+   "type": "m",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "punchla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bestia",
+   "hood": "Arts District",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.0335,
+   "lng": -118.2296,
+   "note": "Also on the Restaurants page",
+   "lists": [
+    [
+     "punchwla",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "wine"
+  },
+  {
+   "name": "Broken Shaker Los Angeles",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.045,
+   "lng": -118.256,
+   "note": "Freehand rooftop",
+   "lists": [
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Cana Rum Bar",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.043,
+   "lng": -118.264,
+   "lists": [
+    [
+     "punchla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Capo",
+   "hood": "Santa Monica",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.011,
+   "lng": -118.49,
+   "note": "Also on the Restaurants page",
+   "lists": [
+    [
+     "punchwla",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "wine"
+  },
+  {
+   "name": "Copper Bucket",
+   "hood": "Los Angeles",
+   "type": "b",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "eaterdla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Cozy Inn",
+   "hood": "Culver City",
+   "type": "b",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "eaterdla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Daisy Margarita Bar",
+   "hood": "Highland Park",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.113,
+   "lng": -118.187,
+   "lists": [
+    [
+     "cnwbla",
+     44
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Dama",
+   "hood": "Fashion District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.033,
+   "lng": -118.253,
+   "lists": [
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Dan Sung Sa",
+   "hood": "Koreatown",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 34.0637,
+   "lng": -118.3,
+   "note": "Pojangmacha",
+   "lists": [
+    [
+     "timeoutbla",
+     14
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "Del Monte Speakeasy",
+   "hood": "Venice",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.987,
+   "lng": -118.473,
+   "note": "Basement of Townhouse, since 1915",
+   "lists": [
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "Drawing Room",
+   "hood": "Los Feliz",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 34.105,
+   "lng": -118.287,
+   "lists": [
+    [
+     "eaterdla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Employees Only",
+   "hood": "West Hollywood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0906,
+   "lng": -118.362,
+   "lists": [
+    [
+     "eatercla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Ercoles",
+   "hood": "Manhattan Beach",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 33.888,
+   "lng": -118.411,
+   "note": "Since 1927",
+   "lists": [
+    [
+     "eaterdla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Esters Wine Shop & Bar",
+   "hood": "Santa Monica",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.017,
+   "lng": -118.496,
+   "lists": [
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Footsie's",
+   "hood": "Cypress Park",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 34.094,
+   "lng": -118.223,
+   "lists": [
+    [
+     "eaterdla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Frank'n Hank",
+   "hood": "Koreatown",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 34.064,
+   "lng": -118.309,
+   "lists": [
+    [
+     "eaterdla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Good Housekeeping",
+   "hood": "Los Angeles",
+   "type": "m",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "infatbla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Gracias Madre",
+   "hood": "West Hollywood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.082,
+   "lng": -118.386,
+   "lists": [
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Harvard & Stone",
+   "hood": "Thai Town",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.101,
+   "lng": -118.304,
+   "lists": [
+    [
+     "punchla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Hinano Cafe",
+   "hood": "Venice",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 33.98,
+   "lng": -118.466,
+   "note": "Sawdust floors since 1962",
+   "lists": [
+    [
+     "eaterdla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "HMS Bounty",
+   "hood": "Koreatown",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 34.0617,
+   "lng": -118.296,
+   "note": "Nautical since 1962",
+   "lists": [
+    [
+     "eaterdla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Honeycutt",
+   "hood": "Los Angeles",
+   "type": "m",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "punchla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Joe Jost's",
+   "hood": "Long Beach",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 33.783,
+   "lng": -118.156,
+   "note": "Pickled eggs since 1924",
+   "lists": [
+    [
+     "eaterdla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Kuduowl",
+   "hood": "Los Angeles",
+   "type": "m",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "eatercla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Marvin",
+   "hood": "Beverly Grove",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.076,
+   "lng": -118.345,
+   "lists": [
+    [
+     "punchwla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Melrose Umbrella Co.",
+   "hood": "Melrose",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0837,
+   "lng": -118.353,
+   "lists": [
+    [
+     "timeoutbla",
+     16
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Mezcal Bar at Laurel Hardware",
+   "hood": "West Hollywood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0906,
+   "lng": -118.363,
+   "lists": [
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Musso and Frank Grill",
+   "hood": "Hollywood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.1016,
+   "lng": -118.335,
+   "note": "Martinis since 1919",
+   "lists": [
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Old Lightning",
+   "hood": "Marina del Rey",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.993,
+   "lng": -118.453,
+   "note": "Rare-spirits vault inside Scopa",
+   "lists": [
+    [
+     "babla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Osteria Mozza",
+   "hood": "Hancock Park",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.0837,
+   "lng": -118.3364,
+   "note": "Also on the Restaurants page",
+   "lists": [
+    [
+     "punchwla",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "wine"
+  },
+  {
+   "name": "OyBar",
+   "hood": "Los Angeles",
+   "type": "b",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "eaterdla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Permanent Records Roadhouse",
+   "hood": "Cypress Park",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 34.093,
+   "lng": -118.228,
+   "lists": [
+    [
+     "eaterdla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Power House Bar",
+   "hood": "Hollywood",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 34.101,
+   "lng": -118.339,
+   "lists": [
+    [
+     "eaterdla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "Prince O' Whales",
+   "hood": "Playa del Rey",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 33.962,
+   "lng": -118.448,
+   "lists": [
+    [
+     "eaterdla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Real Charmer",
+   "hood": "Los Angeles",
+   "type": "m",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "infatbla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Reno Room",
+   "hood": "Long Beach",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 33.769,
+   "lng": -118.165,
+   "lists": [
+    [
+     "eaterdla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "République",
+   "hood": "Hancock Park",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.0637,
+   "lng": -118.3442,
+   "note": "Also on the Restaurants page",
+   "lists": [
+    [
+     "punchwla",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "dive"
+  },
+  {
+   "name": "Salt's Cure",
+   "hood": "Hollywood",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.09,
+   "lng": -118.338,
+   "lists": [
+    [
+     "punchwla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Scopa Italian Roots",
+   "hood": "Marina del Rey",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.993,
+   "lng": -118.453,
+   "lists": [
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Shim Sham",
+   "hood": "Los Angeles",
+   "type": "m",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "timeoutbla",
+     12
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "Sonny's Hideaway",
+   "hood": "Highland Park",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.119,
+   "lng": -118.199,
+   "lists": [
+    [
+     "punchla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Spago",
+   "hood": "Beverly Hills",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.068,
+   "lng": -118.399,
+   "lists": [
+    [
+     "punchwla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Steep After Dark",
+   "hood": "Chinatown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.062,
+   "lng": -118.238,
+   "note": "Tea-cocktail bar",
+   "lists": [
+    [
+     "eatercla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "Terroni",
+   "hood": "Beverly Grove",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.076,
+   "lng": -118.353,
+   "lists": [
+    [
+     "punchwla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "The Bamboo Club",
+   "hood": "Los Angeles",
+   "type": "m",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "timeoutbla",
+     22
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Bayou",
+   "hood": "Los Angeles",
+   "type": "b",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "eaterdla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Black Cat",
+   "hood": "Silver Lake",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.091,
+   "lng": -118.282,
+   "note": "Site of the 1967 protests",
+   "lists": [
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Blue Room",
+   "hood": "Burbank",
+   "type": "b",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "eaterdla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Chestnut Club",
+   "hood": "Santa Monica",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.027,
+   "lng": -118.479,
+   "lists": [
+    [
+     "punchla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Living Room",
+   "hood": "Los Angeles",
+   "type": "b",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "eaterdla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Lucky Tiki",
+   "hood": "Mission Hills",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.257,
+   "lng": -118.467,
+   "lists": [
+    [
+     "belibla",
+     3
+    ]
+   ],
+   "dual": false,
+   "vb": "tiki"
+  },
+  {
+   "name": "The Mermaid",
+   "hood": "Los Angeles",
+   "type": "b",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "eaterdla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Spare Room",
+   "hood": "Hollywood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.101,
+   "lng": -118.341,
+   "note": "Bowling lanes at the Roosevelt",
+   "lists": [
+    [
+     "punchla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Tasting Kitchen",
+   "hood": "Venice",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 33.989,
+   "lng": -118.463,
+   "lists": [
+    [
+     "punchwla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "The Tower Bar",
+   "hood": "West Hollywood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.094,
+   "lng": -118.374,
+   "note": "Also on the Restaurants page",
+   "lists": [
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Varnish",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.045,
+   "lng": -118.248,
+   "note": "Back room of Cole's",
+   "lists": [
+    [
+     "punchla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Virgil",
+   "hood": "East Hollywood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.09,
+   "lng": -118.287,
+   "lists": [
+    [
+     "cnt25la",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Walker Inn",
+   "hood": "Koreatown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.064,
+   "lng": -118.301,
+   "note": "Omakase cocktails behind the Normandie Club",
+   "lists": [
+    [
+     "punchla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Tiny's Hi-Dive",
+   "hood": "Los Angeles",
+   "type": "b",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "eaterdla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Tonga Hut",
+   "hood": "North Hollywood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.187,
+   "lng": -118.413,
+   "note": "Oldest tiki bar in LA",
+   "lists": [
+    [
+     "eatercla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "tiki"
+  },
+  {
+   "name": "Trois Mec",
+   "hood": "Hollywood",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.0838,
+   "lng": -118.3383,
+   "lists": [
+    [
+     "punchwla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Walt's Bar",
+   "hood": "Eagle Rock",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 34.14,
+   "lng": -118.223,
+   "note": "Pinball",
+   "lists": [
+    [
+     "timeoutbla",
+     18
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Wolf & Crane Bar",
+   "hood": "Little Tokyo",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0475,
+   "lng": -118.24,
+   "lists": [
+    [
+     "eatercla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Ye Rustic Inn",
+   "hood": "Los Feliz",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 34.106,
+   "lng": -118.287,
+   "lists": [
+    [
+     "eaterdla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  }
+ ],
+ "rlists": {
+  "cnna50la": {
+   "cls": "plate r-cnna50",
+   "mono": "CN",
+   "tag": "50 NA",
+   "name": "Condé Nast 50 Best Restaurants in North America",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "beli25la": {
+   "cls": "plate r-beli25",
+   "mono": "B25",
+   "tag": "BELI",
+   "name": "Beli Top 25 Restaurants in LA",
+   "year": "2025",
+   "ranked": true,
+   "starChip": false
+  },
+  "eater38la": {
+   "cls": "plate r-eater38",
+   "mono": "E38",
+   "tag": "EATER",
+   "name": "Eater's Top 38 Restaurants in LA",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "bibla": {
+   "cls": "plate r-bib",
+   "mono": "BIB",
+   "tag": "MICHELIN",
+   "name": "Michelin Bib Gourmand, Los Angeles",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "michla": {
+   "cls": "plate r-mich",
+   "mono": "★",
+   "tag": "MICHELIN",
+   "name": "Michelin Starred Restaurants, Los Angeles",
+   "year": "2026",
+   "ranked": true,
+   "starChip": true
+  },
+  "resyla": {
+   "cls": "plate r-resy",
+   "mono": "R",
+   "tag": "RESY",
+   "name": "Resy LA Hit List",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "infat25la": {
+   "cls": "plate r-infat25",
+   "mono": "25",
+   "tag": "INFAT",
+   "name": "The Infatuation's 25 Best Restaurants in LA",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "nytla": {
+   "cls": "plate r-nyt",
+   "mono": "NYT",
+   "tag": "TIMES",
+   "name": "NYT 25 Best Restaurants in LA Right Now",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "timeoutla": {
+   "cls": "plate r-timeout",
+   "mono": "TO",
+   "tag": "TIMEOUT",
+   "name": "TimeOut Best Restaurants in LA",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "latimesla": {
+   "cls": "plate r-latimes",
+   "mono": "LAT",
+   "tag": "LA TIMES",
+   "name": "LA Times 25 Best Restaurants in LA",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "cnt38la": {
+   "cls": "plate r-cnt33",
+   "mono": "38",
+   "tag": "CN TRAV",
+   "name": "CN Traveler Best 38 Restaurants in LA",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "bala": {
+   "cls": "plate r-bacg",
+   "mono": "BA",
+   "tag": "BON APP",
+   "name": "Bon Appétit: Where to Eat in Los Angeles Right Now",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "jbla": {
+   "cls": "plate r-jba",
+   "mono": "JB",
+   "tag": "BEARD",
+   "name": "Los Angeles James Beard Award Nominees",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "nyt50la": {
+   "cls": "plate r-nyt50",
+   "mono": "50",
+   "tag": "NYT USA",
+   "name": "NYT 50 Best Restaurants in America",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  }
+ },
+ "blists": {
+  "belibla": {
+   "cls": "b-beli",
+   "mono": "B5",
+   "tag": "TOP 5",
+   "name": "Beli Top 5 Bars in LA",
+   "year": "2025",
+   "ranked": true,
+   "starChip": false
+  },
+  "timeoutbla": {
+   "cls": "b-timeout",
+   "mono": "TO",
+   "tag": "TIMEOUT",
+   "name": "TimeOut Best Bars in LA",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "cnwbla": {
+   "cls": "b-cnw",
+   "mono": "CN",
+   "tag": "WORLD",
+   "name": "Condé Nast World's Best 100 Bars",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "punchla": {
+   "cls": "b-punch",
+   "mono": "P!",
+   "tag": "CKTL",
+   "name": "PUNCH Best Craft Cocktail Bars in LA",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "punchwla": {
+   "cls": "b-eaterw",
+   "mono": "P!",
+   "tag": "WINE",
+   "name": "PUNCH Best Places to Drink Wine in LA",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "babla": {
+   "cls": "b-ba",
+   "mono": "BA",
+   "tag": "8 BEST",
+   "name": "Bon Appétit Best 8 Bars in LA",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "eatercla": {
+   "cls": "b-eater",
+   "mono": "E",
+   "tag": "CKTL",
+   "name": "Eater Best Cocktail Bars in LA",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "eaterdla": {
+   "cls": "b-eaterd",
+   "mono": "E",
+   "tag": "DIVE",
+   "name": "Eater Best Dive Bars in LA",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "infatbla": {
+   "cls": "b-infat",
+   "mono": "IN",
+   "tag": "INFAT",
+   "name": "The Infatuation Best Cocktail Bars in LA",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "cnt25la": {
+   "cls": "b-cnt40",
+   "mono": "25",
+   "tag": "CN TRAV",
+   "name": "Condé Nast Traveler's 25 Best Bars in Los Angeles",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  }
+ }
+}

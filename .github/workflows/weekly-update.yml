@@ -1,0 +1,63 @@
+name: Weekly list update
+
+# Runs on its own every week (and on demand). No manual approval needed:
+# it scrapes the tracked lists, folds changes into data/, rebuilds index.html,
+# commits, and pushes — which triggers the Netlify deploy. Anything it can't
+# fetch is collected into a GitHub issue so you can paste the list in by hand.
+
+on:
+  schedule:
+    - cron: "0 15 * * 0"   # Sundays 15:00 UTC (~9am Central)
+  workflow_dispatch: {}      # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write            # push the updated site
+  issues: write              # open the "needs manual pull" issue
+
+concurrency:
+  group: weekly-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Scrape + fold in updates
+        run: python3 scripts/update.py
+
+      - name: Rebuild index.html from data
+        run: python3 scripts/build.py
+
+      - name: Commit & push if anything changed
+        run: |
+          git config user.name  "bestofthebest-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "Weekly auto-update ($(date -u +%Y-%m-%d))"
+            git push
+          else
+            echo "No changes this week."
+          fi
+
+      - name: Open an issue for anything needing a manual pull
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if grep -q "Needs manual pull" reports/latest.md && grep -Eq "^- \*\*" reports/latest.md; then
+            gh issue create \
+              --title "Weekly update — lists to pull ($(date -u +%Y-%m-%d))" \
+              --body-file reports/latest.md \
+              --label "manual-pull" || echo "issue create skipped"
+          else
+            echo "Nothing needs a manual pull."
+          fi

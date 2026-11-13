@@ -1,0 +1,7196 @@
+{
+ "restos": [
+  {
+   "name": "Shukette",
+   "hood": "Chelsea",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 40.7472,
+   "lng": -74.0005,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "jbny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Ramen by Ra",
+   "hood": "East Village",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.7236,
+   "lng": -73.9888,
+   "note": "Six-seat daytime ramen counter",
+   "pr": 3,
+   "lists": [
+    [
+     "jbny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Le Bernardin",
+   "hood": "Midtown",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 40.7615,
+   "lng": -73.9819,
+   "vg": 1,
+   "note": "NYT prints it as “Le Bernardino”",
+   "pr": 3,
+   "lists": [
+    [
+     "cnna50ny",
+     13
+    ],
+    [
+     "cnwny",
+     90
+    ],
+    [
+     "nytny",
+     21
+    ],
+    [
+     "eater38ny",
+     null
+    ],
+    [
+     "cnt30ny",
+     null
+    ],
+    [
+     "infatny",
+     null
+    ],
+    [
+     "michny",
+     3
+    ],
+    [
+     "beli25ny",
+     15
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Atomix",
+   "hood": "NoMad",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 40.7444,
+   "lng": -73.9832,
+   "tg": 1,
+   "pr": 4,
+   "lists": [
+    [
+     "cnna50ny",
+     7
+    ],
+    [
+     "cnwny",
+     12
+    ],
+    [
+     "nytny",
+     7
+    ],
+    [
+     "michny",
+     2
+    ],
+    [
+     "beli25ny",
+     12
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Tatiana",
+   "hood": "Lincoln Center",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.7725,
+   "lng": -73.9835,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "cnna50ny",
+     40
+    ],
+    [
+     "nytny",
+     12
+    ],
+    [
+     "cnt30ny",
+     null
+    ],
+    [
+     "infatny",
+     null
+    ],
+    [
+     "beli25ny",
+     7
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "The Four Horsemen",
+   "hood": "Williamsburg",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.7126,
+   "lng": -73.957,
+   "vg": 1,
+   "note": "Also on the Bars page",
+   "pr": 3,
+   "lists": [
+    [
+     "nytny",
+     20
+    ],
+    [
+     "eater38ny",
+     null
+    ],
+    [
+     "cnt30ny",
+     null
+    ],
+    [
+     "michny",
+     1
+    ],
+    [
+     "beli25ny",
+     25
+    ],
+    [
+     "jbny",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "datenight"
+  },
+  {
+   "name": "Aska",
+   "hood": "Williamsburg",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 40.713,
+   "lng": -73.966,
+   "tg": 1,
+   "pr": 4,
+   "lists": [
+    [
+     "cnna50ny",
+     23
+    ],
+    [
+     "nytny",
+     16
+    ],
+    [
+     "michny",
+     2
+    ],
+    [
+     "beli25ny",
+     10
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Cesar",
+   "hood": "Hudson Square",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 40.7272,
+   "lng": -74.0077,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "cnna50ny",
+     10
+    ],
+    [
+     "cnwny",
+     98
+    ],
+    [
+     "michny",
+     2
+    ],
+    [
+     "beli25ny",
+     5
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Le Veau d'Or",
+   "hood": "Upper East Side",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 40.7628,
+   "lng": -73.9679,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "cnna50ny",
+     12
+    ],
+    [
+     "eater38ny",
+     null
+    ],
+    [
+     "infatny",
+     null
+    ],
+    [
+     "beli25ny",
+     24
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Semma",
+   "hood": "West Village",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 40.7376,
+   "lng": -74.0003,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "cnna50ny",
+     41
+    ],
+    [
+     "nytny",
+     9
+    ],
+    [
+     "michny",
+     1
+    ],
+    [
+     "beli25ny",
+     17
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Torrisi",
+   "hood": "NoLIta",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 40.7238,
+   "lng": -73.9957,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "cnna50ny",
+     39
+    ],
+    [
+     "nytny",
+     3
+    ],
+    [
+     "michny",
+     1
+    ],
+    [
+     "beli25ny",
+     4
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Cervo's",
+   "hood": "Lower East Side",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 40.715,
+   "lng": -73.991,
+   "pr": 2,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ],
+    [
+     "infatny",
+     null
+    ],
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Kabawa",
+   "hood": "East Village",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 40.7258,
+   "lng": -73.9905,
+   "vg": 1,
+   "note": "Caribbean tasting from Paul Carmichael",
+   "pr": 3,
+   "lists": [
+    [
+     "cnna50ny",
+     14
+    ],
+    [
+     "nytny",
+     1
+    ],
+    [
+     "eater38ny",
+     null
+    ],
+    [
+     "nyt50ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Meju",
+   "hood": "Long Island City",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 40.7435,
+   "lng": -73.9552,
+   "tg": 1,
+   "pr": 4,
+   "lists": [
+    [
+     "nytny",
+     4
+    ],
+    [
+     "michny",
+     1
+    ],
+    [
+     "beli25ny",
+     21
+    ],
+    [
+     "jbny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Smithereens",
+   "hood": "East Village",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 40.73,
+   "lng": -73.987,
+   "pr": 3,
+   "lists": [
+    [
+     "nytny",
+     18
+    ],
+    [
+     "eater38ny",
+     null
+    ],
+    [
+     "infatny",
+     null
+    ],
+    [
+     "nyt50ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Sushi Sho",
+   "hood": "Midtown",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.7527,
+   "lng": -73.9807,
+   "pr": 3,
+   "lists": [
+    [
+     "nytny",
+     11
+    ],
+    [
+     "michny",
+     3
+    ],
+    [
+     "beli25ny",
+     3
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Via Carota",
+   "hood": "West Village",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 40.7332,
+   "lng": -74.0032,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "nytny",
+     13
+    ],
+    [
+     "cnt30ny",
+     null
+    ],
+    [
+     "infatny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "AbuQir",
+   "hood": "Astoria",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 40.7685,
+   "lng": -73.9111,
+   "note": "Egyptian seafood",
+   "pr": 3,
+   "lists": [
+    [
+     "nytny",
+     17
+    ],
+    [
+     "eater38ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Aquavit",
+   "hood": "Midtown",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 40.7614,
+   "lng": -73.972,
+   "vg": 1,
+   "tg": 1,
+   "pr": 4,
+   "lists": [
+    [
+     "nytny",
+     8
+    ],
+    [
+     "michny",
+     2
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Banh Anh Em",
+   "hood": "West Village",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.73,
+   "lng": -74.002,
+   "vg": 1,
+   "note": "Vietnamese",
+   "pr": 2,
+   "lists": [
+    [
+     "infatny",
+     null
+    ],
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Bong",
+   "hood": "Crown Heights",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.6727,
+   "lng": -73.9548,
+   "vg": 1,
+   "note": "Cambodian",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ],
+    [
+     "infatny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Borgo",
+   "hood": "NoMad",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 40.7458,
+   "lng": -73.9843,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "nytny",
+     6
+    ],
+    [
+     "eater38ny",
+     null
+    ],
+    [
+     "nyt50ny",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "italian"
+  },
+  {
+   "name": "bōm",
+   "hood": "Flatiron",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 40.7397,
+   "lng": -73.9925,
+   "tg": 1,
+   "note": "Korean BBQ tasting",
+   "pr": 4,
+   "lists": [
+    [
+     "michny",
+     1
+    ],
+    [
+     "beli25ny",
+     2
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Carnitas Ramirez",
+   "hood": "East Village",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 40.7225,
+   "lng": -73.9828,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ],
+    [
+     "infatny",
+     null
+    ],
+    [
+     "jbny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Che Li",
+   "hood": "East Village",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7292,
+   "lng": -73.9885,
+   "vg": 1,
+   "note": "Shanghainese",
+   "pr": 2,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ],
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Cho Dang Gol",
+   "hood": "Koreatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.75,
+   "lng": -73.986,
+   "vg": 1,
+   "note": "House-made tofu",
+   "pr": 2,
+   "lists": [
+    [
+     "infatny",
+     null
+    ],
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Claud",
+   "hood": "East Village",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.7308,
+   "lng": -73.9887,
+   "vg": 1,
+   "note": "Also on the Bars page",
+   "pr": 3,
+   "lists": [
+    [
+     "nytny",
+     15
+    ],
+    [
+     "eater38ny",
+     null
+    ],
+    [
+     "jbny",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "datenight"
+  },
+  {
+   "name": "Corima",
+   "hood": "Lower East Side",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 40.7146,
+   "lng": -73.993,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "cnna50ny",
+     36
+    ],
+    [
+     "michny",
+     1
+    ],
+    [
+     "jbny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Cote",
+   "hood": "Flatiron",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 40.741,
+   "lng": -73.991,
+   "note": "Korean steakhouse",
+   "pr": 4,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ],
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Dhamaka",
+   "hood": "Lower East Side",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 40.718,
+   "lng": -73.988,
+   "vg": 1,
+   "note": "In Essex Market",
+   "pr": 2,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ],
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Don Angie",
+   "hood": "West Village",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 40.738,
+   "lng": -74.001,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ],
+    [
+     "beli25ny",
+     14
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Gramercy Tavern",
+   "hood": "Flatiron",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.7386,
+   "lng": -73.9885,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "cnna50ny",
+     43
+    ],
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Jean-Georges",
+   "hood": "Columbus Circle",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 40.769,
+   "lng": -73.9819,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "nytny",
+     5
+    ],
+    [
+     "michny",
+     2
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Jungsik",
+   "hood": "Tribeca",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 40.7194,
+   "lng": -74.009,
+   "vg": 1,
+   "tg": 1,
+   "pr": 4,
+   "lists": [
+    [
+     "cnna50ny",
+     18
+    ],
+    [
+     "michny",
+     3
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Katz's Delicatessen",
+   "hood": "Lower East Side",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 40.7223,
+   "lng": -73.9874,
+   "pr": 1,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ],
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "deli"
+  },
+  {
+   "name": "La Piraña Lechonera",
+   "hood": "Longwood",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 40.816,
+   "lng": -73.907,
+   "vg": 1,
+   "note": "Summer-weekend Bronx lechón trailer",
+   "pr": 1,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ],
+    [
+     "infatny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Lilia",
+   "hood": "Williamsburg",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 40.7175,
+   "lng": -73.952,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ],
+    [
+     "cnt30ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Mắm",
+   "hood": "Chinatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7171,
+   "lng": -73.9933,
+   "vg": 1,
+   "note": "Vietnamese",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ],
+    [
+     "infatny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Penny",
+   "hood": "East Village",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 40.7308,
+   "lng": -73.9887,
+   "note": "Also on the Bars page",
+   "pr": 3,
+   "lists": [
+    [
+     "cnna50ny",
+     19
+    ],
+    [
+     "infatny",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "datenight"
+  },
+  {
+   "name": "Rolo's",
+   "hood": "Ridgewood",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.71,
+   "lng": -73.907,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ],
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Sailor",
+   "hood": "Fort Greene",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.689,
+   "lng": -73.972,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ],
+    [
+     "infatny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Saranrom Thai",
+   "hood": "Elmhurst",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7431,
+   "lng": -73.8837,
+   "vg": 1,
+   "note": "Bib prints it as “SanRanRom”",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ],
+    [
+     "beli25ny",
+     20
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Shaw-nae's House",
+   "hood": "Stapleton",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 40.6287,
+   "lng": -74.0797,
+   "note": "Staten Island soul food",
+   "pr": 2,
+   "lists": [
+    [
+     "infatny",
+     null
+    ],
+    [
+     "beli25ny",
+     19
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Superiority Burger",
+   "hood": "East Village",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 40.727,
+   "lng": -73.983,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ],
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Thai Diner",
+   "hood": "NoLIta",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.72,
+   "lng": -73.996,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "infatny",
+     null
+    ],
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Una Pizza Napoletana",
+   "hood": "Lower East Side",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 40.7215,
+   "lng": -73.9885,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ],
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "pizza"
+  },
+  {
+   "name": "Win Son",
+   "hood": "East Williamsburg",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.708,
+   "lng": -73.943,
+   "vg": 1,
+   "note": "Taiwanese-American",
+   "pr": 2,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ],
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Yamada",
+   "hood": "Chinatown",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.7159,
+   "lng": -73.9973,
+   "pr": 3,
+   "lists": [
+    [
+     "nytny",
+     2
+    ],
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Yemenat",
+   "hood": "Bay Ridge",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 40.635,
+   "lng": -74.025,
+   "vg": 1,
+   "note": "Yemeni",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ],
+    [
+     "beli25ny",
+     16
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Yoshino",
+   "hood": "NoHo",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.726,
+   "lng": -73.992,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ],
+    [
+     "beli25ny",
+     13
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Zaab Zaab",
+   "hood": "Elmhurst",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.742,
+   "lng": -73.879,
+   "vg": 1,
+   "note": "Isan Thai",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ],
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "4 Charles Prime Rib",
+   "hood": "West Village",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 40.735,
+   "lng": -74.001,
+   "pr": 4,
+   "lists": [
+    [
+     "beli25ny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "63 Clinton",
+   "hood": "Lower East Side",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.719,
+   "lng": -73.984,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "8282",
+   "hood": "Lower East Side",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.722,
+   "lng": -73.99,
+   "vg": 1,
+   "note": "Korean",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "A&A Bake Doubles and Roti",
+   "hood": "Bed-Stuy",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 40.681,
+   "lng": -73.95,
+   "vg": 1,
+   "note": "Trinidadian doubles",
+   "pr": 1,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Adda",
+   "hood": "East Village",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 40.7269,
+   "lng": -73.9863,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Agi's Counter",
+   "hood": "Crown Heights",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 40.671,
+   "lng": -73.958,
+   "vg": 1,
+   "note": "Hungarian",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "al Badawi",
+   "hood": "Brooklyn Heights",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 40.6906,
+   "lng": -73.995,
+   "vg": 1,
+   "note": "Palestinian — Eater prints it as “Al Bawadi”",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Alley 41",
+   "hood": "Flushing",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7591,
+   "lng": -73.828,
+   "vg": 1,
+   "note": "Sichuan",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Alta Calidad",
+   "hood": "Prospect Heights",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 40.68,
+   "lng": -73.968,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Ambassadors Clubhouse",
+   "hood": "NoMad",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 40.7472,
+   "lng": -73.9886,
+   "vg": 1,
+   "note": "Punjabi",
+   "pr": 2,
+   "lists": [
+    [
+     "infatny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Atera",
+   "hood": "Tribeca",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 40.7169,
+   "lng": -74.0056,
+   "tg": 1,
+   "note": "Michelin prints it as “Altera”",
+   "pr": 4,
+   "lists": [
+    [
+     "michny",
+     2
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Atoboy",
+   "hood": "NoMad",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.744,
+   "lng": -73.984,
+   "vg": 1,
+   "note": "Korean",
+   "pr": 2,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Ayada",
+   "hood": "Elmhurst",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.745,
+   "lng": -73.887,
+   "vg": 1,
+   "note": "Thai",
+   "pr": 2,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Balthazar",
+   "hood": "SoHo",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 40.7226,
+   "lng": -73.9982,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Bar Miller",
+   "hood": "East Village",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.724,
+   "lng": -73.9808,
+   "note": "Sustainable omakase",
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Bayon",
+   "hood": "Upper East Side",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7623,
+   "lng": -73.9591,
+   "vg": 1,
+   "note": "Cambodian",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Bohemian Spirit",
+   "hood": "Upper East Side",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 40.769,
+   "lng": -73.956,
+   "vg": 1,
+   "note": "Czech",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Bonnie's",
+   "hood": "Williamsburg",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.716,
+   "lng": -73.944,
+   "vg": 1,
+   "note": "Cantonese-American",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Bridges",
+   "hood": "Chinatown",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.714,
+   "lng": -73.9981,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Brooklyn Fare",
+   "hood": "Hell's Kitchen",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 40.756,
+   "lng": -73.997,
+   "tg": 1,
+   "note": "Chef's Table",
+   "pr": 4,
+   "lists": [
+    [
+     "michny",
+     2
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Bungalow",
+   "hood": "East Village",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 40.724,
+   "lng": -73.988,
+   "vg": 1,
+   "note": "Vikas Khanna",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Buvette",
+   "hood": "West Village",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 40.7326,
+   "lng": -74.0036,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "C as in Charlie",
+   "hood": "NoHo",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.725,
+   "lng": -73.992,
+   "vg": 1,
+   "note": "Korean",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Cafe Boulud",
+   "hood": "Upper East Side",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 40.765,
+   "lng": -73.968,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Cafe Carmellini",
+   "hood": "NoMad",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 40.744,
+   "lng": -73.987,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Cafe Mars",
+   "hood": "Gowanus",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 40.678,
+   "lng": -73.984,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Caleta 111 Cevicheria",
+   "hood": "Richmond Hill",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 40.6975,
+   "lng": -73.8366,
+   "vg": 1,
+   "note": "Peruvian",
+   "pr": 1,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Cardamom",
+   "hood": "Sunnyside",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 40.7439,
+   "lng": -73.9212,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Casa Mono",
+   "hood": "Gramercy",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 40.736,
+   "lng": -73.987,
+   "vg": 1,
+   "note": "Spanish",
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Chalong",
+   "hood": "Hell's Kitchen",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.764,
+   "lng": -73.989,
+   "vg": 1,
+   "note": "Southern Thai",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Chama Mama",
+   "hood": "Chelsea",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 40.738,
+   "lng": -73.998,
+   "vg": 1,
+   "note": "Georgian",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Chavela's",
+   "hood": "Crown Heights",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 40.672,
+   "lng": -73.957,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Chrissy's Pizza",
+   "hood": "Greenpoint",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 40.7246,
+   "lng": -73.9476,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "infatny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "pizza"
+  },
+  {
+   "name": "Chuan Tian Xia",
+   "hood": "Sunset Park",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.6396,
+   "lng": -74.0091,
+   "vg": 1,
+   "note": "Sichuan",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Cocina Consuelo",
+   "hood": "Hamilton Heights",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 40.824,
+   "lng": -73.9492,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "infatny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Coqodaq",
+   "hood": "Flatiron",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.74,
+   "lng": -73.989,
+   "vg": 1,
+   "note": "Korean fried chicken",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Covacha",
+   "hood": "Upper West Side",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 40.781,
+   "lng": -73.9765,
+   "vg": 1,
+   "note": "Coastal Mexican",
+   "pr": 1,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Crevette",
+   "hood": "West Village",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 40.7296,
+   "lng": -74.0027,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Crown Shy",
+   "hood": "Financial District",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.706,
+   "lng": -74.007,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Dame",
+   "hood": "Greenwich Village",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 40.729,
+   "lng": -74.001,
+   "note": "British fish & chips",
+   "pr": 3,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Daniel",
+   "hood": "Upper East Side",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 40.767,
+   "lng": -73.968,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Defonte's",
+   "hood": "Red Hook",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 40.683,
+   "lng": -74.006,
+   "note": "Sandwich shop since 1922",
+   "pr": 2,
+   "lists": [
+    [
+     "infatny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "deli"
+  },
+  {
+   "name": "Dim Sum Go Go",
+   "hood": "Chinatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.713,
+   "lng": -73.997,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Dirt Candy",
+   "hood": "Lower East Side",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.718,
+   "lng": -73.991,
+   "vg": 1,
+   "note": "Vegetable tasting menus — Michelin prints it as “Dirty Candy”",
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Eleven Madison Park",
+   "hood": "Flatiron",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 40.7416,
+   "lng": -73.987,
+   "vg": 1,
+   "tg": 1,
+   "note": "Plant-based; Clemente Bar upstairs",
+   "pr": 4,
+   "lists": [
+    [
+     "michny",
+     3
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Ernesto's",
+   "hood": "Lower East Side",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 40.718,
+   "lng": -73.988,
+   "vg": 1,
+   "note": "Basque",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Essential by Christophe",
+   "hood": "Upper West Side",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 40.781,
+   "lng": -73.9766,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Estela",
+   "hood": "NoLIta",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.724,
+   "lng": -73.994,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Eyval",
+   "hood": "Bushwick",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 40.706,
+   "lng": -73.933,
+   "vg": 1,
+   "note": "Persian",
+   "pr": 2,
+   "lists": [
+    [
+     "beli25ny",
+     8
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Family Meal at Blue Hill",
+   "hood": "Greenwich Village",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.732,
+   "lng": -73.999,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Filé Gumbo Bar",
+   "hood": "Tribeca",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 40.7185,
+   "lng": -74.0048,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Francie",
+   "hood": "Williamsburg",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.71,
+   "lng": -73.964,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Frena",
+   "hood": "Hell's Kitchen",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 40.7662,
+   "lng": -73.991,
+   "vg": 1,
+   "note": "Israeli bakery",
+   "pr": 2,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Frenchette",
+   "hood": "Tribeca",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 40.72,
+   "lng": -74.006,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Frevo",
+   "hood": "Greenwich Village",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 40.733,
+   "lng": -73.997,
+   "tg": 1,
+   "note": "Behind the art gallery",
+   "pr": 4,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Gabriel Kreuther",
+   "hood": "Midtown",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 40.754,
+   "lng": -73.982,
+   "vg": 1,
+   "note": "Alsatian",
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     2
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Gallaghers Steakhouse",
+   "hood": "Midtown",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 40.7627,
+   "lng": -73.984,
+   "pr": 4,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Golden Diner",
+   "hood": "Two Bridges",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 40.7127,
+   "lng": -73.993,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Gordo's Cantina",
+   "hood": "Bushwick",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 40.705,
+   "lng": -73.9176,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Ha's Snack Bar",
+   "hood": "Lower East Side",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7186,
+   "lng": -73.9922,
+   "note": "Franco-Vietnamese",
+   "pr": 2,
+   "lists": [
+    [
+     "infatny",
+     null
+    ],
+    [
+     "nyt50ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Haenyeo",
+   "hood": "Park Slope",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.678,
+   "lng": -73.982,
+   "vg": 1,
+   "note": "Korean",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Hamburger America",
+   "hood": "SoHo",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 40.728,
+   "lng": -74.002,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "HanGawi",
+   "hood": "Koreatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.746,
+   "lng": -73.984,
+   "vg": 1,
+   "note": "Vegetarian Korean",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Hometown BBQ",
+   "hood": "Red Hook",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 40.678,
+   "lng": -74.015,
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Hupo",
+   "hood": "Long Island City",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7427,
+   "lng": -73.9536,
+   "vg": 1,
+   "note": "Yunnan",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Huso",
+   "hood": "Upper East Side",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 40.777,
+   "lng": -73.962,
+   "tg": 1,
+   "note": "Caviar tasting room",
+   "pr": 4,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Hyderabadi Zaiqa",
+   "hood": "Hell's Kitchen",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 40.7651,
+   "lng": -73.9882,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "I Cavallini",
+   "hood": "Williamsburg",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 40.713,
+   "lng": -73.9579,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "beli25ny",
+     23
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "icca",
+   "hood": "Tribeca",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.7143,
+   "lng": -74.0077,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Ishq",
+   "hood": "East Village",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 40.7294,
+   "lng": -73.9809,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "ITO",
+   "hood": "Tribeca",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.7131,
+   "lng": -74.0101,
+   "pr": 3,
+   "lists": [
+    [
+     "beli25ny",
+     22
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Jeju Noodle Bar",
+   "hood": "West Village",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.733,
+   "lng": -74.007,
+   "vg": 1,
+   "note": "Korean ramyun",
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Jiang Nan",
+   "hood": "Flushing",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7594,
+   "lng": -73.8328,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Joji",
+   "hood": "Midtown",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.753,
+   "lng": -73.978,
+   "note": "Under One Vanderbilt",
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Joo Ok",
+   "hood": "Midtown",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 40.748,
+   "lng": -73.986,
+   "tg": 1,
+   "note": "Korean",
+   "pr": 4,
+   "lists": [
+    [
+     "michny",
+     2
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Jua",
+   "hood": "Flatiron",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 40.74,
+   "lng": -73.988,
+   "tg": 1,
+   "note": "Korean",
+   "pr": 4,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Kappo Sono",
+   "hood": "Greenwich Village",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.7345,
+   "lng": -73.9919,
+   "pr": 3,
+   "lists": [
+    [
+     "nytny",
+     24
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Keens Steakhouse",
+   "hood": "Midtown",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 40.75,
+   "lng": -73.986,
+   "pr": 4,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Khao Kang",
+   "hood": "Elmhurst",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.745,
+   "lng": -73.888,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "nytny",
+     19
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Kisa",
+   "hood": "Lower East Side",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.722,
+   "lng": -73.989,
+   "vg": 1,
+   "note": "Korean diner",
+   "pr": 2,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Kochi",
+   "hood": "Hell's Kitchen",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 40.762,
+   "lng": -73.993,
+   "vg": 1,
+   "tg": 1,
+   "note": "Korean skewers",
+   "pr": 4,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Kono",
+   "hood": "Chinatown",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.7156,
+   "lng": -73.997,
+   "note": "Yakitori omakase",
+   "pr": 3,
+   "lists": [
+    [
+     "nytny",
+     14
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Kosaka",
+   "hood": "West Village",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.738,
+   "lng": -74.001,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Kung Fu Little Steamed Buns",
+   "hood": "Hell's Kitchen",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.762,
+   "lng": -73.987,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "L'Abeille",
+   "hood": "Tribeca",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 40.722,
+   "lng": -74.01,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "La Dong",
+   "hood": "Flatiron",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7377,
+   "lng": -73.9912,
+   "vg": 1,
+   "note": "Vietnamese",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Laliko",
+   "hood": "West Village",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 40.7294,
+   "lng": -74.0049,
+   "vg": 1,
+   "note": "Georgian",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Le Coucou",
+   "hood": "SoHo",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 40.719,
+   "lng": -74,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Le Pavillon",
+   "hood": "Midtown",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 40.753,
+   "lng": -73.978,
+   "vg": 1,
+   "note": "Daniel Boulud, One Vanderbilt",
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Le Rock",
+   "hood": "Rockefeller Center",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 40.759,
+   "lng": -73.979,
+   "vg": 1,
+   "note": "Also on the Bars page",
+   "pr": 3,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "datenight"
+  },
+  {
+   "name": "Legend of Taste",
+   "hood": "Whitestone",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7796,
+   "lng": -73.7942,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Lei",
+   "hood": "Chinatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7146,
+   "lng": -73.9983,
+   "vg": 1,
+   "note": "Also on the Bars page",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ],
+    [
+     "jbny",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "global"
+  },
+  {
+   "name": "Levant",
+   "hood": "Astoria",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 40.7665,
+   "lng": -73.9131,
+   "vg": 1,
+   "note": "Egyptian",
+   "pr": 2,
+   "lists": [
+    [
+     "nytny",
+     25
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Little Alley",
+   "hood": "Murray Hill",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.747,
+   "lng": -73.977,
+   "vg": 1,
+   "note": "Shanghainese",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Little Myanmar",
+   "hood": "East Village",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.723,
+   "lng": -73.9855,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "LORE",
+   "hood": "South Slope",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 40.6631,
+   "lng": -73.9844,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Lucali",
+   "hood": "Carroll Gardens",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 40.681,
+   "lng": -74,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "pizza"
+  },
+  {
+   "name": "Lucile",
+   "hood": "New York",
+   "type": "newam",
+   "typekind": "cui",
+   "vg": 1,
+   "note": "Location unverified — not pinned on the map",
+   "pr": 3,
+   "lists": [
+    [
+     "beli25ny",
+     18
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Lungi",
+   "hood": "Upper East Side",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 40.7617,
+   "lng": -73.9602,
+   "vg": 1,
+   "note": "Bangladeshi",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Makina Café",
+   "hood": "Sunnyside",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 40.7467,
+   "lng": -73.9177,
+   "vg": 1,
+   "note": "Ethiopian-Eritrean",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "MaLa Project",
+   "hood": "East Village",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.727,
+   "lng": -73.986,
+   "vg": 1,
+   "note": "Dry pot",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Mama Lee",
+   "hood": "Bayside",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7554,
+   "lng": -73.7676,
+   "vg": 1,
+   "note": "Taiwanese home cooking",
+   "pr": 2,
+   "lists": [
+    [
+     "nytny",
+     10
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Mari",
+   "hood": "Hell's Kitchen",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.762,
+   "lng": -73.991,
+   "vg": 1,
+   "note": "Korean hand rolls",
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Masa",
+   "hood": "Columbus Circle",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.7685,
+   "lng": -73.983,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     2
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Miss Ada",
+   "hood": "Fort Greene",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 40.689,
+   "lng": -73.97,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Momofuku Noodle Bar",
+   "hood": "East Village",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.729,
+   "lng": -73.985,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Muku",
+   "hood": "Tribeca",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.7219,
+   "lng": -74.0099,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Nami Nori",
+   "hood": "West Village",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.73,
+   "lng": -74.002,
+   "note": "Open-style hand rolls",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Nepali Bhanchha Ghar",
+   "hood": "Jackson Heights",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 40.75,
+   "lng": -73.892,
+   "vg": 1,
+   "note": "Nepali",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Noda",
+   "hood": "Flatiron",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.74,
+   "lng": -73.994,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Noksu",
+   "hood": "Herald Square",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 40.748,
+   "lng": -73.986,
+   "tg": 1,
+   "note": "Korean, below street level",
+   "pr": 4,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Noreetuh",
+   "hood": "East Village",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.727,
+   "lng": -73.985,
+   "vg": 1,
+   "note": "Hawaiian",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Norma",
+   "hood": "Kips Bay",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 40.7435,
+   "lng": -73.98,
+   "vg": 1,
+   "note": "Sicilian — listed as Norma Gastronomia Siciliana",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Noz 17",
+   "hood": "Flatiron",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.74,
+   "lng": -73.993,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Noz Market",
+   "hood": "Upper East Side",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.762,
+   "lng": -73.964,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Nyonya",
+   "hood": "Little Italy",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.719,
+   "lng": -73.997,
+   "vg": 1,
+   "note": "Malaysian",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Odo",
+   "hood": "Flatiron",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.74,
+   "lng": -73.993,
+   "note": "Kaiseki",
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     2
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "ODRE",
+   "hood": "East Village",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 40.7314,
+   "lng": -73.9859,
+   "vg": 1,
+   "note": "Georgian wine cellar",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Oiji Mi",
+   "hood": "Flatiron",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.74,
+   "lng": -73.993,
+   "vg": 1,
+   "note": "Korean",
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Olmo",
+   "hood": "Ocean Hill",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 40.6831,
+   "lng": -73.9171,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Oxomoco",
+   "hood": "Greenpoint",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 40.73,
+   "lng": -73.954,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Peppercorn Station",
+   "hood": "Midtown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7527,
+   "lng": -73.9851,
+   "vg": 1,
+   "note": "Sichuan",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Per Se",
+   "hood": "Columbus Circle",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 40.7685,
+   "lng": -73.983,
+   "vg": 1,
+   "tg": 1,
+   "pr": 4,
+   "lists": [
+    [
+     "michny",
+     3
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Phayul",
+   "hood": "Jackson Heights",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.747,
+   "lng": -73.891,
+   "vg": 1,
+   "note": "Tibetan",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Pierozek",
+   "hood": "Greenpoint",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 40.724,
+   "lng": -73.951,
+   "vg": 1,
+   "note": "Polish pierogi",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Pinch Chinese",
+   "hood": "SoHo",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.726,
+   "lng": -74.001,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Potluck Club",
+   "hood": "Chinatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.718,
+   "lng": -73.994,
+   "vg": 1,
+   "note": "Cantonese-American",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Pranakhon",
+   "hood": "Union Square",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.734,
+   "lng": -73.993,
+   "vg": 1,
+   "note": "Thai",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Quique Crudo",
+   "hood": "West Village",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 40.7292,
+   "lng": -74.0037,
+   "vg": 1,
+   "note": "Spanish crudo bar",
+   "pr": 2,
+   "lists": [
+    [
+     "beli25ny",
+     9
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Raku",
+   "hood": "East Village",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.727,
+   "lng": -73.987,
+   "note": "Udon",
+   "pr": 3,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Raoul's",
+   "hood": "SoHo",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 40.726,
+   "lng": -74.003,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Red Hook Tavern",
+   "hood": "Red Hook",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 40.677,
+   "lng": -74.012,
+   "pr": 2,
+   "lists": [
+    [
+     "infatny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Restaurant Yuu",
+   "hood": "Greenpoint",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 40.7235,
+   "lng": -73.9525,
+   "tg": 1,
+   "note": "French-Japanese",
+   "pr": 4,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Rezdora",
+   "hood": "Flatiron",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 40.739,
+   "lng": -73.988,
+   "vg": 1,
+   "note": "Emilian pasta",
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Roberta's",
+   "hood": "Bushwick",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 40.705,
+   "lng": -73.934,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "pizza"
+  },
+  {
+   "name": "Ruffian",
+   "hood": "East Village",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 40.727,
+   "lng": -73.983,
+   "vg": 1,
+   "note": "Also on the Bars page",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "global"
+  },
+  {
+   "name": "Runner Up",
+   "hood": "Park Slope",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.6656,
+   "lng": -73.9823,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Russ & Daughters Cafe",
+   "hood": "Lower East Side",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 40.721,
+   "lng": -73.989,
+   "note": "Appetizing counter, seated",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "deli"
+  },
+  {
+   "name": "S&P Lunch",
+   "hood": "Flatiron",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 40.741,
+   "lng": -73.99,
+   "note": "Luncheonette revival",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "deli"
+  },
+  {
+   "name": "Saga",
+   "hood": "Financial District",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 40.706,
+   "lng": -74.007,
+   "tg": 1,
+   "note": "Atop 70 Pine",
+   "pr": 4,
+   "lists": [
+    [
+     "michny",
+     2
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Sal Tang's",
+   "hood": "Cobble Hill",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.6853,
+   "lng": -74.0004,
+   "vg": 1,
+   "note": "Chinese-American red sauce",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Sami & Susu",
+   "hood": "Lower East Side",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 40.722,
+   "lng": -73.988,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Shalom Japan",
+   "hood": "Williamsburg",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.71,
+   "lng": -73.957,
+   "note": "Jewish-Japanese",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "SHMONÉ",
+   "hood": "Greenwich Village",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 40.7336,
+   "lng": -73.9991,
+   "vg": 1,
+   "note": "Israeli",
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Shota",
+   "hood": "Williamsburg",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.7135,
+   "lng": -73.9662,
+   "note": "Omakase",
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Shu Jiao Fu Zhou Cuisine",
+   "hood": "Lower East Side",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.718,
+   "lng": -73.992,
+   "vg": 1,
+   "note": "Fuzhounese dumplings",
+   "pr": 2,
+   "lists": [
+    [
+     "infatny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Sky Pavilion",
+   "hood": "Hell's Kitchen",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.758,
+   "lng": -73.9908,
+   "vg": 1,
+   "note": "Sichuan",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Sobaya",
+   "hood": "East Village",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.729,
+   "lng": -73.988,
+   "note": "Soba",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Sobre Masa",
+   "hood": "Bushwick",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 40.7063,
+   "lng": -73.9314,
+   "vg": 1,
+   "note": "Tortillería",
+   "pr": 1,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Soda Club",
+   "hood": "East Village",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 40.727,
+   "lng": -73.988,
+   "vg": 1,
+   "note": "Wine bar",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Speedy Romeo",
+   "hood": "Clinton Hill",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 40.689,
+   "lng": -73.96,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "pizza"
+  },
+  {
+   "name": "Sunn's",
+   "hood": "Two Bridges",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7144,
+   "lng": -73.991,
+   "vg": 1,
+   "note": "Also on the Bars page",
+   "pr": 2,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "global"
+  },
+  {
+   "name": "Sushi Nakazawa",
+   "hood": "West Village",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.732,
+   "lng": -74.005,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Sushi Noz",
+   "hood": "Upper East Side",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.774,
+   "lng": -73.958,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     2
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Sylvia's",
+   "hood": "Harlem",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 40.808,
+   "lng": -73.945,
+   "pr": 2,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Tanoreen",
+   "hood": "Bay Ridge",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 40.631,
+   "lng": -74.026,
+   "vg": 1,
+   "note": "Palestinian",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Taqueria El Chato",
+   "hood": "Greenpoint",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 40.7236,
+   "lng": -73.9506,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Tempura Matsui",
+   "hood": "Murray Hill",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.747,
+   "lng": -73.974,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Teranga",
+   "hood": "Harlem",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 40.798,
+   "lng": -73.952,
+   "vg": 1,
+   "note": "West African",
+   "pr": 2,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Tha Phraya",
+   "hood": "Upper East Side",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7745,
+   "lng": -73.9545,
+   "vg": 1,
+   "note": "Thai",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "The Eighty Six",
+   "hood": "West Village",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.7321,
+   "lng": -74.0051,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "beli25ny",
+     11
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "The Grill",
+   "hood": "Midtown",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 40.758,
+   "lng": -73.972,
+   "note": "In the Seagram Building",
+   "pr": 4,
+   "lists": [
+    [
+     "infatny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "The Modern",
+   "hood": "Midtown",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.761,
+   "lng": -73.977,
+   "vg": 1,
+   "note": "At MoMA",
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     2
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Theodora",
+   "hood": "Fort Greene",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 40.6861,
+   "lng": -73.9731,
+   "vg": 1,
+   "pr": 2,
+   "lists": [
+    [
+     "beli25ny",
+     6
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Tolo",
+   "hood": "Two Bridges",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.714,
+   "lng": -73.988,
+   "vg": 1,
+   "note": "Also on the Bars page",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "global"
+  },
+  {
+   "name": "Tonchin",
+   "hood": "Midtown",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.75,
+   "lng": -73.985,
+   "note": "Ramen",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Tong Sam Gyup Goo Yi",
+   "hood": "Flushing",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7621,
+   "lng": -73.803,
+   "vg": 1,
+   "note": "Korean BBQ",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Toné Café",
+   "hood": "Sheepshead Bay",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 40.5815,
+   "lng": -73.9633,
+   "vg": 1,
+   "note": "Georgian bakery-café",
+   "pr": 2,
+   "lists": [
+    [
+     "nytny",
+     23
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Torien",
+   "hood": "NoHo",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.724,
+   "lng": -73.993,
+   "note": "Yakitori",
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Trinciti Roti Shop",
+   "hood": "South Ozone Park",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 40.6804,
+   "lng": -73.8211,
+   "vg": 1,
+   "note": "Trinidadian",
+   "pr": 1,
+   "lists": [
+    [
+     "infatny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Tsukimi",
+   "hood": "East Village",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.73,
+   "lng": -73.986,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Tuome",
+   "hood": "East Village",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.723,
+   "lng": -73.984,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Untable",
+   "hood": "Carroll Gardens",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.6836,
+   "lng": -73.9994,
+   "vg": 1,
+   "note": "Thai",
+   "pr": 2,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Vato",
+   "hood": "Park Slope",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 40.6702,
+   "lng": -73.979,
+   "vg": 1,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Warung Selasa at IndoJava",
+   "hood": "Elmhurst",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7367,
+   "lng": -73.8783,
+   "vg": 1,
+   "note": "Indonesian counter inside the IndoJava grocery",
+   "pr": 2,
+   "lists": [
+    [
+     "nytny",
+     22
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Wildair",
+   "hood": "Lower East Side",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.72,
+   "lng": -73.989,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "cnt30ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Yellow Rose",
+   "hood": "East Village",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 40.732,
+   "lng": -73.988,
+   "vg": 1,
+   "note": "Texan",
+   "pr": 1,
+   "lists": [
+    [
+     "bibny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Yingtao",
+   "hood": "Hell's Kitchen",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7657,
+   "lng": -73.9877,
+   "note": "Chinese fine dining",
+   "pr": 3,
+   "lists": [
+    [
+     "michny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Zimmi's",
+   "hood": "West Village",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 40.7315,
+   "lng": -74.0047,
+   "vg": 1,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  }
+ ],
+ "bars": [
+  {
+   "name": "Whoopsie Daisy",
+   "hood": "Crown Heights",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.6687,
+   "lng": -73.9532,
+   "lists": [
+    [
+     "jbbny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Borgo",
+   "hood": "NoMad",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.7458,
+   "lng": -73.9843,
+   "note": "Also on the Restaurants page",
+   "lists": [
+    [
+     "jbbny",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "wine"
+  },
+  {
+   "name": "Double Chicken Please",
+   "hood": "Lower East Side",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.72,
+   "lng": -73.99,
+   "lists": [
+    [
+     "cnnabny",
+     35
+    ],
+    [
+     "cnwbny",
+     41
+    ],
+    [
+     "eatercny",
+     null
+    ],
+    [
+     "infatbny",
+     null
+    ],
+    [
+     "timeoutny",
+     7
+    ],
+    [
+     "punchny",
+     null
+    ],
+    [
+     "cnt33bny",
+     null
+    ],
+    [
+     "belibny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Attaboy",
+   "hood": "Lower East Side",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.719,
+   "lng": -73.991,
+   "note": "No menu — dealer's choice",
+   "lists": [
+    [
+     "cnnabny",
+     37
+    ],
+    [
+     "cnwbny",
+     72
+    ],
+    [
+     "eatercny",
+     null
+    ],
+    [
+     "infatbny",
+     null
+    ],
+    [
+     "timeoutny",
+     6
+    ],
+    [
+     "cnt33bny",
+     null
+    ],
+    [
+     "belibny",
+     12
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Maison Premiere",
+   "hood": "Williamsburg",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.714,
+   "lng": -73.961,
+   "note": "Oysters & absinthe",
+   "lists": [
+    [
+     "cnnabny",
+     40
+    ],
+    [
+     "eatercny",
+     null
+    ],
+    [
+     "infatbny",
+     null
+    ],
+    [
+     "timeoutny",
+     12
+    ],
+    [
+     "punchny",
+     null
+    ],
+    [
+     "cnt33bny",
+     null
+    ],
+    [
+     "belibny",
+     5
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Schmuck",
+   "hood": "East Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7264,
+   "lng": -73.9865,
+   "lists": [
+    [
+     "cnnabny",
+     4
+    ],
+    [
+     "cnwbny",
+     59
+    ],
+    [
+     "infatbny",
+     null
+    ],
+    [
+     "timeoutny",
+     4
+    ],
+    [
+     "cnt33bny",
+     null
+    ],
+    [
+     "bany",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Superbueno",
+   "hood": "East Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7234,
+   "lng": -73.9886,
+   "note": "Mexican-American cocktails",
+   "lists": [
+    [
+     "cnnabny",
+     9
+    ],
+    [
+     "cnwbny",
+     12
+    ],
+    [
+     "eatercny",
+     null
+    ],
+    [
+     "infatbny",
+     null
+    ],
+    [
+     "timeoutny",
+     2
+    ],
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Katana Kitten",
+   "hood": "West Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.734,
+   "lng": -74.006,
+   "note": "Japanese-American highballs",
+   "lists": [
+    [
+     "cnnabny",
+     52
+    ],
+    [
+     "eatercny",
+     null
+    ],
+    [
+     "infatbny",
+     null
+    ],
+    [
+     "timeoutny",
+     27
+    ],
+    [
+     "punchny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Martiny's",
+   "hood": "Gramercy",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.736,
+   "lng": -73.988,
+   "lists": [
+    [
+     "cnnabny",
+     23
+    ],
+    [
+     "cnwbny",
+     75
+    ],
+    [
+     "infatbny",
+     null
+    ],
+    [
+     "cnt33bny",
+     null
+    ],
+    [
+     "belibny",
+     10
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Overstory",
+   "hood": "Financial District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.707,
+   "lng": -74.007,
+   "note": "64 floors up",
+   "lists": [
+    [
+     "cnnabny",
+     33
+    ],
+    [
+     "cnwbny",
+     46
+    ],
+    [
+     "punchny",
+     null
+    ],
+    [
+     "cnt33bny",
+     null
+    ],
+    [
+     "belibny",
+     9
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Sunken Harbor Club",
+   "hood": "Downtown Brooklyn",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.692,
+   "lng": -73.988,
+   "note": "Above Gage & Tollner",
+   "lists": [
+    [
+     "eatercny",
+     null
+    ],
+    [
+     "infatbny",
+     null
+    ],
+    [
+     "timeoutny",
+     3
+    ],
+    [
+     "cnt33bny",
+     null
+    ],
+    [
+     "belibny",
+     13
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Long Island Bar",
+   "hood": "Cobble Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.691,
+   "lng": -73.997,
+   "lists": [
+    [
+     "eatercny",
+     null
+    ],
+    [
+     "infatbny",
+     null
+    ],
+    [
+     "timeoutny",
+     30
+    ],
+    [
+     "punchny",
+     null
+    ],
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bemelmans",
+   "hood": "Upper East Side",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.774,
+   "lng": -73.963,
+   "note": "At The Carlyle",
+   "lists": [
+    [
+     "eatercny",
+     null
+    ],
+    [
+     "timeoutny",
+     11
+    ],
+    [
+     "cnt33bny",
+     null
+    ],
+    [
+     "belibny",
+     3
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Dante",
+   "hood": "Greenwich Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.729,
+   "lng": -74.002,
+   "note": "TimeOut lists its Aperitivo bar",
+   "lists": [
+    [
+     "cnnabny",
+     58
+    ],
+    [
+     "eatercny",
+     null
+    ],
+    [
+     "timeoutny",
+     18
+    ],
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Jimmy's Corner",
+   "hood": "Times Square",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.757,
+   "lng": -73.984,
+   "note": "Boxing-photo dive",
+   "lists": [
+    [
+     "eaterdny",
+     null
+    ],
+    [
+     "timeoutny",
+     36
+    ],
+    [
+     "cnt20ny",
+     null
+    ],
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Sip & Guzzle",
+   "hood": "West Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.731,
+   "lng": -74.002,
+   "lists": [
+    [
+     "cnnabny",
+     1
+    ],
+    [
+     "cnwbny",
+     39
+    ],
+    [
+     "timeoutny",
+     10
+    ],
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Portrait Bar",
+   "hood": "NoMad",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.744,
+   "lng": -73.987,
+   "note": "In the Fifth Avenue Hotel",
+   "lists": [
+    [
+     "cnnabny",
+     71
+    ],
+    [
+     "infatbny",
+     null
+    ],
+    [
+     "cnt33bny",
+     null
+    ],
+    [
+     "belibny",
+     4
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Angel's Share",
+   "hood": "West Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.733,
+   "lng": -74.003,
+   "note": "Reborn on Grove Street",
+   "lists": [
+    [
+     "cnnabny",
+     31
+    ],
+    [
+     "infatbny",
+     null
+    ],
+    [
+     "belibny",
+     2
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Bar Goto",
+   "hood": "Lower East Side",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.722,
+   "lng": -73.989,
+   "lists": [
+    [
+     "eatercny",
+     null
+    ],
+    [
+     "infatbny",
+     null
+    ],
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Golden Ratio",
+   "hood": "Clinton Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.687,
+   "lng": -73.9627,
+   "lists": [
+    [
+     "infatbny",
+     null
+    ],
+    [
+     "timeoutny",
+     22
+    ],
+    [
+     "bany",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Seed Library",
+   "hood": "NoMad",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7448,
+   "lng": -73.9834,
+   "lists": [
+    [
+     "cnnabny",
+     66
+    ],
+    [
+     "timeoutny",
+     5
+    ],
+    [
+     "bany",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Sunny's",
+   "hood": "Red Hook",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.675,
+   "lng": -74.016,
+   "lists": [
+    [
+     "eaterdny",
+     null
+    ],
+    [
+     "cnt20ny",
+     null
+    ],
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Dead Rabbit",
+   "hood": "Financial District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7033,
+   "lng": -74.011,
+   "lists": [
+    [
+     "eatercny",
+     null
+    ],
+    [
+     "timeoutny",
+     20
+    ],
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "169 Bar",
+   "hood": "Two Bridges",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.714,
+   "lng": -73.989,
+   "lists": [
+    [
+     "eaterdny",
+     null
+    ],
+    [
+     "cnt20ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Aldo Sohm",
+   "hood": "Midtown",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.761,
+   "lng": -73.982,
+   "note": "Le Bernardin's wine bar",
+   "lists": [
+    [
+     "eaterwny",
+     null
+    ],
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Bar Kabawa",
+   "hood": "East Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7249,
+   "lng": -73.9913,
+   "note": "Daiquiris next to Kabawa — TimeOut prints it as “Bar Kabata”",
+   "lists": [
+    [
+     "infatbny",
+     null
+    ],
+    [
+     "timeoutny",
+     24
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bar Snack",
+   "hood": "East Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7269,
+   "lng": -73.9885,
+   "lists": [
+    [
+     "cnnabny",
+     3
+    ],
+    [
+     "timeoutny",
+     1
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Death & Co",
+   "hood": "East Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.725,
+   "lng": -73.984,
+   "lists": [
+    [
+     "timeoutny",
+     17
+    ],
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Dutch Kills",
+   "hood": "Long Island City",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.748,
+   "lng": -73.94,
+   "note": "Eater prints it as “Butch Kills”",
+   "lists": [
+    [
+     "eatercny",
+     null
+    ],
+    [
+     "infatbny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Employees Only",
+   "hood": "West Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.733,
+   "lng": -74.006,
+   "lists": [
+    [
+     "cnnabny",
+     45
+    ],
+    [
+     "cnwbny",
+     95
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Fish Market",
+   "hood": "South Street Seaport",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.7072,
+   "lng": -74.0019,
+   "lists": [
+    [
+     "eaterdny",
+     null
+    ],
+    [
+     "cnt20ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Le Rock",
+   "hood": "Rockefeller Center",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.759,
+   "lng": -73.979,
+   "note": "Also on the Restaurants page",
+   "lists": [
+    [
+     "punchny",
+     null
+    ],
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "mixo"
+  },
+  {
+   "name": "Lobby Bar",
+   "hood": "Chelsea",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.744,
+   "lng": -73.996,
+   "note": "At the Hotel Chelsea",
+   "lists": [
+    [
+     "infatbny",
+     null
+    ],
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Montero",
+   "hood": "Brooklyn Heights",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.691,
+   "lng": -73.999,
+   "note": "Longshoremen's bar turned karaoke",
+   "lists": [
+    [
+     "eaterdny",
+     null
+    ],
+    [
+     "cnt20ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Musette",
+   "hood": "Harlem",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.8115,
+   "lng": -73.9423,
+   "lists": [
+    [
+     "eaterwny",
+     null
+    ],
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Oddball",
+   "hood": "Alphabet City",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7279,
+   "lng": -73.9793,
+   "lists": [
+    [
+     "infatbny",
+     null
+    ],
+    [
+     "timeoutny",
+     15
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Paradise Lost",
+   "hood": "East Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7271,
+   "lng": -73.9884,
+   "note": "Tiki",
+   "lists": [
+    [
+     "eatercny",
+     null
+    ],
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Sauced",
+   "hood": "Williamsburg",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.7126,
+   "lng": -73.9623,
+   "lists": [
+    [
+     "eaterwny",
+     null
+    ],
+    [
+     "timeoutny",
+     23
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Sugar Monk",
+   "hood": "Harlem",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.806,
+   "lng": -73.953,
+   "lists": [
+    [
+     "infatbny",
+     null
+    ],
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Swan Room",
+   "hood": "Two Bridges",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.715,
+   "lng": -73.991,
+   "note": "At Nine Orchard",
+   "lists": [
+    [
+     "cnt33bny",
+     null
+    ],
+    [
+     "belibny",
+     14
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "TALEA",
+   "hood": "Williamsburg",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.717,
+   "lng": -73.945,
+   "lists": [
+    [
+     "timeoutny",
+     33
+    ],
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Tigre",
+   "hood": "Lower East Side",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7199,
+   "lng": -73.9881,
+   "lists": [
+    [
+     "infatbny",
+     null
+    ],
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "101 Wilson",
+   "hood": "Bushwick",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.703,
+   "lng": -73.928,
+   "lists": [
+    [
+     "eaterdny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "25 Hours",
+   "hood": "New York",
+   "type": "m",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "bany",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "7B Horseshoe Bar",
+   "hood": "Alphabet City",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.726,
+   "lng": -73.98,
+   "lists": [
+    [
+     "eaterdny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Alibi",
+   "hood": "Fort Greene",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.689,
+   "lng": -73.967,
+   "lists": [
+    [
+     "eaterdny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Alligator Lounge",
+   "hood": "Williamsburg",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.714,
+   "lng": -73.948,
+   "note": "Free pizza with every drink",
+   "lists": [
+    [
+     "cnt20ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Amor y Amargo",
+   "hood": "East Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.725,
+   "lng": -73.984,
+   "note": "Bitters bar",
+   "lists": [
+    [
+     "infatbny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Athena Keke's",
+   "hood": "Clinton Hill",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.687,
+   "lng": -73.9622,
+   "lists": [
+    [
+     "timeoutny",
+     21
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Banter",
+   "hood": "Williamsburg",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.713,
+   "lng": -73.953,
+   "lists": [
+    [
+     "cnt20ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Banzarbar",
+   "hood": "Lower East Side",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.722,
+   "lng": -73.992,
+   "note": "Above Freemans",
+   "lists": [
+    [
+     "belibny",
+     6
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bar Blondeau",
+   "hood": "Williamsburg",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.722,
+   "lng": -73.958,
+   "note": "Atop the Wythe",
+   "lists": [
+    [
+     "timeoutny",
+     13
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Bar Chimera",
+   "hood": "Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7616,
+   "lng": -73.9732,
+   "lists": [
+    [
+     "timeoutny",
+     14
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bar Contra",
+   "hood": "Lower East Side",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7199,
+   "lng": -73.9892,
+   "lists": [
+    [
+     "eatercny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bar Madonna",
+   "hood": "Williamsburg",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7142,
+   "lng": -73.9557,
+   "lists": [
+    [
+     "cnnabny",
+     36
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Barrow's Pub",
+   "hood": "West Village",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.732,
+   "lng": -74.006,
+   "lists": [
+    [
+     "cnt20ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Blue & Gold Tavern",
+   "hood": "East Village",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.727,
+   "lng": -73.986,
+   "lists": [
+    [
+     "cnt20ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Bonus Room",
+   "hood": "Ridgewood",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.6961,
+   "lng": -73.9046,
+   "lists": [
+    [
+     "cnt20ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Chambers",
+   "hood": "Tribeca",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.715,
+   "lng": -74.008,
+   "lists": [
+    [
+     "eaterwny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Chin Up Bar",
+   "hood": "Lower East Side",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7209,
+   "lng": -73.9928,
+   "lists": [
+    [
+     "bany",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Claud",
+   "hood": "East Village",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.7308,
+   "lng": -73.9887,
+   "note": "Also on the Restaurants page",
+   "lists": [
+    [
+     "eaterwny",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "wine"
+  },
+  {
+   "name": "Clemente Bar",
+   "hood": "Flatiron",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7416,
+   "lng": -73.987,
+   "note": "Inside Eleven Madison Park",
+   "lists": [
+    [
+     "cnnabny",
+     15
+    ],
+    [
+     "jbbny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Clover Club",
+   "hood": "Cobble Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.685,
+   "lng": -73.993,
+   "lists": [
+    [
+     "timeoutny",
+     28
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Coyote Club",
+   "hood": "Bed-Stuy",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.6886,
+   "lng": -73.9418,
+   "lists": [
+    [
+     "cnt20ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Cubbyhole",
+   "hood": "West Village",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.738,
+   "lng": -74.004,
+   "note": "Beloved lesbian bar",
+   "lists": [
+    [
+     "timeoutny",
+     35
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Dandelion",
+   "hood": "West Village",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.7334,
+   "lng": -74.0054,
+   "lists": [
+    [
+     "bany",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Dear Irving on Hudson",
+   "hood": "Times Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.757,
+   "lng": -73.991,
+   "lists": [
+    [
+     "timeoutny",
+     34
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Do or Dive",
+   "hood": "Bed-Stuy",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.69,
+   "lng": -73.953,
+   "lists": [
+    [
+     "cnt20ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Doc Holliday's",
+   "hood": "Alphabet City",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.727,
+   "lng": -73.983,
+   "lists": [
+    [
+     "cnt20ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Eavesdrop",
+   "hood": "Greenpoint",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.724,
+   "lng": -73.95,
+   "note": "Listening bar",
+   "lists": [
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Eli's Table",
+   "hood": "Upper East Side",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.773,
+   "lng": -73.956,
+   "lists": [
+    [
+     "eaterwny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Gowanus Yacht Club",
+   "hood": "Carroll Gardens",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.681,
+   "lng": -73.993,
+   "note": "Outdoor beer shack",
+   "lists": [
+    [
+     "cnt20ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Grand Army",
+   "hood": "Downtown Brooklyn",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.689,
+   "lng": -73.987,
+   "lists": [
+    [
+     "timeoutny",
+     26
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Harlem Hops",
+   "hood": "Harlem",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.806,
+   "lng": -73.944,
+   "lists": [
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "International Bar",
+   "hood": "East Village",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.727,
+   "lng": -73.985,
+   "lists": [
+    [
+     "eaterdny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Julius",
+   "hood": "West Village",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.734,
+   "lng": -74.001,
+   "note": "Oldest gay bar in NYC",
+   "lists": [
+    [
+     "eaterdny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "KABIN",
+   "hood": "Hudson Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7257,
+   "lng": -74.008,
+   "lists": [
+    [
+     "timeoutny",
+     19
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Kafana",
+   "hood": "Alphabet City",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.725,
+   "lng": -73.977,
+   "note": "Serbian",
+   "lists": [
+    [
+     "eaterwny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Kettle of Fish",
+   "hood": "West Village",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.734,
+   "lng": -74.002,
+   "note": "Packers bar",
+   "lists": [
+    [
+     "cnt20ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "La Compagnie",
+   "hood": "SoHo",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.72,
+   "lng": -73.999,
+   "lists": [
+    [
+     "eaterwny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Lei",
+   "hood": "Chinatown",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.7146,
+   "lng": -73.9983,
+   "note": "Also on the Restaurants page",
+   "lists": [
+    [
+     "eaterwny",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "vibey"
+  },
+  {
+   "name": "LunÀtico",
+   "hood": "Bed-Stuy",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.682,
+   "lng": -73.935,
+   "note": "Live music nightly",
+   "lists": [
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Mace",
+   "hood": "Greenwich Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.733,
+   "lng": -73.997,
+   "lists": [
+    [
+     "timeoutny",
+     31
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Mad Radio",
+   "hood": "Williamsburg",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7112,
+   "lng": -73.9663,
+   "lists": [
+    [
+     "bany",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Manhatta",
+   "hood": "Financial District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.708,
+   "lng": -74.009,
+   "lists": [
+    [
+     "belibny",
+     8
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Midnight Blue",
+   "hood": "New York",
+   "type": "m",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "No Bar",
+   "hood": "New York",
+   "type": "m",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Nothing Really Matters",
+   "hood": "Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.765,
+   "lng": -73.979,
+   "note": "Inside the 57th St subway station",
+   "lists": [
+    [
+     "timeoutny",
+     25
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Opera House",
+   "hood": "Chinatown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7142,
+   "lng": -73.9981,
+   "note": "On Doyers Street",
+   "lists": [
+    [
+     "bany",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Paradise Alley",
+   "hood": "Flushing",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.7626,
+   "lng": -73.8138,
+   "lists": [
+    [
+     "eaterdny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Parcelle",
+   "hood": "Two Bridges",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.714,
+   "lng": -73.992,
+   "lists": [
+    [
+     "eaterwny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "PDT",
+   "hood": "East Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.727,
+   "lng": -73.984,
+   "note": "Through the phone booth",
+   "lists": [
+    [
+     "infatbny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Penny",
+   "hood": "East Village",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.7308,
+   "lng": -73.9887,
+   "note": "Also on the Restaurants page",
+   "lists": [
+    [
+     "eaterwny",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "wine"
+  },
+  {
+   "name": "Pinky Swear",
+   "hood": "Lower East Side",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.7209,
+   "lng": -73.9927,
+   "lists": [
+    [
+     "bany",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Place des Fêtes",
+   "hood": "Clinton Hill",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.6868,
+   "lng": -73.9629,
+   "lists": [
+    [
+     "eaterwny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Popina",
+   "hood": "Columbia Street Waterfront",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.689,
+   "lng": -74,
+   "lists": [
+    [
+     "eaterwny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Reif's",
+   "hood": "Yorkville",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.7814,
+   "lng": -73.9486,
+   "lists": [
+    [
+     "eaterdny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Rocka Rolla",
+   "hood": "Williamsburg",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.714,
+   "lng": -73.948,
+   "lists": [
+    [
+     "cnt20ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Room 207",
+   "hood": "East Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7317,
+   "lng": -73.9859,
+   "lists": [
+    [
+     "bany",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Roscioli",
+   "hood": "SoHo",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.728,
+   "lng": -74.002,
+   "note": "NYC outpost of the Roman salumeria",
+   "lists": [
+    [
+     "eaterwny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Rudy's",
+   "hood": "Hell's Kitchen",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.76,
+   "lng": -73.991,
+   "note": "Free hot dogs",
+   "lists": [
+    [
+     "eaterdny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Ruffian",
+   "hood": "East Village",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.727,
+   "lng": -73.983,
+   "note": "Also on the Restaurants page",
+   "lists": [
+    [
+     "eaterwny",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "wine"
+  },
+  {
+   "name": "Ryan's Daughter",
+   "hood": "Upper East Side",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.777,
+   "lng": -73.949,
+   "lists": [
+    [
+     "cnt20ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Saint Tuesday",
+   "hood": "Tribeca",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.717,
+   "lng": -74.003,
+   "note": "In the Walker Hotel cellar",
+   "lists": [
+    [
+     "timeoutny",
+     16
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Shinji's",
+   "hood": "NoMad",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.745,
+   "lng": -73.988,
+   "lists": [
+    [
+     "cnnabny",
+     77
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Stars",
+   "hood": "New York",
+   "type": "w",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "bany",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Stonewall Inn",
+   "hood": "West Village",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.734,
+   "lng": -74.002,
+   "note": "Where the uprising began",
+   "lists": [
+    [
+     "cnt20ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Sunn's",
+   "hood": "Two Bridges",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7144,
+   "lng": -73.991,
+   "note": "Also on the Restaurants page",
+   "lists": [
+    [
+     "timeoutny",
+     8
+    ]
+   ],
+   "dual": true,
+   "vb": "mixo"
+  },
+  {
+   "name": "Sweet Afton",
+   "hood": "Astoria",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.766,
+   "lng": -73.921,
+   "lists": [
+    [
+     "timeoutny",
+     29
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Anchored Inn",
+   "hood": "Bushwick",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.708,
+   "lng": -73.935,
+   "lists": [
+    [
+     "cnt20ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Bar Room at The Beekman",
+   "hood": "Financial District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.711,
+   "lng": -74.006,
+   "lists": [
+    [
+     "timeoutny",
+     9
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Bronx Beer Hall",
+   "hood": "Belmont",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.855,
+   "lng": -73.888,
+   "note": "In the Arthur Avenue Market",
+   "lists": [
+    [
+     "timeoutny",
+     32
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Four Horsemen",
+   "hood": "Williamsburg",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.7126,
+   "lng": -73.957,
+   "note": "Also on the Restaurants page",
+   "lists": [
+    [
+     "eaterwny",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "wine"
+  },
+  {
+   "name": "The Jar Bar",
+   "hood": "Sunnyside",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.7393,
+   "lng": -73.9201,
+   "lists": [
+    [
+     "eaterdny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Levee",
+   "hood": "Williamsburg",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.718,
+   "lng": -73.962,
+   "lists": [
+    [
+     "cnt20ny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Nines",
+   "hood": "NoHo",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.727,
+   "lng": -73.993,
+   "note": "Piano lounge",
+   "lists": [
+    [
+     "belibny",
+     7
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Ten Bells Brooklyn",
+   "hood": "Bushwick",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.7047,
+   "lng": -73.9238,
+   "lists": [
+    [
+     "eaterwny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Threes Brewing",
+   "hood": "Gowanus",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.68,
+   "lng": -73.983,
+   "lists": [
+    [
+     "cnt33bny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Tiger Den",
+   "hood": "New York",
+   "type": "m",
+   "typekind": "drink",
+   "note": "Location unverified — not pinned on the map",
+   "lists": [
+    [
+     "bany",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Tip Top Bar & Grill",
+   "hood": "Bed-Stuy",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.69,
+   "lng": -73.957,
+   "lists": [
+    [
+     "eaterdny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Tolo",
+   "hood": "Two Bridges",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.714,
+   "lng": -73.988,
+   "note": "Also on the Restaurants page",
+   "lists": [
+    [
+     "eaterwny",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "wine"
+  },
+  {
+   "name": "Tomi Jazz",
+   "hood": "Midtown East",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.757,
+   "lng": -73.968,
+   "note": "Basement jazz izakaya",
+   "lists": [
+    [
+     "belibny",
+     11
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Vin Sur Vingt",
+   "hood": "West Village",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.736,
+   "lng": -74,
+   "lists": [
+    [
+     "eaterwny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  }
+ ],
+ "rlists": {
+  "cnna50ny": {
+   "cls": "plate r-cnna50",
+   "mono": "CN",
+   "tag": "50 NA",
+   "name": "Condé Nast 50 Best Restaurants in North America",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "cnwny": {
+   "cls": "plate r-cnw",
+   "mono": "CN",
+   "tag": "WORLD",
+   "name": "Condé Nast 100 Best Restaurants in the World",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "nytny": {
+   "cls": "plate r-nyt",
+   "mono": "NYT",
+   "tag": "TIMES",
+   "name": "New York Times Top 25 Restaurants in New York City",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "eater38ny": {
+   "cls": "plate r-eater38",
+   "mono": "E38",
+   "tag": "EATER",
+   "name": "Eater's 38 Best Restaurants in New York City",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "cnt30ny": {
+   "cls": "plate r-cnt33",
+   "mono": "30",
+   "tag": "CN TRAV",
+   "name": "CN Traveller 30 Best Restaurants in NYC",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "infatny": {
+   "cls": "plate r-infat25",
+   "mono": "25",
+   "tag": "INFAT",
+   "name": "The Infatuation's Top 25 Restaurants in NYC",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "bibny": {
+   "cls": "plate r-bib",
+   "mono": "BIB",
+   "tag": "MICHELIN",
+   "name": "Michelin Bib Gourmand, New York",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "michny": {
+   "cls": "plate r-mich",
+   "mono": "★",
+   "tag": "MICHELIN",
+   "name": "Michelin Starred Restaurants, New York",
+   "year": "2026",
+   "ranked": true,
+   "starChip": true
+  },
+  "beli25ny": {
+   "cls": "plate r-beli25",
+   "mono": "B25",
+   "tag": "BELI",
+   "name": "Beli Top 25 Restaurants in NYC",
+   "year": "2025",
+   "ranked": true,
+   "starChip": false
+  },
+  "nyt50ny": {
+   "cls": "plate r-nyt50",
+   "mono": "50",
+   "tag": "NYT USA",
+   "name": "NYT 50 Best Restaurants in America",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "jbny": {
+   "cls": "plate r-jba",
+   "mono": "JB",
+   "tag": "BEARD",
+   "name": "New York James Beard Award Nominees",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  }
+ },
+ "blists": {
+  "cnnabny": {
+   "cls": "b-cnna",
+   "mono": "CN",
+   "tag": "100 NA",
+   "name": "Condé Nast 100 Best Bars in North America",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "cnwbny": {
+   "cls": "b-cnw",
+   "mono": "CN",
+   "tag": "WORLD",
+   "name": "Condé Nast 100 Best Bars in the World",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "eatercny": {
+   "cls": "b-eater",
+   "mono": "E",
+   "tag": "CKTL",
+   "name": "Eater Best Cocktail Bars in NYC",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "eaterdny": {
+   "cls": "b-eaterd",
+   "mono": "E",
+   "tag": "DIVE",
+   "name": "Eater Best Dive Bars in NYC",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "eaterwny": {
+   "cls": "b-eaterw",
+   "mono": "E",
+   "tag": "WINE",
+   "name": "Eater Best NYC Places to Drink Wine",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "infatbny": {
+   "cls": "b-infat",
+   "mono": "IN",
+   "tag": "CKTL",
+   "name": "The Infatuation Best Cocktail Bars in NYC",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "timeoutny": {
+   "cls": "b-timeout",
+   "mono": "TO",
+   "tag": "TIMEOUT",
+   "name": "TimeOut Best Bars in NYC Right Now",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "punchny": {
+   "cls": "b-punch",
+   "mono": "P!",
+   "tag": "DRINK",
+   "name": "PUNCH Where To Drink In NYC",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "cnt20ny": {
+   "cls": "b-cnt20",
+   "mono": "20",
+   "tag": "DIVES",
+   "name": "CN Traveller 20 NYC Dive Bars",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "cnt33bny": {
+   "cls": "b-cnt40",
+   "mono": "33",
+   "tag": "CN TRAV",
+   "name": "CN Traveller 33 Best Bars in NYC",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "bany": {
+   "cls": "b-ba",
+   "mono": "BA",
+   "tag": "11 BEST",
+   "name": "Bon Appétit 11 Best Bars in NYC Right Now",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "belibny": {
+   "cls": "b-beli",
+   "mono": "B14",
+   "tag": "TOP 14",
+   "name": "Beli Top 14 Cocktail Bars in NYC",
+   "year": "2025",
+   "ranked": true,
+   "starChip": false
+  },
+  "jbbny": {
+   "cls": "b-jb",
+   "mono": "JB",
+   "tag": "BEARD",
+   "name": "New York James Beard Bar Award Nominees",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  }
+ }
+}
