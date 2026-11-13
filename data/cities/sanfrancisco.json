@@ -34,6 +34,10 @@
     [
      "jbsf",
      null
+    ],
+    [
+     "sfchron100",
+     18
     ]
    ],
    "dual": false,
@@ -69,6 +73,10 @@
     [
      "eater38sf",
      null
+    ],
+    [
+     "sfchron100",
+     100
     ]
    ],
    "dual": false,
@@ -104,6 +112,10 @@
     [
      "infat25sf",
      14
+    ],
+    [
+     "sfchron100",
+     45
     ]
    ],
    "dual": false,
@@ -172,6 +184,10 @@
     [
      "infat25sf",
      1
+    ],
+    [
+     "sfchron100",
+     20
     ]
    ],
    "dual": false,
@@ -207,6 +223,10 @@
     [
      "eater38sf",
      null
+    ],
+    [
+     "sfchron100",
+     33
     ]
    ],
    "dual": false,
@@ -268,6 +288,10 @@
     [
      "infat25sf",
      7
+    ],
+    [
+     "sfchron100",
+     26
     ]
    ],
    "dual": false,
@@ -299,6 +323,10 @@
     [
      "eater38sf",
      null
+    ],
+    [
+     "sfchron100",
+     1
     ]
    ],
    "dual": false,
@@ -329,6 +357,10 @@
     [
      "infat25sf",
      16
+    ],
+    [
+     "sfchron100",
+     44
     ]
    ],
    "dual": false,
@@ -359,6 +391,10 @@
     [
      "michsf",
      1
+    ],
+    [
+     "sfchron100",
+     47
     ]
    ],
    "dual": false,
@@ -390,6 +426,10 @@
     [
      "infat25sf",
      10
+    ],
+    [
+     "sfchron100",
+     74
     ]
    ],
    "dual": false,
@@ -420,6 +460,10 @@
     [
      "nyt50sf",
      null
+    ],
+    [
+     "sfchron100",
+     5
     ]
    ],
    "dual": false,
@@ -450,6 +494,10 @@
     [
      "eater38sf",
      null
+    ],
+    [
+     "sfchron100",
+     2
     ]
    ],
    "dual": false,
@@ -481,6 +529,10 @@
     [
      "nyt50sf",
      null
+    ],
+    [
+     "sfchron100",
+     25
     ]
    ],
    "dual": true,
@@ -535,6 +587,10 @@
     [
      "beli14sf",
      12
+    ],
+    [
+     "sfchron100",
+     29
     ]
    ],
    "dual": false,
@@ -561,6 +617,10 @@
     [
      "beli14sf",
      6
+    ],
+    [
+     "sfchron100",
+     17
     ]
    ],
    "dual": false,
@@ -587,6 +647,10 @@
     [
      "eater38sf",
      null
+    ],
+    [
+     "sfchron100",
+     7
     ]
    ],
    "dual": false,
@@ -614,6 +678,10 @@
     [
      "timeoutsf",
      1
+    ],
+    [
+     "sfchron100",
+     4
     ]
    ],
    "dual": false,
@@ -640,6 +708,10 @@
     [
      "beli14sf",
      14
+    ],
+    [
+     "sfchron100",
+     51
     ]
    ],
    "dual": false,
@@ -666,6 +738,10 @@
     [
      "eater38sf",
      null
+    ],
+    [
+     "sfchron100",
+     12
     ]
    ],
    "dual": false,
@@ -719,6 +795,10 @@
     [
      "eater38sf",
      null
+    ],
+    [
+     "sfchron100",
+     58
     ]
    ],
    "dual": false,
@@ -744,6 +824,10 @@
     [
      "infat25sf",
      23
+    ],
+    [
+     "sfchron100",
+     31
     ]
    ],
    "dual": false,
@@ -770,6 +854,10 @@
     [
      "beli14sf",
      4
+    ],
+    [
+     "sfchron100",
+     83
     ]
    ],
    "dual": false,
@@ -796,6 +884,10 @@
     [
      "jbsf",
      null
+    ],
+    [
+     "sfchron100",
+     21
     ]
    ],
    "dual": false,
@@ -889,6 +981,10 @@
     [
      "cnt38sf",
      null
+    ],
+    [
+     "sfchron100",
+     64
     ]
    ],
    "dual": false,
@@ -912,6 +1008,10 @@
     [
      "chron25sf",
      14
+    ],
+    [
+     "sfchron100",
+     39
     ]
    ],
    "dual": false,
@@ -957,6 +1057,10 @@
     [
      "chron25sf",
      25
+    ],
+    [
+     "sfchron100",
+     24
     ]
    ],
    "dual": false,
@@ -979,6 +1083,10 @@
     [
      "timeoutsf",
      17
+    ],
+    [
+     "sfchron100",
+     49
     ]
    ],
    "dual": false,
@@ -1001,6 +1109,10 @@
     [
      "eater38sf",
      null
+    ],
+    [
+     "sfchron100",
+     28
     ]
    ],
    "dual": false,
@@ -1023,6 +1135,10 @@
     [
      "infat25sf",
      9
+    ],
+    [
+     "sfchron100",
+     37
     ]
    ],
    "dual": false,
@@ -1067,6 +1183,10 @@
     [
      "cnt38sf",
      null
+    ],
+    [
+     "sfchron100",
+     50
     ]
    ],
    "dual": false,
@@ -1090,6 +1210,10 @@
     [
      "eater38sf",
      null
+    ],
+    [
+     "sfchron100",
+     35
     ]
    ],
    "dual": false,
@@ -1245,6 +1369,10 @@
     [
      "infat25sf",
      25
+    ],
+    [
+     "sfchron100",
+     53
     ]
    ],
    "dual": false,
@@ -1289,6 +1417,10 @@
     [
      "chron25sf",
      16
+    ],
+    [
+     "sfchron100",
+     13
     ]
    ],
    "dual": false,
@@ -1311,6 +1443,10 @@
     [
      "michsf",
      1
+    ],
+    [
+     "sfchron100",
+     36
     ]
    ],
    "dual": false,
@@ -1333,6 +1469,10 @@
     [
      "chron25sf",
      11
+    ],
+    [
+     "sfchron100",
+     19
     ]
    ],
    "dual": false,
@@ -1376,6 +1516,10 @@
     [
      "eater38sf",
      null
+    ],
+    [
+     "sfchron100",
+     66
     ]
    ],
    "dual": false,
@@ -1593,6 +1737,10 @@
     [
      "chron25sf",
      1
+    ],
+    [
+     "sfchron100",
+     3
     ]
    ],
    "dual": false,
@@ -1947,6 +2095,10 @@
     [
      "michsf",
      1
+    ],
+    [
+     "sfchron100",
+     32
     ]
    ],
    "dual": false,
@@ -1981,6 +2133,10 @@
     [
      "eater38sf",
      null
+    ],
+    [
+     "sfchron100",
+     88
     ]
    ],
    "dual": false,
@@ -2017,6 +2173,10 @@
     [
      "bibsf",
      null
+    ],
+    [
+     "sfchron100",
+     91
     ]
    ],
    "dual": false,
@@ -2055,6 +2215,10 @@
     [
      "bibsf",
      null
+    ],
+    [
+     "sfchron100",
+     14
     ]
    ],
    "dual": false,
@@ -2126,6 +2290,10 @@
     [
      "bibsf",
      null
+    ],
+    [
+     "sfchron100",
+     55
     ]
    ],
    "dual": false,
@@ -2144,6 +2312,10 @@
     [
      "nytsf",
      null
+    ],
+    [
+     "sfchron100",
+     57
     ]
    ],
    "dual": false,
@@ -2198,6 +2370,10 @@
     [
      "michsf",
      1
+    ],
+    [
+     "sfchron100",
+     34
     ]
    ],
    "dual": false,
@@ -2512,6 +2688,10 @@
     [
      "chron25sf",
      5
+    ],
+    [
+     "sfchron100",
+     6
     ]
    ],
    "dual": false,
@@ -2568,6 +2748,10 @@
     [
      "chron25sf",
      3
+    ],
+    [
+     "sfchron100",
+     8
     ]
    ],
    "dual": false,
@@ -2586,6 +2770,10 @@
     [
      "chron25sf",
      13
+    ],
+    [
+     "sfchron100",
+     27
     ]
    ],
    "dual": false,
@@ -2639,6 +2827,10 @@
     [
      "chron25sf",
      22
+    ],
+    [
+     "sfchron100",
+     23
     ]
    ],
    "dual": false,
@@ -2710,6 +2902,10 @@
     [
      "resysf",
      14
+    ],
+    [
+     "sfchron100",
+     56
     ]
    ],
    "dual": false,
@@ -2728,6 +2924,10 @@
    "lists": [
     [
      "chron25sf",
+     9
+    ],
+    [
+     "sfchron100",
      9
     ]
    ],
@@ -2849,6 +3049,10 @@
     [
      "chron25sf",
      21
+    ],
+    [
+     "sfchron100",
+     11
     ]
    ],
    "dual": false,
@@ -3026,6 +3230,10 @@
     [
      "eater38sf",
      null
+    ],
+    [
+     "sfchron100",
+     15
     ]
    ],
    "dual": true,
@@ -3133,6 +3341,10 @@
     [
      "michsf",
      1
+    ],
+    [
+     "sfchron100",
+     71
     ]
    ],
    "dual": false,
@@ -3192,6 +3404,805 @@
    ],
    "dual": false,
    "vb": "asian"
+  },
+  {
+   "name": "Fù Huì Huá",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7492,
+   "lng": -122.4545,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     10
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Friends Only",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.8108,
+   "lng": -122.4353,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     16
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Mägo",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.8101,
+   "lng": -122.4073,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     22
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Ok's Deli",
+   "hood": "",
+   "type": "quick",
+   "typekind": "cui",
+   "lat": 37.7688,
+   "lng": -122.4393,
+   "pr": 2,
+   "lists": [
+    [
+     "sfchron100",
+     30
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "La Vaca Birria",
+   "hood": "",
+   "type": "quick",
+   "typekind": "cui",
+   "lat": 37.7506,
+   "lng": -122.4521,
+   "pr": 2,
+   "lists": [
+    [
+     "sfchron100",
+     38
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Bo Ne Phu Yen",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7933,
+   "lng": -122.4441,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     40
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Fikscue",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7702,
+   "lng": -122.4073,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     41
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Lily",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7485,
+   "lng": -122.4193,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     42
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "LeYou Ethiopian",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 37.8052,
+   "lng": -122.3817,
+   "pr": 2,
+   "lists": [
+    [
+     "sfchron100",
+     43
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Tanzie's",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7891,
+   "lng": -122.4385,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     46
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Yeobo, Darling",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.8101,
+   "lng": -122.3953,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     48
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "3 Bottled Fish",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7625,
+   "lng": -122.4561,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     52
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Valley",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7765,
+   "lng": -122.4249,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     54
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Cultured Pickle Shop",
+   "hood": "",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 37.7884,
+   "lng": -122.4473,
+   "pr": 2,
+   "lists": [
+    [
+     "sfchron100",
+     59
+    ]
+   ],
+   "vb": "brunch",
+   "dual": false
+  },
+  {
+   "name": "Lou's Takeaway",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7625,
+   "lng": -122.4537,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     60
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "The Happy Crane",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7611,
+   "lng": -122.4145,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     61
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Vik's Chaat",
+   "hood": "",
+   "type": "quick",
+   "typekind": "cui",
+   "lat": 37.8094,
+   "lng": -122.4193,
+   "pr": 2,
+   "lists": [
+    [
+     "sfchron100",
+     62
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Peña's Bakery",
+   "hood": "",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 37.7604,
+   "lng": -122.4105,
+   "pr": 2,
+   "lists": [
+    [
+     "sfchron100",
+     63
+    ]
+   ],
+   "vb": "brunch",
+   "dual": false
+  },
+  {
+   "name": "Spicy Joi",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7555,
+   "lng": -122.4337,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     65
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Kunjip",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.8017,
+   "lng": -122.4185,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     67
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Cyrus",
+   "hood": "",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 37.8045,
+   "lng": -122.4057,
+   "pr": 4,
+   "lists": [
+    [
+     "sfchron100",
+     68
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Psychic Pie",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7506,
+   "lng": -122.4081,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     69
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Eylan",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7898,
+   "lng": -122.4265,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     70
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Itria",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7786,
+   "lng": -122.3929,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     72
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Sirene",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7653,
+   "lng": -122.3801,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     73
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Table Culture Provisions",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7716,
+   "lng": -122.4001,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     75
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Spread Kitchen",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.8108,
+   "lng": -122.4433,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     76
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Mustards Grill",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7723,
+   "lng": -122.4169,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     77
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Scoma's",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7954,
+   "lng": -122.4577,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     78
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Jubba",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.8031,
+   "lng": -122.3881,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     79
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Smish Smash",
+   "hood": "",
+   "type": "quick",
+   "typekind": "cui",
+   "lat": 37.752,
+   "lng": -122.4257,
+   "pr": 2,
+   "lists": [
+    [
+     "sfchron100",
+     80
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Reem's",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7555,
+   "lng": -122.4049,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     81
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Cafe Colucci",
+   "hood": "",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 37.801,
+   "lng": -122.3977,
+   "pr": 2,
+   "lists": [
+    [
+     "sfchron100",
+     82
+    ]
+   ],
+   "vb": "brunch",
+   "dual": false
+  },
+  {
+   "name": "Enclos",
+   "hood": "",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 37.7548,
+   "lng": -122.4457,
+   "pr": 4,
+   "lists": [
+    [
+     "sfchron100",
+     84
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "The Laundromat",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7485,
+   "lng": -122.4401,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     85
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "The Charter Oak",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7702,
+   "lng": -122.3921,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     86
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Goodtime Bar",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7688,
+   "lng": -122.4529,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     87
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Ernest",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.8122,
+   "lng": -122.4529,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     89
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Alem's Coffee",
+   "hood": "",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 37.7562,
+   "lng": -122.4305,
+   "pr": 2,
+   "lists": [
+    [
+     "sfchron100",
+     90
+    ]
+   ],
+   "vb": "brunch",
+   "dual": false
+  },
+  {
+   "name": "Keeku da Dhaba",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7597,
+   "lng": -122.4505,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     92
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "El Molino Central",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7975,
+   "lng": -122.4553,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     93
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Mrs Khan Uyghur Cuisine",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 37.8094,
+   "lng": -122.4249,
+   "pr": 2,
+   "lists": [
+    [
+     "sfchron100",
+     94
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Mashaallah Halal Pakistani Food",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 37.8115,
+   "lng": -122.4137,
+   "pr": 2,
+   "lists": [
+    [
+     "sfchron100",
+     95
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Patio Filipino",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 37.8136,
+   "lng": -122.4465,
+   "pr": 2,
+   "lists": [
+    [
+     "sfchron100",
+     96
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Capital",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7485,
+   "lng": -122.4025,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     97
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Yo También Cantina",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7723,
+   "lng": -122.4265,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     98
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Shizen",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7912,
+   "lng": -122.4577,
+   "pr": 3,
+   "lists": [
+    [
+     "sfchron100",
+     99
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
   }
  ],
  "bars": [
@@ -3230,6 +4241,10 @@
     [
      "jbbsf",
      null
+    ],
+    [
+     "na50bars",
+     38
     ]
    ],
    "dual": false,
@@ -3271,6 +4286,10 @@
     [
      "eater15bsf",
      null
+    ],
+    [
+     "na50bars",
+     30
     ]
    ],
    "dual": true,
@@ -4893,6 +5912,15 @@
    "year": "2025",
    "ranked": false,
    "starChip": false
+  },
+  "sfchron100": {
+   "cls": "plate r-sfchron100",
+   "mono": "SC",
+   "tag": "SF CHRON",
+   "name": "San Francisco Chronicle's Top 100 Bay Area Restaurants",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
   }
  },
  "blists": {
@@ -4975,6 +6003,15 @@
    "name": "San Francisco James Beard Bar Award Nominees",
    "year": "2026",
    "ranked": false,
+   "starChip": false
+  },
+  "na50bars": {
+   "cls": "b-na50bars",
+   "mono": "50",
+   "tag": "50 BEST",
+   "name": "North America's 50 Best Bars",
+   "year": "2024",
+   "ranked": true,
    "starChip": false
   }
  }

@@ -3243,6 +3243,10 @@
     [
      "beli",
      null
+    ],
+    [
+     "na50bars",
+     19
     ]
    ],
    "dual": false,
@@ -3283,6 +3287,10 @@
     [
      "wyatt",
      4
+    ],
+    [
+     "na50bars",
+     32
     ]
    ],
    "dual": false,
@@ -3387,6 +3395,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "na50bars",
+     48
     ]
    ],
    "dual": false,
@@ -5294,6 +5306,15 @@
    "tag": "TOP 11",
    "name": "Wyatt's Top 11 Bars in Chicago",
    "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "na50bars": {
+   "cls": "b-na50bars",
+   "mono": "50",
+   "tag": "50 BEST",
+   "name": "North America's 50 Best Bars",
+   "year": "2024",
    "ranked": true,
    "starChip": false
   }

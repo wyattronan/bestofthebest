@@ -46,6 +46,10 @@
     [
      "jbla",
      null
+    ],
+    [
+     "latimes101",
+     2
     ]
    ],
    "dual": true,
@@ -93,6 +97,10 @@
     [
      "bala",
      null
+    ],
+    [
+     "latimes101",
+     4
     ]
    ],
    "dual": false,
@@ -139,6 +147,10 @@
     [
      "jbla",
      null
+    ],
+    [
+     "latimes101",
+     3
     ]
    ],
    "dual": false,
@@ -181,6 +193,10 @@
     [
      "jbla",
      null
+    ],
+    [
+     "latimes101",
+     8
     ]
    ],
    "dual": false,
@@ -220,6 +236,10 @@
     [
      "latimesla",
      null
+    ],
+    [
+     "latimes101",
+     12
     ]
    ],
    "dual": false,
@@ -259,6 +279,10 @@
     [
      "jbla",
      null
+    ],
+    [
+     "latimes101",
+     5
     ]
    ],
    "dual": false,
@@ -298,6 +322,10 @@
     [
      "jbla",
      null
+    ],
+    [
+     "latimes101",
+     6
     ]
    ],
    "dual": false,
@@ -332,6 +360,10 @@
     [
      "cnt38la",
      null
+    ],
+    [
+     "latimes101",
+     34
     ]
    ],
    "dual": false,
@@ -367,6 +399,10 @@
     [
      "jbla",
      null
+    ],
+    [
+     "latimes101",
+     20
     ]
    ],
    "dual": false,
@@ -403,6 +439,10 @@
     [
      "jbla",
      null
+    ],
+    [
+     "latimes101",
+     11
     ]
    ],
    "dual": false,
@@ -468,6 +508,10 @@
     [
      "latimesla",
      null
+    ],
+    [
+     "latimes101",
+     23
     ]
    ],
    "dual": false,
@@ -498,6 +542,10 @@
     [
      "latimesla",
      null
+    ],
+    [
+     "latimes101",
+     7
     ]
    ],
    "dual": false,
@@ -558,6 +606,10 @@
     [
      "latimesla",
      null
+    ],
+    [
+     "latimes101",
+     19
     ]
    ],
    "dual": false,
@@ -589,6 +641,10 @@
     [
      "nyt50la",
      null
+    ],
+    [
+     "latimes101",
+     69
     ]
    ],
    "dual": false,
@@ -620,6 +676,10 @@
     [
      "cnt38la",
      null
+    ],
+    [
+     "latimes101",
+     31
     ]
    ],
    "dual": true,
@@ -650,6 +710,10 @@
     [
      "bala",
      null
+    ],
+    [
+     "latimes101",
+     63
     ]
    ],
    "dual": false,
@@ -676,6 +740,10 @@
     [
      "latimesla",
      null
+    ],
+    [
+     "latimes101",
+     16
     ]
    ],
    "dual": false,
@@ -703,6 +771,10 @@
     [
      "timeoutla",
      37
+    ],
+    [
+     "latimes101",
+     54
     ]
    ],
    "dual": false,
@@ -730,6 +802,10 @@
     [
      "latimesla",
      null
+    ],
+    [
+     "latimes101",
+     36
     ]
    ],
    "dual": false,
@@ -757,6 +833,10 @@
     [
      "cnt38la",
      null
+    ],
+    [
+     "latimes101",
+     40
     ]
    ],
    "dual": false,
@@ -861,6 +941,10 @@
     [
      "latimesla",
      null
+    ],
+    [
+     "latimes101",
+     22
     ]
    ],
    "dual": false,
@@ -888,6 +972,10 @@
     [
      "cnt38la",
      null
+    ],
+    [
+     "latimes101",
+     72
     ]
    ],
    "dual": true,
@@ -915,6 +1003,10 @@
     [
      "cnt38la",
      null
+    ],
+    [
+     "latimes101",
+     52
     ]
    ],
    "dual": false,
@@ -941,6 +1033,10 @@
     [
      "cnt38la",
      null
+    ],
+    [
+     "latimes101",
+     32
     ]
    ],
    "dual": false,
@@ -967,6 +1063,10 @@
     [
      "jbla",
      null
+    ],
+    [
+     "latimes101",
+     13
     ]
    ],
    "dual": false,
@@ -1020,6 +1120,10 @@
     [
      "latimesla",
      null
+    ],
+    [
+     "latimes101",
+     21
     ]
    ],
    "dual": false,
@@ -1047,6 +1151,10 @@
     [
      "resyla",
      17
+    ],
+    [
+     "latimes101",
+     64
     ]
    ],
    "dual": false,
@@ -1069,6 +1177,10 @@
     [
      "nyt50la",
      null
+    ],
+    [
+     "latimes101",
+     28
     ]
    ],
    "dual": false,
@@ -1159,6 +1271,10 @@
     [
      "cnt38la",
      null
+    ],
+    [
+     "latimes101",
+     42
     ]
    ],
    "dual": false,
@@ -1180,6 +1296,10 @@
     [
      "nytla",
      null
+    ],
+    [
+     "latimes101",
+     84
     ]
    ],
    "dual": false,
@@ -1202,6 +1322,10 @@
     [
      "latimesla",
      null
+    ],
+    [
+     "latimes101",
+     14
     ]
    ],
    "dual": false,
@@ -1332,6 +1456,10 @@
     [
      "nytla",
      null
+    ],
+    [
+     "latimes101",
+     71
     ]
    ],
    "dual": false,
@@ -1376,6 +1504,10 @@
     [
      "latimesla",
      null
+    ],
+    [
+     "latimes101",
+     24
     ]
    ],
    "dual": false,
@@ -1421,6 +1553,10 @@
     [
      "latimesla",
      null
+    ],
+    [
+     "latimes101",
+     17
     ]
    ],
    "dual": false,
@@ -1442,6 +1578,10 @@
     [
      "cnt38la",
      null
+    ],
+    [
+     "latimes101",
+     70
     ]
    ],
    "dual": false,
@@ -1529,6 +1669,10 @@
     [
      "bibla",
      null
+    ],
+    [
+     "latimes101",
+     33
     ]
    ],
    "dual": false,
@@ -1572,6 +1716,10 @@
     [
      "timeoutla",
      16
+    ],
+    [
+     "latimes101",
+     62
     ]
    ],
    "dual": false,
@@ -1697,6 +1845,10 @@
     [
      "cnt38la",
      null
+    ],
+    [
+     "latimes101",
+     10
     ]
    ],
    "dual": false,
@@ -1851,6 +2003,10 @@
     [
      "latimesla",
      null
+    ],
+    [
+     "latimes101",
+     81
     ]
    ],
    "dual": false,
@@ -1921,6 +2077,10 @@
     [
      "nytla",
      null
+    ],
+    [
+     "latimes101",
+     93
     ]
    ],
    "dual": false,
@@ -1956,6 +2116,10 @@
     [
      "eater38la",
      null
+    ],
+    [
+     "latimes101",
+     18
     ]
    ],
    "dual": false,
@@ -2079,6 +2243,10 @@
     [
      "timeoutla",
      12
+    ],
+    [
+     "latimes101",
+     38
     ]
    ],
    "dual": false,
@@ -2183,6 +2351,10 @@
     [
      "cnt38la",
      null
+    ],
+    [
+     "latimes101",
+     85
     ]
    ],
    "dual": false,
@@ -2379,6 +2551,10 @@
     [
      "resyla",
      12
+    ],
+    [
+     "latimes101",
+     48
     ]
    ],
    "dual": false,
@@ -2753,6 +2929,10 @@
     [
      "bibla",
      null
+    ],
+    [
+     "latimes101",
+     37
     ]
    ],
    "dual": false,
@@ -2804,6 +2984,10 @@
     [
      "timeoutla",
      27
+    ],
+    [
+     "latimes101",
+     73
     ]
    ],
    "dual": false,
@@ -2892,6 +3076,10 @@
     [
      "michla",
      1
+    ],
+    [
+     "latimes101",
+     1
     ]
    ],
    "dual": false,
@@ -2909,6 +3097,10 @@
     [
      "bibla",
      null
+    ],
+    [
+     "latimes101",
+     29
     ]
    ],
    "dual": false,
@@ -2960,6 +3152,10 @@
     [
      "timeoutla",
      25
+    ],
+    [
+     "latimes101",
+     55
     ]
    ],
    "dual": false,
@@ -3049,6 +3245,10 @@
     [
      "nytla",
      null
+    ],
+    [
+     "latimes101",
+     92
     ]
    ],
    "dual": false,
@@ -3065,6 +3265,10 @@
     [
      "bibla",
      null
+    ],
+    [
+     "latimes101",
+     74
     ]
    ],
    "dual": false,
@@ -3195,6 +3399,10 @@
     [
      "timeoutla",
      36
+    ],
+    [
+     "latimes101",
+     59
     ]
    ],
    "dual": false,
@@ -3370,6 +3578,10 @@
     [
      "eater38la",
      null
+    ],
+    [
+     "latimes101",
+     35
     ]
    ],
    "dual": false,
@@ -3724,6 +3936,10 @@
     [
      "resyla",
      10
+    ],
+    [
+     "latimes101",
+     75
     ]
    ],
    "dual": false,
@@ -3740,6 +3956,10 @@
     [
      "resyla",
      18
+    ],
+    [
+     "latimes101",
+     77
     ]
    ],
    "dual": false,
@@ -3774,6 +3994,10 @@
     [
      "michla",
      1
+    ],
+    [
+     "latimes101",
+     39
     ]
    ],
    "dual": false,
@@ -3898,6 +4122,10 @@
     [
      "bibla",
      null
+    ],
+    [
+     "latimes101",
+     58
     ]
    ],
    "dual": false,
@@ -3934,6 +4162,10 @@
     [
      "michla",
      2
+    ],
+    [
+     "latimes101",
+     25
     ]
    ],
    "dual": false,
@@ -3968,10 +4200,728 @@
     [
      "resyla",
      11
+    ],
+    [
+     "latimes101",
+     60
     ]
    ],
    "dual": false,
    "vb": "datenight"
+  },
+  {
+   "name": "Morihoro",
+   "hood": "",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 34.0263,
+   "lng": -118.2709,
+   "pr": 4,
+   "lists": [
+    [
+     "latimes101",
+     9
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Henrietta",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.076,
+   "lng": -118.2701,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     15
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Darling",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0711,
+   "lng": -118.2389,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     26
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Sora Craft Kitchen",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.055,
+   "lng": -118.2621,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     27
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Electric Bleu",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0508,
+   "lng": -118.2773,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     30
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Darkroom",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0809,
+   "lng": -118.2829,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     41
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Le Dräq",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0634,
+   "lng": -118.2629,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     43
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Knife Pleat",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0389,
+   "lng": -118.2477,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     44
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Fat & Flour",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.076,
+   "lng": -118.2469,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     45
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Holy Basil Santa Monica",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0424,
+   "lng": -118.2789,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     46
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Ammatolí",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0774,
+   "lng": -118.2165,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     47
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Bar Étoile",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0739,
+   "lng": -118.2685,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     49
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Yerord Mas",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0704,
+   "lng": -118.2717,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     50
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Moo's Craft Barbecue",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0641,
+   "lng": -118.2277,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     51
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "A Tí",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0739,
+   "lng": -118.2133,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     53
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Majordomo",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0466,
+   "lng": -118.2293,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     56
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Taquearte",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0711,
+   "lng": -118.2613,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     57
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Bridgetown Roti",
+   "hood": "",
+   "type": "quick",
+   "typekind": "cui",
+   "lat": 34.0284,
+   "lng": -118.2229,
+   "pr": 2,
+   "lists": [
+    [
+     "latimes101",
+     61
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Budonoki",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0725,
+   "lng": -118.2125,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     65
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Aunt Yvette's Kitchen",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0424,
+   "lng": -118.2477,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     66
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Rustic Canyon",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0368,
+   "lng": -118.2381,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     67
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Olive & Rose",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0186,
+   "lng": -118.2397,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     68
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Tacos La Carreta",
+   "hood": "",
+   "type": "quick",
+   "typekind": "cui",
+   "lat": 34.0431,
+   "lng": -118.2525,
+   "pr": 2,
+   "lists": [
+    [
+     "latimes101",
+     76
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Lorenzo California",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.069,
+   "lng": -118.2573,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     78
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Badmaash Venice",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.034,
+   "lng": -118.2077,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     79
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Barra Santos",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0347,
+   "lng": -118.2053,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     80
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Delmy's Pupusas",
+   "hood": "",
+   "type": "quick",
+   "typekind": "cui",
+   "lat": 34.0781,
+   "lng": -118.2285,
+   "pr": 2,
+   "lists": [
+    [
+     "latimes101",
+     82
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Bao Kee Cafe",
+   "hood": "",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 34.0235,
+   "lng": -118.2237,
+   "pr": 2,
+   "lists": [
+    [
+     "latimes101",
+     83
+    ]
+   ],
+   "vb": "brunch",
+   "dual": false
+  },
+  {
+   "name": "Tainos L.A.",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0473,
+   "lng": -118.2709,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     86
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Perse",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.062,
+   "lng": -118.2477,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     87
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Saqartvelo",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0613,
+   "lng": -118.2277,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     88
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Biriyani Kabob House",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0627,
+   "lng": -118.2493,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     89
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Jacaranda",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0284,
+   "lng": -118.2829,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     90
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Phởholic",
+   "hood": "",
+   "type": "quick",
+   "typekind": "cui",
+   "lat": 34.0571,
+   "lng": -118.2325,
+   "pr": 2,
+   "lists": [
+    [
+     "latimes101",
+     91
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Al Baraka Restaurant",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0452,
+   "lng": -118.2701,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     94
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Lum-Ka-Naad",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0732,
+   "lng": -118.2237,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     95
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Colossus Harbor",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0291,
+   "lng": -118.2693,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     96
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Barsha",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0837,
+   "lng": -118.2661,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     97
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Mario's Butcher Shop",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0557,
+   "lng": -118.2237,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     98
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Loli Farms",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0592,
+   "lng": -118.2109,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     99
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Jade Rabbit",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0627,
+   "lng": -118.2317,
+   "pr": 3,
+   "lists": [
+    [
+     "latimes101",
+     100
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Mish Delicatessen",
+   "hood": "",
+   "type": "quick",
+   "typekind": "cui",
+   "lat": 34.0781,
+   "lng": -118.2285,
+   "pr": 2,
+   "lists": [
+    [
+     "latimes101",
+     101
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
   }
  ],
  "bars": [
@@ -4103,6 +5053,10 @@
     [
      "cnt25la",
      null
+    ],
+    [
+     "na50bars",
+     46
     ]
    ],
    "dual": false,
@@ -4135,6 +5089,10 @@
     [
      "cnt25la",
      null
+    ],
+    [
+     "na50bars",
+     8
     ]
    ],
    "dual": false,
@@ -5854,6 +6812,15 @@
    "year": "2025",
    "ranked": false,
    "starChip": false
+  },
+  "latimes101": {
+   "cls": "plate r-latimes101",
+   "mono": "101",
+   "tag": "LA TIMES",
+   "name": "The Los Angeles Times' 101 Best Restaurants",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
   }
  },
  "blists": {
@@ -5945,6 +6912,15 @@
    "name": "Condé Nast Traveler's 25 Best Bars in Los Angeles",
    "year": "2025",
    "ranked": false,
+   "starChip": false
+  },
+  "na50bars": {
+   "cls": "b-na50bars",
+   "mono": "50",
+   "tag": "50 BEST",
+   "name": "North America's 50 Best Bars",
+   "year": "2024",
+   "ranked": true,
    "starChip": false
   }
  }
