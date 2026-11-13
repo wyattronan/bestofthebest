@@ -226,7 +226,13 @@ body.city-losangeles.theme-bars{
     color:var(--ink-soft);line-height:1.9;}
   @media(max-width:860px){.masthead-inner{grid-template-columns:1fr;justify-items:center;gap:10px;text-align:center;}
     .mast-logo,.mast-ear{justify-self:center;} .mast-ear{display:none;}
-    body.theme-bars .mast-logo{display:none;}}
+    body.theme-bars .mast-logo{display:none;}
+    body.theme-bars .masthead-inner{display:none;}
+    body.theme-bars .sea-banner,body.theme-bars .hou-banner,body.theme-bars .atx-banner,body.theme-bars .atl-banner{position:relative;}
+    .sea-stage,.atl-stage{position:relative;left:auto;top:auto;transform:none;width:100%;height:auto;aspect-ratio:2560/432;max-width:100%;overflow:hidden;}
+    .hou-stage,.atx-stage{position:relative;left:auto;top:auto;transform:none;width:100%;height:auto;aspect-ratio:2172/724;max-width:100%;overflow:hidden;}
+    .sea-vid,.atl-vid,.hou-vid,.atx-vid{object-fit:cover;object-position:center;transform:none;}
+    .sea-vig,.hou-vig,.atx-vig,.atl-vig{background:linear-gradient(90deg,#000 0%,rgba(0,0,0,0) 4%,rgba(0,0,0,0) 96%,#000 100%);}}
 
   /* =================== NAV =================== */
   .topnav{position:sticky;top:0;z-index:40;background:var(--bg);border-bottom:1px solid var(--ink);
