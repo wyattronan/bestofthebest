@@ -1255,7 +1255,7 @@ function listTags(v){
   return v.lists.map(([k,rk])=>{
     const def=L[k]; if(!def) return "";
     const rkTxt = rk!=null ? `<span class="rk">${def.starChip?("★".repeat(Math.min(rk,3))):("#"+rk)}</span> ` : "";
-    return `<button class="ltag ${def.starChip?"star":""}" data-pub="${k}" title="${def.name}">${rkTxt}${def.mono}</button>`;
+    return `<button class="ltag ${def.starChip?"star":""}" data-pub="${k}" aria-label="${def.name}">${rkTxt}${def.mono}</button>`;
   }).join("");
 }
 function mapsURL(v){ return "https://www.google.com/maps/search/?api=1&query="+encodeURIComponent(v.name+" "+state.cityName); }
@@ -1564,6 +1564,11 @@ function showTip(tagEl){
   requestAnimationFrame(()=>tip.classList.add("show"));
 }
 function hideTip(){ document.getElementById("tip").classList.remove("show"); }
+document.addEventListener("mouseover",e=>{const t=e.target.closest(".ltag[data-pub]"); if(t&&!t.contains(e.relatedTarget))showTip(t);});
+document.addEventListener("mouseout",e=>{const t=e.target.closest(".ltag[data-pub]"); if(t&&!t.contains(e.relatedTarget))hideTip();});
+document.addEventListener("focusin",e=>{const t=e.target.closest&&e.target.closest(".ltag[data-pub]"); if(t)showTip(t);});
+document.addEventListener("focusout",e=>{const t=e.target.closest&&e.target.closest(".ltag[data-pub]"); if(t)hideTip();});
+window.addEventListener("scroll",hideTip,{passive:true});
 function openModal(name){
   const v=venues().find(x=>x.name===name); if(!v) return;
   const L=lists();
