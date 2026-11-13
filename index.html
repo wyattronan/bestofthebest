@@ -90,7 +90,7 @@ body.city-boston.theme-bars{
 body.city-sanfrancisco.theme-bars{
     --bg:#070a0f; --bg2:#0d111a; --panel:#131824; --panel2:#182030;
     --ink:#eef4f6; --ink-soft:#aec0c6; --faint:#6a7a82;
-    --accent:#ea4a38; --accent2:#5fc6e8;
+    --accent:#ff5a78; --accent2:#ffbe5a;
     --rule:#243242; --rule-bold:#2f4356; --plate-bd:#2f4356;
     --leaf:#52d98a; --gold:#ffd23f; --chip:#152230;
     --shadow:rgba(0,0,0,.55);
@@ -127,7 +127,7 @@ body.city-losangeles.theme-bars{
   .masthead-inner{max-width:1180px;margin:0 auto;padding:22px 28px 18px;height:216px;
     display:grid;grid-template-columns:1fr auto 1fr;align-items:center;align-content:center;gap:18px;}
   /* --- logo (left) --- */
-  .mast-logo{display:flex;align-items:center;gap:5px;justify-self:start;}
+  .mast-logo{display:flex;align-items:center;gap:3px;justify-self:start;}
   .medallion{width:54px;height:54px;flex:0 0 auto;color:var(--ink);}
   body.theme-bars .medallion{color:var(--accent2);filter:drop-shadow(0 0 5px rgba(42,224,255,.7));}
   .logo-word{font-family:'Fraunces',serif;font-weight:900;font-size:20px;line-height:.92;
@@ -156,6 +156,11 @@ body.city-losangeles.theme-bars{
   .mast-ruleline b{color:var(--ink-soft);}
   /* --- ear (right) --- */
   .mast-ear{justify-self:end;}
+.ear-box{min-width:150px;}
+.ear-box .ear-row{display:flex;align-items:baseline;justify-content:space-between;gap:12px;text-align:left;}
+.ear-num{font-family:'Fraunces',Georgia,serif;font-weight:700;font-size:16px;letter-spacing:0;color:var(--ink);text-transform:none;line-height:1.5;}
+.ear-lab{font-size:8.5px;letter-spacing:.1em;}
+.ribbon{display:none !important;}
   .ear-box{border:1px solid var(--rule-bold);padding:7px 12px;text-align:center;min-width:120px;}
   body.theme-bars .ear-box{border-color:var(--accent2);box-shadow:0 0 12px rgba(42,224,255,.2);}
   .ear-h{font-family:'Space Grotesk',sans-serif;font-size:8.5px;letter-spacing:.22em;text-transform:uppercase;
@@ -955,11 +960,8 @@ body.home > .paper-tex, body.home > nav.city-switch, body.home > header.masthead
         <b id="editionLabel">The Restaurants Edition</b><span>Nov.&nbsp;2026</span><span class="seg"></span></div>
     </div>
     <div class="mast-ear">
-      <div class="ear-box">
+      <div class="ear-box" id="earBox">
         <div class="ear-h">The Particulars</div>
-        <div class="ear-row" id="ear0">Price · Free</div>
-        <div class="ear-row" id="ear1">City Final</div>
-        <div class="ear-row" id="ear2">Weekend Table</div>
       </div>
     </div>
   </div>
@@ -1084,6 +1086,14 @@ function computeStats(){
       ? {num:avgPrice,label:"Avg price tier",fmt:n=>PRICE_SYM[Math.round(n)]||"—",raw:true}
       : {num:vs.filter(v=>v.type==="m").length,label:"Cocktail dens"},
   ];
+}
+function fillStamp(){
+  var st=computeStats(), box=document.getElementById("earBox"); if(!box) return;
+  var rows=st.map(function(s){
+    var v=s.raw? (s.fmt?s.fmt(Math.round(s.num)):Math.round(s.num)) : Math.round(s.num);
+    return '<div class="ear-row"><span class="ear-num">'+v+'</span><span class="ear-lab">'+s.label+'</span></div>';
+  }).join('');
+  box.innerHTML='<div class="ear-h">The Particulars</div>'+rows;
 }
 function renderRibbon(){
   const stats=computeStats(), rib=document.getElementById("ribbon");
@@ -1408,7 +1418,7 @@ function applyTheme(){
   document.body.className = "city-"+state.city+" "+(state.kind==="resto"?"theme-resto":"theme-bars");
   const t=THEME[state.kind];
   document.getElementById("editionLabel").textContent=t.edition;
-  t.ear.forEach((txt,i)=>document.getElementById("ear"+i).textContent=txt);
+  fillStamp();
   document.querySelector(".uttab[data-report]").style.display = state.kind==="bars" ? "none" : "";
   replay(document.getElementById("mastLogo"));
   requestAnimationFrame(()=>{ if(state.kind==="resto") replay(document.getElementById("masthead")); buildMarquee(); });
@@ -1463,7 +1473,7 @@ function setCity(key){
   document.querySelectorAll(".uttab").forEach(t=>t.classList.remove("active"));
   const cb=document.querySelector('.uttab[data-view="table"]'); if(cb) cb.classList.add("active");
   document.querySelectorAll(".city-btn").forEach(b=>b.classList.toggle("active",b.dataset.city===key));
-  applyTheme(); renderRibbon(); render();
+  applyTheme(); renderRibbon(); fillStamp(); render();
 }
 function navHash(city,kind){location.hash="#/"+city+"/"+(kind==="bars"?"bars":"restaurants");}
 function applyRoute(city,kindTok){var kind=kindTok==="bars"?"bars":"resto",prev=state.kind;state.kind=kind;setCity(city);if(prev!=="bars"&&kind==="bars"){try{powerOnBars();}catch(e){}}}
