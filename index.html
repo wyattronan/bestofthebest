@@ -796,7 +796,7 @@ body.theme-bars .tier-more:hover{background:color-mix(in srgb, var(--accent) 18%
     background:radial-gradient(ellipse 82% 120% at 50% 48%,transparent 14%,rgba(0,0,0,.5) 44%,rgba(0,0,0,.84) 70%,rgba(0,0,0,.98) 100%);}
 
   /* ===== tag tooltip + book button ===== */
-  #tip{position:fixed;z-index:210;max-width:270px;background:var(--ink);color:var(--bg);padding:8px 11px;
+  #tip{position:fixed;z-index:9999;max-width:270px;background:var(--ink);color:var(--bg);padding:8px 11px;
     border-radius:4px;opacity:0;pointer-events:none;transition:opacity .1s;box-shadow:0 6px 18px var(--shadow);}
   #tip.show{opacity:1;}
   .tip-name{font-family:'Fraunces',serif;font-weight:600;font-size:13px;line-height:1.2;}
@@ -1553,7 +1553,6 @@ function showTip(tagEl){
   else if(rk!=null) meta+="Ranked #"+rk+" on this list";
   else if(def.ranked) meta+="A ranked list";
   else meta+="Unranked — every pick equal";
-  document.getElementById("pop").classList.remove("show");
   const tip=document.getElementById("tip");
   tip.innerHTML=`<div class="tip-name">${def.name}</div><div class="tip-meta">${meta}</div>`;
   tip.style.display="block";
@@ -1566,6 +1565,8 @@ function showTip(tagEl){
 function hideTip(){ document.getElementById("tip").classList.remove("show"); }
 document.addEventListener("mouseover",e=>{const t=e.target.closest(".ltag[data-pub]"); if(t&&!t.contains(e.relatedTarget))showTip(t);});
 document.addEventListener("mouseout",e=>{const t=e.target.closest(".ltag[data-pub]"); if(t&&!t.contains(e.relatedTarget))hideTip();});
+document.addEventListener("touchend",e=>{const t=e.target.closest&&e.target.closest(".ltag[data-pub]"); if(t){e.preventDefault(); showTip(t); clearTimeout(window.__tipTimer); window.__tipTimer=setTimeout(hideTip,2200);}},{passive:false});
+document.addEventListener("touchstart",e=>{if(!e.target.closest(".ltag[data-pub]"))hideTip();},{passive:true});
 document.addEventListener("focusin",e=>{const t=e.target.closest&&e.target.closest(".ltag[data-pub]"); if(t)showTip(t);});
 document.addEventListener("focusout",e=>{const t=e.target.closest&&e.target.closest(".ltag[data-pub]"); if(t)hideTip();});
 window.addEventListener("scroll",hideTip,{passive:true});
