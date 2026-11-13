@@ -73,18 +73,18 @@
   body.city-neworleans.theme-bars .nol-banner{display:block;}
   body.city-miami.theme-bars .mast-center,body.city-neworleans.theme-bars .mast-center{visibility:hidden;}
   body.city-miami.theme-bars .masthead-inner,body.city-neworleans.theme-bars .masthead-inner{position:relative;z-index:3;}
-  .mia-stage{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);height:90%;aspect-ratio:2560/432;max-width:97%;}
+  .mia-stage{position:absolute;left:50%;bottom:0;transform:translateX(-50%);height:100%;aspect-ratio:2560/432;max-width:100%;}
   .nol-stage{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);height:100%;aspect-ratio:2164/728;max-width:96%;}
   .mia-vid{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;object-position:center center;display:block;}
   .nol-vid{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;display:block;}
-  .mia-vig,.nol-vig{position:absolute;inset:0;z-index:5;pointer-events:none;}.mia-vig{background:linear-gradient(90deg,#000 0%,#000 7%,rgba(0,0,0,0) 22%,rgba(0,0,0,0) 78%,#000 93%,#000 100%),linear-gradient(180deg,#000 0%,rgba(0,0,0,0) 20%);}.nol-vig{background:linear-gradient(90deg,#000 0%,#000 24%,rgba(0,0,0,0) 42%,rgba(0,0,0,0) 58%,#000 76%,#000 100%);}
+  .mia-vig,.nol-vig{position:absolute;inset:0;z-index:5;pointer-events:none;}.mia-vig{background:linear-gradient(90deg,#000 0%,#000 7%,rgba(0,0,0,0) 22%,rgba(0,0,0,0) 78%,#000 93%,#000 100%),linear-gradient(180deg,#000 0%,#000 9%,rgba(0,0,0,0) 22%);}.nol-vig{background:linear-gradient(90deg,#000 0%,#000 24%,rgba(0,0,0,0) 42%,rgba(0,0,0,0) 58%,#000 76%,#000 100%);}
   .phx-banner{display:none;position:absolute;inset:0;z-index:1;overflow:hidden;}
   body.city-phoenix.theme-bars .phx-banner{display:block;}
   body.city-phoenix.theme-bars .mast-center{visibility:hidden;}
   body.city-phoenix.theme-bars .masthead-inner{position:relative;z-index:3;}
   .phx-stage{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);height:100%;aspect-ratio:2048/682;max-width:98%;}
   .phx-vid{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;display:block;}
-  .phx-vig{position:absolute;inset:0;z-index:5;pointer-events:none;background:linear-gradient(90deg,#000 0%,#000 31%,rgba(0,0,0,0) 46%,rgba(0,0,0,0) 54%,#000 69%,#000 100%);}
+  .phx-vig{position:absolute;inset:0;z-index:5;pointer-events:none;background:linear-gradient(90deg,#000 0%,#000 22%,rgba(0,0,0,0) 38%,rgba(0,0,0,0) 62%,#000 78%,#000 100%);}
   body.theme-resto .skyline{opacity:.2;}body.city-seattle.theme-resto .skyline,body.city-houston.theme-resto .skyline,body.city-austin.theme-resto .skyline,body.city-atlanta.theme-resto .skyline,body.city-chicago.theme-resto .skyline,body.city-newyork.theme-resto .skyline{opacity:.4;}body.city-miami.theme-resto .skyline,body.city-neworleans.theme-resto .skyline,body.city-phoenix.theme-resto .skyline{opacity:.28;}
   body.city-chicago.theme-resto{
     --bg:#f1ebdb; --bg2:#e9e1cd; --panel:#f8f3e7; --panel2:#efe8d6;
@@ -207,7 +207,7 @@ body.city-losangeles.theme-bars{
     display:grid;grid-template-columns:1fr auto 1fr;align-items:center;align-content:center;gap:18px;}
   /* --- logo (left) --- */
   .mast-logo{display:flex;align-items:center;gap:0;justify-self:start;}
-.mast-logo .logo-word{margin-left:14px;}
+.mast-logo .logo-word{margin-left:26px;}
   .medallion{width:54px;height:54px;flex:0 0 auto;color:var(--ink);}
   body.theme-bars .medallion{color:var(--accent2);filter:drop-shadow(0 0 5px rgba(42,224,255,.7));}
   .logo-word{font-family:'Fraunces',serif;font-weight:900;font-size:20px;line-height:.92;
@@ -381,7 +381,7 @@ body.theme-bars .tier-more:hover{background:color-mix(in srgb, var(--accent) 18%
 .tier-grid .vcard .vname{padding:14px 20px 0;}
 .tier-grid .vcard .clip-by{padding:5px 20px 0;}
 .tier-grid .vcard .clip-cr{padding:15px 20px 7px;}
-.tier-grid .vcard .vtags{padding:0 20px 4px;}
+.tier-grid .vcard .vtags{padding:4px 20px 15px;}
 .tier-grid .vcard .clip-ft{padding:13px 20px 16px;margin-top:0;}
 .tier-grid .vcard .vmark{padding:14px 20px 15px;margin:0;}
 @supports (grid-template-rows:subgrid){
@@ -415,7 +415,7 @@ body.theme-bars .tier-more:hover{background:color-mix(in srgb, var(--accent) 18%
   .ltag:hover{border-color:var(--ink);color:var(--ink);}
   body.theme-bars .ltag:hover{border-color:var(--accent2);color:var(--accent2);box-shadow:0 0 8px rgba(42,224,255,.3);}
   .ltag .rk{color:var(--accent);font-weight:700;}
-  .ltag.star{border-color:var(--gold);color:var(--gold);}
+  .ltag.lstar{border-color:var(--gold);color:var(--gold);}
   .vcard-foot{display:flex;align-items:center;gap:8px;margin-top:12px;
     font-family:'Space Grotesk',sans-serif;font-size:11px;flex-wrap:wrap;}
   .countchip{font-weight:700;letter-spacing:.02em;color:var(--ink);}
@@ -820,7 +820,7 @@ body.theme-bars .tier-more:hover{background:color-mix(in srgb, var(--accent) 18%
     background:radial-gradient(circle,rgba(118,70,32,1) 0 36%,rgba(118,70,32,.55) 60%,transparent 82%);
     animation-name:chiBulb;animation-iteration-count:infinite;animation-timing-function:ease-in-out;}
   .chi-vig{position:absolute;inset:0;z-index:5;pointer-events:none;
-    background:linear-gradient(90deg,#000 0%,#000 15%,rgba(0,0,0,0) 33%,rgba(0,0,0,0) 67%,#000 85%,#000 100%),radial-gradient(ellipse 56% 120% at 50% 50%,rgba(0,0,0,0) 24%,rgba(0,0,0,.5) 58%,rgba(0,0,0,.86) 100%);}
+    background:linear-gradient(90deg,#000 0%,#000 9%,rgba(0,0,0,0) 24%,rgba(0,0,0,0) 76%,#000 91%,#000 100%),radial-gradient(ellipse 56% 120% at 50% 50%,rgba(0,0,0,0) 24%,rgba(0,0,0,.5) 58%,rgba(0,0,0,.86) 100%);}
   @keyframes chiGlow{0%,100%{opacity:.15}50%{opacity:.575}}
   @keyframes chiBulb{0%,12%{opacity:0}17%{opacity:.5}25%{opacity:0}100%{opacity:0}}
   @media (prefers-reduced-motion:reduce){.chi-glow,.chi-bulb{animation:none;}}
@@ -1407,7 +1407,7 @@ function listTags(v){
   return v.lists.map(([k,rk])=>{
     const def=L[k]; if(!def) return "";
     const rkTxt = rk!=null ? `<span class="rk">${def.starChip?("★".repeat(Math.min(rk,3))):("#"+rk)}</span> ` : "";
-    return `<button class="ltag ${def.starChip?"star":""}" data-pub="${k}" aria-label="${def.name}">${rkTxt}${def.mono}</button>`;
+    return `<button class="ltag ${def.starChip?"lstar":""}" data-pub="${k}" aria-label="${def.name}">${rkTxt}${def.mono}</button>`;
   }).join("");
 }
 function mapsURL(v){ return "https://www.google.com/maps/search/?api=1&query="+encodeURIComponent(v.name+" "+state.cityName); }
