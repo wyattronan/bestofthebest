@@ -37,6 +37,10 @@
     [
      "infatsea",
      18
+    ],
+    [
+     "nytsea",
+     null
     ]
    ],
    "vb": "tasting",
@@ -155,6 +159,10 @@
     [
      "seamet",
      null
+    ],
+    [
+     "nytsea",
+     null
     ]
    ],
    "vb": "datenight",
@@ -193,6 +201,10 @@
     [
      "seamet",
      null
+    ],
+    [
+     "nytsea",
+     null
     ]
    ],
    "vb": "global",
@@ -218,6 +230,10 @@
     [
      "infatsea",
      11
+    ],
+    [
+     "nytsea",
+     null
     ]
    ],
    "vb": "datenight",
@@ -336,6 +352,10 @@
     [
      "seamet",
      null
+    ],
+    [
+     "nytsea",
+     null
     ]
    ],
    "vb": "datenight",
@@ -382,6 +402,10 @@
     [
      "infatsea",
      7
+    ],
+    [
+     "nytsea",
+     null
     ]
    ],
    "vb": "datenight",
@@ -487,6 +511,10 @@
     [
      "seamet",
      null
+    ],
+    [
+     "nytsea",
+     null
     ]
    ],
    "vb": "datenight",
@@ -533,6 +561,10 @@
     [
      "seatimes",
      38
+    ],
+    [
+     "nytsea",
+     null
     ]
    ],
    "vb": "asian",
@@ -549,6 +581,10 @@
    "lists": [
     [
      "eater38sea",
+     null
+    ],
+    [
+     "nytsea",
      null
     ]
    ],
@@ -575,6 +611,10 @@
     [
      "infatsea",
      22
+    ],
+    [
+     "nytsea",
+     null
     ]
    ],
    "vb": "specialty",
@@ -659,6 +699,10 @@
     [
      "jbsea",
      null
+    ],
+    [
+     "nytsea",
+     null
     ]
    ],
    "vb": "tasting",
@@ -675,6 +719,10 @@
    "lists": [
     [
      "eater38sea",
+     null
+    ],
+    [
+     "nytsea",
      null
     ]
    ],
@@ -752,6 +800,10 @@
     [
      "infatsea",
      6
+    ],
+    [
+     "nytsea",
+     null
     ]
    ],
    "vb": "quick",
@@ -866,6 +918,10 @@
     [
      "infatsea",
      12
+    ],
+    [
+     "nytsea",
+     null
     ]
    ],
    "vb": "datenight",
@@ -955,6 +1011,10 @@
    "lists": [
     [
      "seamet",
+     null
+    ],
+    [
+     "nytsea",
      null
     ]
    ],
@@ -1219,6 +1279,10 @@
     [
      "seamet",
      null
+    ],
+    [
+     "nytsea",
+     null
     ]
    ],
    "vb": "asian",
@@ -1235,6 +1299,10 @@
    "lists": [
     [
      "seamet",
+     null
+    ],
+    [
+     "nytsea",
      null
     ]
    ],
@@ -1304,6 +1372,10 @@
     [
      "seamet",
      null
+    ],
+    [
+     "nytsea",
+     null
     ]
    ],
    "vb": "quick",
@@ -1354,6 +1426,10 @@
    "lists": [
     [
      "seamet",
+     null
+    ],
+    [
+     "nytsea",
      null
     ]
    ],
@@ -1559,6 +1635,10 @@
     [
      "seatimes",
      37
+    ],
+    [
+     "nytsea",
+     null
     ]
    ],
    "vb": "global",
@@ -1630,6 +1710,108 @@
     ]
    ],
    "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Artusi",
+   "hood": "Capitol Hill",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 47.6233,
+   "lng": -122.32448,
+   "pr": 2,
+   "lists": [
+    [
+     "nytsea",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Ba Bar",
+   "hood": "Capitol Hill",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 47.6231,
+   "lng": -122.3242,
+   "pr": 1,
+   "lists": [
+    [
+     "nytsea",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Doris",
+   "hood": "Beacon Hill",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 47.5786,
+   "lng": -122.30624,
+   "pr": 2,
+   "lists": [
+    [
+     "nytsea",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Kilig",
+   "hood": "Columbia City",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 47.555,
+   "lng": -122.28626,
+   "pr": 2,
+   "lists": [
+    [
+     "nytsea",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Le Pichet",
+   "hood": "Pike Place Market",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 47.6071,
+   "lng": -122.3386,
+   "pr": 2,
+   "lists": [
+    [
+     "nytsea",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Terra Plata",
+   "hood": "Capitol Hill",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 47.6185,
+   "lng": -122.32098,
+   "pr": 3,
+   "lists": [
+    [
+     "nytsea",
+     null
+    ]
+   ],
+   "vb": "datenight",
    "dual": false
   }
  ],
@@ -2828,6 +3010,15 @@
    "year": "2026",
    "ranked": false,
    "starChip": true
+  },
+  "nytsea": {
+   "cls": "plate r-nytsea",
+   "mono": "NYT",
+   "tag": "NYT",
+   "name": "The New York Times' Where to Eat in Seattle",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
   }
  },
  "blists": {

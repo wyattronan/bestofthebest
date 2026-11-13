@@ -1,48 +1,3850 @@
 {
- "restos": [],
- "bars": [],
- "rlists": {
-  "eater38hou": {
-   "cls": "plate r-eater38hou",
-   "mono": "E38",
-   "tag": "EATER",
-   "name": "Eater's 38 Best Restaurants in Houston",
-   "year": "2026",
-   "ranked": false,
-   "starChip": false
+ "restos": [
+  {
+   "name": "Belly of the Beast",
+   "hood": "Spring",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 30.0803,
+   "lng": -95.401,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     1
+    ],
+    [
+     "eater38hou",
+     null
+    ],
+    [
+     "infathou",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
   },
+  {
+   "name": "Maximo",
+   "hood": "West University Place",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 29.7297,
+   "lng": -95.4406,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     2
+    ],
+    [
+     "eater38hou",
+     null
+    ],
+    [
+     "bibhou",
+     null
+    ],
+    [
+     "jbhou",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "March",
+   "hood": "Montrose",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 29.7446,
+   "lng": -95.3956,
+   "pr": 4,
+   "lists": [
+    [
+     "chron100",
+     3
+    ],
+    [
+     "eater38hou",
+     null
+    ],
+    [
+     "infathou",
+     null
+    ],
+    [
+     "michhou",
+     null
+    ],
+    [
+     "jbhou",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Camaraderie",
+   "hood": "Downtown",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.7556,
+   "lng": -95.3586,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     4
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Agnes and Sherman",
+   "hood": "Heights",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.79,
+   "lng": -95.3896,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     5
+    ],
+    [
+     "txmonhou",
+     null
+    ],
+    [
+     "jbhou",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Yiayia's Greek Kitchen",
+   "hood": "",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 29.7628,
+   "lng": -95.3886,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     6
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Casaema",
+   "hood": "Montrose",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 29.7449,
+   "lng": -95.3956,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     7
+    ],
+    [
+     "eater38hou",
+     null
+    ],
+    [
+     "infathou",
+     null
+    ],
+    [
+     "bibhou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Aga's Restaurant",
+   "hood": "",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 29.7562,
+   "lng": -95.3526,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     8
+    ],
+    [
+     "eater38hou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Tatemó",
+   "hood": "Spring Branch",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 29.7892,
+   "lng": -95.4908,
+   "pr": 4,
+   "lists": [
+    [
+     "chron100",
+     9
+    ],
+    [
+     "infathou",
+     null
+    ],
+    [
+     "michhou",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Pinkerton's BBQ",
+   "hood": "Heights",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 29.8152,
+   "lng": -95.3788,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     10
+    ],
+    [
+     "bibhou",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "Zaranda",
+   "hood": "",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 29.7484,
+   "lng": -95.387,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     11
+    ],
+    [
+     "txmonhou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Baso",
+   "hood": "Montrose",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7335,
+   "lng": -95.4044,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     12
+    ],
+    [
+     "eater38hou",
+     null
+    ],
+    [
+     "infathou",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Katami",
+   "hood": "Montrose",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 29.7332,
+   "lng": -95.398,
+   "pr": 4,
+   "lists": [
+    [
+     "chron100",
+     13
+    ],
+    [
+     "eater38hou",
+     null
+    ],
+    [
+     "infathou",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Squable",
+   "hood": "Heights",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.8071,
+   "lng": -95.3956,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     14
+    ],
+    [
+     "eater38hou",
+     null
+    ],
+    [
+     "infathou",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Little's Oyster Bar",
+   "hood": "Heights",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 29.8059,
+   "lng": -95.3808,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     15
+    ],
+    [
+     "eater38hou",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Credence",
+   "hood": "Downtown",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.7685,
+   "lng": -95.3818,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     16
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Jūn",
+   "hood": "Rice Village",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7077,
+   "lng": -95.4062,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     17
+    ],
+    [
+     "eater38hou",
+     null
+    ],
+    [
+     "infathou",
+     null
+    ],
+    [
+     "jbhou",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Nancy's Hustle",
+   "hood": "EaDo",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.7437,
+   "lng": -95.331,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     18
+    ],
+    [
+     "eater38hou",
+     null
+    ],
+    [
+     "infathou",
+     null
+    ],
+    [
+     "bibhou",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "ChòpnBlọk",
+   "hood": "Downtown",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7658,
+   "lng": -95.383,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     19
+    ],
+    [
+     "eater38hou",
+     null
+    ],
+    [
+     "bibhou",
+     null
+    ],
+    [
+     "jbhou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Mimo",
+   "hood": "",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 29.7559,
+   "lng": -95.3662,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     20
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Navy Blue",
+   "hood": "Rice Village",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 29.7308,
+   "lng": -95.3946,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     21
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Osteria di Mercato",
+   "hood": "Galleria",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 29.7309,
+   "lng": -95.4642,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     22
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Viola & Agnes' Neo Soul Cafe",
+   "hood": "",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 29.767,
+   "lng": -95.365,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     23
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Theodore Rex",
+   "hood": "Warehouse District",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.7727,
+   "lng": -95.3714,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     24
+    ],
+    [
+     "eater38hou",
+     null
+    ],
+    [
+     "bibhou",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Nobie's",
+   "hood": "Montrose",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.7347,
+   "lng": -95.4056,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     25
+    ],
+    [
+     "infathou",
+     null
+    ],
+    [
+     "bibhou",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Amrina",
+   "hood": "The Woodlands",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 30.1561,
+   "lng": -95.4756,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     null
+    ],
+    [
+     "eater38hou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Baguettea",
+   "hood": "",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 29.7679,
+   "lng": -95.3866,
+   "pr": 1,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Bahel Ethiopian Mart & Kitchen",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7523,
+   "lng": -95.3554,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Banh Somtum",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7625,
+   "lng": -95.3558,
+   "pr": 1,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Bar-A-BBQ",
+   "hood": "",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 29.764,
+   "lng": -95.3738,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "BCN Taste & Tradition",
+   "hood": "Montrose",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 29.7482,
+   "lng": -95.3956,
+   "pr": 4,
+   "lists": [
+    [
+     "chron100",
+     null
+    ],
+    [
+     "eater38hou",
+     null
+    ],
+    [
+     "michhou",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "The Blind Goat",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7643,
+   "lng": -95.3742,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Bludorn",
+   "hood": "Montrose",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.7485,
+   "lng": -95.3804,
+   "pr": 4,
+   "lists": [
+    [
+     "chron100",
+     null
+    ],
+    [
+     "infathou",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Bori",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7502,
+   "lng": -95.3498,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Brennan's of Houston",
+   "hood": "Midtown",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 29.7289,
+   "lng": -95.3706,
+   "pr": 4,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Burger Bodega",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7631,
+   "lng": -95.3662,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Clark's Oyster Bar",
+   "hood": "River Oaks",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 29.7336,
+   "lng": -95.403,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Coastline Pizzeria",
+   "hood": "",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 29.7526,
+   "lng": -95.3778,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Cochinita & Co.",
+   "hood": "",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 29.7676,
+   "lng": -95.3814,
+   "pr": 1,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Coltivare",
+   "hood": "Heights",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 29.7933,
+   "lng": -95.3836,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Corkscrew BBQ",
+   "hood": "Spring",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 30.0773,
+   "lng": -95.413,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ],
+    [
+     "eater38hou",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "Costa Brava Bistro",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7559,
+   "lng": -95.3506,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Craft Pita",
+   "hood": "Galleria",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 29.7315,
+   "lng": -95.4754,
+   "pr": 1,
+   "lists": [
+    [
+     "chron100",
+     null
+    ],
+    [
+     "eater38hou",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Doris Metropolitan",
+   "hood": "River Oaks",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 29.7537,
+   "lng": -95.4102,
+   "pr": 4,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Eastbound Barbecue",
+   "hood": "",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 29.7613,
+   "lng": -95.3518,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "Feges BBQ",
+   "hood": "Spring Branch",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 29.7973,
+   "lng": -95.516,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "Fish & Chips",
+   "hood": "",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 29.758,
+   "lng": -95.3742,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Giacomo's Cibo e Vino",
+   "hood": "",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 29.7598,
+   "lng": -95.363,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Hamsa",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7703,
+   "lng": -95.3514,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Hong Kong Food Street",
+   "hood": "Chinatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7093,
+   "lng": -95.5756,
+   "pr": 1,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Ishtia",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7517,
+   "lng": -95.357,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ],
+    [
+     "eater38hou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "J-Bar-M Barbecue",
+   "hood": "",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 29.7595,
+   "lng": -95.3714,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "Jane and the Lion Bakehouse",
+   "hood": "",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 29.7586,
+   "lng": -95.351,
+   "pr": 1,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Jamaica Pon Di Road",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7472,
+   "lng": -95.3494,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Josephine's Gulf Coast Tradition",
+   "hood": "Montrose",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 29.7467,
+   "lng": -95.3824,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Kandahari",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7595,
+   "lng": -95.357,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Kenny & Ziggy's",
+   "hood": "Galleria",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 29.7474,
+   "lng": -95.461,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Kira",
+   "hood": "",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 29.7688,
+   "lng": -95.3814,
+   "pr": 4,
+   "lists": [
+    [
+     "chron100",
+     null
+    ],
+    [
+     "eater38hou",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Kiran's",
+   "hood": "Galleria",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 29.736,
+   "lng": -95.4646,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Kitchen Rumors",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7667,
+   "lng": -95.3858,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ],
+    [
+     "bibhou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Koffeteria",
+   "hood": "EaDo",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 29.7506,
+   "lng": -95.3254,
+   "pr": 1,
+   "lists": [
+    [
+     "chron100",
+     null
+    ],
+    [
+     "eater38hou",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Kriti Kitchen",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7721,
+   "lng": -95.3674,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "La Lucha",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7541,
+   "lng": -95.3494,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Laurenzo's",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7637,
+   "lng": -95.3506,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Le Jardinier",
+   "hood": "Museum District",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 29.7181,
+   "lng": -95.4028,
+   "pr": 4,
+   "lists": [
+    [
+     "chron100",
+     null
+    ],
+    [
+     "eater38hou",
+     null
+    ],
+    [
+     "michhou",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Lucille's",
+   "hood": "Museum District",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 29.7163,
+   "lng": -95.3976,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Mala Sichuan",
+   "hood": "Chinatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.6955,
+   "lng": -95.5632,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Mandola's Deli",
+   "hood": "",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 29.7568,
+   "lng": -95.3878,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Milton's",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7619,
+   "lng": -95.3726,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Moon Tower Inn",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7619,
+   "lng": -95.3682,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Musaafer",
+   "hood": "Galleria",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 29.7474,
+   "lng": -95.471,
+   "pr": 4,
+   "lists": [
+    [
+     "chron100",
+     null
+    ],
+    [
+     "eater38hou",
+     null
+    ],
+    [
+     "michhou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Nam Giao",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7538,
+   "lng": -95.3574,
+   "pr": 1,
+   "lists": [
+    [
+     "chron100",
+     null
+    ],
+    [
+     "bibhou",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Ninfa's on Navigation",
+   "hood": "Second Ward",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 29.757,
+   "lng": -95.3412,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Pappas Bros. Steakhouse",
+   "hood": "Galleria",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 29.7324,
+   "lng": -95.4774,
+   "pr": 4,
+   "lists": [
+    [
+     "chron100",
+     null
+    ],
+    [
+     "infathou",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Pho Sapa",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7712,
+   "lng": -95.387,
+   "pr": 1,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Pier 6 Seafood & Oyster House",
+   "hood": "",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 29.7613,
+   "lng": -95.3746,
+   "pr": 3,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Pondicheri",
+   "hood": "Upper Kirby",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 29.7186,
+   "lng": -95.4144,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Raja Sweets",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7457,
+   "lng": -95.3674,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Rosemeyer Bar-B-Q",
+   "hood": "Spring",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 30.0773,
+   "lng": -95.419,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "Rumi's Kitchen",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7433,
+   "lng": -95.3802,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Sao Lao",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7511,
+   "lng": -95.3746,
+   "pr": 1,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Sayad Mediterranean Kitchen",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7631,
+   "lng": -95.3742,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Shri Balaji Bhavan",
+   "hood": "",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 29.7604,
+   "lng": -95.3802,
+   "pr": 1,
+   "lists": [
+    [
+     "chron100",
+     null
+    ],
+    [
+     "infathou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Silk Road",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7508,
+   "lng": -95.3738,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ],
+    [
+     "eater38hou",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Soto",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7643,
+   "lng": -95.3758,
+   "pr": 1,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Street to Kitchen",
+   "hood": "Second Ward",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7486,
+   "lng": -95.3148,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ],
+    [
+     "eater38hou",
+     null
+    ],
+    [
+     "infathou",
+     null
+    ],
+    [
+     "bibhou",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Tacos Doña Lena",
+   "hood": "",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 29.7718,
+   "lng": -95.3578,
+   "pr": 1,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Talespin",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7502,
+   "lng": -95.3706,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Tejas Chocolate",
+   "hood": "Tomball",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 30.0844,
+   "lng": -95.6116,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "The Breakfast Klub",
+   "hood": "Midtown",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 29.7478,
+   "lng": -95.3722,
+   "pr": 1,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Thien Thanh",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7469,
+   "lng": -95.3746,
+   "pr": 1,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Tiny Champions",
+   "hood": "EaDo",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 29.7632,
+   "lng": -95.3278,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ],
+    [
+     "eater38hou",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Titas Taco House",
+   "hood": "",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 29.7715,
+   "lng": -95.3686,
+   "pr": 1,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Toga",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7613,
+   "lng": -95.3518,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Truth BBQ",
+   "hood": "Washington Ave",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 29.7721,
+   "lng": -95.408,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ],
+    [
+     "eater38hou",
+     null
+    ],
+    [
+     "bibhou",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "Turan Uyghur Kitchen",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7607,
+   "lng": -95.3594,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Villa Arcos",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7616,
+   "lng": -95.3846,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Vinoteca Poscol",
+   "hood": "",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 29.7466,
+   "lng": -95.3878,
+   "pr": 2,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Xalisko",
+   "hood": "",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 29.7583,
+   "lng": -95.3702,
+   "pr": 1,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Xeo Yum",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7466,
+   "lng": -95.3694,
+   "pr": 1,
+   "lists": [
+    [
+     "chron100",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Brisket & Rice",
+   "hood": "Chinatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7054,
+   "lng": -95.5744,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38hou",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Phat Eatery",
+   "hood": "Katy",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.786,
+   "lng": -95.8072,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38hou",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Mala Sichuan Bistro",
+   "hood": "Chinatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7036,
+   "lng": -95.5636,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38hou",
+     null
+    ],
+    [
+     "bibhou",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Huynh Restaurant",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7631,
+   "lng": -95.3742,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38hou",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Hidden Omakase",
+   "hood": "Galleria",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 29.7393,
+   "lng": -95.4674,
+   "pr": 4,
+   "lists": [
+    [
+     "eater38hou",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Blue Nile Ethiopian Restaurant",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7634,
+   "lng": -95.3862,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38hou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "The Rado Market",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7538,
+   "lng": -95.3702,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38hou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Candente",
+   "hood": "Montrose",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 29.7434,
+   "lng": -95.3912,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38hou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Kasra Persian Grill",
+   "hood": "",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 29.77,
+   "lng": -95.3882,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38hou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Papalo Taqueria",
+   "hood": "",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 29.7658,
+   "lng": -95.3662,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38hou",
+     null
+    ],
+    [
+     "bibhou",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Da Gama",
+   "hood": "",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 29.7547,
+   "lng": -95.355,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38hou",
+     null
+    ],
+    [
+     "bibhou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Rosie Cannonball",
+   "hood": "Montrose",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 29.735,
+   "lng": -95.408,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38hou",
+     null
+    ],
+    [
+     "bibhou",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Sheba Restaurant",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7595,
+   "lng": -95.3534,
+   "pr": 2,
+   "lists": [
+    [
+     "infathou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Afrikiko Restaurant",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7634,
+   "lng": -95.3766,
+   "pr": 2,
+   "lists": [
+    [
+     "infathou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Kata Robata",
+   "hood": "Upper Kirby",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 29.7291,
+   "lng": -95.4292,
+   "pr": 3,
+   "lists": [
+    [
+     "infathou",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Reggae Hut",
+   "hood": "Third Ward",
+   "type": "caribbean",
+   "typekind": "cui",
+   "lat": 29.7116,
+   "lng": -95.3752,
+   "pr": 1,
+   "lists": [
+    [
+     "infathou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Hugo's",
+   "hood": "Montrose",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 29.7335,
+   "lng": -95.4,
+   "pr": 3,
+   "lists": [
+    [
+     "infathou",
+     null
+    ],
+    [
+     "jbhou",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Bodard Bistro",
+   "hood": "Chinatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7066,
+   "lng": -95.5544,
+   "pr": 1,
+   "lists": [
+    [
+     "infathou",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Tacos La Sultana",
+   "hood": "",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 29.7571,
+   "lng": -95.3742,
+   "pr": 1,
+   "lists": [
+    [
+     "infathou",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Fung's Kitchen",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7613,
+   "lng": -95.3778,
+   "pr": 2,
+   "lists": [
+    [
+     "infathou",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Sao Lao Thai Cafe",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7442,
+   "lng": -95.3522,
+   "pr": 1,
+   "lists": [
+    [
+     "infathou",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Triple J's Smokehouse",
+   "hood": "Third Ward",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 29.7248,
+   "lng": -95.3636,
+   "pr": 1,
+   "lists": [
+    [
+     "infathou",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "Oru",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7715,
+   "lng": -95.3678,
+   "pr": 3,
+   "lists": [
+    [
+     "infathou",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Annam",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7715,
+   "lng": -95.3758,
+   "pr": 2,
+   "lists": [
+    [
+     "bibhou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Bar Buena",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.767,
+   "lng": -95.365,
+   "pr": 2,
+   "lists": [
+    [
+     "bibhou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Xolo",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7502,
+   "lng": -95.3694,
+   "pr": 2,
+   "lists": [
+    [
+     "bibhou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Khói Barbecue",
+   "hood": "",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 29.7682,
+   "lng": -95.3626,
+   "pr": 2,
+   "lists": [
+    [
+     "bibhou",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "The Pit Room",
+   "hood": "Montrose",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 29.7443,
+   "lng": -95.3976,
+   "pr": 2,
+   "lists": [
+    [
+     "bibhou",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "Blood Bros BBQ",
+   "hood": "Bellaire",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 29.69,
+   "lng": -95.466,
+   "pr": 2,
+   "lists": [
+    [
+     "bibhou",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "Murray's Pizza & Wine",
+   "hood": "",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 29.7697,
+   "lng": -95.3706,
+   "pr": 2,
+   "lists": [
+    [
+     "bibhou",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Killen's BBQ",
+   "hood": "Pearland",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 29.5631,
+   "lng": -95.284,
+   "pr": 2,
+   "lists": [
+    [
+     "bibhou",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "Di An Pho",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.743,
+   "lng": -95.3758,
+   "pr": 1,
+   "lists": [
+    [
+     "txmonhou",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Latuli",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.7568,
+   "lng": -95.379,
+   "pr": 3,
+   "lists": [
+    [
+     "txmonhou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Xochi",
+   "hood": "Downtown",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 29.7535,
+   "lng": -95.3634,
+   "pr": 3,
+   "lists": [
+    [
+     "jbhou",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Urbe",
+   "hood": "Heights",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 29.7891,
+   "lng": -95.402,
+   "pr": 2,
+   "lists": [
+    [
+     "jbhou",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  }
+ ],
+ "bars": [
+  {
+   "name": "1111",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.752,
+   "lng": -95.3594,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Anvil Bar & Refuge",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7652,
+   "lng": -95.3662,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ],
+    [
+     "eaterbhou",
+     null
+    ],
+    [
+     "thrillhou",
+     null
+    ],
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Aye Candy",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7598,
+   "lng": -95.3566,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Bandista",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7436,
+   "lng": -95.3822,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ],
+    [
+     "eaterbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Bar Angie",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7451,
+   "lng": -95.3818,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Bar Buena",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.767,
+   "lng": -95.365,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Bar Doko",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7472,
+   "lng": -95.387,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Bar Madonna",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7643,
+   "lng": -95.3538,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Berwick's Bird of Paradise",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7463,
+   "lng": -95.3682,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "The Blind Finch",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7445,
+   "lng": -95.3706,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "By the Wayside",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7679,
+   "lng": -95.3674,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Capt. Foxheart's Bad News Bar & Spirit Lodge",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7706,
+   "lng": -95.3498,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ],
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Donna's",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7592,
+   "lng": -95.3546,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Endless Bummer",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7619,
+   "lng": -95.3826,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Jethro's",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7472,
+   "lng": -95.3794,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Julep",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7673,
+   "lng": -95.3742,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ],
+    [
+     "eaterbhou",
+     null
+    ],
+    [
+     "thrillhou",
+     null
+    ],
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Lee's",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7598,
+   "lng": -95.387,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Lei Low",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.758,
+   "lng": -95.359,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ],
+    [
+     "eaterbhou",
+     null
+    ],
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Melrose",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7439,
+   "lng": -95.3694,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Nickel City",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7496,
+   "lng": -95.3706,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ],
+    [
+     "eaterbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Refuge",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7724,
+   "lng": -95.357,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Rosewater",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7691,
+   "lng": -95.3766,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Starduster Lounge",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.764,
+   "lng": -95.3874,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Xolo",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7502,
+   "lng": -95.3694,
+   "lists": [
+    [
+     "chronbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Johnny's Gold Brick",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7625,
+   "lng": -95.3562,
+   "lists": [
+    [
+     "eaterbhou",
+     null
+    ],
+    [
+     "thrillhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Heights Bier Garten",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.7655,
+   "lng": -95.373,
+   "lists": [
+    [
+     "eaterbhou",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Best Regards",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7682,
+   "lng": -95.3818,
+   "lists": [
+    [
+     "eaterbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Eight Row Flint",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7535,
+   "lng": -95.3622,
+   "lists": [
+    [
+     "eaterbhou",
+     null
+    ],
+    [
+     "thrillhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Permission",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7697,
+   "lng": -95.3814,
+   "lists": [
+    [
+     "eaterbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Better Luck Tomorrow",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7472,
+   "lng": -95.3886,
+   "lists": [
+    [
+     "eaterbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Houston Watch Company",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7463,
+   "lng": -95.3598,
+   "lists": [
+    [
+     "eaterbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Captain Foxheart's Bad News Bar & Spirits Lodge",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7712,
+   "lng": -95.3522,
+   "lists": [
+    [
+     "eaterbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Dean's Downtown",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7577,
+   "lng": -95.3718,
+   "lists": [
+    [
+     "eaterbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Clarkwood",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7607,
+   "lng": -95.3794,
+   "lists": [
+    [
+     "eaterbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Reserve 101",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7469,
+   "lng": -95.3842,
+   "lists": [
+    [
+     "eaterbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Jethro's Cocktail Lounge",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7538,
+   "lng": -95.3526,
+   "lists": [
+    [
+     "eaterbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Roswell's Saloon",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7694,
+   "lng": -95.3578,
+   "lists": [
+    [
+     "eaterbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Wooster's Garden",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7517,
+   "lng": -95.3502,
+   "lists": [
+    [
+     "eaterbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Winnie's",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7649,
+   "lng": -95.3866,
+   "lists": [
+    [
+     "eaterbhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "The Toasted Coconut",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7526,
+   "lng": -95.3622,
+   "lists": [
+    [
+     "eaterbhou",
+     null
+    ],
+    [
+     "thrillhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Grand Prize Bar",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7712,
+   "lng": -95.3522,
+   "lists": [
+    [
+     "eaterbhou",
+     null
+    ],
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Present Company",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7673,
+   "lng": -95.3758,
+   "lists": [
+    [
+     "thrillhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Secret Garden",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7472,
+   "lng": -95.3786,
+   "lists": [
+    [
+     "thrillhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "D&T Drive Inn",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.752,
+   "lng": -95.3626,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Flying Saucer Downtown",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.7619,
+   "lng": -95.3674,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Mongoose vs. Cobra",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.7628,
+   "lng": -95.3842,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Moon Tower Inn",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7619,
+   "lng": -95.3682,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Nobi Public House",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.7721,
+   "lng": -95.3554,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Petrol Station",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.7514,
+   "lng": -95.3754,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "The Hay Merchant",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.7478,
+   "lng": -95.3778,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Double Trouble",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7721,
+   "lng": -95.3734,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Moving Sidewalk",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7436,
+   "lng": -95.3514,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "The Pastry War",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7544,
+   "lng": -95.3502,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Alice's Tall Texan Drive Inn",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.7727,
+   "lng": -95.3598,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Lola's Depot",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.7511,
+   "lng": -95.3662,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Poison Girl",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.7487,
+   "lng": -95.3858,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Shiloh Club",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.7586,
+   "lng": -95.3546,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Sunny's",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.7535,
+   "lng": -95.3602,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Dan Electro's Guitar Bar",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.7643,
+   "lng": -95.3598,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "McGonigel's Mucky Duck",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.7661,
+   "lng": -95.3746,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "notsuoH",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.7511,
+   "lng": -95.3758,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Rudyard's British Pub",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.7472,
+   "lng": -95.3554,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Under the Volcano",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7556,
+   "lng": -95.3522,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "13 Degrees Celsius",
+   "hood": "",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 29.7439,
+   "lng": -95.3558,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "wine",
+   "dual": false
+  },
+  {
+   "name": "Camerata at Paulie's",
+   "hood": "",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 29.7661,
+   "lng": -95.381,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "wine",
+   "dual": false
+  },
+  {
+   "name": "Dolce Vita",
+   "hood": "",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 29.7643,
+   "lng": -95.3814,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "wine",
+   "dual": false
+  },
+  {
+   "name": "Down House",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7454,
+   "lng": -95.3886,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Hugo's",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7475,
+   "lng": -95.379,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Pappas Bros. Steakhouse",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7514,
+   "lng": -95.3814,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Pax Americana",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.743,
+   "lng": -95.3698,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Public Services Wine & Whisky",
+   "hood": "",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 29.7607,
+   "lng": -95.3622,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "wine",
+   "dual": false
+  },
+  {
+   "name": "Underbelly",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7652,
+   "lng": -95.3682,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Caracol",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7694,
+   "lng": -95.3818,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Provisions",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7496,
+   "lng": -95.3526,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Sanctuari at Triniti",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7667,
+   "lng": -95.3762,
+   "lists": [
+    [
+     "punchhou",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  }
+ ],
+ "rlists": {
   "chron100": {
    "cls": "plate r-chron100",
    "mono": "HC",
    "tag": "HOU CHRON",
-   "name": "Houston Chronicle Top 100 Restaurants",
+   "name": "Houston Chronicle's Top 100 Restaurants",
    "year": "2026",
    "ranked": true,
    "starChip": false
   },
-  "txmonhou": {
-   "cls": "plate r-txmonhou",
-   "mono": "TM",
-   "tag": "TX MONTHLY",
-   "name": "Texas Monthly Where to Eat in Houston",
-   "year": "2026",
-   "ranked": false,
-   "starChip": false
-  },
-  "michhou": {
-   "cls": "plate r-michhou",
-   "mono": "CM",
-   "tag": "MICHELIN",
-   "name": "Michelin Starred Restaurants, Houston",
-   "year": "2026",
-   "ranked": true,
-   "starChip": true
-  },
-  "bibhou": {
-   "cls": "plate r-bibhou",
-   "mono": "BIB",
-   "tag": "BIB GOUR",
-   "name": "Michelin Bib Gourmand, Houston",
+  "eater38hou": {
+   "cls": "plate r-eater38hou",
+   "mono": "E38",
+   "tag": "EATER",
+   "name": "Eater Houston's 38 Best Restaurants",
    "year": "2026",
    "ranked": false,
    "starChip": false
@@ -51,73 +3853,64 @@
    "cls": "plate r-infathou",
    "mono": "25",
    "tag": "INFAT",
-   "name": "The Infatuation's Best Restaurants in Houston",
+   "name": "The Infatuation's 25 Best Restaurants in Houston",
    "year": "2026",
    "ranked": false,
    "starChip": false
   },
-  "cnna50hou": {
-   "cls": "plate r-cnna50hou",
-   "mono": "CN",
-   "tag": "50 NA",
-   "name": "Condé Nast 50 Best Restaurants in North America",
+  "michhou": {
+   "cls": "plate r-michhou",
+   "mono": "★",
+   "tag": "MICHELIN",
+   "name": "MICHELIN Starred Restaurants, Houston",
    "year": "2026",
-   "ranked": true,
+   "ranked": false,
+   "starChip": true
+  },
+  "bibhou": {
+   "cls": "plate r-bibhou",
+   "mono": "BIB",
+   "tag": "BIB GOUR",
+   "name": "MICHELIN Bib Gourmand, Houston",
+   "year": "2026",
+   "ranked": false,
    "starChip": false
   },
-  "nyt50hou": {
-   "cls": "plate r-nyt50hou",
-   "mono": "NYT",
-   "tag": "NYT 50",
-   "name": "NYT 50 Best Restaurants in America",
+  "txmonhou": {
+   "cls": "plate r-txmonhou",
+   "mono": "TM",
+   "tag": "TX MONTHLY",
+   "name": "Texas Monthly's 10 Best New Restaurants (Houston)",
    "year": "2026",
-   "ranked": true,
+   "ranked": false,
    "starChip": false
   },
   "jbhou": {
    "cls": "plate r-jbhou",
    "mono": "JB",
    "tag": "BEARD",
-   "name": "Houston James Beard Award Nominees",
+   "name": "James Beard Award Nominees (Houston)",
    "year": "2026",
    "ranked": false,
-   "starChip": false
-  },
-  "beli25hou": {
-   "cls": "plate r-beli25hou",
-   "mono": "BELI",
-   "tag": "BELI",
-   "name": "Beli Top 25 Restaurants in Houston",
-   "year": "2026",
-   "ranked": true,
-   "starChip": false
+   "starChip": true
   }
  },
  "blists": {
-  "eaterbhou": {
-   "cls": "b-eaterbhou",
-   "mono": "EB",
-   "tag": "EATER",
-   "name": "Eater Best Bars in Houston",
-   "year": "2026",
-   "ranked": false,
-   "starChip": false
-  },
-  "punchhou": {
-   "cls": "b-punchhou",
-   "mono": "P!",
-   "tag": "PUNCH",
-   "name": "PUNCH Where to Drink in Houston",
-   "year": "2026",
-   "ranked": false,
-   "starChip": false
-  },
   "chronbhou": {
    "cls": "b-chronbhou",
    "mono": "HC",
    "tag": "HOU CHRON",
-   "name": "Houston Chronicle Best Bars",
+   "name": "Houston Chronicle's Best Cocktail Bars",
    "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "eaterbhou": {
+   "cls": "b-eaterbhou",
+   "mono": "EB",
+   "tag": "EATER",
+   "name": "Eater Houston's Best Bars",
+   "year": "2025",
    "ranked": false,
    "starChip": false
   },
@@ -125,8 +3918,17 @@
    "cls": "b-thrillhou",
    "mono": "TH",
    "tag": "THRILLIST",
-   "name": "Thrillist Best Bars in Houston",
-   "year": "2026",
+   "name": "Thrillist's Best Bars in Houston",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "punchhou": {
+   "cls": "b-punchhou",
+   "mono": "P!",
+   "tag": "PUNCH",
+   "name": "PUNCH's Guide to Drinking in Houston",
+   "year": "2014",
    "ranked": false,
    "starChip": false
   }
