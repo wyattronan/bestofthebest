@@ -1,0 +1,152 @@
+{
+ "restos": [],
+ "bars": [],
+ "rlists": {
+  "eater38aus": {
+   "cls": "plate r-eater38aus",
+   "mono": "E38",
+   "tag": "EATER",
+   "name": "Eater's 38 Best Restaurants in Austin",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "txmonaus": {
+   "cls": "plate r-txmonaus",
+   "mono": "TM",
+   "tag": "TX MONTHLY",
+   "name": "Texas Monthly Where to Eat in Austin",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "austinmo": {
+   "cls": "plate r-austinmo",
+   "mono": "AM",
+   "tag": "AUS MONTHLY",
+   "name": "Austin Monthly's Best Restaurants",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "austinchron": {
+   "cls": "plate r-austinchron",
+   "mono": "AC",
+   "tag": "AUS CHRON",
+   "name": "Austin Chronicle Best of Austin: Food",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "michaus": {
+   "cls": "plate r-michaus",
+   "mono": "CM",
+   "tag": "MICHELIN",
+   "name": "Michelin Starred Restaurants, Austin",
+   "year": "2026",
+   "ranked": true,
+   "starChip": true
+  },
+  "bibaus": {
+   "cls": "plate r-bibaus",
+   "mono": "BIB",
+   "tag": "BIB GOUR",
+   "name": "Michelin Bib Gourmand, Austin",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "infataus": {
+   "cls": "plate r-infataus",
+   "mono": "25",
+   "tag": "INFAT",
+   "name": "The Infatuation's Best Restaurants in Austin",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "cnna50aus": {
+   "cls": "plate r-cnna50aus",
+   "mono": "CN",
+   "tag": "50 NA",
+   "name": "Condé Nast 50 Best Restaurants in North America",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "nyt50aus": {
+   "cls": "plate r-nyt50aus",
+   "mono": "NYT",
+   "tag": "NYT 50",
+   "name": "NYT 50 Best Restaurants in America",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "jbaus": {
+   "cls": "plate r-jbaus",
+   "mono": "JB",
+   "tag": "BEARD",
+   "name": "Austin James Beard Award Nominees",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "resyaus": {
+   "cls": "plate r-resyaus",
+   "mono": "RE",
+   "tag": "RESY",
+   "name": "Resy Austin Hit List",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "beli25aus": {
+   "cls": "plate r-beli25aus",
+   "mono": "BELI",
+   "tag": "BELI",
+   "name": "Beli Top 25 Restaurants in Austin",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  }
+ },
+ "blists": {
+  "eaterbaus": {
+   "cls": "b-eaterbaus",
+   "mono": "EB",
+   "tag": "EATER",
+   "name": "Eater Best Bars in Austin",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "punchaus": {
+   "cls": "b-punchaus",
+   "mono": "P!",
+   "tag": "PUNCH",
+   "name": "PUNCH Where to Drink in Austin",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "austinmob": {
+   "cls": "b-austinmob",
+   "mono": "AM",
+   "tag": "AUS MONTHLY",
+   "name": "Austin Monthly's Best Bars",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "thrillaus": {
+   "cls": "b-thrillaus",
+   "mono": "TH",
+   "tag": "THRILLIST",
+   "name": "Thrillist Best Bars in Austin",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  }
+ }
+}

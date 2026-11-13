@@ -1,0 +1,152 @@
+{
+ "restos": [],
+ "bars": [],
+ "rlists": {
+  "eater38atl": {
+   "cls": "plate r-eater38atl",
+   "mono": "E38",
+   "tag": "EATER",
+   "name": "Eater's 38 Best Restaurants in Atlanta",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "infatatl": {
+   "cls": "plate r-infatatl",
+   "mono": "25",
+   "tag": "INFAT",
+   "name": "The Infatuation's Best Restaurants in Atlanta",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "atlmag50": {
+   "cls": "plate r-atlmag50",
+   "mono": "ATL",
+   "tag": "ATL MAG",
+   "name": "Atlanta Magazine's 50 Best Restaurants",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "ajcatl": {
+   "cls": "plate r-ajcatl",
+   "mono": "AJC",
+   "tag": "AJC",
+   "name": "Atlanta Journal-Constitution Best Restaurants",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "michatl": {
+   "cls": "plate r-michatl",
+   "mono": "CM",
+   "tag": "MICHELIN",
+   "name": "Michelin Starred Restaurants, Atlanta",
+   "year": "2026",
+   "ranked": true,
+   "starChip": true
+  },
+  "bibatl": {
+   "cls": "plate r-bibatl",
+   "mono": "BIB",
+   "tag": "BIB GOUR",
+   "name": "Michelin Bib Gourmand, Atlanta",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "cnna50atl": {
+   "cls": "plate r-cnna50atl",
+   "mono": "CN",
+   "tag": "50 NA",
+   "name": "Condé Nast 50 Best Restaurants in North America",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "nyt50atl": {
+   "cls": "plate r-nyt50atl",
+   "mono": "NYT",
+   "tag": "NYT 50",
+   "name": "NYT 50 Best Restaurants in America",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "jbatl": {
+   "cls": "plate r-jbatl",
+   "mono": "JB",
+   "tag": "BEARD",
+   "name": "Atlanta James Beard Award Nominees",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "resyatl": {
+   "cls": "plate r-resyatl",
+   "mono": "RE",
+   "tag": "RESY",
+   "name": "Resy Atlanta Hit List",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "beli25atl": {
+   "cls": "plate r-beli25atl",
+   "mono": "BELI",
+   "tag": "BELI",
+   "name": "Beli Top 25 Restaurants in Atlanta",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  }
+ },
+ "blists": {
+  "eaterbatl": {
+   "cls": "b-eaterbatl",
+   "mono": "EB",
+   "tag": "EATER",
+   "name": "Eater Best Bars in Atlanta",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "punchatl": {
+   "cls": "b-punchatl",
+   "mono": "P!",
+   "tag": "PUNCH",
+   "name": "PUNCH Where to Drink in Atlanta",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "atlmagb": {
+   "cls": "b-atlmagb",
+   "mono": "ATL",
+   "tag": "ATL MAG",
+   "name": "Atlanta Magazine's Best Bars",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "thrillatl": {
+   "cls": "b-thrillatl",
+   "mono": "TH",
+   "tag": "THRILLIST",
+   "name": "Thrillist Best Bars in Atlanta",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "cnnabatl": {
+   "cls": "b-cnnabatl",
+   "mono": "CN",
+   "tag": "100 NA",
+   "name": "Condé Nast 100 Best Bars in North America",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  }
+ }
+}

@@ -44,6 +44,22 @@
           "losangeles": {
             "michelin": "",
             "james_beard": ""
+          },
+          "seattle": {
+            "michelin": "",
+            "james_beard": ""
+          },
+          "atlanta": {
+            "michelin": "",
+            "james_beard": ""
+          },
+          "houston": {
+            "michelin": "",
+            "james_beard": ""
+          },
+          "austin": {
+            "michelin": "",
+            "james_beard": ""
           }
         }
       },
@@ -72,6 +88,22 @@
             "openings_feed": ""
           },
           "losangeles": {
+            "closings_feed": "",
+            "openings_feed": ""
+          },
+          "seattle": {
+            "closings_feed": "",
+            "openings_feed": ""
+          },
+          "atlanta": {
+            "closings_feed": "",
+            "openings_feed": ""
+          },
+          "houston": {
+            "closings_feed": "",
+            "openings_feed": ""
+          },
+          "austin": {
             "closings_feed": "",
             "openings_feed": ""
           }
@@ -1826,6 +1858,750 @@
           "pinned": true,
           "source_type": "conde_nast",
           "access": "paywall"
+        }
+      }
+    },
+    "seattle": {
+      "restaurants": {
+        "eater38sea": {
+          "publication": "EATER",
+          "name": "Eater's 38 Best Restaurants in Seattle",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape"
+        },
+        "infatsea": {
+          "publication": "INFAT",
+          "name": "The Infatuation's Best Restaurants in Seattle",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "infatuation",
+          "access": "js_render"
+        },
+        "seamet": {
+          "publication": "SEA MET",
+          "name": "Seattle Met's Best Restaurants",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "seattle_met",
+          "access": "web_scrape"
+        },
+        "seatimes": {
+          "publication": "SEA TIMES",
+          "name": "The Seattle Times' Best Restaurants in Seattle",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "seattle_times",
+          "access": "paywall"
+        },
+        "cnna50sea": {
+          "publication": "50 NA",
+          "name": "Condé Nast 50 Best Restaurants in North America",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
+        },
+        "nyt50sea": {
+          "publication": "NYT 50",
+          "name": "NYT 50 Best Restaurants in America",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "nyt",
+          "access": "paywall"
+        },
+        "jbsea": {
+          "publication": "BEARD",
+          "name": "Seattle James Beard Award Nominees",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "james_beard",
+          "access": "web_scrape"
+        },
+        "basea": {
+          "publication": "BON APP",
+          "name": "Bon Appétit Where to Eat in Seattle",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "bon_appetit",
+          "access": "paywall"
+        },
+        "beli25sea": {
+          "publication": "BELI",
+          "name": "Beli Top 25 Restaurants in Seattle",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "beli",
+          "access": "app_only"
+        }
+      },
+      "bars": {
+        "eaterbsea": {
+          "publication": "EATER",
+          "name": "Eater Best Bars in Seattle",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape"
+        },
+        "punchsea": {
+          "publication": "PUNCH",
+          "name": "PUNCH Where to Drink in Seattle",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "punch",
+          "access": "web_scrape"
+        },
+        "seametb": {
+          "publication": "SEA MET",
+          "name": "Seattle Met's Best Bars",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "seattle_met",
+          "access": "web_scrape"
+        },
+        "thrillsea": {
+          "publication": "THRILLIST",
+          "name": "Thrillist Best Bars in Seattle",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "thrillist",
+          "access": "web_scrape"
+        },
+        "cnnabsea": {
+          "publication": "100 NA",
+          "name": "Condé Nast 100 Best Bars in North America",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
+        }
+      }
+    },
+    "atlanta": {
+      "restaurants": {
+        "eater38atl": {
+          "publication": "EATER",
+          "name": "Eater's 38 Best Restaurants in Atlanta",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape"
+        },
+        "infatatl": {
+          "publication": "INFAT",
+          "name": "The Infatuation's Best Restaurants in Atlanta",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "infatuation",
+          "access": "js_render"
+        },
+        "atlmag50": {
+          "publication": "ATL MAG",
+          "name": "Atlanta Magazine's 50 Best Restaurants",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "atlanta_mag",
+          "access": "web_scrape"
+        },
+        "ajcatl": {
+          "publication": "AJC",
+          "name": "Atlanta Journal-Constitution Best Restaurants",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "ajc",
+          "access": "paywall"
+        },
+        "michatl": {
+          "publication": "MICHELIN",
+          "name": "Michelin Starred Restaurants, Atlanta",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "michelin",
+          "access": "js_render"
+        },
+        "bibatl": {
+          "publication": "BIB GOUR",
+          "name": "Michelin Bib Gourmand, Atlanta",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "michelin",
+          "access": "js_render"
+        },
+        "cnna50atl": {
+          "publication": "50 NA",
+          "name": "Condé Nast 50 Best Restaurants in North America",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
+        },
+        "nyt50atl": {
+          "publication": "NYT 50",
+          "name": "NYT 50 Best Restaurants in America",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "nyt",
+          "access": "paywall"
+        },
+        "jbatl": {
+          "publication": "BEARD",
+          "name": "Atlanta James Beard Award Nominees",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "james_beard",
+          "access": "web_scrape"
+        },
+        "resyatl": {
+          "publication": "RESY",
+          "name": "Resy Atlanta Hit List",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "resy",
+          "access": "web_scrape"
+        },
+        "beli25atl": {
+          "publication": "BELI",
+          "name": "Beli Top 25 Restaurants in Atlanta",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "beli",
+          "access": "app_only"
+        }
+      },
+      "bars": {
+        "eaterbatl": {
+          "publication": "EATER",
+          "name": "Eater Best Bars in Atlanta",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape"
+        },
+        "punchatl": {
+          "publication": "PUNCH",
+          "name": "PUNCH Where to Drink in Atlanta",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "punch",
+          "access": "web_scrape"
+        },
+        "atlmagb": {
+          "publication": "ATL MAG",
+          "name": "Atlanta Magazine's Best Bars",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "atlanta_mag",
+          "access": "web_scrape"
+        },
+        "thrillatl": {
+          "publication": "THRILLIST",
+          "name": "Thrillist Best Bars in Atlanta",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "thrillist",
+          "access": "web_scrape"
+        },
+        "cnnabatl": {
+          "publication": "100 NA",
+          "name": "Condé Nast 100 Best Bars in North America",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
+        }
+      }
+    },
+    "houston": {
+      "restaurants": {
+        "eater38hou": {
+          "publication": "EATER",
+          "name": "Eater's 38 Best Restaurants in Houston",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape"
+        },
+        "chron100": {
+          "publication": "HOU CHRON",
+          "name": "Houston Chronicle Top 100 Restaurants",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "houston_chronicle",
+          "access": "paywall"
+        },
+        "txmonhou": {
+          "publication": "TX MONTHLY",
+          "name": "Texas Monthly Where to Eat in Houston",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "texas_monthly",
+          "access": "paywall"
+        },
+        "michhou": {
+          "publication": "MICHELIN",
+          "name": "Michelin Starred Restaurants, Houston",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "michelin",
+          "access": "js_render"
+        },
+        "bibhou": {
+          "publication": "BIB GOUR",
+          "name": "Michelin Bib Gourmand, Houston",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "michelin",
+          "access": "js_render"
+        },
+        "infathou": {
+          "publication": "INFAT",
+          "name": "The Infatuation's Best Restaurants in Houston",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "infatuation",
+          "access": "js_render"
+        },
+        "cnna50hou": {
+          "publication": "50 NA",
+          "name": "Condé Nast 50 Best Restaurants in North America",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
+        },
+        "nyt50hou": {
+          "publication": "NYT 50",
+          "name": "NYT 50 Best Restaurants in America",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "nyt",
+          "access": "paywall"
+        },
+        "jbhou": {
+          "publication": "BEARD",
+          "name": "Houston James Beard Award Nominees",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "james_beard",
+          "access": "web_scrape"
+        },
+        "beli25hou": {
+          "publication": "BELI",
+          "name": "Beli Top 25 Restaurants in Houston",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "beli",
+          "access": "app_only"
+        }
+      },
+      "bars": {
+        "eaterbhou": {
+          "publication": "EATER",
+          "name": "Eater Best Bars in Houston",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape"
+        },
+        "punchhou": {
+          "publication": "PUNCH",
+          "name": "PUNCH Where to Drink in Houston",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "punch",
+          "access": "web_scrape"
+        },
+        "chronbhou": {
+          "publication": "HOU CHRON",
+          "name": "Houston Chronicle Best Bars",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "houston_chronicle",
+          "access": "paywall"
+        },
+        "thrillhou": {
+          "publication": "THRILLIST",
+          "name": "Thrillist Best Bars in Houston",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "thrillist",
+          "access": "web_scrape"
+        }
+      }
+    },
+    "austin": {
+      "restaurants": {
+        "eater38aus": {
+          "publication": "EATER",
+          "name": "Eater's 38 Best Restaurants in Austin",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape"
+        },
+        "txmonaus": {
+          "publication": "TX MONTHLY",
+          "name": "Texas Monthly Where to Eat in Austin",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "texas_monthly",
+          "access": "paywall"
+        },
+        "austinmo": {
+          "publication": "AUS MONTHLY",
+          "name": "Austin Monthly's Best Restaurants",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "austin_monthly",
+          "access": "web_scrape"
+        },
+        "austinchron": {
+          "publication": "AUS CHRON",
+          "name": "Austin Chronicle Best of Austin: Food",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "houston_chronicle",
+          "access": "paywall"
+        },
+        "michaus": {
+          "publication": "MICHELIN",
+          "name": "Michelin Starred Restaurants, Austin",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "michelin",
+          "access": "js_render"
+        },
+        "bibaus": {
+          "publication": "BIB GOUR",
+          "name": "Michelin Bib Gourmand, Austin",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "michelin",
+          "access": "js_render"
+        },
+        "infataus": {
+          "publication": "INFAT",
+          "name": "The Infatuation's Best Restaurants in Austin",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "infatuation",
+          "access": "js_render"
+        },
+        "cnna50aus": {
+          "publication": "50 NA",
+          "name": "Condé Nast 50 Best Restaurants in North America",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
+        },
+        "nyt50aus": {
+          "publication": "NYT 50",
+          "name": "NYT 50 Best Restaurants in America",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "nyt",
+          "access": "paywall"
+        },
+        "jbaus": {
+          "publication": "BEARD",
+          "name": "Austin James Beard Award Nominees",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "james_beard",
+          "access": "web_scrape"
+        },
+        "resyaus": {
+          "publication": "RESY",
+          "name": "Resy Austin Hit List",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "resy",
+          "access": "web_scrape"
+        },
+        "beli25aus": {
+          "publication": "BELI",
+          "name": "Beli Top 25 Restaurants in Austin",
+          "year": "2026",
+          "ranked": true,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "beli",
+          "access": "app_only"
+        }
+      },
+      "bars": {
+        "eaterbaus": {
+          "publication": "EATER",
+          "name": "Eater Best Bars in Austin",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape"
+        },
+        "punchaus": {
+          "publication": "PUNCH",
+          "name": "PUNCH Where to Drink in Austin",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "punch",
+          "access": "web_scrape"
+        },
+        "austinmob": {
+          "publication": "AUS MONTHLY",
+          "name": "Austin Monthly's Best Bars",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "austin_monthly",
+          "access": "web_scrape"
+        },
+        "thrillaus": {
+          "publication": "THRILLIST",
+          "name": "Thrillist Best Bars in Austin",
+          "year": "2026",
+          "ranked": false,
+          "track_kind": "annual-list",
+          "url": "",
+          "parser": "auto",
+          "pinned": true,
+          "source_type": "thrillist",
+          "access": "web_scrape"
         }
       }
     }

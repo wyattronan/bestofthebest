@@ -1,0 +1,134 @@
+{
+ "restos": [],
+ "bars": [],
+ "rlists": {
+  "eater38hou": {
+   "cls": "plate r-eater38hou",
+   "mono": "E38",
+   "tag": "EATER",
+   "name": "Eater's 38 Best Restaurants in Houston",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "chron100": {
+   "cls": "plate r-chron100",
+   "mono": "HC",
+   "tag": "HOU CHRON",
+   "name": "Houston Chronicle Top 100 Restaurants",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "txmonhou": {
+   "cls": "plate r-txmonhou",
+   "mono": "TM",
+   "tag": "TX MONTHLY",
+   "name": "Texas Monthly Where to Eat in Houston",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "michhou": {
+   "cls": "plate r-michhou",
+   "mono": "CM",
+   "tag": "MICHELIN",
+   "name": "Michelin Starred Restaurants, Houston",
+   "year": "2026",
+   "ranked": true,
+   "starChip": true
+  },
+  "bibhou": {
+   "cls": "plate r-bibhou",
+   "mono": "BIB",
+   "tag": "BIB GOUR",
+   "name": "Michelin Bib Gourmand, Houston",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "infathou": {
+   "cls": "plate r-infathou",
+   "mono": "25",
+   "tag": "INFAT",
+   "name": "The Infatuation's Best Restaurants in Houston",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "cnna50hou": {
+   "cls": "plate r-cnna50hou",
+   "mono": "CN",
+   "tag": "50 NA",
+   "name": "Condé Nast 50 Best Restaurants in North America",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "nyt50hou": {
+   "cls": "plate r-nyt50hou",
+   "mono": "NYT",
+   "tag": "NYT 50",
+   "name": "NYT 50 Best Restaurants in America",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "jbhou": {
+   "cls": "plate r-jbhou",
+   "mono": "JB",
+   "tag": "BEARD",
+   "name": "Houston James Beard Award Nominees",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "beli25hou": {
+   "cls": "plate r-beli25hou",
+   "mono": "BELI",
+   "tag": "BELI",
+   "name": "Beli Top 25 Restaurants in Houston",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  }
+ },
+ "blists": {
+  "eaterbhou": {
+   "cls": "b-eaterbhou",
+   "mono": "EB",
+   "tag": "EATER",
+   "name": "Eater Best Bars in Houston",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "punchhou": {
+   "cls": "b-punchhou",
+   "mono": "P!",
+   "tag": "PUNCH",
+   "name": "PUNCH Where to Drink in Houston",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "chronbhou": {
+   "cls": "b-chronbhou",
+   "mono": "HC",
+   "tag": "HOU CHRON",
+   "name": "Houston Chronicle Best Bars",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "thrillhou": {
+   "cls": "b-thrillhou",
+   "mono": "TH",
+   "tag": "THRILLIST",
+   "name": "Thrillist Best Bars in Houston",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  }
+ }
+}
