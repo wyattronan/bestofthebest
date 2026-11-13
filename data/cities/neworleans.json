@@ -29,6 +29,14 @@
     [
      "infatnola",
      null
+    ],
+    [
+     "eater38nola",
+     null
+    ],
+    [
+     "nytnola",
+     null
     ]
    ],
    "vb": "oldguard",
@@ -46,6 +54,10 @@
     [
      "infatnola",
      null
+    ],
+    [
+     "eater38nola",
+     null
     ]
    ],
    "vb": "specialty",
@@ -62,6 +74,14 @@
    "lists": [
     [
      "infatnola",
+     null
+    ],
+    [
+     "eater38nola",
+     null
+    ],
+    [
+     "nytnola",
      null
     ]
    ],
@@ -97,6 +117,14 @@
     [
      "infatnola",
      null
+    ],
+    [
+     "eater38nola",
+     null
+    ],
+    [
+     "nytnola",
+     null
     ]
    ],
    "vb": "datenight",
@@ -113,6 +141,14 @@
    "lists": [
     [
      "infatnola",
+     null
+    ],
+    [
+     "eater38nola",
+     null
+    ],
+    [
+     "nytnola",
      null
     ]
    ],
@@ -131,6 +167,14 @@
     [
      "infatnola",
      null
+    ],
+    [
+     "eater38nola",
+     null
+    ],
+    [
+     "nytnola",
+     null
     ]
    ],
    "vb": "quick",
@@ -147,6 +191,14 @@
    "lists": [
     [
      "infatnola",
+     null
+    ],
+    [
+     "eater38nola",
+     null
+    ],
+    [
+     "nytnola",
      null
     ]
    ],
@@ -165,6 +217,10 @@
     [
      "infatnola",
      null
+    ],
+    [
+     "nytnola",
+     null
     ]
    ],
    "vb": "datenight",
@@ -181,6 +237,14 @@
    "lists": [
     [
      "infatnola",
+     null
+    ],
+    [
+     "eater38nola",
+     null
+    ],
+    [
+     "nytnola",
      null
     ]
    ],
@@ -233,6 +297,10 @@
     [
      "infatnola",
      null
+    ],
+    [
+     "eater38nola",
+     null
     ]
    ],
    "vb": "global",
@@ -284,6 +352,14 @@
     [
      "infatnola",
      null
+    ],
+    [
+     "eater38nola",
+     null
+    ],
+    [
+     "nytnola",
+     null
     ]
    ],
    "vb": "datenight",
@@ -301,6 +377,10 @@
     [
      "infatnola",
      null
+    ],
+    [
+     "eater38nola",
+     null
     ]
    ],
    "vb": "datenight",
@@ -317,6 +397,10 @@
    "lists": [
     [
      "infatnola",
+     null
+    ],
+    [
+     "eater38nola",
      null
     ]
    ],
@@ -352,6 +436,10 @@
     [
      "infatnola",
      null
+    ],
+    [
+     "nytnola",
+     null
     ]
    ],
    "vb": "quick",
@@ -369,6 +457,10 @@
     [
      "infatnola",
      null
+    ],
+    [
+     "eater38nola",
+     null
     ]
    ],
    "vb": "global",
@@ -385,6 +477,10 @@
    "lists": [
     [
      "infatnola",
+     null
+    ],
+    [
+     "eater38nola",
      null
     ]
    ],
@@ -454,9 +550,602 @@
     [
      "infatnola",
      null
+    ],
+    [
+     "eater38nola",
+     null
     ]
    ],
    "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Bacchanal Fine Wine & Spirits",
+   "hood": "Bywater",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.9657,
+   "lng": -90.0459,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Origen Venezuelan Bistro",
+   "hood": "Uptown",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 29.93234,
+   "lng": -90.11286,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Tân Định",
+   "hood": "Gretna",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.94524,
+   "lng": -90.06968,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ],
+    [
+     "nytnola",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Cane & Table",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.9474,
+   "lng": -90.07122,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ],
+    [
+     "nytnola",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Vaucresson's Creole Cafe",
+   "hood": "7th Ward",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 29.96906,
+   "lng": -90.05796,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Vyoone's",
+   "hood": "CBD",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 29.95124,
+   "lng": -90.07132,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Li'l Dizzy's Cafe",
+   "hood": "Treme",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 29.97578,
+   "lng": -90.06626,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Pêche",
+   "hood": "Warehouse District",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 29.94102,
+   "lng": -90.05632,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ],
+    [
+     "nytnola",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Lufu Nola",
+   "hood": "Mid-City",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.96798,
+   "lng": -90.09302,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Chicken's Kitchen",
+   "hood": "Marigny",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 29.96094,
+   "lng": -90.06512,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Liuzza's by the Track",
+   "hood": "Mid-City",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 29.97086,
+   "lng": -90.09192,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ],
+    [
+     "nytnola",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Commander's Palace",
+   "hood": "Garden District",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 29.93124,
+   "lng": -90.07366,
+   "pr": 4,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ],
+    [
+     "nytnola",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Atchafalaya",
+   "hood": "Irish Channel",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 29.91906,
+   "lng": -90.06488,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Chada",
+   "hood": "Mid-City",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.97284,
+   "lng": -90.09654,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Munch Factory",
+   "hood": "Gentilly",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 30.00342,
+   "lng": -90.0623,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Zasu",
+   "hood": "Mid-City",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.96654,
+   "lng": -90.09302,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Mister Mao",
+   "hood": "Uptown",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.93504,
+   "lng": -90.10362,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Queen Trini Lisa",
+   "hood": "7th Ward",
+   "type": "caribbean",
+   "typekind": "cui",
+   "lat": 29.9696,
+   "lng": -90.07468,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ],
+    [
+     "nytnola",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Rosedale",
+   "hood": "Navarre",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.98658,
+   "lng": -90.10208,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Social",
+   "hood": "Mid-City",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.96978,
+   "lng": -90.08444,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Cafe Malou",
+   "hood": "Uptown",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 29.93864,
+   "lng": -90.11264,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ]
+   ],
+   "vb": "brunch",
+   "dual": false
+  },
+  {
+   "name": "Jamila's Cafe",
+   "hood": "Uptown",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.93666,
+   "lng": -90.09966,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Brigtsen's",
+   "hood": "Riverbend",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 29.94766,
+   "lng": -90.1416,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38nola",
+     null
+    ],
+    [
+     "nytnola",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Charlie's Steak House",
+   "hood": "Uptown",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 29.92496,
+   "lng": -90.10714,
+   "pr": 3,
+   "lists": [
+    [
+     "nytnola",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Clancy's",
+   "hood": "Uptown",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 29.93828,
+   "lng": -90.11352,
+   "pr": 3,
+   "lists": [
+    [
+     "nytnola",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Cochon",
+   "hood": "Warehouse District",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 29.95092,
+   "lng": -90.07106,
+   "pr": 3,
+   "lists": [
+    [
+     "nytnola",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Compère Lapin",
+   "hood": "Warehouse District",
+   "type": "caribbean",
+   "typekind": "cui",
+   "lat": 29.93472,
+   "lng": -90.06314,
+   "pr": 3,
+   "lists": [
+    [
+     "nytnola",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "The Kingsway",
+   "hood": "CBD",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.94188,
+   "lng": -90.06846,
+   "pr": 3,
+   "lists": [
+    [
+     "nytnola",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Mosca's",
+   "hood": "Westwego",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 29.9072,
+   "lng": -90.14,
+   "pr": 3,
+   "lists": [
+    [
+     "nytnola",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Lilette",
+   "hood": "Uptown",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 29.93072,
+   "lng": -90.12056,
+   "pr": 3,
+   "lists": [
+    [
+     "nytnola",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Respite",
+   "hood": "Lower Garden District",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.92448,
+   "lng": -90.08088,
+   "pr": 2,
+   "lists": [
+    [
+     "nytnola",
+     null
+    ]
+   ],
+   "vb": "brunch",
+   "dual": false
+  },
+  {
+   "name": "Saba",
+   "hood": "Uptown",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 29.93882,
+   "lng": -90.10274,
+   "pr": 3,
+   "lists": [
+    [
+     "nytnola",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Saint Claire",
+   "hood": "Uptown",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.9228,
+   "lng": -90.1001,
+   "pr": 3,
+   "lists": [
+    [
+     "nytnola",
+     null
+    ]
+   ],
+   "vb": "datenight",
    "dual": false
   }
  ],
@@ -1020,6 +1709,24 @@
    "mono": "25",
    "tag": "INFAT",
    "name": "The Infatuation's Best Restaurants in New Orleans",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "eater38nola": {
+   "cls": "plate r-eater38nola",
+   "mono": "E38",
+   "tag": "EATER",
+   "name": "Eater New Orleans's 38 Best Restaurants",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "nytnola": {
+   "cls": "plate r-nytnola",
+   "mono": "NYT",
+   "tag": "NYT",
+   "name": "The New York Times' Where to Eat in New Orleans",
    "year": "2026",
    "ranked": false,
    "starChip": false
