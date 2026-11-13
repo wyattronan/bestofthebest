@@ -1240,7 +1240,7 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "specialty"
   },
   {
    "name": "Thai Diner",
@@ -2487,7 +2487,7 @@
   {
    "name": "Golden Diner",
    "hood": "Two Bridges",
-   "type": "classics",
+   "type": "newam",
    "typekind": "cui",
    "lat": 40.7127,
    "lng": -73.993,
@@ -2503,7 +2503,7 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "specialty"
   },
   {
    "name": "Gordo's Cantina",
@@ -5192,7 +5192,7 @@
   {
    "name": "Birria-Landia",
    "hood": "",
-   "type": "quick",
+   "type": "mexican",
    "typekind": "cui",
    "lat": 40.7603,
    "lng": -73.9713,
@@ -5203,7 +5203,7 @@
      74
     ]
    ],
-   "vb": "quick",
+   "vb": "specialty",
    "dual": false
   },
   {
@@ -5345,7 +5345,7 @@
   {
    "name": "Ho Foods",
    "hood": "",
-   "type": "newam",
+   "type": "asian",
    "typekind": "cui",
    "lat": 40.7687,
    "lng": -73.9809,
@@ -5356,7 +5356,7 @@
      89
     ]
    ],
-   "vb": "datenight",
+   "vb": "specialty",
    "dual": false
   },
   {

@@ -383,7 +383,7 @@
      null
     ]
    ],
-   "vb": "specialty",
+   "vb": "datenight",
    "dual": false
   },
   {
@@ -550,7 +550,7 @@
      null
     ]
    ],
-   "vb": "specialty",
+   "vb": "datenight",
    "dual": false
   },
   {
@@ -598,7 +598,7 @@
   {
    "name": "Joe's Bakery & Coffee Shop",
    "hood": "",
-   "type": "bakery",
+   "type": "classics",
    "typekind": "cui",
    "lat": 30.2575,
    "lng": -97.761,
@@ -613,7 +613,7 @@
      null
     ]
    ],
-   "vb": "brunch",
+   "vb": "specialty",
    "dual": false
   },
   {
@@ -971,7 +971,7 @@
      null
     ]
    ],
-   "vb": "specialty",
+   "vb": "datenight",
    "dual": false
   },
   {
@@ -1898,7 +1898,7 @@
      null
     ]
    ],
-   "vb": "taco",
+   "vb": "specialty",
    "dual": false
   },
   {
