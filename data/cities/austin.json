@@ -1,57 +1,3197 @@
 {
- "restos": [],
- "bars": [],
+ "restos": [
+  {
+   "name": "Himalaya Kosheli Nepali & Indian",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 30.243,
+   "lng": -97.7646,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Pho Phong Luu",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 30.287,
+   "lng": -97.7334,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "infataus",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Usta Kababgy",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2905,
+   "lng": -97.749,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "House of Three Gorges",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 30.271,
+   "lng": -97.7292,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "infataus",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Korea House",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2555,
+   "lng": -97.7544,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Bufalina Due",
+   "hood": "",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 30.2575,
+   "lng": -97.7184,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "austinmo",
+     18
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Paprika ATX",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2835,
+   "lng": -97.719,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "infataus",
+     null
+    ],
+    [
+     "resyaus",
+     8
+    ],
+    [
+     "austinchron",
+     null
+    ],
+    [
+     "nytaus",
+     null
+    ],
+    [
+     "nyt50aus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Fonda San Miguel",
+   "hood": "North Loop",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 30.2435,
+   "lng": -97.7238,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Foreign & Domestic",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2465,
+   "lng": -97.7658,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Komé",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2895,
+   "lng": -97.773,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Allday Pizza",
+   "hood": "",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 30.2845,
+   "lng": -97.7202,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Uchiko",
+   "hood": "North Loop",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 30.291,
+   "lng": -97.7208,
+   "pr": 4,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "P Thai's Khao Man Gai & Noodles",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 30.2755,
+   "lng": -97.7406,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Fabrik",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2585,
+   "lng": -97.755,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "infataus",
+     null
+    ],
+    [
+     "michaus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Crown & Anchor Pub",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.259,
+   "lng": -97.7322,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "KG BBQ",
+   "hood": "",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 30.281,
+   "lng": -97.7346,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "infataus",
+     null
+    ],
+    [
+     "bibaus",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "Dai Due",
+   "hood": "East Austin",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.28,
+   "lng": -97.7148,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "infataus",
+     null
+    ],
+    [
+     "resyaus",
+     1
+    ],
+    [
+     "bibaus",
+     null
+    ],
+    [
+     "austinmo",
+     16
+    ],
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Este",
+   "hood": "East Austin",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 30.265,
+   "lng": -97.7388,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "infataus",
+     null
+    ],
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Birdie's",
+   "hood": "East Austin",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2745,
+   "lng": -97.7652,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "infataus",
+     null
+    ],
+    [
+     "austinmo",
+     24
+    ],
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Nixta Taqueria",
+   "hood": "East Austin",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 30.281,
+   "lng": -97.7304,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "infataus",
+     null
+    ],
+    [
+     "bibaus",
+     null
+    ],
+    [
+     "austinmo",
+     4
+    ],
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "taco",
+   "dual": false
+  },
+  {
+   "name": "Better Half Coffee & Cocktails",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2775,
+   "lng": -97.7436,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "austinmo",
+     8
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Franklin Barbecue",
+   "hood": "East Austin",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 30.2765,
+   "lng": -97.7502,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "bibaus",
+     null
+    ],
+    [
+     "austinmo",
+     9
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "J. Carver's",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2915,
+   "lng": -97.773,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Lao'd Bar",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.252,
+   "lng": -97.7208,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Fish Shop",
+   "hood": "",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 30.2865,
+   "lng": -97.7718,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "txmonaus",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Canje",
+   "hood": "East Austin",
+   "type": "caribbean",
+   "typekind": "cui",
+   "lat": 30.2895,
+   "lng": -97.7286,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "infataus",
+     null
+    ],
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Apt 115",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.283,
+   "lng": -97.7544,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Joe's Bakery & Coffee Shop",
+   "hood": "",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 30.2575,
+   "lng": -97.761,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "brunch",
+   "dual": false
+  },
+  {
+   "name": "Dee Dee",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2585,
+   "lng": -97.7214,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Mercado Sin Nombre",
+   "hood": "",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 30.2685,
+   "lng": -97.7472,
+   "pr": 1,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "bibaus",
+     null
+    ]
+   ],
+   "vb": "taco",
+   "dual": false
+  },
+  {
+   "name": "Odd Duck",
+   "hood": "South Lamar",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2865,
+   "lng": -97.7364,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "infataus",
+     null
+    ],
+    [
+     "bibaus",
+     null
+    ],
+    [
+     "austinmo",
+     1
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "La Barbecue",
+   "hood": "",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 30.2455,
+   "lng": -97.7652,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "Intero",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.242,
+   "lng": -97.7454,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Justine's",
+   "hood": "East Austin",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 30.2815,
+   "lng": -97.7628,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Bouldin Creek Café",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2615,
+   "lng": -97.7532,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Habanero Cafe",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.286,
+   "lng": -97.734,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "LeRoy & Lewis",
+   "hood": "",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 30.2545,
+   "lng": -97.7334,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "Distant Relatives",
+   "hood": "",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 30.2705,
+   "lng": -97.7718,
+   "pr": 2,
+   "lists": [
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "bibaus",
+     null
+    ],
+    [
+     "austinmo",
+     21
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "Tsuke Edomae",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 30.258,
+   "lng": -97.746,
+   "pr": 1,
+   "lists": [
+    [
+     "infataus",
+     null
+    ],
+    [
+     "austinmo",
+     15
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "LeRoy and Lewis Barbecue",
+   "hood": "",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 30.269,
+   "lng": -97.7598,
+   "pr": 2,
+   "lists": [
+    [
+     "infataus",
+     null
+    ],
+    [
+     "michaus",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "Ramen Del Barrio",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 30.2725,
+   "lng": -97.737,
+   "pr": 1,
+   "lists": [
+    [
+     "infataus",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "P Thai's Khao Man Gai",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 30.2435,
+   "lng": -97.728,
+   "pr": 1,
+   "lists": [
+    [
+     "infataus",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Parish Barbecue",
+   "hood": "",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 30.26,
+   "lng": -97.767,
+   "pr": 2,
+   "lists": [
+    [
+     "infataus",
+     null
+    ],
+    [
+     "bibaus",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "Bufalina",
+   "hood": "",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 30.2515,
+   "lng": -97.7184,
+   "pr": 2,
+   "lists": [
+    [
+     "infataus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Barley Swine",
+   "hood": "Burnet",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2455,
+   "lng": -97.767,
+   "pr": 4,
+   "lists": [
+    [
+     "infataus",
+     null
+    ],
+    [
+     "resyaus",
+     12
+    ],
+    [
+     "michaus",
+     null
+    ],
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Austin Oyster Co.",
+   "hood": "",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 30.256,
+   "lng": -97.7538,
+   "pr": 3,
+   "lists": [
+    [
+     "infataus",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Le Calamar",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2685,
+   "lng": -97.7196,
+   "pr": 2,
+   "lists": [
+    [
+     "infataus",
+     null
+    ],
+    [
+     "austinchron",
+     null
+    ],
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Ling Kitchen",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2615,
+   "lng": -97.746,
+   "pr": 2,
+   "lists": [
+    [
+     "infataus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Jeffrey's",
+   "hood": "Clarksville",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.277,
+   "lng": -97.7328,
+   "pr": 4,
+   "lists": [
+    [
+     "infataus",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Kemuri Tatsu-Ya",
+   "hood": "East Austin",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 30.287,
+   "lng": -97.761,
+   "pr": 2,
+   "lists": [
+    [
+     "infataus",
+     null
+    ],
+    [
+     "bibaus",
+     null
+    ],
+    [
+     "austinmo",
+     5
+    ],
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Sangam Chettinad",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.251,
+   "lng": -97.7262,
+   "pr": 2,
+   "lists": [
+    [
+     "infataus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Restaurant François",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2735,
+   "lng": -97.737,
+   "pr": 2,
+   "lists": [
+    [
+     "infataus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Eldorado Cafe",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.285,
+   "lng": -97.7682,
+   "pr": 2,
+   "lists": [
+    [
+     "resyaus",
+     2
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Mattie's",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2745,
+   "lng": -97.7286,
+   "pr": 2,
+   "lists": [
+    [
+     "resyaus",
+     3
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Tzintzuntzan",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.25,
+   "lng": -97.7514,
+   "pr": 2,
+   "lists": [
+    [
+     "resyaus",
+     4
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Bartlett's",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.277,
+   "lng": -97.7646,
+   "pr": 2,
+   "lists": [
+    [
+     "resyaus",
+     5
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Craft Omakase",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 30.242,
+   "lng": -97.764,
+   "pr": 1,
+   "lists": [
+    [
+     "resyaus",
+     6
+    ],
+    [
+     "michaus",
+     null
+    ],
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "VanHorn's",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2675,
+   "lng": -97.743,
+   "pr": 2,
+   "lists": [
+    [
+     "resyaus",
+     7
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Roya",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.244,
+   "lng": -97.7178,
+   "pr": 2,
+   "lists": [
+    [
+     "resyaus",
+     9
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Uchi Austin",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2805,
+   "lng": -97.7658,
+   "pr": 2,
+   "lists": [
+    [
+     "resyaus",
+     10
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Boni's Bar Next Door",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.29,
+   "lng": -97.7262,
+   "pr": 2,
+   "lists": [
+    [
+     "resyaus",
+     11
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "CinqueTerre West ATX",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.277,
+   "lng": -97.7292,
+   "pr": 2,
+   "lists": [
+    [
+     "resyaus",
+     13
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Equipment Room",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2495,
+   "lng": -97.7586,
+   "pr": 2,
+   "lists": [
+    [
+     "resyaus",
+     14
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Small Victory",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2775,
+   "lng": -97.7688,
+   "pr": 2,
+   "lists": [
+    [
+     "resyaus",
+     15
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Musashino Sushi Dokoro",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 30.264,
+   "lng": -97.7292,
+   "pr": 1,
+   "lists": [
+    [
+     "resyaus",
+     16
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Kiin Di",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.267,
+   "lng": -97.7484,
+   "pr": 2,
+   "lists": [
+    [
+     "resyaus",
+     17
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Texas French Bread",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2545,
+   "lng": -97.7556,
+   "pr": 2,
+   "lists": [
+    [
+     "resyaus",
+     18
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Terrible Love Wine",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2785,
+   "lng": -97.725,
+   "pr": 3,
+   "lists": [
+    [
+     "resyaus",
+     19
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Sushi Roku – Austin",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 30.2825,
+   "lng": -97.7586,
+   "pr": 1,
+   "lists": [
+    [
+     "resyaus",
+     20
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Hestia",
+   "hood": "Downtown",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2815,
+   "lng": -97.7298,
+   "pr": 4,
+   "lists": [
+    [
+     "michaus",
+     null
+    ],
+    [
+     "austinmo",
+     12
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Kappo Kappo",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 30.289,
+   "lng": -97.7712,
+   "pr": 1,
+   "lists": [
+    [
+     "michaus",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "InterStellar BBQ",
+   "hood": "",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 30.262,
+   "lng": -97.7226,
+   "pr": 2,
+   "lists": [
+    [
+     "michaus",
+     null
+    ],
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "Emmer & Rye",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2865,
+   "lng": -97.7574,
+   "pr": 2,
+   "lists": [
+    [
+     "bibaus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Cuantos Tacos",
+   "hood": "",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 30.27,
+   "lng": -97.7676,
+   "pr": 1,
+   "lists": [
+    [
+     "bibaus",
+     null
+    ],
+    [
+     "austinmo",
+     6
+    ],
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "taco",
+   "dual": false
+  },
+  {
+   "name": "La Santa Barbacha",
+   "hood": "",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 30.264,
+   "lng": -97.7376,
+   "pr": 1,
+   "lists": [
+    [
+     "bibaus",
+     null
+    ]
+   ],
+   "vb": "taco",
+   "dual": false
+  },
+  {
+   "name": "Micklethwait Craft Meats",
+   "hood": "",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 30.242,
+   "lng": -97.767,
+   "pr": 2,
+   "lists": [
+    [
+     "bibaus",
+     null
+    ],
+    [
+     "austinmo",
+     19
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "Veracruz Fonda & Bar",
+   "hood": "",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 30.2485,
+   "lng": -97.7172,
+   "pr": 1,
+   "lists": [
+    [
+     "bibaus",
+     null
+    ]
+   ],
+   "vb": "taco",
+   "dual": false
+  },
+  {
+   "name": "Briscuits",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.29,
+   "lng": -97.7472,
+   "pr": 2,
+   "lists": [
+    [
+     "bibaus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Twin Isle",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.261,
+   "lng": -97.7412,
+   "pr": 2,
+   "lists": [
+    [
+     "austinchron",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Lynny's",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2595,
+   "lng": -97.7604,
+   "pr": 2,
+   "lists": [
+    [
+     "austinchron",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Leona Botanical Cafe & Bar",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.277,
+   "lng": -97.722,
+   "pr": 3,
+   "lists": [
+    [
+     "austinchron",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Matok Bakery",
+   "hood": "",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 30.2875,
+   "lng": -97.737,
+   "pr": 1,
+   "lists": [
+    [
+     "austinchron",
+     null
+    ]
+   ],
+   "vb": "brunch",
+   "dual": false
+  },
+  {
+   "name": "Brown Sugar Bake Shop",
+   "hood": "",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 30.27,
+   "lng": -97.7172,
+   "pr": 1,
+   "lists": [
+    [
+     "austinchron",
+     null
+    ]
+   ],
+   "vb": "brunch",
+   "dual": false
+  },
+  {
+   "name": "Kriya Matcha Cafe",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.26,
+   "lng": -97.7592,
+   "pr": 2,
+   "lists": [
+    [
+     "austinchron",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Old Jerusalem Restaurant",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.256,
+   "lng": -97.7448,
+   "pr": 2,
+   "lists": [
+    [
+     "austinchron",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Armando's Kitchen & Deli",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.246,
+   "lng": -97.7352,
+   "pr": 2,
+   "lists": [
+    [
+     "austinchron",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Suerte",
+   "hood": "East Austin",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 30.2905,
+   "lng": -97.7286,
+   "pr": 3,
+   "lists": [
+    [
+     "austinmo",
+     2
+    ],
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "taco",
+   "dual": false
+  },
+  {
+   "name": "Otoko",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.282,
+   "lng": -97.7424,
+   "pr": 2,
+   "lists": [
+    [
+     "austinmo",
+     3
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Sammie's",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2625,
+   "lng": -97.719,
+   "pr": 2,
+   "lists": [
+    [
+     "austinmo",
+     7
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Valentina's Tex Mex BBQ",
+   "hood": "",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 30.2635,
+   "lng": -97.761,
+   "pr": 2,
+   "lists": [
+    [
+     "austinmo",
+     10
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "Lutie's",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.25,
+   "lng": -97.7694,
+   "pr": 2,
+   "lists": [
+    [
+     "austinmo",
+     11
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Qi",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2755,
+   "lng": -97.7658,
+   "pr": 2,
+   "lists": [
+    [
+     "austinmo",
+     13
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Justine's Brasserie",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2725,
+   "lng": -97.719,
+   "pr": 2,
+   "lists": [
+    [
+     "austinmo",
+     14
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Joe's Bakery",
+   "hood": "",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 30.275,
+   "lng": -97.7352,
+   "pr": 1,
+   "lists": [
+    [
+     "austinmo",
+     17
+    ]
+   ],
+   "vb": "brunch",
+   "dual": false
+  },
+  {
+   "name": "Uchi",
+   "hood": "Zilker",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 30.2815,
+   "lng": -97.773,
+   "pr": 4,
+   "lists": [
+    [
+     "austinmo",
+     20
+    ],
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Juniper",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.286,
+   "lng": -97.7322,
+   "pr": 2,
+   "lists": [
+    [
+     "austinmo",
+     22
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Veracruz All Natural",
+   "hood": "East Austin",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 30.2615,
+   "lng": -97.767,
+   "pr": 1,
+   "lists": [
+    [
+     "austinmo",
+     23
+    ],
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "taco",
+   "dual": false
+  },
+  {
+   "name": "Thai Kun",
+   "hood": "",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 30.26,
+   "lng": -97.7574,
+   "pr": 1,
+   "lists": [
+    [
+     "austinmo",
+     25
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Comadre Panadería",
+   "hood": "",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 30.244,
+   "lng": -97.7718,
+   "pr": 1,
+   "lists": [
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "brunch",
+   "dual": false
+  },
+  {
+   "name": "Discada",
+   "hood": "",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 30.262,
+   "lng": -97.7592,
+   "pr": 1,
+   "lists": [
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "taco",
+   "dual": false
+  },
+  {
+   "name": "Ezov",
+   "hood": "",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2845,
+   "lng": -97.7226,
+   "pr": 2,
+   "lists": [
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Franklin BBQ",
+   "hood": "",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 30.2585,
+   "lng": -97.7424,
+   "pr": 2,
+   "lists": [
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  },
+  {
+   "name": "Mum Foods",
+   "hood": "",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 30.2545,
+   "lng": -97.7442,
+   "pr": 2,
+   "lists": [
+    [
+     "nytaus",
+     null
+    ]
+   ],
+   "vb": "bbq",
+   "dual": false
+  }
+ ],
+ "bars": [
+  {
+   "name": "Eden Cocktail Room",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2535,
+   "lng": -97.7616,
+   "lists": [
+    [
+     "resybaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "The Dead Rabbit Austin",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2595,
+   "lng": -97.7286,
+   "lists": [
+    [
+     "resybaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Péché Austin",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.286,
+   "lng": -97.764,
+   "lists": [
+    [
+     "resybaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Kinfolk",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.29,
+   "lng": -97.7196,
+   "lists": [
+    [
+     "resybaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "UPTOWN",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.274,
+   "lng": -97.7424,
+   "lists": [
+    [
+     "resybaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Equipment Room",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2495,
+   "lng": -97.7586,
+   "lists": [
+    [
+     "resybaus",
+     null
+    ],
+    [
+     "cntbaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Space Cowboy",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2595,
+   "lng": -97.7292,
+   "lists": [
+    [
+     "resybaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "TRONA",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2465,
+   "lng": -97.7316,
+   "lists": [
+    [
+     "resybaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Small Victory",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2775,
+   "lng": -97.7688,
+   "lists": [
+    [
+     "resybaus",
+     null
+    ],
+    [
+     "eaterbaus",
+     null
+    ],
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Seven Grand",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.252,
+   "lng": -97.7718,
+   "lists": [
+    [
+     "cntbaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "The White Horse",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 30.2565,
+   "lng": -97.7334,
+   "lists": [
+    [
+     "cntbaus",
+     null
+    ],
+    [
+     "thrillaus",
+     null
+    ],
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Watertrade",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.257,
+   "lng": -97.7364,
+   "lists": [
+    [
+     "cntbaus",
+     null
+    ],
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Daydreamer",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2825,
+   "lng": -97.7274,
+   "lists": [
+    [
+     "cntbaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Garage",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2735,
+   "lng": -97.7682,
+   "lists": [
+    [
+     "cntbaus",
+     null
+    ],
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Nickel City",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 30.253,
+   "lng": -97.7454,
+   "lists": [
+    [
+     "cntbaus",
+     null
+    ],
+    [
+     "eaterbaus",
+     null
+    ],
+    [
+     "thrillaus",
+     null
+    ],
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Midnight Cowboy",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2695,
+   "lng": -97.7514,
+   "lists": [
+    [
+     "cntbaus",
+     null
+    ],
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Moontower Saloon",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 30.2815,
+   "lng": -97.7226,
+   "lists": [
+    [
+     "cntbaus",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Half Step",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.272,
+   "lng": -97.7268,
+   "lists": [
+    [
+     "cntbaus",
+     null
+    ],
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Drink.Well.",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2795,
+   "lng": -97.7448,
+   "lists": [
+    [
+     "cntbaus",
+     null
+    ],
+    [
+     "eaterbaus",
+     null
+    ],
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Holiday",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.265,
+   "lng": -97.743,
+   "lists": [
+    [
+     "cntbaus",
+     null
+    ],
+    [
+     "eaterbaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Prélude",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.267,
+   "lng": -97.7688,
+   "lists": [
+    [
+     "cntbaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Whisler's",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.258,
+   "lng": -97.7364,
+   "lists": [
+    [
+     "cntbaus",
+     null
+    ],
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Milonga Room",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.278,
+   "lng": -97.7364,
+   "lists": [
+    [
+     "cntbaus",
+     null
+    ],
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "The Roosevelt Room",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2545,
+   "lng": -97.7658,
+   "lists": [
+    [
+     "cntbaus",
+     null
+    ],
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Firehouse Lounge",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2635,
+   "lng": -97.7136,
+   "lists": [
+    [
+     "cntbaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Veracruz Fonda and Bar",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.278,
+   "lng": -97.7418,
+   "lists": [
+    [
+     "eaterbaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Hole in the Wall",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.247,
+   "lng": -97.773,
+   "lists": [
+    [
+     "eaterbaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "King Bee Lounge",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.26,
+   "lng": -97.7568,
+   "lists": [
+    [
+     "eaterbaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Frazier's Long & Low",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2445,
+   "lng": -97.7544,
+   "lists": [
+    [
+     "eaterbaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Little Drinks Lounge",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.263,
+   "lng": -97.7154,
+   "lists": [
+    [
+     "eaterbaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "The Little Darlin'",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.248,
+   "lng": -97.7304,
+   "lists": [
+    [
+     "eaterbaus",
+     null
+    ],
+    [
+     "thrillaus",
+     null
+    ],
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Mama Dearest",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2615,
+   "lng": -97.7232,
+   "lists": [
+    [
+     "thrillaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Tweedy's Bar",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.269,
+   "lng": -97.7226,
+   "lists": [
+    [
+     "thrillaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Howard's Bar & Club",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.281,
+   "lng": -97.7652,
+   "lists": [
+    [
+     "thrillaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Tiki Tatsu-Ya",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.257,
+   "lng": -97.7376,
+   "lists": [
+    [
+     "thrillaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Lala's Little Nugget",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 30.275,
+   "lng": -97.7274,
+   "lists": [
+    [
+     "thrillaus",
+     null
+    ],
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Cheer Up Charlie's",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.269,
+   "lng": -97.728,
+   "lists": [
+    [
+     "thrillaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Better Half Coffee & Cocktails",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2775,
+   "lng": -97.7436,
+   "lists": [
+    [
+     "thrillaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Kitty Cohen's",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.247,
+   "lng": -97.7724,
+   "lists": [
+    [
+     "thrillaus",
+     null
+    ],
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Kinda Tropical",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2855,
+   "lng": -97.7136,
+   "lists": [
+    [
+     "thrillaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Haymaker",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2875,
+   "lng": -97.7154,
+   "lists": [
+    [
+     "thrillaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Drinks Lounge",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2445,
+   "lng": -97.7538,
+   "lists": [
+    [
+     "thrillaus",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Deep Eddy Cabaret",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 30.267,
+   "lng": -97.7694,
+   "lists": [
+    [
+     "thrillaus",
+     null
+    ],
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Last Straw",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.263,
+   "lng": -97.77,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Pool Burger",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2585,
+   "lng": -97.7604,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Bar Ilegal",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.246,
+   "lng": -97.7238,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "DuMont's Down Low",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.281,
+   "lng": -97.731,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Ellis",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.272,
+   "lng": -97.7664,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "The Long Play Lounge",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.276,
+   "lng": -97.7412,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Péché",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2755,
+   "lng": -97.7298,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Stay Gold",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2495,
+   "lng": -97.7574,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "The Cloak Room",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2575,
+   "lng": -97.7652,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Dirty Bill's",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2625,
+   "lng": -97.7538,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Shangri-La",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2875,
+   "lng": -97.7328,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "The Skylark Lounge",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.278,
+   "lng": -97.716,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "The Broken Spoke",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 30.2475,
+   "lng": -97.7526,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Donn's Depot",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 30.2875,
+   "lng": -97.7514,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Cosmic Coffee + Beer Garden",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 30.2675,
+   "lng": -97.725,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Craft Pride",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 30.2575,
+   "lng": -97.7646,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Draught House Pub & Brewery",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 30.272,
+   "lng": -97.7406,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Easy Tiger",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.288,
+   "lng": -97.749,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Yellow Jacket Social Club",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 30.2895,
+   "lng": -97.767,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Apt 115",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.283,
+   "lng": -97.7544,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Aviary",
+   "hood": "",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 30.2645,
+   "lng": -97.7406,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "wine",
+   "dual": false
+  },
+  {
+   "name": "Hotel San José",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.279,
+   "lng": -97.7256,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "June's All Day",
+   "hood": "",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.269,
+   "lng": -97.7652,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Winebelly",
+   "hood": "",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 30.273,
+   "lng": -97.7364,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "wine",
+   "dual": false
+  },
+  {
+   "name": "The Little Longhorn Saloon",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 30.2755,
+   "lng": -97.734,
+   "lists": [
+    [
+     "austinmob",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  }
+ ],
  "rlists": {
   "eater38aus": {
    "cls": "plate r-eater38aus",
    "mono": "E38",
    "tag": "EATER",
-   "name": "Eater's 38 Best Restaurants in Austin",
-   "year": "2026",
-   "ranked": false,
-   "starChip": false
-  },
-  "txmonaus": {
-   "cls": "plate r-txmonaus",
-   "mono": "TM",
-   "tag": "TX MONTHLY",
-   "name": "Texas Monthly Where to Eat in Austin",
-   "year": "2026",
-   "ranked": false,
-   "starChip": false
-  },
-  "austinmo": {
-   "cls": "plate r-austinmo",
-   "mono": "AM",
-   "tag": "AUS MONTHLY",
-   "name": "Austin Monthly's Best Restaurants",
-   "year": "2026",
-   "ranked": false,
-   "starChip": false
-  },
-  "austinchron": {
-   "cls": "plate r-austinchron",
-   "mono": "AC",
-   "tag": "AUS CHRON",
-   "name": "Austin Chronicle Best of Austin: Food",
-   "year": "2026",
-   "ranked": false,
-   "starChip": false
-  },
-  "michaus": {
-   "cls": "plate r-michaus",
-   "mono": "CM",
-   "tag": "MICHELIN",
-   "name": "Michelin Starred Restaurants, Austin",
-   "year": "2026",
-   "ranked": true,
-   "starChip": true
-  },
-  "bibaus": {
-   "cls": "plate r-bibaus",
-   "mono": "BIB",
-   "tag": "BIB GOUR",
-   "name": "Michelin Bib Gourmand, Austin",
+   "name": "Eater Austin's 38 Best Restaurants",
    "year": "2026",
    "ranked": false,
    "starChip": false
@@ -60,34 +3200,7 @@
    "cls": "plate r-infataus",
    "mono": "25",
    "tag": "INFAT",
-   "name": "The Infatuation's Best Restaurants in Austin",
-   "year": "2026",
-   "ranked": false,
-   "starChip": false
-  },
-  "cnna50aus": {
-   "cls": "plate r-cnna50aus",
-   "mono": "CN",
-   "tag": "50 NA",
-   "name": "Condé Nast 50 Best Restaurants in North America",
-   "year": "2026",
-   "ranked": true,
-   "starChip": false
-  },
-  "nyt50aus": {
-   "cls": "plate r-nyt50aus",
-   "mono": "NYT",
-   "tag": "NYT 50",
-   "name": "NYT 50 Best Restaurants in America",
-   "year": "2026",
-   "ranked": true,
-   "starChip": false
-  },
-  "jbaus": {
-   "cls": "plate r-jbaus",
-   "mono": "JB",
-   "tag": "BEARD",
-   "name": "Austin James Beard Award Nominees",
+   "name": "The Infatuation's 25 Best Restaurants in Austin",
    "year": "2026",
    "ranked": false,
    "starChip": false
@@ -96,46 +3209,100 @@
    "cls": "plate r-resyaus",
    "mono": "RE",
    "tag": "RESY",
-   "name": "Resy Austin Hit List",
+   "name": "The Resy Austin Hit List",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "michaus": {
+   "cls": "plate r-michaus",
+   "mono": "★",
+   "tag": "MICHELIN",
+   "name": "MICHELIN Starred Restaurants, Austin",
+   "year": "2026",
+   "ranked": false,
+   "starChip": true
+  },
+  "bibaus": {
+   "cls": "plate r-bibaus",
+   "mono": "BIB",
+   "tag": "BIB GOUR",
+   "name": "MICHELIN Bib Gourmand, Austin",
    "year": "2026",
    "ranked": false,
    "starChip": false
   },
-  "beli25aus": {
-   "cls": "plate r-beli25aus",
-   "mono": "BELI",
-   "tag": "BELI",
-   "name": "Beli Top 25 Restaurants in Austin",
+  "austinchron": {
+   "cls": "plate r-austinchron",
+   "mono": "AC",
+   "tag": "AUS CHRON",
+   "name": "Austin Chronicle's Best of Austin: Food",
    "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "austinmo": {
+   "cls": "plate r-austinmo",
+   "mono": "AM",
+   "tag": "AUS MONTHLY",
+   "name": "Austin Monthly's 25 Best Restaurants",
+   "year": "2021",
    "ranked": true,
+   "starChip": false
+  },
+  "nytaus": {
+   "cls": "plate r-nytaus",
+   "mono": "NYT",
+   "tag": "NYT",
+   "name": "The New York Times' Where to Eat in Austin",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "nyt50aus": {
+   "cls": "plate r-nyt50aus",
+   "mono": "50",
+   "tag": "NYT 50",
+   "name": "The New York Times' Restaurant List (Austin)",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "txmonaus": {
+   "cls": "plate r-txmonaus",
+   "mono": "TM",
+   "tag": "TX MONTHLY",
+   "name": "Texas Monthly's 10 Best New Restaurants (Austin)",
+   "year": "2026",
+   "ranked": false,
    "starChip": false
   }
  },
  "blists": {
+  "resybaus": {
+   "cls": "b-resybaus",
+   "mono": "RE",
+   "tag": "RESY",
+   "name": "The Resy Guide: Best Places to Drink in Austin",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "cntbaus": {
+   "cls": "b-cntbaus",
+   "mono": "CN",
+   "tag": "CN TRAV",
+   "name": "Condé Nast Traveler's 17 Best Bars in Austin",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
   "eaterbaus": {
    "cls": "b-eaterbaus",
    "mono": "EB",
    "tag": "EATER",
-   "name": "Eater Best Bars in Austin",
-   "year": "2026",
-   "ranked": false,
-   "starChip": false
-  },
-  "punchaus": {
-   "cls": "b-punchaus",
-   "mono": "P!",
-   "tag": "PUNCH",
-   "name": "PUNCH Where to Drink in Austin",
-   "year": "2026",
-   "ranked": false,
-   "starChip": false
-  },
-  "austinmob": {
-   "cls": "b-austinmob",
-   "mono": "AM",
-   "tag": "AUS MONTHLY",
-   "name": "Austin Monthly's Best Bars",
-   "year": "2026",
+   "name": "Eater Austin's Outstanding Bars",
+   "year": "2023",
    "ranked": false,
    "starChip": false
   },
@@ -143,8 +3310,17 @@
    "cls": "b-thrillaus",
    "mono": "TH",
    "tag": "THRILLIST",
-   "name": "Thrillist Best Bars in Austin",
-   "year": "2026",
+   "name": "Thrillist's Best Bars in Austin",
+   "year": "2023",
+   "ranked": false,
+   "starChip": false
+  },
+  "austinmob": {
+   "cls": "b-austinmob",
+   "mono": "AM",
+   "tag": "AUS MONTHLY",
+   "name": "Austin Monthly's 40 Best Bars",
+   "year": "2019",
    "ranked": false,
    "starChip": false
   }
