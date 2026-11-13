@@ -810,10 +810,10 @@ body.city-losangeles.theme-bars{
 <body class="theme-resto">
 <div id="homepage" aria-label="Front page">
   <div class="hp-paper">
-    <div class="hp-eyebrow"><span>Vol. I</span><span>The National Edition · Est. MMXXVI</span><span>No Cover</span></div>
-    <div class="hp-masthead"><svg class="hp-ribbon" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M26 42 L22 60 L27 55 L30 60 L31 43"/><path d="M38 42 L42 60 L37 55 L34 60 L33 43"/><circle cx="32" cy="26" r="17"/><circle cx="32" cy="26" r="12"/><path d="M32 18 l2.2 4.6 5 .7 -3.6 3.5 .9 5 -4.5-2.4 -4.5 2.4 .9-5 -3.6-3.5 5-.7z"/></svg><h1 class="hp-head">Best of the Best</h1></div>
+    <div class="hp-eyebrow"><span>Vol. I</span><span class="d">·</span><span>The National Edition</span><span class="d">·</span><span>Est. MMXXVI</span></div>
+    <div class="hp-nameplate"><svg class="hp-ribbon" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M26 42 L22 60 L27 55 L30 60 L31 43"/><path d="M38 42 L42 60 L37 55 L34 60 L33 43"/><circle cx="32" cy="26" r="17"/><circle cx="32" cy="26" r="12"/><path d="M32 18 l2.2 4.6 5 .7 -3.6 3.5 .9 5 -4.5-2.4 -4.5 2.4 .9-5 -3.6-3.5 5-.7z"/></svg><span class="hp-np-text">Best of the Best</span></div>
     <div class="hp-sep"><span></span><span></span></div>
-    <div class="hp-dek">Don’t let one expert tell you where to eat — poll them all.</div>
+    <h1 class="hp-head">Don’t let one expert tell you where to eat — poll them all.</h1>
     <p class="hp-lede">Every “best of” list for a city’s restaurants and bars, tallied into a single ranking — the more lists a place lands on, the higher it climbs.</p>
     <div class="hp-grid">
       <div class="hp-city" data-go="#/chicago/restaurants">
@@ -849,15 +849,16 @@ body.home{overflow-y:auto;}
 body.home #homepage{display:block;}
 body.home > .paper-tex, body.home > nav.city-switch, body.home > header.masthead, body.home > nav.topnav, body.home > #ribbon, body.home > main#main, body.home > section#report, body.home > footer{display:none !important;}
 .hp-paper{max-width:1140px;margin:0 auto;background:#f4efe3;border:1px solid #cfc6b2;box-shadow:0 14px 48px rgba(0,0,0,.22);padding:20px 40px 28px;}
-.hp-eyebrow{display:flex;justify-content:space-between;gap:10px;font-family:'Space Grotesk',sans-serif;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:#6a5f4a;border-bottom:1px solid #d8cfba;padding-bottom:9px;}
-.hp-masthead{display:flex;align-items:center;justify-content:center;gap:clamp(12px,2vw,24px);margin:10px 0 2px;}
-.hp-ribbon{width:clamp(42px,5vw,66px);height:auto;color:#8a0f12;flex:0 0 auto;}
-.hp-head{font-family:'Fraunces',Georgia,serif;font-weight:900;font-size:clamp(44px,8.6vw,108px);line-height:.88;text-align:center;margin:0;color:#15120d;letter-spacing:-.012em;text-transform:uppercase;}
-.hp-sep{display:flex;flex-direction:column;gap:3px;max-width:min(560px,80%);margin:14px auto 0;}
+.hp-eyebrow{display:flex;align-items:center;justify-content:center;gap:12px;font-family:'Space Grotesk',sans-serif;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:#6a5f4a;}
+.hp-eyebrow .d{color:#bcb096;}
+.hp-nameplate{display:flex;align-items:center;justify-content:center;gap:11px;margin:13px 0 0;}
+.hp-ribbon{width:clamp(30px,3.6vw,46px);height:auto;color:#8a0f12;flex:0 0 auto;}
+.hp-np-text{font-family:'Fraunces',Georgia,serif;font-weight:900;font-size:clamp(32px,5vw,60px);text-transform:uppercase;letter-spacing:-.012em;line-height:1;color:#15120d;white-space:nowrap;}
+.hp-sep{display:flex;flex-direction:column;gap:3px;width:100%;margin:13px 0 0;}
 .hp-sep span{border-top:2.5px solid #1a1712;}
 .hp-sep span:last-child{border-top:1px solid #1a1712;}
-.hp-dek{text-align:center;font-family:'Newsreader',Georgia,serif;font-style:italic;font-size:clamp(15px,2vw,21px);color:#3a3326;margin:11px 0 5px;}
-.hp-lede{max-width:650px;margin:0 auto 12px;text-align:center;font-family:'Newsreader',Georgia,serif;font-size:14.5px;line-height:1.55;color:#4a4335;}
+.hp-head{font-family:'Fraunces',Georgia,serif;font-weight:700;font-size:clamp(23px,3.5vw,42px);line-height:1.1;text-align:center;max-width:940px;margin:17px auto 0;color:#1a1510;}
+.hp-lede{max-width:700px;margin:11px auto 20px;text-align:center;font-family:'Newsreader',Georgia,serif;font-style:italic;font-size:15.5px;line-height:1.5;color:#4a4335;}
 .hp-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;}
 .hp-city{position:relative;cursor:pointer;border-radius:13px;overflow:hidden;background:#07070b;box-shadow:0 5px 20px rgba(0,0,0,.26);transition:transform .3s cubic-bezier(.2,.8,.2,1),box-shadow .3s;}
 .hp-city:hover{transform:translateY(-5px);box-shadow:0 18px 40px rgba(0,0,0,.42);}
@@ -873,7 +874,7 @@ body.home > .paper-tex, body.home > nav.city-switch, body.home > header.masthead
 .hpl-sep{color:#b2906f;}
 .hp-home{color:#8a0f12 !important;font-weight:600;}
 @media(max-width:860px){.hp-grid{grid-template-columns:repeat(2,1fr);}}
-@media(max-width:540px){.hp-grid{grid-template-columns:1fr;}.hp-paper{padding:18px 16px 24px;}.hp-masthead{gap:10px;}}
+@media(max-width:540px){.hp-grid{grid-template-columns:1fr;}.hp-paper{padding:18px 16px 24px;}.hp-np-text{font-size:clamp(28px,8vw,40px);}}
 </style>
 <div class="paper-tex" aria-hidden="true"></div>
 <nav class="city-switch" aria-label="City"><button class="city-btn hp-home" data-home>‹ Front Page</button><button class="city-btn" data-city="chicago">Chicago</button><button class="city-btn" data-city="newyork">New York</button><button class="city-btn" data-city="washington">Washington</button><button class="city-btn" data-city="boston">Boston</button><button class="city-btn" data-city="sanfrancisco">San Francisco</button><button class="city-btn" data-city="losangeles">Los Angeles</button></nav>
