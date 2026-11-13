@@ -74,18 +74,17 @@
   body.city-miami.theme-bars .mast-center,body.city-neworleans.theme-bars .mast-center{visibility:hidden;}
   body.city-miami.theme-bars .masthead-inner,body.city-neworleans.theme-bars .masthead-inner{position:relative;z-index:3;}
   .mia-stage{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);height:90%;aspect-ratio:2560/432;max-width:97%;}
-  .nol-stage{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);height:84%;aspect-ratio:2164/728;max-width:90%;}
+  .nol-stage{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);height:100%;aspect-ratio:2164/728;max-width:96%;}
   .mia-vid{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;object-position:center center;display:block;}
   .nol-vid{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;display:block;}
-  .mia-vig,.nol-vig{position:absolute;inset:0;z-index:5;pointer-events:none;}.mia-vig{background:linear-gradient(90deg,#000 0%,#000 5%,rgba(0,0,0,0) 22%,rgba(0,0,0,0) 78%,#000 95%,#000 100%),linear-gradient(180deg,#000 0%,rgba(0,0,0,0) 26%,rgba(0,0,0,0) 68%,#000 100%),radial-gradient(130% 120% at 50% 50%,rgba(0,0,0,0) 52%,rgba(0,0,0,.55) 78%,#000 100%);}.nol-vig{background:linear-gradient(90deg,#000 0%,#000 26%,rgba(0,0,0,0) 42%,rgba(0,0,0,0) 58%,#000 74%,#000 100%),linear-gradient(180deg,#000 0%,rgba(0,0,0,0) 18%,rgba(0,0,0,0) 74%,#000 100%),radial-gradient(118% 112% at 50% 50%,rgba(0,0,0,0) 42%,rgba(0,0,0,.6) 72%,#000 100%);}
+  .mia-vig,.nol-vig{position:absolute;inset:0;z-index:5;pointer-events:none;}.mia-vig{background:linear-gradient(90deg,#000 0%,#000 7%,rgba(0,0,0,0) 22%,rgba(0,0,0,0) 78%,#000 93%,#000 100%),linear-gradient(180deg,#000 0%,rgba(0,0,0,0) 20%);}.nol-vig{background:linear-gradient(90deg,#000 0%,#000 24%,rgba(0,0,0,0) 42%,rgba(0,0,0,0) 58%,#000 76%,#000 100%);}
   .phx-banner{display:none;position:absolute;inset:0;z-index:1;overflow:hidden;}
   body.city-phoenix.theme-bars .phx-banner{display:block;}
   body.city-phoenix.theme-bars .mast-center{visibility:hidden;}
   body.city-phoenix.theme-bars .masthead-inner{position:relative;z-index:3;}
-  .phx-stage{position:absolute;left:50%;top:46%;transform:translate(-50%,-50%);height:95%;aspect-ratio:2048/682;max-width:98%;}
+  .phx-stage{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);height:100%;aspect-ratio:2048/682;max-width:98%;}
   .phx-vid{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;display:block;}
-  .mia-stage::after,.nol-stage::after,.phx-stage::after,.chi-stage::after{content:"";position:absolute;inset:0;z-index:4;pointer-events:none;box-shadow:inset 0 0 34px 13px #000;}
-  .phx-vig{position:absolute;inset:0;z-index:5;pointer-events:none;background:linear-gradient(90deg,#000 0%,#000 18%,rgba(0,0,0,0) 36%,rgba(0,0,0,0) 64%,#000 82%,#000 100%),linear-gradient(180deg,#000 0%,rgba(0,0,0,0) 9%,rgba(0,0,0,0) 82%,#000 100%),radial-gradient(118% 112% at 50% 50%,rgba(0,0,0,0) 44%,rgba(0,0,0,.6) 72%,#000 100%);}
+  .phx-vig{position:absolute;inset:0;z-index:5;pointer-events:none;background:linear-gradient(90deg,#000 0%,#000 31%,rgba(0,0,0,0) 46%,rgba(0,0,0,0) 54%,#000 69%,#000 100%);}
   body.theme-resto .skyline{opacity:.2;}body.city-seattle.theme-resto .skyline,body.city-houston.theme-resto .skyline,body.city-austin.theme-resto .skyline,body.city-atlanta.theme-resto .skyline,body.city-chicago.theme-resto .skyline,body.city-newyork.theme-resto .skyline{opacity:.4;}body.city-miami.theme-resto .skyline,body.city-neworleans.theme-resto .skyline,body.city-phoenix.theme-resto .skyline{opacity:.28;}
   body.city-chicago.theme-resto{
     --bg:#f1ebdb; --bg2:#e9e1cd; --panel:#f8f3e7; --panel2:#efe8d6;
@@ -762,7 +761,7 @@ body.theme-bars .tier-more:hover{background:color-mix(in srgb, var(--accent) 18%
   .np-suffix{font-family:'UnifrakturMaguntia','UnifrakturCook',serif;color:#101a3a;line-height:1;
     font-size:clamp(34px,6.4vw,76px);transform:translateY(-16%);}
   .np-img{height:clamp(44px,8vw,94px);width:auto;max-width:92vw;display:block;margin:0 auto;}
-  body.city-atlanta .np-img,body.city-houston .np-img{height:clamp(31px,5.6vw,66px);}body.city-neworleans .np-img{height:clamp(38px,6.6vw,78px);}
+  body.city-atlanta .np-img,body.city-houston .np-img,body.city-phoenix .np-img{height:clamp(31px,5.6vw,66px);}body.city-neworleans .np-img{height:clamp(38px,6.6vw,78px);}
 
   .city-switch{display:flex;justify-content:center;align-items:center;gap:2px;flex-wrap:wrap;padding:8px 10px;
     background:var(--bg2);border-bottom:1px solid var(--rule);position:relative;z-index:2;}
@@ -821,7 +820,7 @@ body.theme-bars .tier-more:hover{background:color-mix(in srgb, var(--accent) 18%
     background:radial-gradient(circle,rgba(118,70,32,1) 0 36%,rgba(118,70,32,.55) 60%,transparent 82%);
     animation-name:chiBulb;animation-iteration-count:infinite;animation-timing-function:ease-in-out;}
   .chi-vig{position:absolute;inset:0;z-index:5;pointer-events:none;
-    background:radial-gradient(ellipse 82% 135% at 50% 50%,transparent 42%,rgba(0,0,0,.45) 100%);}
+    background:linear-gradient(90deg,#000 0%,#000 15%,rgba(0,0,0,0) 33%,rgba(0,0,0,0) 67%,#000 85%,#000 100%),radial-gradient(ellipse 56% 120% at 50% 50%,rgba(0,0,0,0) 24%,rgba(0,0,0,.5) 58%,rgba(0,0,0,.86) 100%);}
   @keyframes chiGlow{0%,100%{opacity:.15}50%{opacity:.575}}
   @keyframes chiBulb{0%,12%{opacity:0}17%{opacity:.5}25%{opacity:0}100%{opacity:0}}
   @media (prefers-reduced-motion:reduce){.chi-glow,.chi-bulb{animation:none;}}
