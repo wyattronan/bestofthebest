@@ -1258,9 +1258,9 @@ function renderMap(vs){
   if(!LMAP){LMAP=L.map("map",{scrollWheelZoom:true,worldCopyJump:true});LGROUP=L.layerGroup().addTo(LMAP);
     LMAP.on("popupopen",e=>{const el=e.popup.getElement();if(!el)return;wireMarks(el);
       el.querySelectorAll(".mp-row[data-pub]").forEach(r=>{r.style.cursor="pointer";r.onclick=()=>{state.pub=r.dataset.pub;setView("board");};});});}
-  const url=dark?"https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png":"https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png";
+  const url=dark?"https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}":"https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}";
   if(LTILE)LMAP.removeLayer(LTILE);
-  LTILE=L.tileLayer(url,{subdomains:"abcd",maxZoom:19,attribution:"\u00a9 OpenStreetMap \u00a9 CARTO"}).addTo(LMAP);
+  LTILE=L.tileLayer(url,{maxZoom:16,attribution:"Tiles \u00a9 Esri"}).addTo(LMAP);
   LGROUP.clearLayers();
   const pts=[];
   vs.forEach(v=>{if(v.lat==null||v.lng==null)return;pts.push([v.lat,v.lng]);
@@ -1323,7 +1323,6 @@ function tierBlock(iconId,kicker,title,desc,cards,totalLists,moreAttr,moreLabel,
     <div class="tier-head">
       <span class="tier-icon">${tierIcon(iconId)}</span>
       <div class="tier-h-l">
-        <div class="tier-rank">${kicker}</div>
         <div class="tier-title">${title}</div>
         <div class="tier-desc">${desc}</div>
       </div>
@@ -1331,6 +1330,12 @@ function tierBlock(iconId,kicker,title,desc,cards,totalLists,moreAttr,moreLabel,
     </div>
     <div class="tier-grid">${body}</div>
   </section>`;
+}
+function pickVaried(list,n){
+  var out=[],seen={};
+  for(var i=0;i<list.length&&out.length<n;i++){var t=list[i].type;if(!seen[t]){seen[t]=1;out.push(list[i]);}}
+  for(var j=0;j<list.length&&out.length<n;j++){if(out.indexOf(list[j])<0)out.push(list[j]);}
+  return out;
 }
 function renderTiers(){
   document.getElementById("board").style.display="none";
@@ -1352,7 +1357,7 @@ function renderTiers(){
   vibeOrder().forEach(o=>{
     const members=all.filter(v=>v.vb===o[0]);
     if(members.length<3) return;
-    html+=tierBlock(o[0],kick(n++),o[1],o[2],members.slice(0,3),totalLists,
+    html+=tierBlock(o[0],kick(n++),o[1],o[2],(isResto?pickVaried(members,3):members.slice(0,3)),totalLists,
       'data-vibe="'+o[0]+'"',"See all "+members.length+" \u2192",false);
   });
   host.innerHTML=html;
