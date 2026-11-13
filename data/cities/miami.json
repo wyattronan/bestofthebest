@@ -1,0 +1,1480 @@
+{
+ "restos": [
+  {
+   "name": "Sunny's",
+   "hood": "Miami Beach",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 25.8093,
+   "lng": -80.12516,
+   "pr": 3,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Recoveco",
+   "hood": "Little River",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 25.84666,
+   "lng": -80.20074,
+   "pr": 2,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ]
+   ],
+   "vb": "latindc",
+   "dual": false
+  },
+  {
+   "name": "Tâm Tâm",
+   "hood": "Downtown",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 25.77716,
+   "lng": -80.1944,
+   "pr": 2,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ],
+    [
+     "bibmia",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Walrus Rodeo",
+   "hood": "Little River",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 25.8328,
+   "lng": -80.19656,
+   "pr": 3,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Barra Callao",
+   "hood": "Doral",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 25.81486,
+   "lng": -80.355,
+   "pr": 2,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ],
+    [
+     "bibmia",
+     null
+    ]
+   ],
+   "vb": "latindc",
+   "dual": false
+  },
+  {
+   "name": "Ariete",
+   "hood": "Coconut Grove",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 25.72566,
+   "lng": -80.2414,
+   "pr": 3,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ],
+    [
+     "michmia",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Boia De",
+   "hood": "Little Haiti",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 25.82224,
+   "lng": -80.19586,
+   "pr": 3,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ],
+    [
+     "michmia",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Palma",
+   "hood": "Miami Beach",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 25.81056,
+   "lng": -80.12934,
+   "pr": 3,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "ViceVersa",
+   "hood": "Little River",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 25.84738,
+   "lng": -80.19722,
+   "pr": 3,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Gramps Getaway",
+   "hood": "Wynwood",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 25.79982,
+   "lng": -80.19812,
+   "pr": 2,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Macchialina",
+   "hood": "South Beach",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 25.78128,
+   "lng": -80.13364,
+   "pr": 3,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Zitz Sum",
+   "hood": "Coral Gables",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 25.7282,
+   "lng": -80.2603,
+   "pr": 2,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ],
+    [
+     "bibmia",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Madroño",
+   "hood": "Coral Gables",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 25.71614,
+   "lng": -80.26954,
+   "pr": 3,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ]
+   ],
+   "vb": "latindc",
+   "dual": false
+  },
+  {
+   "name": "Cotoa",
+   "hood": "Coconut Grove",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 25.73538,
+   "lng": -80.24162,
+   "pr": 2,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ],
+    [
+     "bibmia",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Hiyakawa",
+   "hood": "Wynwood",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 25.7919,
+   "lng": -80.1968,
+   "pr": 4,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Double Luck",
+   "hood": "Downtown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 25.77986,
+   "lng": -80.19242,
+   "pr": 2,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ],
+    [
+     "bibmia",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Naoe",
+   "hood": "Brickell Key",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 25.77114,
+   "lng": -80.18894,
+   "pr": 4,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Edan Bistro",
+   "hood": "Coconut Grove",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 25.72764,
+   "lng": -80.22974,
+   "pr": 3,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "La Viña Aragon",
+   "hood": "Coral Gables",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 25.71938,
+   "lng": -80.26118,
+   "pr": 2,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ]
+   ],
+   "vb": "latindc",
+   "dual": false
+  },
+  {
+   "name": "Daniel's Miami",
+   "hood": "Design District",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 25.80418,
+   "lng": -80.20048,
+   "pr": 4,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Fratesi's Pizza",
+   "hood": "Miami Beach",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 25.8066,
+   "lng": -80.13374,
+   "pr": 2,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "El Bagel",
+   "hood": "MiMo",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 25.8185,
+   "lng": -80.1826,
+   "pr": 1,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Long Gong",
+   "hood": "Little Havana",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 25.76068,
+   "lng": -80.20976,
+   "pr": 1,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "B & M Market and Roti Shop",
+   "hood": "North Miami",
+   "type": "caribbean",
+   "typekind": "cui",
+   "lat": 25.89846,
+   "lng": -80.18414,
+   "pr": 1,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Frankie & Wally's",
+   "hood": "Edgewater",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 25.79796,
+   "lng": -80.18778,
+   "pr": 2,
+   "lists": [
+    [
+     "infatmia",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "L'Atelier de Joël Robuchon",
+   "hood": "Design District",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 25.80814,
+   "lng": -80.19058,
+   "pr": 4,
+   "lists": [
+    [
+     "michmia",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Cote Miami",
+   "hood": "Design District",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 25.80634,
+   "lng": -80.1897,
+   "pr": 4,
+   "lists": [
+    [
+     "michmia",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Elcielo Miami",
+   "hood": "Brickell",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 25.76306,
+   "lng": -80.19168,
+   "pr": 4,
+   "lists": [
+    [
+     "michmia",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Hiden",
+   "hood": "Wynwood",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 25.80252,
+   "lng": -80.19438,
+   "pr": 4,
+   "lists": [
+    [
+     "michmia",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Le Jardinier Miami",
+   "hood": "Design District",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 25.80742,
+   "lng": -80.1974,
+   "pr": 4,
+   "lists": [
+    [
+     "michmia",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Los Félix",
+   "hood": "Coconut Grove",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 25.73124,
+   "lng": -80.24448,
+   "pr": 3,
+   "lists": [
+    [
+     "michmia",
+     null
+    ]
+   ],
+   "vb": "latindc",
+   "dual": false
+  },
+  {
+   "name": "Mutra",
+   "hood": "Little River",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 25.84324,
+   "lng": -80.19326,
+   "pr": 3,
+   "lists": [
+    [
+     "michmia",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Ogawa",
+   "hood": "Wynwood",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 25.80018,
+   "lng": -80.19548,
+   "pr": 4,
+   "lists": [
+    [
+     "michmia",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Shingo",
+   "hood": "Coral Gables",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 25.72424,
+   "lng": -80.27372,
+   "pr": 4,
+   "lists": [
+    [
+     "michmia",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Stubborn Seed",
+   "hood": "South Beach",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 25.77534,
+   "lng": -80.13078,
+   "pr": 4,
+   "lists": [
+    [
+     "michmia",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Tambourine Room by Tristan Brandt",
+   "hood": "Bal Harbour",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 25.88308,
+   "lng": -80.13734,
+   "pr": 4,
+   "lists": [
+    [
+     "michmia",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "The Surf Club Restaurant",
+   "hood": "Surfside",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 25.88682,
+   "lng": -80.13578,
+   "pr": 4,
+   "lists": [
+    [
+     "michmia",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Bachour",
+   "hood": "Coral Gables",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 25.71488,
+   "lng": -80.26316,
+   "pr": 2,
+   "lists": [
+    [
+     "bibmia",
+     null
+    ]
+   ],
+   "vb": "brunch",
+   "dual": false
+  },
+  {
+   "name": "Chug's Diner",
+   "hood": "Coconut Grove",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 25.72656,
+   "lng": -80.24602,
+   "pr": 1,
+   "lists": [
+    [
+     "bibmia",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "El Turco",
+   "hood": "Sunny Isles",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 25.95486,
+   "lng": -80.1297,
+   "pr": 2,
+   "lists": [
+    [
+     "bibmia",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Ghee Indian Kitchen",
+   "hood": "Design District",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 25.81084,
+   "lng": -80.19982,
+   "pr": 2,
+   "lists": [
+    [
+     "bibmia",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Hometown Barbecue Miami",
+   "hood": "Allapattah",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 25.82166,
+   "lng": -80.23402,
+   "pr": 2,
+   "lists": [
+    [
+     "bibmia",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "La Natural",
+   "hood": "Little Haiti",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 25.83232,
+   "lng": -80.18464,
+   "pr": 2,
+   "lists": [
+    [
+     "bibmia",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Lucali",
+   "hood": "South Beach",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 25.77336,
+   "lng": -80.1332,
+   "pr": 3,
+   "lists": [
+    [
+     "bibmia",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Mandolin Aegean Bistro",
+   "hood": "Design District",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 25.81318,
+   "lng": -80.1842,
+   "pr": 3,
+   "lists": [
+    [
+     "bibmia",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Michael's Genuine",
+   "hood": "Design District",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 25.82002,
+   "lng": -80.1996,
+   "pr": 3,
+   "lists": [
+    [
+     "bibmia",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Phuc Yea",
+   "hood": "MiMo",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 25.81778,
+   "lng": -80.18854,
+   "pr": 2,
+   "lists": [
+    [
+     "bibmia",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Sanguich de Miami",
+   "hood": "Little Havana",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 25.77292,
+   "lng": -80.21196,
+   "pr": 1,
+   "lists": [
+    [
+     "bibmia",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Tinta y Cafe",
+   "hood": "Coral Gables",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 25.71434,
+   "lng": -80.27504,
+   "pr": 1,
+   "lists": [
+    [
+     "bibmia",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  }
+ ],
+ "bars": [
+  {
+   "name": "ZeyZey",
+   "hood": "Little River",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.8373,
+   "lng": -80.20162,
+   "lists": [
+    [
+     "infatbmia",
+     null
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Gramps Getaway",
+   "hood": "Wynwood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.79982,
+   "lng": -80.19812,
+   "lists": [
+    [
+     "infatbmia",
+     null
+    ],
+    [
+     "tomia",
+     2
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Kaiju",
+   "hood": "Little Havana",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.7731,
+   "lng": -80.21592,
+   "lists": [
+    [
+     "infatbmia",
+     null
+    ],
+    [
+     "tomia",
+     11
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Mac's Club Deuce",
+   "hood": "South Beach",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 25.78002,
+   "lng": -80.12968,
+   "lists": [
+    [
+     "infatbmia",
+     null
+    ],
+    [
+     "tomia",
+     17
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "ViceVersa",
+   "hood": "Little River",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 25.84738,
+   "lng": -80.19722,
+   "lists": [
+    [
+     "infatbmia",
+     null
+    ],
+    [
+     "tomia",
+     1
+    ]
+   ],
+   "vb": "wine",
+   "dual": false
+  },
+  {
+   "name": "Over Under",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.77374,
+   "lng": -80.18186,
+   "lists": [
+    [
+     "infatbmia",
+     null
+    ],
+    [
+     "tomia",
+     4
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "The Cleat",
+   "hood": "Coconut Grove",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 25.72242,
+   "lng": -80.22798,
+   "lists": [
+    [
+     "infatbmia",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "No Seasons",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.7831,
+   "lng": -80.19088,
+   "lists": [
+    [
+     "infatbmia",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Lagniappe",
+   "hood": "MiMo",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 25.82804,
+   "lng": -80.18326,
+   "lists": [
+    [
+     "infatbmia",
+     null
+    ],
+    [
+     "tomia",
+     15
+    ]
+   ],
+   "vb": "wine",
+   "dual": false
+  },
+  {
+   "name": "Mae's Room",
+   "hood": "Little River",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.83118,
+   "lng": -80.20734,
+   "lists": [
+    [
+     "infatbmia",
+     null
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "The Bend",
+   "hood": "Allapattah",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.80852,
+   "lng": -80.22192,
+   "lists": [
+    [
+     "infatbmia",
+     null
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "The Corner",
+   "hood": "Downtown",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 25.78202,
+   "lng": -80.17988,
+   "lists": [
+    [
+     "infatbmia",
+     null
+    ],
+    [
+     "tomia",
+     14
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Tripping Animals Brewing Co.",
+   "hood": "Doral",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 25.8271,
+   "lng": -80.355,
+   "lists": [
+    [
+     "infatbmia",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Brother's Keeper",
+   "hood": "Little Havana",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.75852,
+   "lng": -80.2234,
+   "lists": [
+    [
+     "infatbmia",
+     null
+    ],
+    [
+     "tomia",
+     20
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Dante's HiFi",
+   "hood": "Wynwood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.80846,
+   "lng": -80.20582,
+   "lists": [
+    [
+     "infatbmia",
+     null
+    ],
+    [
+     "tomia",
+     6
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Panamericano Bar",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.77806,
+   "lng": -80.20012,
+   "lists": [
+    [
+     "infatbmia",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Barracuda Taphouse & Grill",
+   "hood": "Coconut Grove",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 25.72638,
+   "lng": -80.23766,
+   "lists": [
+    [
+     "infatbmia",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Sweet Liberty Drink & Supply Co.",
+   "hood": "Miami Beach",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.81812,
+   "lng": -80.1234,
+   "lists": [
+    [
+     "infatbmia",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Swizzle Rum Bar & Drinkery",
+   "hood": "South Beach",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.78938,
+   "lng": -80.12176,
+   "lists": [
+    [
+     "infatbmia",
+     null
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Champagne Bar at The Surf Club",
+   "hood": "Surfside",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 25.88574,
+   "lng": -80.13446,
+   "lists": [
+    [
+     "tomia",
+     3
+    ]
+   ],
+   "vb": "wine",
+   "dual": false
+  },
+  {
+   "name": "Medium Cool",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.77662,
+   "lng": -80.20012,
+   "lists": [
+    [
+     "tomia",
+     5
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Swizzle Rum Bar",
+   "hood": "South Beach",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.78038,
+   "lng": -80.13474,
+   "lists": [
+    [
+     "tomia",
+     7
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Gramps Bar",
+   "hood": "Wynwood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.79892,
+   "lng": -80.19196,
+   "lists": [
+    [
+     "tomia",
+     8
+    ]
+   ],
+   "vb": "party",
+   "dual": false
+  },
+  {
+   "name": "Sweet Liberty",
+   "hood": "Miami Beach",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.8093,
+   "lng": -80.12428,
+   "lists": [
+    [
+     "tomia",
+     9
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Café La Trova",
+   "hood": "Little Havana",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.77022,
+   "lng": -80.22912,
+   "lists": [
+    [
+     "tomia",
+     10
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Magie",
+   "hood": "Coral Gables",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.71272,
+   "lng": -80.26756,
+   "lists": [
+    [
+     "tomia",
+     12
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Kaori",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.77248,
+   "lng": -80.1801,
+   "lists": [
+    [
+     "tomia",
+     13
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "The Sylvester",
+   "hood": "Edgewater",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.79526,
+   "lng": -80.18778,
+   "lists": [
+    [
+     "tomia",
+     16
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Kaona",
+   "hood": "Surfside",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.88484,
+   "lng": -80.1316,
+   "lists": [
+    [
+     "tomia",
+     18
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Ball & Chain",
+   "hood": "Little Havana",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.7632,
+   "lng": -80.22428,
+   "lists": [
+    [
+     "tomia",
+     19
+    ]
+   ],
+   "vb": "livemusic",
+   "dual": false
+  },
+  {
+   "name": "Lost Boy Dry Goods",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.77446,
+   "lng": -80.19264,
+   "lists": [
+    [
+     "tomia",
+     21
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Mama Tried",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.76834,
+   "lng": -80.18494,
+   "lists": [
+    [
+     "tomia",
+     22
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Willy's Neighborhood Bar",
+   "hood": "Little River",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 25.8445,
+   "lng": -80.18952,
+   "lists": [
+    [
+     "tomia",
+     23
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  }
+ ],
+ "rlists": {
+  "infatmia": {
+   "cls": "plate r-infatmia",
+   "mono": "25",
+   "tag": "INFAT",
+   "name": "The Infatuation's Best Restaurants in Miami",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "michmia": {
+   "cls": "plate r-michmia",
+   "mono": "★",
+   "tag": "MICHELIN",
+   "name": "MICHELIN Starred Restaurants, Miami",
+   "year": "2026",
+   "ranked": false,
+   "starChip": true
+  },
+  "bibmia": {
+   "cls": "plate r-bibmia",
+   "mono": "BIB",
+   "tag": "BIB GOUR",
+   "name": "MICHELIN Bib Gourmand, Miami",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  }
+ },
+ "blists": {
+  "infatbmia": {
+   "cls": "b-infatbmia",
+   "mono": "25",
+   "tag": "INFAT",
+   "name": "The Infatuation's Best Bars in Miami",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "tomia": {
+   "cls": "b-tomia",
+   "mono": "TO",
+   "tag": "TIME OUT",
+   "name": "Time Out's Best Bars in Miami",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  }
+ }
+}

@@ -1,0 +1,1048 @@
+{
+ "restos": [
+  {
+   "name": "Chapter IV",
+   "hood": "CBD",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.95394,
+   "lng": -90.0722,
+   "pr": 4,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Emeril's",
+   "hood": "Warehouse District",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.94192,
+   "lng": -90.05852,
+   "pr": 4,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "GW Fins",
+   "hood": "French Quarter",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 29.95728,
+   "lng": -90.0684,
+   "pr": 4,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Dolfy's",
+   "hood": "",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.94326,
+   "lng": -90.07848,
+   "pr": 2,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Brennan's",
+   "hood": "French Quarter",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 29.96214,
+   "lng": -90.06598,
+   "pr": 4,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Acamaya",
+   "hood": "Bywater",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 29.963,
+   "lng": -90.05118,
+   "pr": 3,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Dooky Chase",
+   "hood": "Treme",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 29.96642,
+   "lng": -90.06252,
+   "pr": 3,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Café Reconcile",
+   "hood": "Central City",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 29.93968,
+   "lng": -90.08404,
+   "pr": 1,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Dakar NOLA",
+   "hood": "Uptown",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.92658,
+   "lng": -90.10538,
+   "pr": 4,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Paladar 511",
+   "hood": "Marigny",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 29.96382,
+   "lng": -90.05368,
+   "pr": 3,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Saint-Germain",
+   "hood": "Bywater",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 29.95436,
+   "lng": -90.03754,
+   "pr": 4,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Bayona",
+   "hood": "French Quarter",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.9535,
+   "lng": -90.06598,
+   "pr": 4,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Castnet Seafood",
+   "hood": "New Orleans East",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 30.04774,
+   "lng": -90.00066,
+   "pr": 1,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Evviva",
+   "hood": "",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 29.9429,
+   "lng": -90.07034,
+   "pr": 2,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Deanie's",
+   "hood": "Bucktown",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 30.01864,
+   "lng": -90.14012,
+   "pr": 2,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Budsi's Authentic Thai",
+   "hood": "Bywater",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.96336,
+   "lng": -90.04436,
+   "pr": 2,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Mamou",
+   "hood": "CBD",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 29.95394,
+   "lng": -90.07924,
+   "pr": 4,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Luvi",
+   "hood": "Uptown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.92136,
+   "lng": -90.11352,
+   "pr": 3,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Saffron",
+   "hood": "Uptown",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 29.93504,
+   "lng": -90.10076,
+   "pr": 3,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Ba Mien",
+   "hood": "New Orleans East",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 30.03514,
+   "lng": -90.00836,
+   "pr": 1,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "St. Pizza",
+   "hood": "Marigny",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 29.95914,
+   "lng": -90.05016,
+   "pr": 2,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Fritai",
+   "hood": "Treme",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.97794,
+   "lng": -90.0656,
+   "pr": 2,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Addis NOLA",
+   "hood": "Mid-City",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 29.97824,
+   "lng": -90.09874,
+   "pr": 2,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "AJ's Jazzy Grill",
+   "hood": "Gentilly",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 29.99208,
+   "lng": -90.07132,
+   "pr": 1,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Two Tony's",
+   "hood": "Bucktown",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 30.01756,
+   "lng": -90.12626,
+   "pr": 3,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Palm & Pine",
+   "hood": "French Quarter",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.96592,
+   "lng": -90.06752,
+   "pr": 3,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Turkey and the Wolf",
+   "hood": "Irish Channel",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 29.9322,
+   "lng": -90.0706,
+   "pr": 2,
+   "lists": [
+    [
+     "infatnola",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  }
+ ],
+ "bars": [
+  {
+   "name": "Nightbloom",
+   "hood": "CBD",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.94296,
+   "lng": -90.0601,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Cure",
+   "hood": "Uptown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.92172,
+   "lng": -90.10956,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ],
+    [
+     "tonola",
+     16
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Sazerac Bar",
+   "hood": "CBD",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.94008,
+   "lng": -90.07704,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ],
+    [
+     "tonola",
+     2
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Chandelier Bar",
+   "hood": "CBD",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9408,
+   "lng": -90.07286,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ],
+    [
+     "tonola",
+     10
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Bacchanal Wine",
+   "hood": "Bywater",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 29.95994,
+   "lng": -90.05668,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ]
+   ],
+   "vb": "wine",
+   "dual": false
+  },
+  {
+   "name": "Bar Tonique",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9616,
+   "lng": -90.06048,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Jewel of the South",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.96322,
+   "lng": -90.05696,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ],
+    [
+     "tonola",
+     1
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Manolito",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.96052,
+   "lng": -90.05344,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Hotel Saint Vincent",
+   "hood": "Lower Garden District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.92304,
+   "lng": -90.07362,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Vaughan's Lounge",
+   "hood": "Bywater",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.96876,
+   "lng": -90.0492,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ],
+    [
+     "tonola",
+     17
+    ]
+   ],
+   "vb": "livemusic",
+   "dual": false
+  },
+  {
+   "name": "Hot Tin",
+   "hood": "Lower Garden District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.92232,
+   "lng": -90.08594,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ],
+    [
+     "tonola",
+     11
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Anna's",
+   "hood": "Marigny",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.95986,
+   "lng": -90.05258,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "The Elysian Bar",
+   "hood": "Marigny",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9685,
+   "lng": -90.0462,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ],
+    [
+     "tonola",
+     5
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Bar Brine",
+   "hood": "Mid-City",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.96744,
+   "lng": -90.10094,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Columns Bar",
+   "hood": "Uptown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9246,
+   "lng": -90.10648,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ],
+    [
+     "tonola",
+     20
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Justini's",
+   "hood": "Mid-City",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.96708,
+   "lng": -90.08708,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Twelve Mile Limit",
+   "hood": "Mid-City",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.97968,
+   "lng": -90.08576,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ],
+    [
+     "tonola",
+     14
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Pal's Lounge",
+   "hood": "Mid-City",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.97392,
+   "lng": -90.09478,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ],
+    [
+     "tonola",
+     13
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Bayou Beer Garden",
+   "hood": "Mid-City",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9678,
+   "lng": -90.09918,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Fives",
+   "hood": "",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.951,
+   "lng": -90.0732,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Barrel Proof",
+   "hood": "Lower Garden District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9333,
+   "lng": -90.08066,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Cooter Brown's Tavern & Oyster Bar",
+   "hood": "Carrollton",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.95932,
+   "lng": -90.12208,
+   "lists": [
+    [
+     "infatbnola",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Finn McCool's",
+   "hood": "Mid-City",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9741,
+   "lng": -90.0928,
+   "lists": [
+    [
+     "tonola",
+     3
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "The Avenue Pub",
+   "hood": "Lower Garden District",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.93096,
+   "lng": -90.07428,
+   "lists": [
+    [
+     "tonola",
+     4
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Peacock Room",
+   "hood": "Lower Garden District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.93006,
+   "lng": -90.07956,
+   "lists": [
+    [
+     "tonola",
+     6
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Lafitte's Blacksmith Shop",
+   "hood": "French Quarter",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.96214,
+   "lng": -90.07192,
+   "lists": [
+    [
+     "tonola",
+     7
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Cane & Table",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9544,
+   "lng": -90.06422,
+   "lists": [
+    [
+     "tonola",
+     8
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Carousel Bar & Lounge",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.95584,
+   "lng": -90.07126,
+   "lists": [
+    [
+     "tonola",
+     9
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Arnaud's French 75",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.95818,
+   "lng": -90.0662,
+   "lists": [
+    [
+     "tonola",
+     12
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Bacchanal",
+   "hood": "Bywater",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 29.96786,
+   "lng": -90.05338,
+   "lists": [
+    [
+     "tonola",
+     15
+    ]
+   ],
+   "vb": "wine",
+   "dual": false
+  },
+  {
+   "name": "Bar Marilou",
+   "hood": "Warehouse District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.94408,
+   "lng": -90.06182,
+   "lists": [
+    [
+     "tonola",
+     18
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Molly's at the Market",
+   "hood": "French Quarter",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9607,
+   "lng": -90.06356,
+   "lists": [
+    [
+     "tonola",
+     19
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  }
+ ],
+ "rlists": {
+  "infatnola": {
+   "cls": "plate r-infatnola",
+   "mono": "25",
+   "tag": "INFAT",
+   "name": "The Infatuation's Best Restaurants in New Orleans",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  }
+ },
+ "blists": {
+  "infatbnola": {
+   "cls": "b-infatbnola",
+   "mono": "25",
+   "tag": "INFAT",
+   "name": "The Infatuation's Best Bars in New Orleans",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "tonola": {
+   "cls": "b-tonola",
+   "mono": "TO",
+   "tag": "TIME OUT",
+   "name": "Time Out's Best Bars in New Orleans",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  }
+ }
+}
