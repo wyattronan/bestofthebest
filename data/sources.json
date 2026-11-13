@@ -10,7 +10,89 @@
       "list_membership": true,
       "new_venues": "propose"
     },
-    "notes": "Fill `url` for each list with the canonical page for THAT specific, pinned list. The scraper only updates the list whose identity matches below (same prestige/list year over year) — a publication's other, lesser lists are ignored."
+    "notes": "Fill `url` for each list with the canonical page for THAT specific, pinned list. The scraper only updates the list whose identity matches below (same prestige/list year over year) — a publication's other, lesser lists are ignored.",
+    "monitors": {
+      "awards": {
+        "enabled": true,
+        "track": [
+          "michelin",
+          "james-beard",
+          "worlds-50-best"
+        ],
+        "note": "Star/winner changes update the mich/bib/jba list memberships. Fill per-city award pages below; Michelin is JS-rendered (parser=browser).",
+        "sources": {
+          "chicago": {
+            "michelin": "",
+            "james_beard": ""
+          },
+          "newyork": {
+            "michelin": "",
+            "james_beard": ""
+          },
+          "washington": {
+            "michelin": "",
+            "james_beard": ""
+          },
+          "boston": {
+            "michelin": "",
+            "james_beard": ""
+          },
+          "sanfrancisco": {
+            "michelin": "",
+            "james_beard": ""
+          },
+          "losangeles": {
+            "michelin": "",
+            "james_beard": ""
+          }
+        }
+      },
+      "closures_relocations": {
+        "enabled": true,
+        "note": "Eater closings/openings feed per city. Closures mark cl=true (kept, struck-through); relocations update hood + lat/lng.",
+        "sources": {
+          "chicago": {
+            "closings_feed": "",
+            "openings_feed": ""
+          },
+          "newyork": {
+            "closings_feed": "",
+            "openings_feed": ""
+          },
+          "washington": {
+            "closings_feed": "",
+            "openings_feed": ""
+          },
+          "boston": {
+            "closings_feed": "",
+            "openings_feed": ""
+          },
+          "sanfrancisco": {
+            "closings_feed": "",
+            "openings_feed": ""
+          },
+          "losangeles": {
+            "closings_feed": "",
+            "openings_feed": ""
+          }
+        }
+      },
+      "new_lists": {
+        "enabled": true,
+        "watch_publications": [
+          "Eater",
+          "The Infatuation",
+          "Time Out",
+          "Condé Nast",
+          "Resy",
+          "PUNCH",
+          "Washingtonian",
+          "Boston Magazine",
+          "Chicago Magazine"
+        ],
+        "note": "When a watched publication posts a NEW prestigious city list, it is flagged for your approval (never auto-added) to keep prestige discipline."
+      }
+    }
   },
   "lists": {
     "chicago": {
@@ -21,9 +103,12 @@
           "year": "2026",
           "ranked": false,
           "track_kind": "eater-essentials",
-          "url": "",
+          "url": "https://chicago.eater.com/maps/best-chicago-restaurants-38",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape",
+          "url_status": "unverified-pattern"
         },
         "bacg": {
           "publication": "CITY GDE",
@@ -33,7 +118,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "bon_appetit",
+          "access": "paywall"
         },
         "cnt33": {
           "publication": "CN TRAV",
@@ -43,7 +130,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "cnna50": {
           "publication": "50 NA",
@@ -53,7 +142,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "infat25": {
           "publication": "INFAT",
@@ -62,8 +153,10 @@
           "ranked": false,
           "track_kind": "annual-list",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "infatuation",
+          "access": "js_render"
         },
         "jba": {
           "publication": "BEARD",
@@ -73,7 +166,9 @@
           "track_kind": "james-beard",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "james_beard",
+          "access": "web_scrape"
         },
         "beli25": {
           "publication": "BELI",
@@ -83,7 +178,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "beli",
+          "access": "app_only"
         },
         "nyt": {
           "publication": "TIMES",
@@ -93,7 +190,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "nyt",
+          "access": "paywall"
         },
         "bib": {
           "publication": "MICHELIN",
@@ -102,8 +201,10 @@
           "ranked": false,
           "track_kind": "michelin",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "michelin",
+          "access": "js_render"
         },
         "mich": {
           "publication": "MICHELIN",
@@ -112,8 +213,10 @@
           "ranked": true,
           "track_kind": "michelin",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "michelin",
+          "access": "js_render"
         },
         "chimag50": {
           "publication": "50 BEST",
@@ -123,7 +226,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "chicago_mag",
+          "access": "web_scrape"
         },
         "wyattR": {
           "publication": "TOP 14",
@@ -133,7 +238,10 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "owner",
+          "access": "owner_manual",
+          "skip": true
         },
         "nyt50chi": {
           "publication": "NYT USA",
@@ -143,7 +251,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "nyt",
+          "access": "paywall"
         }
       },
       "bars": {
@@ -155,7 +265,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "cnw": {
           "publication": "WORLD",
@@ -165,7 +277,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "punch": {
           "publication": "CKTL",
@@ -175,7 +289,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "punch",
+          "access": "web_scrape"
         },
         "ptav": {
           "publication": "TAVERN",
@@ -185,7 +301,9 @@
           "track_kind": "eater-essentials",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "punch",
+          "access": "web_scrape"
         },
         "tiptop": {
           "publication": "TIPTOP",
@@ -195,7 +313,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "other",
+          "access": "web_scrape"
         },
         "eater": {
           "publication": "EATER",
@@ -205,7 +325,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape"
         },
         "chimag": {
           "publication": "20 BEST",
@@ -215,7 +337,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "chicago_mag",
+          "access": "web_scrape"
         },
         "cnt40": {
           "publication": "CN TRAV",
@@ -225,7 +349,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "infat": {
           "publication": "GRT HITS",
@@ -234,8 +360,10 @@
           "ranked": false,
           "track_kind": "annual-list",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "infatuation",
+          "access": "js_render"
         },
         "ba": {
           "publication": "16 BEST",
@@ -245,7 +373,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "bon_appetit",
+          "access": "paywall"
         },
         "beli": {
           "publication": "TOP 5",
@@ -255,7 +385,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "beli",
+          "access": "app_only"
         },
         "esq": {
           "publication": "BIG NITE",
@@ -265,7 +397,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "esquire",
+          "access": "web_scrape"
         },
         "wyatt": {
           "publication": "TOP 11",
@@ -275,7 +409,10 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "owner",
+          "access": "owner_manual",
+          "skip": true
         }
       }
     },
@@ -289,7 +426,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "cnwny": {
           "publication": "WORLD",
@@ -299,7 +438,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "nytny": {
           "publication": "TIMES",
@@ -309,7 +450,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "nyt",
+          "access": "paywall"
         },
         "eater38ny": {
           "publication": "EATER",
@@ -317,9 +460,12 @@
           "year": "2026",
           "ranked": false,
           "track_kind": "eater-essentials",
-          "url": "",
+          "url": "https://ny.eater.com/maps/best-new-york-restaurants-38-map",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape",
+          "url_status": "unverified-pattern"
         },
         "cnt30ny": {
           "publication": "CN TRAV",
@@ -329,7 +475,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "infatny": {
           "publication": "INFAT",
@@ -338,8 +486,10 @@
           "ranked": false,
           "track_kind": "annual-list",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "infatuation",
+          "access": "js_render"
         },
         "bibny": {
           "publication": "MICHELIN",
@@ -348,8 +498,10 @@
           "ranked": false,
           "track_kind": "michelin",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "michelin",
+          "access": "js_render"
         },
         "michny": {
           "publication": "MICHELIN",
@@ -358,8 +510,10 @@
           "ranked": true,
           "track_kind": "michelin",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "michelin",
+          "access": "js_render"
         },
         "beli25ny": {
           "publication": "BELI",
@@ -369,7 +523,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "beli",
+          "access": "app_only"
         },
         "nyt50ny": {
           "publication": "NYT USA",
@@ -379,7 +535,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "nyt",
+          "access": "paywall"
         },
         "jbny": {
           "publication": "BEARD",
@@ -389,7 +547,9 @@
           "track_kind": "james-beard",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "james_beard",
+          "access": "web_scrape"
         }
       },
       "bars": {
@@ -401,7 +561,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "cnwbny": {
           "publication": "WORLD",
@@ -411,7 +573,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "eatercny": {
           "publication": "CKTL",
@@ -421,7 +585,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape"
         },
         "eaterdny": {
           "publication": "DIVE",
@@ -431,7 +597,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape"
         },
         "eaterwny": {
           "publication": "WINE",
@@ -441,7 +609,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape"
         },
         "infatbny": {
           "publication": "CKTL",
@@ -450,8 +620,10 @@
           "ranked": false,
           "track_kind": "annual-list",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "infatuation",
+          "access": "js_render"
         },
         "timeoutny": {
           "publication": "TIMEOUT",
@@ -461,7 +633,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "timeout",
+          "access": "web_scrape"
         },
         "punchny": {
           "publication": "DRINK",
@@ -471,7 +645,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "punch",
+          "access": "web_scrape"
         },
         "cnt20ny": {
           "publication": "DIVES",
@@ -481,7 +657,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "cnt33bny": {
           "publication": "CN TRAV",
@@ -491,7 +669,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "bany": {
           "publication": "11 BEST",
@@ -501,7 +681,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "bon_appetit",
+          "access": "paywall"
         },
         "belibny": {
           "publication": "TOP 14",
@@ -511,7 +693,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "beli",
+          "access": "app_only"
         },
         "jbbny": {
           "publication": "BEARD",
@@ -521,7 +705,9 @@
           "track_kind": "james-beard",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "james_beard",
+          "access": "web_scrape"
         }
       }
     },
@@ -533,9 +719,12 @@
           "year": "2026",
           "ranked": false,
           "track_kind": "eater-essentials",
-          "url": "",
+          "url": "https://dc.eater.com/maps/best-washington-dc-restaurants-38",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape",
+          "url_status": "unverified-pattern"
         },
         "cnna50dc": {
           "publication": "50 NA",
@@ -545,7 +734,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "washdc": {
           "publication": "WASHNGTN",
@@ -555,7 +746,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "washingtonian",
+          "access": "web_scrape"
         },
         "nytdc": {
           "publication": "TIMES",
@@ -565,7 +758,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "nyt",
+          "access": "paywall"
         },
         "infatdc": {
           "publication": "VISIT DC",
@@ -574,8 +769,10 @@
           "ranked": false,
           "track_kind": "annual-list",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "infatuation",
+          "access": "js_render"
         },
         "bibdc": {
           "publication": "MICHELIN",
@@ -584,8 +781,10 @@
           "ranked": false,
           "track_kind": "michelin",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "michelin",
+          "access": "js_render"
         },
         "michdc": {
           "publication": "MICHELIN",
@@ -594,8 +793,10 @@
           "ranked": true,
           "track_kind": "michelin",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "michelin",
+          "access": "js_render"
         },
         "beli25dc": {
           "publication": "BELI",
@@ -605,7 +806,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "beli",
+          "access": "app_only"
         },
         "wyattRdc": {
           "publication": "TOP 14",
@@ -615,7 +818,10 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "owner",
+          "access": "owner_manual",
+          "skip": true
         },
         "nyt50dc": {
           "publication": "NYT USA",
@@ -625,7 +831,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "nyt",
+          "access": "paywall"
         },
         "jbdc": {
           "publication": "BEARD",
@@ -635,7 +843,9 @@
           "track_kind": "james-beard",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "james_beard",
+          "access": "web_scrape"
         }
       },
       "bars": {
@@ -647,7 +857,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "eaterdc": {
           "publication": "EATER",
@@ -657,7 +869,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape"
         },
         "timeout": {
           "publication": "TIMEOUT",
@@ -667,7 +881,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "timeout",
+          "access": "web_scrape"
         },
         "infatbdc": {
           "publication": "BEST BARS",
@@ -676,8 +892,10 @@
           "ranked": false,
           "track_kind": "annual-list",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "infatuation",
+          "access": "js_render"
         },
         "belib5dc": {
           "publication": "TOP 5",
@@ -687,7 +905,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "beli",
+          "access": "app_only"
         },
         "wyattdc": {
           "publication": "TOP 8",
@@ -697,7 +917,10 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "owner",
+          "access": "owner_manual",
+          "skip": true
         },
         "jbbdc": {
           "publication": "BEARD",
@@ -707,7 +930,9 @@
           "track_kind": "james-beard",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "james_beard",
+          "access": "web_scrape"
         }
       }
     },
@@ -721,7 +946,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "nyt",
+          "access": "paywall"
         },
         "bibbos": {
           "publication": "MICHELIN",
@@ -730,8 +957,10 @@
           "ranked": false,
           "track_kind": "michelin",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "michelin",
+          "access": "js_render"
         },
         "michbos": {
           "publication": "MICHELIN",
@@ -740,8 +969,10 @@
           "ranked": true,
           "track_kind": "michelin",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "michelin",
+          "access": "js_render"
         },
         "bosmag": {
           "publication": "25 BEST",
@@ -751,7 +982,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "boston_mag",
+          "access": "web_scrape"
         },
         "eater38bos": {
           "publication": "EATER",
@@ -759,9 +992,12 @@
           "year": "2026",
           "ranked": false,
           "track_kind": "eater-essentials",
-          "url": "",
+          "url": "https://boston.eater.com/maps/best-boston-restaurants-38",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape",
+          "url_status": "unverified-pattern"
         },
         "cnt35bos": {
           "publication": "CN TRAV",
@@ -771,7 +1007,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "infatbos": {
           "publication": "INFAT",
@@ -780,8 +1018,10 @@
           "ranked": false,
           "track_kind": "annual-list",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "infatuation",
+          "access": "js_render"
         },
         "beli25bos": {
           "publication": "BELI",
@@ -791,7 +1031,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "beli",
+          "access": "app_only"
         },
         "nyt50bos": {
           "publication": "NYT USA",
@@ -801,7 +1043,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "nyt",
+          "access": "paywall"
         }
       },
       "bars": {
@@ -813,7 +1057,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape"
         },
         "cnnabbos": {
           "publication": "100 NA",
@@ -823,7 +1069,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "timeoutbos": {
           "publication": "TIMEOUT",
@@ -833,7 +1081,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "timeout",
+          "access": "web_scrape"
         },
         "punchbos": {
           "publication": "CKTL",
@@ -843,7 +1093,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "punch",
+          "access": "web_scrape"
         },
         "thrillbos": {
           "publication": "THRLLST",
@@ -853,7 +1105,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "thrillist",
+          "access": "web_scrape"
         },
         "babos": {
           "publication": "8 BEST",
@@ -863,7 +1117,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "bon_appetit",
+          "access": "paywall"
         },
         "cnt23bos": {
           "publication": "CN TRAV",
@@ -873,7 +1129,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "belibbos": {
           "publication": "TOP 5",
@@ -883,7 +1141,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "beli",
+          "access": "app_only"
         },
         "punchbeerbos": {
           "publication": "BEER",
@@ -893,7 +1153,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "punch",
+          "access": "web_scrape"
         },
         "infatbrewbos": {
           "publication": "BREWERY",
@@ -902,8 +1164,10 @@
           "ranked": false,
           "track_kind": "annual-list",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "infatuation",
+          "access": "js_render"
         },
         "globebos": {
           "publication": "GLOBE",
@@ -913,7 +1177,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "boston_globe",
+          "access": "paywall"
         }
       }
     },
@@ -927,7 +1193,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "nyt",
+          "access": "paywall"
         },
         "cnna50sf": {
           "publication": "50 NA",
@@ -937,7 +1205,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "cnwsf": {
           "publication": "WORLD",
@@ -947,7 +1217,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "other",
+          "access": "web_scrape"
         },
         "resysf": {
           "publication": "RESY",
@@ -957,7 +1229,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "resy",
+          "access": "web_scrape"
         },
         "bibsf": {
           "publication": "MICHELIN",
@@ -966,8 +1240,10 @@
           "ranked": false,
           "track_kind": "michelin",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "michelin",
+          "access": "js_render"
         },
         "cnt38sf": {
           "publication": "CN TRAV",
@@ -977,7 +1253,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "michsf": {
           "publication": "MICHELIN",
@@ -986,8 +1264,10 @@
           "ranked": true,
           "track_kind": "michelin",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "michelin",
+          "access": "js_render"
         },
         "chron25sf": {
           "publication": "CHRON",
@@ -997,7 +1277,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "sf_chronicle",
+          "access": "paywall"
         },
         "beli14sf": {
           "publication": "BELI",
@@ -1007,7 +1289,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "beli",
+          "access": "app_only"
         },
         "eater38sf": {
           "publication": "EATER",
@@ -1015,9 +1299,12 @@
           "year": "2026",
           "ranked": false,
           "track_kind": "eater-essentials",
-          "url": "",
+          "url": "https://sf.eater.com/maps/best-san-francisco-restaurants-38",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape",
+          "url_status": "unverified-pattern"
         },
         "timeoutsf": {
           "publication": "TIMEOUT",
@@ -1027,7 +1314,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "timeout",
+          "access": "web_scrape"
         },
         "infat25sf": {
           "publication": "INFAT",
@@ -1036,8 +1325,10 @@
           "ranked": true,
           "track_kind": "annual-list",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "infatuation",
+          "access": "js_render"
         },
         "jbsf": {
           "publication": "BEARD",
@@ -1047,7 +1338,9 @@
           "track_kind": "james-beard",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "james_beard",
+          "access": "web_scrape"
         },
         "nyt50sf": {
           "publication": "NYT USA",
@@ -1057,7 +1350,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "nyt",
+          "access": "paywall"
         }
       },
       "bars": {
@@ -1069,7 +1364,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "sf_chronicle",
+          "access": "paywall"
         },
         "cnt22bsf": {
           "publication": "CN TRAV",
@@ -1079,7 +1376,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "infatbsf": {
           "publication": "INFAT",
@@ -1088,8 +1387,10 @@
           "ranked": false,
           "track_kind": "annual-list",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "infatuation",
+          "access": "js_render"
         },
         "punchsf": {
           "publication": "PUNCH",
@@ -1099,7 +1400,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "punch",
+          "access": "web_scrape"
         },
         "timeoutbsf": {
           "publication": "TIMEOUT",
@@ -1109,7 +1412,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "timeout",
+          "access": "web_scrape"
         },
         "ba9sf": {
           "publication": "9 BEST",
@@ -1119,7 +1424,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "bon_appetit",
+          "access": "paywall"
         },
         "eater15bsf": {
           "publication": "CKTL",
@@ -1129,7 +1436,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape"
         },
         "infatwsf": {
           "publication": "WINE",
@@ -1138,8 +1447,10 @@
           "ranked": false,
           "track_kind": "annual-list",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "infatuation",
+          "access": "js_render"
         },
         "jbbsf": {
           "publication": "BEARD",
@@ -1149,7 +1460,9 @@
           "track_kind": "james-beard",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "james_beard",
+          "access": "web_scrape"
         }
       }
     },
@@ -1163,7 +1476,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "beli25la": {
           "publication": "BELI",
@@ -1173,7 +1488,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "beli",
+          "access": "app_only"
         },
         "eater38la": {
           "publication": "EATER",
@@ -1181,9 +1498,12 @@
           "year": "2026",
           "ranked": false,
           "track_kind": "eater-essentials",
-          "url": "",
+          "url": "https://la.eater.com/maps/best-los-angeles-restaurants-38-map",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape",
+          "url_status": "unverified-pattern"
         },
         "bibla": {
           "publication": "MICHELIN",
@@ -1192,8 +1512,10 @@
           "ranked": false,
           "track_kind": "michelin",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "michelin",
+          "access": "js_render"
         },
         "michla": {
           "publication": "MICHELIN",
@@ -1202,8 +1524,10 @@
           "ranked": true,
           "track_kind": "michelin",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "michelin",
+          "access": "js_render"
         },
         "resyla": {
           "publication": "RESY",
@@ -1213,7 +1537,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "resy",
+          "access": "web_scrape"
         },
         "infat25la": {
           "publication": "INFAT",
@@ -1222,8 +1548,10 @@
           "ranked": true,
           "track_kind": "annual-list",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "infatuation",
+          "access": "js_render"
         },
         "nytla": {
           "publication": "TIMES",
@@ -1233,7 +1561,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "nyt",
+          "access": "paywall"
         },
         "timeoutla": {
           "publication": "TIMEOUT",
@@ -1243,7 +1573,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "timeout",
+          "access": "web_scrape"
         },
         "latimesla": {
           "publication": "LA TIMES",
@@ -1253,7 +1585,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "la_times",
+          "access": "paywall"
         },
         "cnt38la": {
           "publication": "CN TRAV",
@@ -1263,7 +1597,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "bala": {
           "publication": "BON APP",
@@ -1273,7 +1609,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "bon_appetit",
+          "access": "paywall"
         },
         "jbla": {
           "publication": "BEARD",
@@ -1283,7 +1621,9 @@
           "track_kind": "james-beard",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "james_beard",
+          "access": "web_scrape"
         },
         "nyt50la": {
           "publication": "NYT USA",
@@ -1293,7 +1633,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "nyt",
+          "access": "paywall"
         }
       },
       "bars": {
@@ -1305,7 +1647,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "beli",
+          "access": "app_only"
         },
         "timeoutbla": {
           "publication": "TIMEOUT",
@@ -1315,7 +1659,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "timeout",
+          "access": "web_scrape"
         },
         "cnwbla": {
           "publication": "WORLD",
@@ -1325,7 +1671,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         },
         "punchla": {
           "publication": "CKTL",
@@ -1335,7 +1683,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "punch",
+          "access": "web_scrape"
         },
         "punchwla": {
           "publication": "WINE",
@@ -1345,7 +1695,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "punch",
+          "access": "web_scrape"
         },
         "babla": {
           "publication": "8 BEST",
@@ -1355,7 +1707,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "bon_appetit",
+          "access": "paywall"
         },
         "eatercla": {
           "publication": "CKTL",
@@ -1365,7 +1719,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape"
         },
         "eaterdla": {
           "publication": "DIVE",
@@ -1375,7 +1731,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "eater",
+          "access": "web_scrape"
         },
         "infatbla": {
           "publication": "INFAT",
@@ -1384,8 +1742,10 @@
           "ranked": false,
           "track_kind": "annual-list",
           "url": "",
-          "parser": "auto",
-          "pinned": true
+          "parser": "browser",
+          "pinned": true,
+          "source_type": "infatuation",
+          "access": "js_render"
         },
         "cnt25la": {
           "publication": "CN TRAV",
@@ -1395,7 +1755,9 @@
           "track_kind": "annual-list",
           "url": "",
           "parser": "auto",
-          "pinned": true
+          "pinned": true,
+          "source_type": "conde_nast",
+          "access": "paywall"
         }
       }
     }

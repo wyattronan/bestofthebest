@@ -118,6 +118,12 @@ def run(dry=False, only=None):
         for section, listkey, venkey in (("restaurants", "rlists", "restos"), ("bars", "blists", "bars")):
             venues = cd[venkey]
             for lid, cfg in sections[section].items():
+                if cfg.get("skip") or cfg.get("access") == "owner_manual":
+                    continue  # your own personal lists — never scraped
+                if cfg.get("access") in ("paywall", "app_only"):
+                    manual.append((city, section, lid, cfg["name"],
+                                   cfg["access"].replace("_", " ") + " — pull manually"))
+                    continue
                 url = (cfg.get("url") or "").strip()
                 if not url:
                     manual.append((city, section, lid, cfg["name"], "no url in sources.json"))
@@ -158,13 +164,23 @@ def run(dry=False, only=None):
                     cd[listkey][lid]["year"] = cfg_year
         if not dry: save_city(city, cd)
 
-    _write_report(today, manual, applied, proposals)
+    _write_report(today, manual, applied, proposals, src["settings"].get("monitors", {}))
     print(f"applied {len(applied)} edits · {len(proposals)} new-venue proposals · {len(manual)} need manual pull")
     return manual, applied, proposals
 
-def _write_report(today, manual, applied, proposals):
+def _write_report(today, manual, applied, proposals, monitors=None):
     REPORTS.mkdir(exist_ok=True)
     lines = [f"# Weekly update — {today}", ""]
+    if monitors:
+        lines += ["## 👀 Monitors", ""]
+        for key, cfg in monitors.items():
+            state = "on" if cfg.get("enabled") else "off"
+            filled = ""
+            if "sources" in cfg:
+                have = sum(1 for c in cfg["sources"].values() for u in (c.values() if isinstance(c, dict) else [c]) if u)
+                filled = f" — {have} source URL(s) set"
+            lines.append(f"- **{key.replace('_',' ')}** ({state}){filled}")
+        lines.append("")
     lines += [f"- Auto-applied edits: **{len(applied)}**",
               f"- New-venue proposals (need a human): **{len(proposals)}**",
               f"- Lists that need a manual pull: **{len(manual)}**", ""]

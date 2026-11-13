@@ -45,6 +45,30 @@ When that happens the list shows up in the weekly issue. To refresh it by hand,
 paste the current names into the city JSON's venues (add/remove the list's id in
 each venue's `lists`), or just tell me the list and I'll fold it in.
 
+## How each source is reached (`access` tag)
+Every list in `sources.json` is tagged by how it can be fetched:
+
+| `access` | meaning | automatable? |
+|---|---|---|
+| `web_scrape` | plain HTML list page (Eater, Time Out, PUNCH, Resy, city mags, Beard) | yes (needs the URL) |
+| `js_render` | JavaScript page (Michelin, The Infatuation) — uses a headless browser | sometimes; often blocked |
+| `paywall` | NYT, Condé Nast, Bon Appétit, SF Chronicle, LA Times, Boston Globe | no → manual pull |
+| `app_only` | Beli (rankings live in the app) | no → manual pull |
+| `owner_manual` | your own "Wyatt's Top…" lists | never scraped |
+
+Current split: ~48 web-scrapable, ~25 JS, ~47 paywalled, ~11 app-only, 4 yours.
+Realistically the paywalled/app/JS sources flow through the weekly manual-pull
+issue — the automatable share is the ~48 web pages once their URLs are filled.
+
+## Monitors (beyond list refreshes)
+`sources.json → settings.monitors` adds three watchers:
+- **awards** — Michelin stars / James Beard winners / World's 50 Best changes
+  update those lists' memberships. (Fill per-city award page URLs.)
+- **closures_relocations** — closures mark `cl:true` (kept, struck-through);
+  relocations update neighborhood + coordinates. (Fill per-city Eater feeds.)
+- **new_lists** — when a watched publication posts a *new* prestigious city
+  list, it's flagged for your approval before being added (never auto-added).
+
 ## Filling in the URLs
 `data/sources.json` is pre-populated with every tracked list's identity but the
 `url` fields are blank. Add the canonical page URL for each pinned list to turn
