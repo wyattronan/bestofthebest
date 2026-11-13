@@ -289,8 +289,18 @@ body.theme-bars .tier-more:hover{background:color-mix(in srgb, var(--accent) 18%
 .tier-more{font-family:'Space Grotesk',sans-serif;font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:#fff;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.5);cursor:pointer;white-space:nowrap;padding:8px 13px;border-radius:3px;transition:background .15s;margin-left:auto;}
 .tier-more:hover{background:rgba(255,255,255,.28);}
 .tier-grid{display:grid;grid-template-columns:repeat(3,1fr);}
-.tier-grid .vcard{border-bottom:none;}
+.tier-grid .vcard{border-bottom:none;padding:0;}
 .tier-grid .vcard:nth-child(3n){border-right:none;}
+.tier-grid .vcard .clip-hd{padding:16px 20px 8px;}
+.tier-grid .vcard .vname{padding:14px 20px 0;}
+.tier-grid .vcard .clip-by{padding:5px 20px 0;}
+.tier-grid .vcard .clip-cr{padding:15px 20px 7px;}
+.tier-grid .vcard .vtags{padding:0 20px 4px;}
+.tier-grid .vcard .clip-ft{padding:13px 20px 16px;margin-top:0;}
+.tier-grid .vcard .vmark{padding:14px 20px 15px;margin:0;}
+@supports (grid-template-rows:subgrid){
+  .tier-grid .vcard{display:grid;grid-template-rows:subgrid;grid-row:span 7;}
+}
 .tier-grid .vcard{border-bottom:1px solid var(--rule);}
 @media(max-width:900px){.tier-grid{grid-template-columns:1fr;}.tier-top .tier-title{font-size:25px;}}
   .vcard{border-bottom:1px solid var(--rule);border-right:1px solid var(--rule);padding:16px 18px 14px;
