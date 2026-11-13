@@ -225,7 +225,8 @@ body.city-losangeles.theme-bars{
   .ear-row{font-family:'Space Grotesk',sans-serif;font-size:10px;letter-spacing:.12em;text-transform:uppercase;
     color:var(--ink-soft);line-height:1.9;}
   @media(max-width:860px){.masthead-inner{grid-template-columns:1fr;justify-items:center;gap:10px;text-align:center;}
-    .mast-logo,.mast-ear{justify-self:center;} .mast-ear{display:none;}}
+    .mast-logo,.mast-ear{justify-self:center;} .mast-ear{display:none;}
+    body.theme-bars .mast-logo{display:none;}}
 
   /* =================== NAV =================== */
   .topnav{position:sticky;top:0;z-index:40;background:var(--bg);border-bottom:1px solid var(--ink);
@@ -1376,7 +1377,7 @@ function renderMap(vs){
     m.bindPopup(mapPopupHTML(v),{className:"mappop",minWidth:210,maxWidth:260});
     m.bindTooltip(v.name,{permanent:true,direction:"right",offset:[7,0],className:"maplbl",opacity:1});
     const _pr=v.pr?" \u00b7 "+PRICE_SYM[v.pr]:"";
-    const _rich=v.name+" \u2014 "+typeName(v)+" in "+v.hood+" \u00b7 "+v.lists.length+" list"+(v.lists.length===1?"":"s")+_pr;
+    const _rich=v.name+" \u2014 "+typeName(v)+(v.hood?" in "+v.hood:"")+" \u00b7 "+v.lists.length+" list"+(v.lists.length===1?"":"s")+_pr;
     const o={m:m,v:v,hidden:false};
     m.on("mouseover",()=>{const el=m.getTooltip().getElement();m.setTooltipContent(_rich);if(el){el.style.display="";el.classList.add("maplbl-hover");}});
     m.on("mouseout",()=>{const el=m.getTooltip().getElement();m.setTooltipContent(v.name);if(el){el.classList.remove("maplbl-hover");el.style.display=o.hidden?"none":"";}});
@@ -1436,7 +1437,7 @@ function tierCard(v,i,totalLists){
   return `<article class="vcard clip ${v.cl?"closed":""}" data-name="${encodeURIComponent(v.name)}">
     <div class="clip-hd"><span class="clip-no">No. ${i+1}</span></div>
     <h3 class="vname">${v.name}</h3>
-    <div class="clip-by">${typeName(v)} in ${v.hood}${v.cl?" · Closed":""}</div>
+    <div class="clip-by">${typeName(v)}${v.hood?` in ${v.hood}`:""}${v.cl?" · Closed":""}</div>
     <div class="clip-cr">As credited by</div>
     <div class="vtags">${listTags(v)}</div>
     <div class="clip-ft"><span class="clip-cnt">On <b>${v.lists.length}</b> of ${totalLists} lists${price}${leaf}</span></div>
@@ -1555,7 +1556,7 @@ function renderBoard(vs){
     return `<article class="vcard clip ${v.cl?"closed":""}" data-name="${encodeURIComponent(v.name)}">
       <div class="clip-hd">${no}</div>
       <h3 class="vname">${v.name}</h3>
-      <div class="clip-by">${typeName(v)} in ${v.hood}${v.cl?" · Closed":""}</div>
+      <div class="clip-by">${typeName(v)}${v.hood?` in ${v.hood}`:""}${v.cl?" · Closed":""}</div>
       <div class="clip-cr">As credited by</div>
       <div class="vtags">${listTags(v)}</div>
       <div class="clip-ft"><span class="clip-cnt">On <b>${v.lists.length}</b> of ${totalLists} lists${price}${leaf}</span></div>
