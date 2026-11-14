@@ -24,6 +24,14 @@ Source: https://www.phillymag.com/foobooz/50-best-restaurants/
 Source: https://www.timeout.com/philadelphia/restaurants/best-restaurants-in-philadelphia
 1 Honeysuckle (Ave of the Arts); 2 Virasat Haveli (West Powelton); 3 Sky Cafe (Italian Market); 4 Vietnam Café (Garden Court); 5 Nan Zhou Hand Drawn Noodle House (Market East); 6 South Philly Barbacoa (South Philly); 7 Louie Louie (University City); 8 My Loup; 9 Meetinghouse (Kensington); 10 Mish Mish (East Passyunk); 11 Royal Sushi & Izakaya (Fabric Row); 12 Middle Child Clubhouse (Fishtown); 13 White Dog Cafe (University City); 14 Vientiane Cafe (Garden Court); 15 Provenance; 16 Ekta Indian Cuisine (Spruce Hill); 17 a.kitchen+bar (Rittenhouse); 18 Kalaya (Fishtown); 19 El Chingón (Passyunk Square); 20 Vernick Food & Drink (Center City)
 
+### The New York Times — Where to Eat in Philadelphia Right Now (unranked, 30) — pulled via Chrome
+Source: https://www.nytimes.com/article/best-restaurants-philadelphia.html (print headline "The 25 Best Restaurants in Philadelphia"; online guide now lists 30, updated Sept 29 2026)
+A.Kitchen (Rittenhouse, Amer/French); Amá (Fishtown, Mexican); Ambra (Bella Vista, Italian tasting); Angelo's Pizzeria (Bella Vista, pizza/hoagies); Bomb Bomb (South Philly, Italian); Càphê Roasters (Kensington, Vietnamese); Doro Bet (University City, Ethiopian); Emilia (East Kensington, Italian); Emmett (Olde Kensington, Levantine/Med); Fiore (East Kensington, Italian); Fiorella (Bella Vista, Italian); Friday Saturday Sunday (Rittenhouse, Modern Amer); Hardena (South Philly, Indonesian); Her Place Supper Club (Rittenhouse, French/Italian/Jewish); Honeysuckle (North Philly, African diaspora); Illata (Graduate Hospital, Modern Amer); Kalaya (Fishtown, Thai); La Jefa Café (Rittenhouse, Mexican); Mawn (Bella Vista, Cambodian); Meetinghouse (Olde Richmond, Amer tavern); Middle Child Clubhouse (Fishtown, sandwiches/all-day); Mish Mish (East Passyunk, Med); River Twice (East Passyunk, Modern Amer); Royal Sushi & Izakaya (Queen Village, Japanese); Sao (South Philly, SE Asian/seafood); South Philly Barbacoa (South Philly, Mexican); Suraya (Fishtown, Lebanese); Vedge (Wash Sq West, vegan); Vernick Fish (Logan Square, seafood); Zahav (Society Hill, Israeli)
+
+### The New York Times — The Restaurant List 2025 (national; "50 best places in America") — Philly entries
+Source: https://www.nytimes.com/interactive/2025/dining/best-restaurants-america.html
+Mawn (South Philly, Cambodian); Meetinghouse (Olde Richmond, American tavern). (National-tier credit, same class as James Beard — fold as a BEARD-style chip.)
+
 ## BARS — pulled
 
 ### The Infatuation — Best Bars in Philadelphia (unranked, 16)
@@ -42,5 +50,7 @@ Source: https://punchdrink.com/articles/the-best-craft-cocktail-bars-in-philadel
 - Philadelphia Magazine — Best of Philly 2025: Bars: https://www.phillymag.com/foobooz/2025/07/25/best-of-philly-2025-bars/
 - James Beard Awards — Best Chef: Mid-Atlantic nominees (Philly) — pull the latest cycle; strong national signal (fold like we did for NOLA/Phoenix/Miami).
 - North America's 50 Best Restaurants — 3 Philly entries (Kalaya et al.): https://philadelphia.today/2025/10/north-americas-best-restaurants-philadelphia/
+
+**NYT pulled Nov 14 2026 via Chrome** — the dedicated NYT Philadelphia guide (30) + national Restaurant List 2025 (Mawn, Meetinghouse) are now captured above. (NYT has no "Where to Eat" city guide for Houston or Phoenix, so for those two only the national Restaurant List would apply.)
 
 **Early consensus leaders (appear on all 3 restaurant lists):** Kalaya, Provenance, Royal Sushi & Izakaya, My Loup, Vernick, El Chingón — plus Honeysuckle, Meetinghouse and Mish Mish (two lists), making Philly a very buildable city.
