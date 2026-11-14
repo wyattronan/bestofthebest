@@ -106,22 +106,22 @@
   body.city-nashville.theme-bars .nsh-banner{display:block;}
   body.city-nashville.theme-bars .mast-center{visibility:hidden;}
   body.city-nashville.theme-bars .masthead-inner{position:relative;z-index:3;}
-  .nsh-stage{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);height:100%;aspect-ratio:2172/724;max-width:100%;overflow:hidden;}
-  .nsh-vid{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center center;display:block;}
-  .nsh-vig{position:absolute;inset:0;z-index:5;pointer-events:none;background:linear-gradient(90deg,#000 0%,#000 34%,rgba(0,0,0,0) 46%,rgba(0,0,0,0) 54%,#000 66%,#000 100%);}
+  .nsh-stage{position:absolute;inset:0;overflow:hidden;}
+  .nsh-vid{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 26%;display:block;}
+  .nsh-vig{position:absolute;inset:0;z-index:5;pointer-events:none;background:linear-gradient(90deg,#000 0%,#000 10%,rgba(0,0,0,0) 24%,rgba(0,0,0,0) 76%,#000 90%,#000 100%);}
   .por-banner{display:none;position:absolute;inset:0;z-index:1;overflow:hidden;}
   body.city-portland.theme-bars .por-banner{display:block;}
   body.city-portland.theme-bars .mast-center{visibility:hidden;}
   body.city-portland.theme-bars .masthead-inner{position:relative;z-index:3;}
   .por-stage{position:absolute;inset:0;overflow:hidden;}
-  .por-vid{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center center;display:block;}
+  .por-vid{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center center;transform:scale(.87);display:block;}
   .por-vig{position:absolute;inset:0;z-index:5;pointer-events:none;background:linear-gradient(90deg,#000 0%,#000 10%,rgba(0,0,0,0) 24%,rgba(0,0,0,0) 76%,#000 90%,#000 100%);}
   .dal-banner{display:none;position:absolute;inset:0;z-index:1;overflow:hidden;}
   body.city-dallas.theme-bars .dal-banner{display:block;}
   body.city-dallas.theme-bars .mast-center{visibility:hidden;}
   body.city-dallas.theme-bars .masthead-inner{position:relative;z-index:3;}
   .dal-stage{position:absolute;inset:0;overflow:hidden;}
-  .dal-vid{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center center;display:block;}
+  .dal-vid{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center center;transform:scale(.9);display:block;}
   .dal-vig{position:absolute;inset:0;z-index:5;pointer-events:none;background:linear-gradient(90deg,#000 0%,#000 10%,rgba(0,0,0,0) 24%,rgba(0,0,0,0) 76%,#000 90%,#000 100%);}
   .tri-banner{display:none;position:absolute;inset:0;z-index:1;overflow:hidden;}
   body.city-triangle.theme-bars .tri-banner{display:block;}
@@ -263,7 +263,7 @@ body.city-losangeles.theme-bars{
   /* --- nameplate (center) --- */
   .mast-center{text-align:center;justify-self:center;}
   .mast-eyebrow{font-family:'AccentSans','Space Grotesk',sans-serif;font-size:9px;letter-spacing:.26em;
-    text-transform:uppercase;color:var(--accent);font-weight:600;margin-bottom:2px;}
+    text-transform:uppercase;color:var(--accent);font-weight:600;margin-bottom:4px;}
   body.theme-bars .mast-eyebrow{color:var(--accent2);text-shadow:0 0 7px rgba(42,224,255,.5);}
   .nameplate{font-family:'UnifrakturCook','Fraunces',serif;font-weight:700;
     font-size:clamp(50px,7.8vw,92px);line-height:.88;letter-spacing:.01em;color:var(--ink);white-space:nowrap;}
@@ -272,7 +272,7 @@ body.city-losangeles.theme-bars{
     text-shadow:0 0 6px #fff,0 0 14px var(--accent),0 0 30px var(--accent),0 0 48px rgba(255,61,139,.6);
     animation:flicker 6s infinite steps(1);}
   @keyframes flicker{0%,97%,100%{opacity:1;}97.5%{opacity:.72;}98%{opacity:1;}98.5%{opacity:.6;}99%{opacity:1;}}
-  .mast-ruleline{display:flex;align-items:center;justify-content:center;gap:12px;margin-top:6px;width:100%;
+  .mast-ruleline{display:flex;align-items:center;justify-content:center;gap:12px;margin-top:4px;width:100%;
     font-family:'AccentSans','Space Grotesk',sans-serif;font-size:9.5px;letter-spacing:.2em;text-transform:uppercase;
     color:var(--ink-soft);}
   .mast-ruleline .seg{height:1px;flex:1;min-width:30px;background:var(--rule-bold);}
@@ -298,7 +298,7 @@ body.city-losangeles.theme-bars{
     body.theme-bars .masthead-inner{display:none;}
     body.theme-bars .sea-banner,body.theme-bars .hou-banner,body.theme-bars .atx-banner,body.theme-bars .atl-banner,body.theme-bars .mia-banner,body.theme-bars .nol-banner,body.theme-bars .chi-banner,body.theme-bars .phx-banner{position:relative;}
     .sea-stage,.atl-stage,.mia-stage,.chi-stage,.phx-stage,.phl-stage,.por-stage,.dal-stage,.tri-stage{position:relative;left:auto;top:auto;transform:none;width:100%;height:auto;aspect-ratio:2560/432;max-width:100%;overflow:hidden;}
-    .hou-stage,.atx-stage,.nol-stage{position:relative;left:auto;top:auto;transform:none;width:100%;height:auto;aspect-ratio:2172/724;max-width:100%;overflow:hidden;}
+    .hou-stage,.atx-stage,.nol-stage,.nsh-stage{position:relative;left:auto;top:auto;transform:none;width:100%;height:auto;aspect-ratio:2172/724;max-width:100%;overflow:hidden;}
     .sea-vid,.atl-vid,.hou-vid,.atx-vid,.mia-vid,.nol-vid,.chi-vid,.phx-vid,.phl-vid,.nsh-vid,.por-vid,.dal-vid,.tri-vid{object-fit:cover;object-position:center;transform:none;}
     .sea-vig,.hou-vig,.atx-vig,.atl-vig,.mia-vig,.nol-vig,.chi-vig,.phx-vig{background:linear-gradient(90deg,#000 0%,rgba(0,0,0,0) 4%,rgba(0,0,0,0) 96%,#000 100%);}}
 
@@ -587,6 +587,7 @@ body.theme-bars .tier-more:hover{background:color-mix(in srgb, var(--accent) 18%
   .masthead-inner{position:relative;z-index:1;}
   .mast-center{position:relative;}
   .nameplate-wrap{position:relative;display:inline-block;padding:4px 16px;z-index:1;}
+  body.theme-resto .nameplate-wrap{display:block;line-height:0;}
   .mast-eyebrow,.mast-ruleline{position:relative;z-index:1;}
   .skyline{position:absolute;left:50%;bottom:-13px;transform:translateX(-50%);z-index:0;pointer-events:none;
     width:min(430px,90vw);height:208px;
