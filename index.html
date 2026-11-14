@@ -816,6 +816,25 @@ body.theme-bars .tier-more:hover{background:color-mix(in srgb, var(--accent) 18%
   .city-btn:hover{color:var(--ink);}
   .city-btn.active{color:var(--accent);font-weight:700;}
   body.theme-bars .city-btn.active{text-shadow:0 0 8px color-mix(in srgb,var(--accent) 60%,transparent);}
+  .city-menu-toggle{display:none;}
+  .city-list{display:contents;}
+  @media(max-width:860px){
+    .city-switch{padding:0;position:relative;z-index:50;flex-wrap:nowrap;}
+    .city-menu-toggle{display:flex;align-items:center;justify-content:center;gap:9px;width:100%;
+      padding:11px 16px;background:none;border:none;cursor:pointer;
+      font-family:'AccentSans','Space Grotesk',sans-serif;font-size:12px;letter-spacing:.16em;
+      text-transform:uppercase;color:var(--ink);font-weight:700;}
+    .city-menu-toggle .cmt-cur{color:var(--accent);}
+    .city-menu-toggle .cmt-caret{color:var(--ink-soft);font-size:13px;transition:transform .2s;}
+    .city-switch.open .city-menu-toggle .cmt-caret{transform:rotate(180deg);}
+    .city-list{display:none;position:absolute;top:100%;left:0;right:0;flex-direction:column;
+      background:var(--bg2);border-bottom:1px solid var(--rule);box-shadow:0 16px 34px var(--shadow);
+      max-height:72vh;overflow-y:auto;z-index:60;}
+    .city-switch.open .city-list{display:flex;}
+    .city-switch .city-btn{width:100%;text-align:center;padding:13px 12px;font-size:13px;border-radius:0;
+      border-bottom:1px solid var(--rule);}
+    .city-switch .city-btn:last-child{border-bottom:none;}
+  }
 
 
 
@@ -1144,7 +1163,7 @@ body.home > .paper-tex, body.home > nav.city-switch, body.home > header.masthead
 @media(max-width:540px){.hp-grid{grid-template-columns:1fr;}.hp-paper{padding:18px 16px 24px;}.hp-np-text{font-size:clamp(28px,8vw,40px);}}
 </style>
 <div class="paper-tex" aria-hidden="true"></div>
-<nav class="city-switch" aria-label="City"><button class="city-btn hp-home" data-home>‹ Front Page</button><button class="city-btn" data-city="atlanta">Atlanta</button><button class="city-btn" data-city="austin">Austin</button><button class="city-btn" data-city="boston">Boston</button><button class="city-btn" data-city="chicago">Chicago</button><button class="city-btn" data-city="dallas">Dallas</button><button class="city-btn" data-city="houston">Houston</button><button class="city-btn" data-city="losangeles">Los Angeles</button><button class="city-btn" data-city="miami">Miami</button><button class="city-btn" data-city="nashville">Nashville</button><button class="city-btn" data-city="neworleans">New Orleans</button><button class="city-btn" data-city="newyork">New York</button><button class="city-btn" data-city="philadelphia">Philadelphia</button><button class="city-btn" data-city="phoenix">Phoenix</button><button class="city-btn" data-city="portland">Portland</button><button class="city-btn" data-city="sanfrancisco">San Francisco</button><button class="city-btn" data-city="seattle">Seattle</button><button class="city-btn" data-city="triangle">The Triangle</button><button class="city-btn" data-city="washington">Washington</button></nav>
+<nav class="city-switch" aria-label="City"><button class="city-menu-toggle" type="button" aria-expanded="false" aria-label="Change city"><span class="cmt-cur" id="cmtCur">Select a City</span><span class="cmt-caret" aria-hidden="true">▾</span></button><div class="city-list"><button class="city-btn hp-home" data-home>‹ Front Page</button><button class="city-btn" data-city="atlanta">Atlanta</button><button class="city-btn" data-city="austin">Austin</button><button class="city-btn" data-city="boston">Boston</button><button class="city-btn" data-city="chicago">Chicago</button><button class="city-btn" data-city="dallas">Dallas</button><button class="city-btn" data-city="houston">Houston</button><button class="city-btn" data-city="losangeles">Los Angeles</button><button class="city-btn" data-city="miami">Miami</button><button class="city-btn" data-city="nashville">Nashville</button><button class="city-btn" data-city="neworleans">New Orleans</button><button class="city-btn" data-city="newyork">New York</button><button class="city-btn" data-city="philadelphia">Philadelphia</button><button class="city-btn" data-city="phoenix">Phoenix</button><button class="city-btn" data-city="portland">Portland</button><button class="city-btn" data-city="sanfrancisco">San Francisco</button><button class="city-btn" data-city="seattle">Seattle</button><button class="city-btn" data-city="triangle">The Triangle</button><button class="city-btn" data-city="washington">Washington</button></div></nav>
 <header class="masthead" id="masthead">
   <div class="po-veil" id="poVeil" aria-hidden="true"></div>
   <div class="skyline" aria-hidden="true"></div>
@@ -1965,6 +1984,7 @@ function setCity(key){
   document.querySelectorAll(".uttab").forEach(t=>t.classList.remove("active"));
   const cb=document.querySelector('.uttab[data-view="tiers"]'); if(cb) cb.classList.add("active");
   document.querySelectorAll(".city-btn").forEach(b=>b.classList.toggle("active",b.dataset.city===key));
+  {const _cm=document.getElementById("cmtCur"); if(_cm) _cm.textContent = (NAME[key]||"Select a City");}
   applyTheme(); renderRibbon(); fillStamp(); render();
 }
 function navHash(city,kind){location.hash="#/"+city+"/"+(kind==="bars"?"bars":"restaurants");}
@@ -1977,6 +1997,12 @@ document.querySelectorAll("#homepage [data-go]").forEach(el=>el.onclick=function
 document.querySelectorAll("[data-home]").forEach(el=>el.onclick=function(){location.hash="#";});
 (function(){var ml=document.getElementById("mastLogo");if(ml){ml.style.cursor="pointer";ml.title="Front page";ml.addEventListener("click",function(){location.hash="#";});}})();
 document.querySelectorAll(".city-btn[data-city]").forEach(b=>b.onclick=()=>navHash(b.dataset.city,state.kind));
+(function(){var sw=document.querySelector(".city-switch"),tog=sw&&sw.querySelector(".city-menu-toggle");if(!sw||!tog)return;
+  function close(){sw.classList.remove("open");tog.setAttribute("aria-expanded","false");}
+  tog.addEventListener("click",function(e){e.stopPropagation();var o=sw.classList.toggle("open");tog.setAttribute("aria-expanded",o?"true":"false");});
+  sw.querySelectorAll(".city-btn").forEach(function(b){b.addEventListener("click",close);});
+  document.addEventListener("click",function(e){if(!sw.contains(e.target))close();});
+})();
 
 route();
 </script>
