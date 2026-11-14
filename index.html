@@ -973,13 +973,13 @@ body.theme-bars .logo-word{font-family:'Tilt Neon',sans-serif;font-weight:400;fo
 .mn .mn-pop{fill:var(--mn-acc,var(--accent));stroke:none;transform-box:fill-box;transform-origin:center;}
 .mn .mn-l{transform-box:view-box;transform-origin:22px 32px;}
 .mn .mn-r{transform-box:view-box;transform-origin:42px 32px;}
-@keyframes mnUnfold{0%{transform:scaleX(0);}100%{transform:scaleX(1);}}
+@keyframes mnUnfold{0%{transform:scaleX(0);}100%{transform:scaleX(1);}}@keyframes mnFold{0%{transform:scaleX(0);}30%,62%{transform:scaleX(1);}100%{transform:scaleX(0);}}
 @keyframes mnLine{0%{stroke-dashoffset:100;opacity:0;}1%{opacity:1;}100%{stroke-dashoffset:0;opacity:1;}}
 @keyframes mnPop{0%{transform:scale(0);opacity:0;}60%{transform:scale(1.25);opacity:1;}100%{transform:scale(1);opacity:1;}}
 @keyframes mnUnfoldLoop{0%,6%{transform:scaleX(0);}22%,84%{transform:scaleX(1);}96%,100%{transform:scaleX(0);}}
 @keyframes mnLineLoop{0%{stroke-dashoffset:100;opacity:0;}1%{opacity:1;}28%{stroke-dashoffset:0;}86%{stroke-dashoffset:0;opacity:1;}96%,100%{stroke-dashoffset:0;opacity:0;}}
 @keyframes mnPopLoop{0%,8%{transform:scale(0);opacity:0;}16%{transform:scale(1.22);opacity:1;}22%{transform:scale(1);}86%{transform:scale(1);opacity:1;}96%,100%{transform:scale(1);opacity:0;}}
-.mast-logo.play .mn .mn-l,.mast-logo.play .mn .mn-r,#homepage .hp-ribbon .mn-l,#homepage .hp-ribbon .mn-r{animation:mnUnfold .9s cubic-bezier(.3,1.25,.5,1) .1s both;}
+.mast-logo.play .mn .mn-l,.mast-logo.play .mn .mn-r{animation:mnFold 1.9s cubic-bezier(.3,1.05,.5,1) .1s both;}#homepage .hp-ribbon .mn-l,#homepage .hp-ribbon .mn-r{animation:mnUnfold .9s cubic-bezier(.3,1.25,.5,1) .1s both;}
 .mast-logo.play .mn .mn-ln,#homepage .hp-ribbon .mn-ln{animation:mnLine .5s ease-out var(--d,0s) both;}
 .mast-logo.play .mn .mn-pop,#homepage .hp-ribbon .mn-pop{animation:mnPop .45s cubic-bezier(.3,.7,.3,1) var(--d,0s) both;}
 .mast-logo:hover .mn .mn-l,.mast-logo:hover .mn .mn-r,#homepage .hp-nameplate:hover .mn-l,#homepage .hp-nameplate:hover .mn-r{animation:mnUnfoldLoop 4s cubic-bezier(.3,1.2,.5,1) infinite;}
