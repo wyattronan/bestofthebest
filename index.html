@@ -1,10 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="booting">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Best Of the Best — Chicago</title>
+<script>/* safety net: always reveal the page even if the main script fails */
+window.addEventListener("error",function(){document.documentElement.classList.remove("booting");});
+setTimeout(function(){document.documentElement.classList.remove("booting");},4000);</script>
 <style>
+  /* Cloak the page until the router has applied the correct view, to avoid a
+     flash of the static default (home outline / Chicago masthead) on load. */
+  html.booting body{visibility:hidden;}
+  html.booting{background:#e2dbc8;}
   /* =================== THEME TOKENS =================== */
   :root{ --nav-h:49px; }
   body.city-houston.theme-resto{
@@ -2007,6 +2014,8 @@ document.querySelectorAll(".city-btn[data-city]").forEach(b=>b.onclick=()=>navHa
 })();
 
 route();
+document.documentElement.classList.remove("booting");
+setTimeout(function(){document.documentElement.classList.remove("booting");},2500);
 </script>
 <template id="sign-boston"><div class="nite-sign bos-sign" aria-hidden="true"><svg class="bos-sign-svg" viewBox="0 0 200 212" aria-hidden="true">
  <defs>
