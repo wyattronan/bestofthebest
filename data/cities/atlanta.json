@@ -168,7 +168,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Aria",
@@ -367,7 +368,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Brasserie Margot",
@@ -401,7 +403,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Casa Balam",
@@ -435,7 +438,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Fawn Wine & Amaro",
@@ -950,7 +954,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "The Alden",
@@ -1307,7 +1312,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Gigi's Italian Kitchen",
@@ -1336,7 +1342,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Hal's, the Steakhouse",
@@ -1391,7 +1398,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Madre Selva",
@@ -1463,7 +1471,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Palo Santo",
@@ -1543,7 +1552,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Staplehouse",
@@ -1686,7 +1696,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Auburn Angel",
@@ -1829,7 +1840,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Daily Chew",
@@ -1867,7 +1879,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Du Bu Gong Bang",
@@ -1884,7 +1897,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Fishmonger",
@@ -1943,7 +1957,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "General Muir",
@@ -2074,7 +2089,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "La Grotta Ristorante Italiano",
@@ -2091,7 +2107,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "LanZhou Ramen",
@@ -2112,7 +2129,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Lyla Lila",
@@ -2129,7 +2147,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Mirae",
@@ -2146,7 +2165,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Nakato",
@@ -2180,7 +2200,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "9292 Korean BBQ",
@@ -2214,7 +2235,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Pata Negra Mezcaleria",
@@ -2252,7 +2274,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Pit Boss",
@@ -2286,7 +2309,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Smiley's Burger Club",
@@ -2345,7 +2369,8 @@
     ]
    ],
    "vb": "taco",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Taqueria La Oaxaqueña",
@@ -2362,7 +2387,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Tum Pok Pok",
@@ -2379,7 +2405,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Twisted Soul Cookhouse & Pours",
@@ -2421,7 +2448,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "NFA Burger",
@@ -2497,7 +2525,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Alon's Bakery & Market",
@@ -2543,7 +2572,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Highland Tap",
@@ -2581,7 +2611,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Busy Bee Cafe",
@@ -2640,7 +2671,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Tipsy Thaiger",
@@ -2661,7 +2693,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "So So Fed",
@@ -2796,7 +2829,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Battle & Brew",
@@ -2910,7 +2944,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Mushi Ni",

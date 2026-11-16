@@ -56,7 +56,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Olōyō",
@@ -77,7 +78,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Lucia",
@@ -110,7 +112,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Resident Taqueria",
@@ -135,7 +138,8 @@
     ]
    ],
    "vb": "taco",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Mot Hai Ba",
@@ -168,7 +172,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Cattleack",
@@ -226,7 +231,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Roots Southern Table",
@@ -309,7 +315,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Hugo's Seafood Bar",
@@ -410,7 +417,8 @@
     ]
    ],
    "vb": "taco",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Sushi Kozy",
@@ -489,7 +497,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Billy Can Can",
@@ -572,7 +581,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Gemma",
@@ -651,7 +661,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Far Out",
@@ -714,7 +725,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Las Palmas",
@@ -731,7 +743,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Momo Spot",
@@ -748,7 +761,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Simply South",
@@ -765,7 +779,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Smoke 'N Ash",
@@ -807,7 +822,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Georgie",
@@ -841,7 +857,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Encina",
@@ -875,7 +892,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Ateliê",
@@ -951,7 +969,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": true
+   "dual": true,
+   "vg": 1
   },
   {
    "name": "Zoli's Pizza",
@@ -968,7 +987,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Partenope Ristorante",
@@ -989,7 +1009,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Tango Room",
@@ -1027,7 +1048,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Mirador",
@@ -1069,7 +1091,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Bharat Bhavan",
@@ -1086,7 +1109,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Brass Ram",
@@ -1137,7 +1161,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "The Heritage Table",
@@ -1192,7 +1217,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Bilad Bakery",
@@ -1209,7 +1235,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Ngon Vietnamese Kitchen",
@@ -1234,7 +1261,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "The Chumley House",
@@ -1268,7 +1296,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Walloon's",
@@ -1302,7 +1331,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Cenzo's Pizza & Deli",
@@ -1319,7 +1349,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Bushi Bushi",
@@ -1336,7 +1367,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Uchiko Plano",
@@ -1370,7 +1402,8 @@
     ]
    ],
    "vb": "taco",
-   "dual": true
+   "dual": true,
+   "vg": 1
   },
   {
    "name": "Restaurant Beatrice",
@@ -1421,7 +1454,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Starship Bagel",
@@ -1438,7 +1472,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Green Point Seafood",
@@ -1472,7 +1507,8 @@
     ]
    ],
    "vb": "taco",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Terry Black's Barbecue",

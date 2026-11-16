@@ -98,7 +98,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Brennan's",
@@ -144,7 +145,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Dooky Chase",
@@ -227,7 +229,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Paladar 511",
@@ -248,7 +251,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Saint-Germain",
@@ -273,7 +277,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Bayona",
@@ -328,7 +333,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Deanie's",
@@ -362,7 +368,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Mamou",
@@ -387,7 +394,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Luvi",
@@ -408,7 +416,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Saffron",
@@ -429,7 +438,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Ba Mien",
@@ -446,7 +456,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "St. Pizza",
@@ -467,7 +478,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Fritai",
@@ -488,7 +500,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Addis NOLA",
@@ -509,7 +522,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "AJ's Jazzy Grill",
@@ -543,7 +557,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Palm & Pine",
@@ -615,7 +630,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Tân Định",
@@ -636,7 +652,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Cane & Table",
@@ -691,7 +708,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Li'l Dizzy's Cafe",
@@ -750,7 +768,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Chicken's Kitchen",
@@ -843,7 +862,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Munch Factory",
@@ -894,7 +914,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Queen Trini Lisa",
@@ -915,7 +936,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Rosedale",
@@ -966,7 +988,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Jamila's Cafe",
@@ -983,7 +1006,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Brigtsen's",
@@ -1076,7 +1100,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "The Kingsway",
@@ -1110,7 +1135,8 @@
     ]
    ],
    "vb": "oldguard",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Lilette",
@@ -1127,7 +1153,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Respite",
@@ -1161,7 +1188,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Saint Claire",

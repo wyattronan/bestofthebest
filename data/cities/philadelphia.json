@@ -178,7 +178,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Mawn",
@@ -219,7 +220,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Her Place Supper Club",
@@ -314,7 +316,8 @@
     ]
    ],
    "vb": "oldguard",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "My Loup",
@@ -351,7 +354,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Emmett",
@@ -384,7 +388,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Little Fish",
@@ -438,7 +443,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Blue Corn",
@@ -459,7 +465,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Ambra",
@@ -488,7 +495,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Illata",
@@ -554,7 +562,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Càphê Roasters",
@@ -575,7 +584,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Angelo's Pizzeria",
@@ -637,7 +647,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Pizzeria Beddia",
@@ -654,7 +665,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Sang Kee Peking Duck House",
@@ -679,7 +691,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "El Chingón",
@@ -704,7 +717,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Tesiny",
@@ -742,7 +756,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Chibanos",
@@ -759,7 +774,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Honeysuckle",
@@ -792,7 +808,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Meetinghouse",
@@ -825,7 +842,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": true
+   "dual": true,
+   "vg": 1
   },
   {
    "name": "Roxanne",
@@ -867,7 +885,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Bastia",
@@ -884,7 +903,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Laser Wolf",
@@ -905,7 +925,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Amá",
@@ -934,7 +955,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Little Water",
@@ -1005,7 +1027,8 @@
     ]
    ],
    "vb": "global",
-   "dual": true
+   "dual": true,
+   "vg": 1
   },
   {
    "name": "River Twice",
@@ -1043,7 +1066,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "La Baja",
@@ -1060,7 +1084,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Little Walter's",
@@ -1145,7 +1170,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Char",
@@ -1183,7 +1209,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": true
+   "dual": true,
+   "vg": 1
   },
   {
    "name": "Mish Mish",
@@ -1212,7 +1239,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Le Virtù",
@@ -1229,7 +1257,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Tabachoy",
@@ -1250,7 +1279,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Rice & Sambal",
@@ -1267,7 +1297,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Forsythia",
@@ -1284,7 +1315,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Lark",
@@ -1318,7 +1350,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "June BYOB",
@@ -1335,7 +1368,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Baby's Kusina",
@@ -1352,7 +1386,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Barclay Prime",
@@ -1390,7 +1425,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Cafe Nhan",
@@ -1411,7 +1447,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Dante & Luigi's",
@@ -1428,7 +1465,8 @@
     ]
    ],
    "vb": "oldguard",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Megobari",
@@ -1445,7 +1483,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Virasat Haveli",
@@ -1462,7 +1501,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Sky Cafe",
@@ -1479,7 +1519,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Vietnam Cafe",
@@ -1496,7 +1537,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Nan Zhou Hand Drawn Noodle House",
@@ -1513,7 +1555,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "South Philly Barbacoa",
@@ -1538,7 +1581,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Louie Louie",
@@ -1614,7 +1658,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Ekta Indian Cuisine",
@@ -1631,7 +1676,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "a.kitchen+bar",
@@ -1698,7 +1744,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Emilia",
@@ -1719,7 +1766,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Fiore",
@@ -1740,7 +1788,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Fiorella",
@@ -1761,7 +1810,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Hardena",
@@ -1782,7 +1832,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Suraya",
@@ -1803,7 +1854,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Vedge",
@@ -1820,7 +1872,8 @@
     ]
    ],
    "vb": "oldguard",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Kim's",
@@ -1841,7 +1894,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Sulimay's",
@@ -1875,7 +1929,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Cerveau",
@@ -1909,7 +1964,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Banshee",
@@ -1943,7 +1999,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Heavy Metal Sausage Co.",
@@ -1960,7 +2017,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Dalessandro's Steaks",

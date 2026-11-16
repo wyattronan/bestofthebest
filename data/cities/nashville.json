@@ -175,7 +175,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Kase x Noko",
@@ -217,7 +218,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Bar Cala Cala",
@@ -234,7 +236,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Tailor",
@@ -267,7 +270,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Bourbon Steak",
@@ -351,7 +355,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Peninsula",
@@ -384,7 +389,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Butterlamp",
@@ -434,7 +440,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "International Market",
@@ -467,7 +474,8 @@
     ]
    ],
    "vb": "oldguard",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Arnold's Country Kitchen",
@@ -505,7 +513,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Edessa",
@@ -534,7 +543,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Shotgun Willie's BBQ",
@@ -584,7 +594,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "St. Vito Focacceria",
@@ -613,7 +624,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "S.S. Gai",
@@ -638,7 +650,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Kien Giang",
@@ -655,7 +668,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Bolton's Famous Hot Chicken",
@@ -709,7 +723,8 @@
     ]
    ],
    "vb": "oldguard",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Fancypants",
@@ -755,7 +770,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Henrietta Red",
@@ -801,7 +817,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Martin's Bar-B-Que Joint",
@@ -839,7 +856,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "East Side Banh Mi",
@@ -856,7 +874,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "FatBelly Pretzel",
@@ -873,7 +892,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Big Al's Deli",
@@ -970,7 +990,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Monell's",
@@ -1004,7 +1025,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Riddim N Spice",
@@ -1025,7 +1047,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Etch",
@@ -1080,7 +1103,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "The Butter Milk Ranch",
@@ -1114,7 +1138,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Roze Pony",
@@ -1148,7 +1173,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Hai Woon Dai",
@@ -1165,7 +1191,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Audrey & June",
@@ -1199,7 +1226,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Lyra",
@@ -1220,7 +1248,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Margot Cafe & Bar",
@@ -1241,7 +1270,8 @@
     ]
    ],
    "vb": "oldguard",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Rolf & Daughters",
@@ -1258,7 +1288,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Epice",
@@ -1275,7 +1306,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Lou",
@@ -1309,7 +1341,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Nicky's Coal Fired",
@@ -1326,7 +1359,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Pelican & Pig",
@@ -1432,7 +1466,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Once Upon A Time in France",
@@ -1449,7 +1484,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Skull's Rainbow Room",
@@ -1517,7 +1553,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "The Southern V",
@@ -1534,7 +1571,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Redheaded Stranger",
@@ -1551,7 +1589,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Otaku Ramen",
@@ -1568,7 +1607,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Prince's Hot Chicken Shack",
@@ -1657,7 +1697,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Cal's Country Kitchen",

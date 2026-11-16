@@ -15,7 +15,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Pho Phong Luu",
@@ -36,7 +37,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Usta Kababgy",
@@ -74,7 +76,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Korea House",
@@ -112,7 +115,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Paprika ATX",
@@ -166,7 +170,8 @@
     ]
    ],
    "vb": "oldguard",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Foreign & Domestic",
@@ -217,7 +222,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Uchiko",
@@ -234,7 +240,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "P Thai's Khao Man Gai & Noodles",
@@ -255,7 +262,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Fabrik",
@@ -280,7 +288,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Crown & Anchor Pub",
@@ -446,7 +455,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Better Half Coffee & Cocktails",
@@ -580,7 +590,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Apt 115",
@@ -656,7 +667,8 @@
     ]
    ],
    "vb": "taco",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Odd Duck",
@@ -736,7 +748,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Bouldin Creek Café",
@@ -753,7 +766,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Habanero Cafe",
@@ -837,7 +851,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "LeRoy and Lewis Barbecue",
@@ -875,7 +890,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "P Thai's Khao Man Gai",
@@ -892,7 +908,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Parish Barbecue",
@@ -930,7 +947,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Barley Swine",
@@ -1064,7 +1082,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Sangam Chettinad",
@@ -1191,7 +1210,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "VanHorn's",
@@ -1327,7 +1347,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Kiin Di",
@@ -1395,7 +1416,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Hestia",
@@ -1433,7 +1455,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "InterStellar BBQ",
@@ -1496,7 +1519,8 @@
     ]
    ],
    "vb": "taco",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "La Santa Barbacha",
@@ -1513,7 +1537,8 @@
     ]
    ],
    "vb": "taco",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Micklethwait Craft Meats",
@@ -1551,7 +1576,8 @@
     ]
    ],
    "vb": "taco",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Briscuits",
@@ -1725,7 +1751,8 @@
     ]
    ],
    "vb": "taco",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Otoko",
@@ -1865,7 +1892,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Juniper",
@@ -1903,7 +1931,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Thai Kun",
@@ -1920,7 +1949,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Comadre Panadería",
@@ -1954,7 +1984,8 @@
     ]
    ],
    "vb": "taco",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Ezov",

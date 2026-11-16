@@ -1,1 +1,1649 @@
-{"restos": [{"name": "Bida Manda", "hood": "Raleigh", "type": "asian", "typekind": "cui", "lat": 35.79202, "lng": -78.6264, "pr": 3, "lists": [["indytri", null]], "vb": "global", "dual": false}, {"name": "The Cortez Seafood + Cocktail", "hood": "Raleigh", "type": "seafood", "typekind": "cui", "lat": 35.767, "lng": -78.64836, "pr": 3, "lists": [["indytri", null]], "vb": "datenight", "dual": false}, {"name": "Crawford & Son", "hood": "Raleigh", "type": "newam", "typekind": "cui", "lat": 35.7892, "lng": -78.63464, "pr": 3, "lists": [["indytri", null], ["axistri", null]], "vb": "datenight", "dual": false}, {"name": "Garland", "hood": "Raleigh", "type": "asian", "typekind": "cui", "lat": 35.77843, "lng": -78.643, "pr": 2, "lists": [["indytri", null], ["jbtri", null]], "vb": "global", "dual": false}, {"name": "Gocciolina", "hood": "Durham", "type": "italian", "typekind": "cui", "lat": 36.00369, "lng": -78.91792, "pr": 3, "lists": [["indytri", null], ["indybot", null]], "vb": "italian", "dual": false}, {"name": "Lantern", "hood": "Chapel Hill", "type": "asian", "typekind": "cui", "lat": 35.92457, "lng": -79.0404, "pr": 4, "lists": [["indytri", null], ["jbtri", null]], "vb": "datenight", "dual": false}, {"name": "Mandolin", "hood": "Raleigh", "type": "southern", "typekind": "cui", "lat": 35.77063, "lng": -78.63944, "pr": 3, "lists": [["indytri", null], ["axistri", null]], "vb": "datenight", "dual": false}, {"name": "Mateo Bar de Tapas", "hood": "Durham", "type": "med", "typekind": "cui", "lat": 35.99793, "lng": -78.91724, "pr": 3, "lists": [["indytri", null], ["indybot", null], ["jbtri", null]], "vb": "datenight", "dual": false}, {"name": "Poole's Diner", "hood": "Raleigh", "type": "southern", "typekind": "cui", "lat": 35.78713, "lng": -78.6432, "pr": 3, "lists": [["indytri", null], ["jbtri", null]], "vb": "oldguard", "dual": false}, {"name": "Saltbox Seafood Joint", "hood": "Durham", "type": "seafood", "typekind": "cui", "lat": 35.98251, "lng": -78.9164, "pr": 2, "lists": [["indytri", null], ["axistri", null], ["indybot", null], ["jbtri", null]], "vb": "specialty", "dual": false}, {"name": "Mala Pata", "hood": "Raleigh", "type": "latin", "typekind": "cui", "lat": 35.77021, "lng": -78.63416, "pr": 3, "lists": [["axistri", null]], "vb": "global", "dual": false}, {"name": "Viceroy", "hood": "Durham", "type": "indian", "typekind": "cui", "lat": 36.00648, "lng": -78.9182, "pr": 2, "lists": [["axistri", null]], "vb": "global", "dual": false}, {"name": "Vin Rouge", "hood": "Durham", "type": "french", "typekind": "cui", "lat": 35.99805, "lng": -78.91536, "pr": 3, "lists": [["axistri", null]], "vb": "datenight", "dual": false}, {"name": "G.58", "hood": "Morrisville", "type": "asian", "typekind": "cui", "lat": 35.82641, "lng": -78.8076, "pr": 2, "lists": [["axistri", null]], "vb": "asian", "dual": false}, {"name": "Tamasha", "hood": "Raleigh", "type": "indian", "typekind": "cui", "lat": 35.7874, "lng": -78.64032, "pr": 2, "lists": [["axistri", null]], "vb": "global", "dual": false}, {"name": "Gringo A Go Go", "hood": "Raleigh", "type": "mexican", "typekind": "cui", "lat": 35.78632, "lng": -78.64712, "pr": 2, "lists": [["axistri", null]], "vb": "global", "dual": false}, {"name": "East End Bistrot", "hood": "Raleigh", "type": "french", "typekind": "cui", "lat": 35.79175, "lng": -78.62696, "pr": 3, "lists": [["axistri", null]], "vb": "datenight", "dual": false}, {"name": "Seraphine", "hood": "Durham", "type": "southern", "typekind": "cui", "lat": 36.00063, "lng": -78.88816, "pr": 3, "lists": [["axistri", null]], "vb": "datenight", "dual": false}, {"name": "Oakwood Pizza Box", "hood": "Raleigh", "type": "pizza", "typekind": "cui", "lat": 35.78368, "lng": -78.64468, "pr": 2, "lists": [["axistri", null]], "vb": "italian", "dual": false}, {"name": "Death & Taxes", "hood": "Raleigh", "type": "newam", "typekind": "cui", "lat": 35.77018, "lng": -78.63444, "pr": 4, "lists": [["axistri", null]], "vb": "datenight", "dual": false}, {"name": "Brewery Bhavana", "hood": "Raleigh", "type": "asian", "typekind": "cui", "lat": 35.77879, "lng": -78.6248, "pr": 3, "lists": [["axistri", null], ["jbtri", null]], "vb": "datenight", "dual": true}, {"name": "Pizzeria Mercato", "hood": "Carrboro", "type": "pizza", "typekind": "cui", "lat": 35.91088, "lng": -79.08986, "pr": 2, "lists": [["axistri", null]], "vb": "italian", "dual": false}, {"name": "St. Roch Fine Oysters", "hood": "Raleigh", "type": "seafood", "typekind": "cui", "lat": 35.78083, "lng": -78.64252, "pr": 3, "lists": [["axistri", null]], "vb": "datenight", "dual": false}, {"name": "Mothers & Sons", "hood": "Durham", "type": "italian", "typekind": "cui", "lat": 36.00096, "lng": -78.91288, "pr": 3, "lists": [["axistri", null]], "vb": "italian", "dual": false}, {"name": "Tesoro", "hood": "Carrboro", "type": "italian", "typekind": "cui", "lat": 35.91466, "lng": -79.06294, "pr": 3, "lists": [["axistri", null]], "vb": "italian", "dual": false}, {"name": "Figulina", "hood": "Raleigh", "type": "italian", "typekind": "cui", "lat": 35.79457, "lng": -78.65, "pr": 3, "lists": [["axistri", null]], "vb": "italian", "dual": false}, {"name": "Bombolo", "hood": "Chapel Hill", "type": "global", "typekind": "cui", "lat": 35.90519, "lng": -79.0612, "pr": 2, "lists": [["axistri", null]], "vb": "global", "dual": false}, {"name": "Ideal's Sandwich and Grocery", "hood": "Durham", "type": "deli", "typekind": "cui", "lat": 35.9829, "lng": -78.90724, "pr": 1, "lists": [["axistri", null]], "vb": "lunch", "dual": false}, {"name": "Herons", "hood": "Cary", "type": "newam", "typekind": "cui", "lat": 35.78439, "lng": -78.79714, "pr": 4, "lists": [["axistri", null]], "vb": "tasting", "dual": false}, {"name": "Standard Beer + Food", "hood": "Raleigh", "type": "newam", "typekind": "cui", "lat": 35.79073, "lng": -78.64268, "pr": 2, "lists": [["axistri", null]], "vb": "lunch", "dual": true}, {"name": "Little Bull", "hood": "Durham", "type": "mexican", "typekind": "cui", "lat": 35.99358, "lng": -78.9124, "pr": 2, "lists": [["axistri", null]], "vb": "global", "dual": false}, {"name": "Hawthorne & Wood", "hood": "Chapel Hill", "type": "newam", "typekind": "cui", "lat": 35.89991, "lng": -79.0512, "pr": 3, "lists": [["axistri", null]], "vb": "datenight", "dual": false}, {"name": "Nanas", "hood": "Durham", "type": "newam", "typekind": "cui", "lat": 36.00267, "lng": -78.88084, "pr": 3, "lists": [["axistri", null]], "vb": "oldguard", "dual": false}, {"name": "M Sushi", "hood": "Durham", "type": "japanese", "typekind": "cui", "lat": 35.98842, "lng": -78.88884, "pr": 4, "lists": [["axistri", null], ["indybot", null]], "vb": "tasting", "dual": false}, {"name": "Brodeto", "hood": "Raleigh", "type": "seafood", "typekind": "cui", "lat": 35.77711, "lng": -78.6334, "pr": 3, "lists": [["axistri", null]], "vb": "datenight", "dual": false}, {"name": "Ajja", "hood": "Raleigh", "type": "med", "typekind": "cui", "lat": 35.79445, "lng": -78.6348, "pr": 3, "lists": [["axistri", null]], "vb": "datenight", "dual": false}, {"name": "Stanbury", "hood": "Raleigh", "type": "newam", "typekind": "cui", "lat": 35.78284, "lng": -78.65096, "pr": 3, "lists": [["axistri", null]], "vb": "datenight", "dual": false}, {"name": "Isaac's Bagels", "hood": "Durham", "type": "bakery", "typekind": "cui", "lat": 35.99475, "lng": -78.88252, "pr": 1, "lists": [["indybot", null]], "vb": "lunch", "dual": false}, {"name": "Guglhupf", "hood": "Durham", "type": "bakery", "typekind": "cui", "lat": 36.00423, "lng": -78.90088, "pr": 2, "lists": [["indybot", null]], "vb": "brunch", "dual": false}, {"name": "The Q Shack", "hood": "Durham", "type": "bbq", "typekind": "cui", "lat": 36.00474, "lng": -78.88324, "pr": 2, "lists": [["indybot", null]], "vb": "specialty", "dual": false}, {"name": "Sunrise Biscuit Kitchen", "hood": "Chapel Hill", "type": "southern", "typekind": "cui", "lat": 35.91545, "lng": -79.06492, "pr": 1, "lists": [["indybot", null]], "vb": "brunch", "dual": false}, {"name": "Al's Burger Shack", "hood": "Chapel Hill", "type": "southern", "typekind": "cui", "lat": 35.91266, "lng": -79.03852, "pr": 1, "lists": [["indybot", null]], "vb": "lunch", "dual": false}, {"name": "Cosmic Cantina", "hood": "Durham", "type": "mexican", "typekind": "cui", "lat": 35.99904, "lng": -78.90892, "pr": 1, "lists": [["indybot", null]], "vb": "quick", "dual": false}, {"name": "Jade Palace", "hood": "Chapel Hill", "type": "asian", "typekind": "cui", "lat": 35.92619, "lng": -79.0664, "pr": 2, "lists": [["indybot", null]], "vb": "asian", "dual": false}, {"name": "Cocoa Cinnamon", "hood": "Durham", "type": "bakery", "typekind": "cui", "lat": 36.00498, "lng": -78.88132, "pr": 1, "lists": [["indybot", null]], "vb": "brunch", "dual": false}, {"name": "The Parlour", "hood": "Durham", "type": "bakery", "typekind": "cui", "lat": 35.98854, "lng": -78.88612, "pr": 1, "lists": [["indybot", null]], "vb": "brunch", "dual": false}, {"name": "Chirba Chirba", "hood": "Durham", "type": "asian", "typekind": "cui", "lat": 35.99523, "lng": -78.88928, "pr": 1, "lists": [["indybot", null]], "vb": "quick", "dual": false}, {"name": "Vimala's Curryblossom Cafe", "hood": "Chapel Hill", "type": "indian", "typekind": "cui", "lat": 35.90195, "lng": -79.07296, "pr": 2, "lists": [["indybot", null]], "vb": "global", "dual": false}, {"name": "Queeny's", "hood": "Durham", "type": "newam", "typekind": "cui", "lat": 36.00699, "lng": -78.88, "pr": 2, "lists": [["indybot", null]], "vb": "lunch", "dual": false}, {"name": "Mezcalito", "hood": "Durham", "type": "mexican", "typekind": "cui", "lat": 35.97909, "lng": -78.91248, "pr": 2, "lists": [["indybot", null]], "vb": "global", "dual": false}, {"name": "Wedgewood Cheese Bar", "hood": "Chapel Hill", "type": "med", "typekind": "cui", "lat": 35.92622, "lng": -79.06764, "pr": 2, "lists": [["indybot", null]], "vb": "datenight", "dual": false}, {"name": "Pizzeria Toro", "hood": "Durham", "type": "pizza", "typekind": "cui", "lat": 35.99127, "lng": -78.91764, "pr": 2, "lists": [["indybot", null]], "vb": "italian", "dual": false}, {"name": "Succotash", "hood": "Durham", "type": "southern", "typekind": "cui", "lat": 35.98815, "lng": -78.89088, "pr": 2, "lists": [["indybot", null]], "vb": "specialty", "dual": false}, {"name": "Thai Cafe", "hood": "Durham", "type": "asian", "typekind": "cui", "lat": 35.99601, "lng": -78.91204, "pr": 2, "lists": [["indybot", null]], "vb": "asian", "dual": false}, {"name": "Heavenly Buffaloes", "hood": "Durham", "type": "southern", "typekind": "cui", "lat": 35.98533, "lng": -78.90776, "pr": 1, "lists": [["indybot", null]], "vb": "quick", "dual": false}], "bars": [{"name": "Alley Twenty Six", "hood": "Durham", "type": "m", "typekind": "drink", "lat": 35.99265, "lng": -78.89504, "lists": [["indybtri", 1]], "vb": "mixo", "dual": false}, {"name": "Bar Virgile", "hood": "Durham", "type": "m", "typekind": "drink", "lat": 36.00294, "lng": -78.88256, "lists": [["indybtri", 2]], "vb": "mixo", "dual": false}, {"name": "The Crunkleton", "hood": "Chapel Hill", "type": "m", "typekind": "drink", "lat": 35.92511, "lng": -79.07264, "lists": [["indybtri", 3]], "vb": "mixo", "dual": false}, {"name": "Counting House", "hood": "Durham", "type": "m", "typekind": "drink", "lat": 35.99232, "lng": -78.88236, "lists": [["indybtri", 4]], "vb": "mixo", "dual": false}, {"name": "Foundation", "hood": "Raleigh", "type": "m", "typekind": "drink", "lat": 35.78884, "lng": -78.64668, "lists": [["indybtri", 5]], "vb": "mixo", "dual": false}, {"name": "Fox Liquor Bar", "hood": "Raleigh", "type": "m", "typekind": "drink", "lat": 35.76583, "lng": -78.63116, "lists": [["indybtri", 6]], "vb": "mixo", "dual": false}, {"name": "The Green Light", "hood": "Raleigh", "type": "m", "typekind": "drink", "lat": 35.79337, "lng": -78.65388, "lists": [["indybtri", 7]], "vb": "mixo", "dual": false}, {"name": "The Oak", "hood": "Raleigh", "type": "m", "typekind": "drink", "lat": 35.79265, "lng": -78.6502, "lists": [["indybtri", 8]], "vb": "mixo", "dual": false}, {"name": "The Roof at The Durham Hotel", "hood": "Durham", "type": "m", "typekind": "drink", "lat": 35.97975, "lng": -78.8838, "lists": [["indybtri", 9]], "vb": "vibey", "dual": false}, {"name": "Watts & Ward", "hood": "Raleigh", "type": "m", "typekind": "drink", "lat": 35.78545, "lng": -78.64524, "lists": [["indybtri", 10]], "vb": "vibey", "dual": false}, {"name": "Gussie's", "hood": "Raleigh", "type": "m", "typekind": "drink", "lat": 35.7856, "lng": -78.65608, "lists": [["ralmagbar", null]], "vb": "mixo", "dual": false}, {"name": "William & Company", "hood": "Raleigh", "type": "m", "typekind": "drink", "lat": 35.78992, "lng": -78.64236, "lists": [["ralmagbar", null]], "vb": "mixo", "dual": false}, {"name": "Mr. Henry", "hood": "Raleigh", "type": "m", "typekind": "drink", "lat": 35.79079, "lng": -78.64256, "lists": [["ralmagbar", null]], "vb": "vibey", "dual": false}, {"name": "The Bend", "hood": "Raleigh", "type": "b", "typekind": "drink", "lat": 35.78302, "lng": -78.65008, "lists": [["ralmagbar", null]], "vb": "vibey", "dual": false}, {"name": "Dram & Draught", "hood": "Raleigh", "type": "b", "typekind": "drink", "lat": 35.78557, "lng": -78.64, "lists": [["ralmagbar", null]], "vb": "dive", "dual": false}, {"name": "Stella's", "hood": "Raleigh", "type": "b", "typekind": "drink", "lat": 35.76931, "lng": -78.65428, "lists": [["ralmagbar", null]], "vb": "dive", "dual": false}, {"name": "Johnson Street Yacht Club", "hood": "Raleigh", "type": "b", "typekind": "drink", "lat": 35.77672, "lng": -78.64628, "lists": [["ralmagbar", null]], "vb": "dive", "dual": false}, {"name": "High Rail", "hood": "Raleigh", "type": "m", "typekind": "drink", "lat": 35.79394, "lng": -78.62816, "lists": [["ralmagbar", null]], "vb": "vibey", "dual": false}, {"name": "Urban Oak", "hood": "Raleigh", "type": "m", "typekind": "drink", "lat": 35.77186, "lng": -78.65492, "lists": [["ralmagbar", null]], "vb": "vibey", "dual": false}, {"name": "Sous Terre", "hood": "Raleigh", "type": "m", "typekind": "drink", "lat": 35.76532, "lng": -78.63692, "lists": [["ralmagbar", null]], "vb": "mixo", "dual": false}, {"name": "The Longleaf Lounge", "hood": "Raleigh", "type": "m", "typekind": "drink", "lat": 35.76751, "lng": -78.645, "lists": [["ralmagbar", null]], "vb": "vibey", "dual": false}, {"name": "State of Beer", "hood": "Raleigh", "type": "b", "typekind": "drink", "lat": 35.78767, "lng": -78.63888, "lists": [["ralmagbar", null]], "vb": "dive", "dual": false}, {"name": "Legends", "hood": "Raleigh", "type": "m", "typekind": "drink", "lat": 35.77099, "lng": -78.62332, "lists": [["ralmagbar", null]], "vb": "party", "dual": false}, {"name": "Trophy Brewing Co.", "hood": "Raleigh", "type": "b", "typekind": "drink", "lat": 35.77792, "lng": -78.62608, "lists": [["ralmagbar", null]], "vb": "vibey", "dual": false}, {"name": "Moon Room", "hood": "Raleigh", "type": "b", "typekind": "drink", "lat": 35.78638, "lng": -78.64612, "lists": [["ralmagbar", null]], "vb": "livemusic", "dual": false}, {"name": "The Hippo Wine Bar & Shop", "hood": "Raleigh", "type": "w", "typekind": "drink", "lat": 35.76601, "lng": -78.63444, "lists": [["ralmagbar", null]], "vb": "wine", "dual": false}, {"name": "Vita Vite", "hood": "Raleigh", "type": "w", "typekind": "drink", "lat": 35.76556, "lng": -78.64852, "lists": [["ralmagbar", null]], "vb": "wine", "dual": false}, {"name": "Madre", "hood": "Raleigh", "type": "m", "typekind": "drink", "lat": 35.78131, "lng": -78.63664, "lists": [["ralmagbar", null]], "vb": "vibey", "dual": false}, {"name": "Whiskey Kitchen", "hood": "Raleigh", "type": "m", "typekind": "drink", "lat": 35.78932, "lng": -78.63724, "lists": [["ralmagbar", null]], "vb": "vibey", "dual": false}, {"name": "My Way Tavern", "hood": "Raleigh", "type": "b", "typekind": "drink", "lat": 35.77192, "lng": -78.64676, "lists": [["ralmagbar", null]], "vb": "dive", "dual": false}, {"name": "SideBar", "hood": "Raleigh", "type": "b", "typekind": "drink", "lat": 35.77456, "lng": -78.63768, "lists": [["ralmagbar", null]], "vb": "dive", "dual": false}, {"name": "The Velvet Hippo", "hood": "Durham", "type": "m", "typekind": "drink", "lat": 36.00537, "lng": -78.91168, "lists": [["indybotb", null]], "vb": "mixo", "dual": false}, {"name": "Ponysaurus", "hood": "Durham", "type": "b", "typekind": "drink", "lat": 35.98476, "lng": -78.90208, "lists": [["indybotb", null]], "vb": "vibey", "dual": false}, {"name": "Beer Study", "hood": "Durham", "type": "b", "typekind": "drink", "lat": 36.00606, "lng": -78.90788, "lists": [["indybotb", null]], "vb": "dive", "dual": false}, {"name": "Glasshalfull", "hood": "Carrboro", "type": "w", "typekind": "drink", "lat": 35.90446, "lng": -79.05762, "lists": [["indybotb", null]], "vb": "wine", "dual": false}], "rlists": {"indytri": {"cls": "plate r-indytri", "mono": "IW", "tag": "INDY WEEK", "name": "INDY Week's Ten Best Restaurants in the Triangle", "year": "2026", "ranked": false, "starChip": false}, "axistri": {"cls": "plate r-axistri", "mono": "AX", "tag": "AXIOS", "name": "Axios Raleigh's 30 Best Restaurants in the Triangle", "year": "2025", "ranked": false, "starChip": false}, "indybot": {"cls": "plate r-indybot", "mono": "BoT", "tag": "BEST OF TRIANGLE", "name": "INDY Best of the Triangle (Readers' Choice)", "year": "2025", "ranked": false, "starChip": false}, "jbtri": {"cls": "plate r-jbtri", "mono": "JB", "tag": "BEARD", "name": "James Beard Award Winners & Nominees (Triangle)", "year": "2026", "ranked": false, "starChip": true}}, "blists": {"indybtri": {"cls": "b-indybtri", "mono": "IW", "tag": "INDY WEEK", "name": "INDY Week's Ten Best Cocktail Bars in the Triangle", "year": "2026", "ranked": true, "starChip": false}, "ralmagbar": {"cls": "b-ralmagbar", "mono": "RM", "tag": "RALEIGH MAG", "name": "Raleigh Magazine's Best Bars", "year": "2025", "ranked": false, "starChip": false}, "indybotb": {"cls": "b-indybotb", "mono": "BoT", "tag": "BEST OF TRIANGLE", "name": "INDY Best of the Triangle Bars (Readers' Choice)", "year": "2025", "ranked": false, "starChip": false}}}
+{
+ "restos": [
+  {
+   "name": "Bida Manda",
+   "hood": "Raleigh",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 35.79202,
+   "lng": -78.6264,
+   "pr": 3,
+   "lists": [
+    [
+     "indytri",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "The Cortez Seafood + Cocktail",
+   "hood": "Raleigh",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 35.767,
+   "lng": -78.64836,
+   "pr": 3,
+   "lists": [
+    [
+     "indytri",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Crawford & Son",
+   "hood": "Raleigh",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 35.7892,
+   "lng": -78.63464,
+   "pr": 3,
+   "lists": [
+    [
+     "indytri",
+     null
+    ],
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Garland",
+   "hood": "Raleigh",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 35.77843,
+   "lng": -78.643,
+   "pr": 2,
+   "lists": [
+    [
+     "indytri",
+     null
+    ],
+    [
+     "jbtri",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Gocciolina",
+   "hood": "Durham",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 36.00369,
+   "lng": -78.91792,
+   "pr": 3,
+   "lists": [
+    [
+     "indytri",
+     null
+    ],
+    [
+     "indybot",
+     null
+    ]
+   ],
+   "vb": "italian",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Lantern",
+   "hood": "Chapel Hill",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 35.92457,
+   "lng": -79.0404,
+   "pr": 4,
+   "lists": [
+    [
+     "indytri",
+     null
+    ],
+    [
+     "jbtri",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Mandolin",
+   "hood": "Raleigh",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 35.77063,
+   "lng": -78.63944,
+   "pr": 3,
+   "lists": [
+    [
+     "indytri",
+     null
+    ],
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Mateo Bar de Tapas",
+   "hood": "Durham",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 35.99793,
+   "lng": -78.91724,
+   "pr": 3,
+   "lists": [
+    [
+     "indytri",
+     null
+    ],
+    [
+     "indybot",
+     null
+    ],
+    [
+     "jbtri",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Poole's Diner",
+   "hood": "Raleigh",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 35.78713,
+   "lng": -78.6432,
+   "pr": 3,
+   "lists": [
+    [
+     "indytri",
+     null
+    ],
+    [
+     "jbtri",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "Saltbox Seafood Joint",
+   "hood": "Durham",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 35.98251,
+   "lng": -78.9164,
+   "pr": 2,
+   "lists": [
+    [
+     "indytri",
+     null
+    ],
+    [
+     "axistri",
+     null
+    ],
+    [
+     "indybot",
+     null
+    ],
+    [
+     "jbtri",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Mala Pata",
+   "hood": "Raleigh",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 35.77021,
+   "lng": -78.63416,
+   "pr": 3,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Viceroy",
+   "hood": "Durham",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 36.00648,
+   "lng": -78.9182,
+   "pr": 2,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Vin Rouge",
+   "hood": "Durham",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 35.99805,
+   "lng": -78.91536,
+   "pr": 3,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "G.58",
+   "hood": "Morrisville",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 35.82641,
+   "lng": -78.8076,
+   "pr": 2,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Tamasha",
+   "hood": "Raleigh",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 35.7874,
+   "lng": -78.64032,
+   "pr": 2,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Gringo A Go Go",
+   "hood": "Raleigh",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 35.78632,
+   "lng": -78.64712,
+   "pr": 2,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "East End Bistrot",
+   "hood": "Raleigh",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 35.79175,
+   "lng": -78.62696,
+   "pr": 3,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Seraphine",
+   "hood": "Durham",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 36.00063,
+   "lng": -78.88816,
+   "pr": 3,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Oakwood Pizza Box",
+   "hood": "Raleigh",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 35.78368,
+   "lng": -78.64468,
+   "pr": 2,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "italian",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Death & Taxes",
+   "hood": "Raleigh",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 35.77018,
+   "lng": -78.63444,
+   "pr": 4,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Brewery Bhavana",
+   "hood": "Raleigh",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 35.77879,
+   "lng": -78.6248,
+   "pr": 3,
+   "lists": [
+    [
+     "axistri",
+     null
+    ],
+    [
+     "jbtri",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": true,
+   "vg": 1
+  },
+  {
+   "name": "Pizzeria Mercato",
+   "hood": "Carrboro",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 35.91088,
+   "lng": -79.08986,
+   "pr": 2,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "italian",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "St. Roch Fine Oysters",
+   "hood": "Raleigh",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 35.78083,
+   "lng": -78.64252,
+   "pr": 3,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Mothers & Sons",
+   "hood": "Durham",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 36.00096,
+   "lng": -78.91288,
+   "pr": 3,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "italian",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Tesoro",
+   "hood": "Carrboro",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 35.91466,
+   "lng": -79.06294,
+   "pr": 3,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "italian",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Figulina",
+   "hood": "Raleigh",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 35.79457,
+   "lng": -78.65,
+   "pr": 3,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "italian",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Bombolo",
+   "hood": "Chapel Hill",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 35.90519,
+   "lng": -79.0612,
+   "pr": 2,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Ideal's Sandwich and Grocery",
+   "hood": "Durham",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 35.9829,
+   "lng": -78.90724,
+   "pr": 1,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "lunch",
+   "dual": false
+  },
+  {
+   "name": "Herons",
+   "hood": "Cary",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 35.78439,
+   "lng": -78.79714,
+   "pr": 4,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Standard Beer + Food",
+   "hood": "Raleigh",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 35.79073,
+   "lng": -78.64268,
+   "pr": 2,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "lunch",
+   "dual": true
+  },
+  {
+   "name": "Little Bull",
+   "hood": "Durham",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 35.99358,
+   "lng": -78.9124,
+   "pr": 2,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Hawthorne & Wood",
+   "hood": "Chapel Hill",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 35.89991,
+   "lng": -79.0512,
+   "pr": 3,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Nanas",
+   "hood": "Durham",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 36.00267,
+   "lng": -78.88084,
+   "pr": 3,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "oldguard",
+   "dual": false
+  },
+  {
+   "name": "M Sushi",
+   "hood": "Durham",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 35.98842,
+   "lng": -78.88884,
+   "pr": 4,
+   "lists": [
+    [
+     "axistri",
+     null
+    ],
+    [
+     "indybot",
+     null
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Brodeto",
+   "hood": "Raleigh",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 35.77711,
+   "lng": -78.6334,
+   "pr": 3,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Ajja",
+   "hood": "Raleigh",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 35.79445,
+   "lng": -78.6348,
+   "pr": 3,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Stanbury",
+   "hood": "Raleigh",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 35.78284,
+   "lng": -78.65096,
+   "pr": 3,
+   "lists": [
+    [
+     "axistri",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Isaac's Bagels",
+   "hood": "Durham",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 35.99475,
+   "lng": -78.88252,
+   "pr": 1,
+   "lists": [
+    [
+     "indybot",
+     null
+    ]
+   ],
+   "vb": "lunch",
+   "dual": false
+  },
+  {
+   "name": "Guglhupf",
+   "hood": "Durham",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 36.00423,
+   "lng": -78.90088,
+   "pr": 2,
+   "lists": [
+    [
+     "indybot",
+     null
+    ]
+   ],
+   "vb": "brunch",
+   "dual": false
+  },
+  {
+   "name": "The Q Shack",
+   "hood": "Durham",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 36.00474,
+   "lng": -78.88324,
+   "pr": 2,
+   "lists": [
+    [
+     "indybot",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Sunrise Biscuit Kitchen",
+   "hood": "Chapel Hill",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 35.91545,
+   "lng": -79.06492,
+   "pr": 1,
+   "lists": [
+    [
+     "indybot",
+     null
+    ]
+   ],
+   "vb": "brunch",
+   "dual": false
+  },
+  {
+   "name": "Al's Burger Shack",
+   "hood": "Chapel Hill",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 35.91266,
+   "lng": -79.03852,
+   "pr": 1,
+   "lists": [
+    [
+     "indybot",
+     null
+    ]
+   ],
+   "vb": "lunch",
+   "dual": false
+  },
+  {
+   "name": "Cosmic Cantina",
+   "hood": "Durham",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 35.99904,
+   "lng": -78.90892,
+   "pr": 1,
+   "lists": [
+    [
+     "indybot",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Jade Palace",
+   "hood": "Chapel Hill",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 35.92619,
+   "lng": -79.0664,
+   "pr": 2,
+   "lists": [
+    [
+     "indybot",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Cocoa Cinnamon",
+   "hood": "Durham",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 36.00498,
+   "lng": -78.88132,
+   "pr": 1,
+   "lists": [
+    [
+     "indybot",
+     null
+    ]
+   ],
+   "vb": "brunch",
+   "dual": false
+  },
+  {
+   "name": "The Parlour",
+   "hood": "Durham",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 35.98854,
+   "lng": -78.88612,
+   "pr": 1,
+   "lists": [
+    [
+     "indybot",
+     null
+    ]
+   ],
+   "vb": "brunch",
+   "dual": false
+  },
+  {
+   "name": "Chirba Chirba",
+   "hood": "Durham",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 35.99523,
+   "lng": -78.88928,
+   "pr": 1,
+   "lists": [
+    [
+     "indybot",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Vimala's Curryblossom Cafe",
+   "hood": "Chapel Hill",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 35.90195,
+   "lng": -79.07296,
+   "pr": 2,
+   "lists": [
+    [
+     "indybot",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Queeny's",
+   "hood": "Durham",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 36.00699,
+   "lng": -78.88,
+   "pr": 2,
+   "lists": [
+    [
+     "indybot",
+     null
+    ]
+   ],
+   "vb": "lunch",
+   "dual": false
+  },
+  {
+   "name": "Mezcalito",
+   "hood": "Durham",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 35.97909,
+   "lng": -78.91248,
+   "pr": 2,
+   "lists": [
+    [
+     "indybot",
+     null
+    ]
+   ],
+   "vb": "global",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Wedgewood Cheese Bar",
+   "hood": "Chapel Hill",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 35.92622,
+   "lng": -79.06764,
+   "pr": 2,
+   "lists": [
+    [
+     "indybot",
+     null
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Pizzeria Toro",
+   "hood": "Durham",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 35.99127,
+   "lng": -78.91764,
+   "pr": 2,
+   "lists": [
+    [
+     "indybot",
+     null
+    ]
+   ],
+   "vb": "italian",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Succotash",
+   "hood": "Durham",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 35.98815,
+   "lng": -78.89088,
+   "pr": 2,
+   "lists": [
+    [
+     "indybot",
+     null
+    ]
+   ],
+   "vb": "specialty",
+   "dual": false
+  },
+  {
+   "name": "Thai Cafe",
+   "hood": "Durham",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 35.99601,
+   "lng": -78.91204,
+   "pr": 2,
+   "lists": [
+    [
+     "indybot",
+     null
+    ]
+   ],
+   "vb": "asian",
+   "dual": false,
+   "vg": 1
+  },
+  {
+   "name": "Heavenly Buffaloes",
+   "hood": "Durham",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 35.98533,
+   "lng": -78.90776,
+   "pr": 1,
+   "lists": [
+    [
+     "indybot",
+     null
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  }
+ ],
+ "bars": [
+  {
+   "name": "Alley Twenty Six",
+   "hood": "Durham",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.99265,
+   "lng": -78.89504,
+   "lists": [
+    [
+     "indybtri",
+     1
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Bar Virgile",
+   "hood": "Durham",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.00294,
+   "lng": -78.88256,
+   "lists": [
+    [
+     "indybtri",
+     2
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "The Crunkleton",
+   "hood": "Chapel Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.92511,
+   "lng": -79.07264,
+   "lists": [
+    [
+     "indybtri",
+     3
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Counting House",
+   "hood": "Durham",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.99232,
+   "lng": -78.88236,
+   "lists": [
+    [
+     "indybtri",
+     4
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Foundation",
+   "hood": "Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.78884,
+   "lng": -78.64668,
+   "lists": [
+    [
+     "indybtri",
+     5
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Fox Liquor Bar",
+   "hood": "Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.76583,
+   "lng": -78.63116,
+   "lists": [
+    [
+     "indybtri",
+     6
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "The Green Light",
+   "hood": "Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.79337,
+   "lng": -78.65388,
+   "lists": [
+    [
+     "indybtri",
+     7
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "The Oak",
+   "hood": "Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.79265,
+   "lng": -78.6502,
+   "lists": [
+    [
+     "indybtri",
+     8
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "The Roof at The Durham Hotel",
+   "hood": "Durham",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.97975,
+   "lng": -78.8838,
+   "lists": [
+    [
+     "indybtri",
+     9
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Watts & Ward",
+   "hood": "Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.78545,
+   "lng": -78.64524,
+   "lists": [
+    [
+     "indybtri",
+     10
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Gussie's",
+   "hood": "Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.7856,
+   "lng": -78.65608,
+   "lists": [
+    [
+     "ralmagbar",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "William & Company",
+   "hood": "Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.78992,
+   "lng": -78.64236,
+   "lists": [
+    [
+     "ralmagbar",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Mr. Henry",
+   "hood": "Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.79079,
+   "lng": -78.64256,
+   "lists": [
+    [
+     "ralmagbar",
+     null
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "The Bend",
+   "hood": "Raleigh",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 35.78302,
+   "lng": -78.65008,
+   "lists": [
+    [
+     "ralmagbar",
+     null
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Dram & Draught",
+   "hood": "Raleigh",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 35.78557,
+   "lng": -78.64,
+   "lists": [
+    [
+     "ralmagbar",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Stella's",
+   "hood": "Raleigh",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 35.76931,
+   "lng": -78.65428,
+   "lists": [
+    [
+     "ralmagbar",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Johnson Street Yacht Club",
+   "hood": "Raleigh",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 35.77672,
+   "lng": -78.64628,
+   "lists": [
+    [
+     "ralmagbar",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "High Rail",
+   "hood": "Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.79394,
+   "lng": -78.62816,
+   "lists": [
+    [
+     "ralmagbar",
+     null
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Urban Oak",
+   "hood": "Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.77186,
+   "lng": -78.65492,
+   "lists": [
+    [
+     "ralmagbar",
+     null
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Sous Terre",
+   "hood": "Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.76532,
+   "lng": -78.63692,
+   "lists": [
+    [
+     "ralmagbar",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "The Longleaf Lounge",
+   "hood": "Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.76751,
+   "lng": -78.645,
+   "lists": [
+    [
+     "ralmagbar",
+     null
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "State of Beer",
+   "hood": "Raleigh",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 35.78767,
+   "lng": -78.63888,
+   "lists": [
+    [
+     "ralmagbar",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Legends",
+   "hood": "Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.77099,
+   "lng": -78.62332,
+   "lists": [
+    [
+     "ralmagbar",
+     null
+    ]
+   ],
+   "vb": "party",
+   "dual": false
+  },
+  {
+   "name": "Trophy Brewing Co.",
+   "hood": "Raleigh",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 35.77792,
+   "lng": -78.62608,
+   "lists": [
+    [
+     "ralmagbar",
+     null
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Moon Room",
+   "hood": "Raleigh",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 35.78638,
+   "lng": -78.64612,
+   "lists": [
+    [
+     "ralmagbar",
+     null
+    ]
+   ],
+   "vb": "livemusic",
+   "dual": false
+  },
+  {
+   "name": "The Hippo Wine Bar & Shop",
+   "hood": "Raleigh",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 35.76601,
+   "lng": -78.63444,
+   "lists": [
+    [
+     "ralmagbar",
+     null
+    ]
+   ],
+   "vb": "wine",
+   "dual": false
+  },
+  {
+   "name": "Vita Vite",
+   "hood": "Raleigh",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 35.76556,
+   "lng": -78.64852,
+   "lists": [
+    [
+     "ralmagbar",
+     null
+    ]
+   ],
+   "vb": "wine",
+   "dual": false
+  },
+  {
+   "name": "Madre",
+   "hood": "Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.78131,
+   "lng": -78.63664,
+   "lists": [
+    [
+     "ralmagbar",
+     null
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Whiskey Kitchen",
+   "hood": "Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.78932,
+   "lng": -78.63724,
+   "lists": [
+    [
+     "ralmagbar",
+     null
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "My Way Tavern",
+   "hood": "Raleigh",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 35.77192,
+   "lng": -78.64676,
+   "lists": [
+    [
+     "ralmagbar",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "SideBar",
+   "hood": "Raleigh",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 35.77456,
+   "lng": -78.63768,
+   "lists": [
+    [
+     "ralmagbar",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "The Velvet Hippo",
+   "hood": "Durham",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.00537,
+   "lng": -78.91168,
+   "lists": [
+    [
+     "indybotb",
+     null
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Ponysaurus",
+   "hood": "Durham",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 35.98476,
+   "lng": -78.90208,
+   "lists": [
+    [
+     "indybotb",
+     null
+    ]
+   ],
+   "vb": "vibey",
+   "dual": false
+  },
+  {
+   "name": "Beer Study",
+   "hood": "Durham",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 36.00606,
+   "lng": -78.90788,
+   "lists": [
+    [
+     "indybotb",
+     null
+    ]
+   ],
+   "vb": "dive",
+   "dual": false
+  },
+  {
+   "name": "Glasshalfull",
+   "hood": "Carrboro",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 35.90446,
+   "lng": -79.05762,
+   "lists": [
+    [
+     "indybotb",
+     null
+    ]
+   ],
+   "vb": "wine",
+   "dual": false
+  }
+ ],
+ "rlists": {
+  "indytri": {
+   "cls": "plate r-indytri",
+   "mono": "IW",
+   "tag": "INDY WEEK",
+   "name": "INDY Week's Ten Best Restaurants in the Triangle",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "axistri": {
+   "cls": "plate r-axistri",
+   "mono": "AX",
+   "tag": "AXIOS",
+   "name": "Axios Raleigh's 30 Best Restaurants in the Triangle",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "indybot": {
+   "cls": "plate r-indybot",
+   "mono": "BoT",
+   "tag": "BEST OF TRIANGLE",
+   "name": "INDY Best of the Triangle (Readers' Choice)",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "jbtri": {
+   "cls": "plate r-jbtri",
+   "mono": "JB",
+   "tag": "BEARD",
+   "name": "James Beard Award Winners & Nominees (Triangle)",
+   "year": "2026",
+   "ranked": false,
+   "starChip": true
+  }
+ },
+ "blists": {
+  "indybtri": {
+   "cls": "b-indybtri",
+   "mono": "IW",
+   "tag": "INDY WEEK",
+   "name": "INDY Week's Ten Best Cocktail Bars in the Triangle",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "ralmagbar": {
+   "cls": "b-ralmagbar",
+   "mono": "RM",
+   "tag": "RALEIGH MAG",
+   "name": "Raleigh Magazine's Best Bars",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "indybotb": {
+   "cls": "b-indybotb",
+   "mono": "BoT",
+   "tag": "BEST OF TRIANGLE",
+   "name": "INDY Best of the Triangle Bars (Readers' Choice)",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  }
+ }
+}
