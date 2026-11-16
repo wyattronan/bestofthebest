@@ -573,6 +573,10 @@
     [
      "nytaus",
      null
+    ],
+    [
+     "fwgt",
+     3
     ]
    ],
    "vb": "global",
@@ -3275,6 +3279,15 @@
    "name": "Texas Monthly's 10 Best New Restaurants (Austin)",
    "year": "2026",
    "ranked": false,
+   "starChip": false
+  },
+  "fwgt": {
+   "cls": "plate r-fwgt",
+   "mono": "F&W",
+   "tag": "FOOD & WINE",
+   "name": "Food & Wine's Top 10 US Restaurants 2026",
+   "year": "2026",
+   "ranked": true,
    "starChip": false
   }
  },

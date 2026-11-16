@@ -88,6 +88,10 @@
     [
      "chimag50",
      15
+    ],
+    [
+     "na50",
+     31
     ]
    ],
    "dual": false,
@@ -344,6 +348,10 @@
     [
      "chimag50",
      6
+    ],
+    [
+     "na50",
+     4
     ]
    ],
    "dual": false,
@@ -5176,6 +5184,15 @@
    "name": "NYT 50 Best Restaurants in America",
    "year": "2025",
    "ranked": false,
+   "starChip": false
+  },
+  "na50": {
+   "cls": "plate r-na50",
+   "mono": "N50",
+   "tag": "50 BEST",
+   "name": "North America's 50 Best Restaurants 2025",
+   "year": "2025",
+   "ranked": true,
    "starChip": false
   }
  },

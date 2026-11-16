@@ -38,6 +38,10 @@
     [
      "sfchron100",
      18
+    ],
+    [
+     "na50",
+     48
     ]
    ],
    "dual": false,
@@ -77,6 +81,10 @@
     [
      "sfchron100",
      100
+    ],
+    [
+     "na50",
+     25
     ]
    ],
    "dual": false,
@@ -288,6 +296,10 @@
     [
      "sfchron100",
      26
+    ],
+    [
+     "na50",
+     14
     ]
    ],
    "dual": false,
@@ -391,6 +403,10 @@
     [
      "sfchron100",
      47
+    ],
+    [
+     "fwgt",
+     10
     ]
    ],
    "dual": false,
@@ -587,6 +603,10 @@
     [
      "sfchron100",
      29
+    ],
+    [
+     "na50",
+     46
     ]
    ],
    "dual": false,
@@ -617,6 +637,10 @@
     [
      "sfchron100",
      17
+    ],
+    [
+     "na50",
+     13
     ]
    ],
    "dual": false,
@@ -854,6 +878,10 @@
     [
      "sfchron100",
      83
+    ],
+    [
+     "na50",
+     21
     ]
    ],
    "dual": false,
@@ -5903,6 +5931,24 @@
    "mono": "SC",
    "tag": "SF CHRON",
    "name": "San Francisco Chronicle's Top 100 Bay Area Restaurants",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "na50": {
+   "cls": "plate r-na50",
+   "mono": "N50",
+   "tag": "50 BEST",
+   "name": "North America's 50 Best Restaurants 2025",
+   "year": "2025",
+   "ranked": true,
+   "starChip": false
+  },
+  "fwgt": {
+   "cls": "plate r-fwgt",
+   "mono": "F&W",
+   "tag": "FOOD & WINE",
+   "name": "Food & Wine's Top 10 US Restaurants 2026",
    "year": "2026",
    "ranked": true,
    "starChip": false

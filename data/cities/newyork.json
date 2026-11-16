@@ -86,6 +86,10 @@
     [
      "nyt100ny",
      21
+    ],
+    [
+     "na50",
+     9
     ]
    ],
    "dual": false,
@@ -124,6 +128,10 @@
     [
      "nyt100ny",
      7
+    ],
+    [
+     "na50",
+     1
     ]
    ],
    "dual": false,
@@ -201,6 +209,10 @@
     [
      "nyt100ny",
      20
+    ],
+    [
+     "na50",
+     15
     ]
    ],
    "dual": true,
@@ -235,6 +247,10 @@
     [
      "nyt100ny",
      16
+    ],
+    [
+     "na50",
+     24
     ]
    ],
    "dual": false,
@@ -265,6 +281,10 @@
     [
      "beli25ny",
      5
+    ],
+    [
+     "na50",
+     38
     ]
    ],
    "dual": false,
@@ -295,6 +315,10 @@
     [
      "beli25ny",
      24
+    ],
+    [
+     "na50",
+     10
     ]
    ],
    "dual": false,
@@ -329,6 +353,10 @@
     [
      "nyt100ny",
      9
+    ],
+    [
+     "fwgt",
+     7
     ]
    ],
    "dual": false,
@@ -422,6 +450,10 @@
     ],
     [
      "nyt100ny",
+     1
+    ],
+    [
+     "fwgt",
      1
     ]
    ],
@@ -549,6 +581,10 @@
     [
      "nyt100ny",
      13
+    ],
+    [
+     "na50",
+     18
     ]
    ],
    "dual": false,
@@ -841,6 +877,10 @@
     [
      "nyt100ny",
      37
+    ],
+    [
+     "na50",
+     36
     ]
    ],
    "dual": false,
@@ -987,6 +1027,10 @@
     [
      "nyt100ny",
      41
+    ],
+    [
+     "na50",
+     35
     ]
    ],
    "dual": false,
@@ -1110,6 +1154,10 @@
     [
      "nyt100ny",
      35
+    ],
+    [
+     "na50",
+     40
     ]
    ],
    "dual": true,
@@ -1867,6 +1915,10 @@
     [
      "cnt30ny",
      null
+    ],
+    [
+     "na50",
+     39
     ]
    ],
    "dual": false,
@@ -2952,6 +3004,10 @@
     [
      "nyt100ny",
      14
+    ],
+    [
+     "na50",
+     23
     ]
    ],
    "dual": false,
@@ -4040,6 +4096,10 @@
     [
      "nyt100ny",
      43
+    ],
+    [
+     "na50",
+     33
     ]
    ],
    "dual": false,
@@ -8088,6 +8148,24 @@
    "mono": "NYT",
    "tag": "NYT 100",
    "name": "The New York Times' 100 Best Restaurants in NYC",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "na50": {
+   "cls": "plate r-na50",
+   "mono": "N50",
+   "tag": "50 BEST",
+   "name": "North America's 50 Best Restaurants 2025",
+   "year": "2025",
+   "ranked": true,
+   "starChip": false
+  },
+  "fwgt": {
+   "cls": "plate r-fwgt",
+   "mono": "F&W",
+   "tag": "FOOD & WINE",
+   "name": "Food & Wine's Top 10 US Restaurants 2026",
    "year": "2026",
    "ranked": true,
    "starChip": false

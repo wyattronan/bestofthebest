@@ -50,6 +50,10 @@
     [
      "latimes101",
      2
+    ],
+    [
+     "na50",
+     26
     ]
    ],
    "dual": true,
@@ -151,6 +155,10 @@
     [
      "latimes101",
      3
+    ],
+    [
+     "na50",
+     42
     ]
    ],
    "dual": false,
@@ -197,6 +205,10 @@
     [
      "latimes101",
      8
+    ],
+    [
+     "na50",
+     47
     ]
    ],
    "dual": false,
@@ -546,6 +558,10 @@
     [
      "latimes101",
      7
+    ],
+    [
+     "fwgt",
+     6
     ]
    ],
    "dual": false,
@@ -6818,6 +6834,24 @@
    "mono": "101",
    "tag": "LA TIMES",
    "name": "The Los Angeles Times' 101 Best Restaurants",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "na50": {
+   "cls": "plate r-na50",
+   "mono": "N50",
+   "tag": "50 BEST",
+   "name": "North America's 50 Best Restaurants 2025",
+   "year": "2025",
+   "ranked": true,
+   "starChip": false
+  },
+  "fwgt": {
+   "cls": "plate r-fwgt",
+   "mono": "F&W",
+   "tag": "FOOD & WINE",
+   "name": "Food & Wine's Top 10 US Restaurants 2026",
    "year": "2026",
    "ranked": true,
    "starChip": false

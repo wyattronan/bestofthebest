@@ -56,6 +56,10 @@
     [
      "washdc100",
      1
+    ],
+    [
+     "na50",
+     34
     ]
    ],
    "dual": false,
@@ -99,6 +103,14 @@
     [
      "washdc100",
      8
+    ],
+    [
+     "na50",
+     37
+    ],
+    [
+     "fwgt",
+     4
     ]
    ],
    "dual": false,
@@ -217,6 +229,10 @@
     [
      "washdc100",
      3
+    ],
+    [
+     "na50",
+     17
     ]
    ],
    "dual": false,
@@ -4714,6 +4730,24 @@
    "mono": "W100",
    "tag": "WASHINGTONIAN",
    "name": "Washingtonian's 100 Very Best Restaurants",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false
+  },
+  "na50": {
+   "cls": "plate r-na50",
+   "mono": "N50",
+   "tag": "50 BEST",
+   "name": "North America's 50 Best Restaurants 2025",
+   "year": "2025",
+   "ranked": true,
+   "starChip": false
+  },
+  "fwgt": {
+   "cls": "plate r-fwgt",
+   "mono": "F&W",
+   "tag": "FOOD & WINE",
+   "name": "Food & Wine's Top 10 US Restaurants 2026",
    "year": "2026",
    "ranked": true,
    "starChip": false
