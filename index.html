@@ -1494,8 +1494,10 @@ function listTags(v){
   const L=lists();
   return v.lists.map(([k,rk])=>{
     const def=L[k]; if(!def) return "";
-    const rkTxt = rk!=null ? `<span class="rk">${def.starChip?("★".repeat(Math.min(rk,3))):("#"+rk)}</span> ` : "";
-    return `<button class="ltag ${def.starChip?"lstar":""}" data-pub="${k}" aria-label="${def.name}">${rkTxt}${def.mono}</button>`;
+    let inner;
+    if(def.starChip && def.mono==="★"){ inner = "★".repeat(rk!=null?Math.min(rk,3):1); }
+    else { const rkTxt = rk!=null ? `<span class="rk">${def.starChip?("★".repeat(Math.min(rk,3))):("#"+rk)}</span> ` : ""; inner = rkTxt + def.mono; }
+    return `<button class="ltag ${def.starChip?"lstar":""}" data-pub="${k}" aria-label="${def.name}">${inner}</button>`;
   }).join("");
 }
 function mapsURL(v){ return "https://www.google.com/maps/search/?api=1&query="+encodeURIComponent(v.name+" "+state.cityName); }
