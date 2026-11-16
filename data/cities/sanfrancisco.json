@@ -24,10 +24,6 @@
      20
     ],
     [
-     "beli14sf",
-     7
-    ],
-    [
      "eater38sf",
      null
     ],
@@ -72,10 +68,6 @@
     ],
     [
      "michsf",
-     2
-    ],
-    [
-     "beli14sf",
      2
     ],
     [
@@ -160,16 +152,16 @@
      1
     ],
     [
-     "beli14sf",
-     13
-    ],
-    [
      "eater38sf",
      null
     ],
     [
      "infat25sf",
      4
+    ],
+    [
+     "beli",
+     null
     ]
    ],
    "dual": false,
@@ -196,10 +188,6 @@
     [
      "michsf",
      1
-    ],
-    [
-     "beli14sf",
-     8
     ],
     [
      "infat25sf",
@@ -296,10 +284,6 @@
     [
      "michsf",
      3
-    ],
-    [
-     "beli14sf",
-     1
     ],
     [
      "eater38sf",
@@ -617,10 +601,6 @@
      3
     ],
     [
-     "beli14sf",
-     12
-    ],
-    [
      "sfchron100",
      29
     ],
@@ -653,10 +633,6 @@
     [
      "chron25sf",
      17
-    ],
-    [
-     "beli14sf",
-     6
     ],
     [
      "sfchron100",
@@ -758,10 +734,6 @@
      null
     ],
     [
-     "beli14sf",
-     14
-    ],
-    [
      "sfchron100",
      51
     ],
@@ -822,8 +794,8 @@
      2
     ],
     [
-     "beli14sf",
-     10
+     "beli",
+     null
     ]
    ],
    "dual": false,
@@ -906,10 +878,6 @@
     [
      "michsf",
      2
-    ],
-    [
-     "beli14sf",
-     4
     ],
     [
      "sfchron100",
@@ -1100,8 +1068,8 @@
      2
     ],
     [
-     "beli14sf",
-     11
+     "beli",
+     null
     ]
    ],
    "dual": false,
@@ -2072,24 +2040,6 @@
    "vb": "datenight"
   },
   {
-   "name": "Fuhuihua",
-   "hood": "Mission",
-   "type": "asian",
-   "typekind": "cui",
-   "lat": 37.7527,
-   "lng": -122.4084,
-   "vg": 1,
-   "pr": 2,
-   "lists": [
-    [
-     "beli14sf",
-     5
-    ]
-   ],
-   "dual": false,
-   "vb": "asian"
-  },
-  {
    "name": "Golden Boy Pizza",
    "hood": "North Beach",
    "type": "pizza",
@@ -2331,10 +2281,6 @@
    "note": "Thai",
    "pr": 2,
    "lists": [
-    [
-     "beli14sf",
-     3
-    ],
     [
      "beli",
      7
@@ -2646,10 +2592,6 @@
    "note": "Filipino-Japanese",
    "pr": 3,
    "lists": [
-    [
-     "beli14sf",
-     9
-    ],
     [
      "beli",
      4
@@ -3490,6 +3432,10 @@
     [
      "sfchron100",
      10
+    ],
+    [
+     "beli",
+     null
     ]
    ],
    "vb": "datenight",
@@ -6097,7 +6043,7 @@
   },
   "cnt38sf": {
    "cls": "plate r-cnt33",
-   "mono": "38",
+   "mono": "CN",
    "tag": "CN TRAV",
    "name": "CN Traveler Best 38 Restaurants in SF",
    "year": "2026",
@@ -6122,18 +6068,9 @@
    "ranked": true,
    "starChip": false
   },
-  "beli14sf": {
-   "cls": "plate r-beli25",
-   "mono": "B14",
-   "tag": "BELI",
-   "name": "Beli's 14 Best Restaurants in SF",
-   "year": "2025",
-   "ranked": true,
-   "starChip": false
-  },
   "eater38sf": {
    "cls": "plate r-eater38",
-   "mono": "E38",
+   "mono": "E",
    "tag": "EATER",
    "name": "Eater Best 38 Restaurants in SF",
    "year": "2026",
@@ -6151,7 +6088,7 @@
   },
   "infat25sf": {
    "cls": "plate r-infat25",
-   "mono": "25",
+   "mono": "IN",
    "tag": "INFAT",
    "name": "The Infatuation's Top 25 Best Restaurants in SF",
    "year": "2026",
@@ -6169,7 +6106,7 @@
   },
   "nyt50sf": {
    "cls": "plate r-nyt50",
-   "mono": "50",
+   "mono": "NYT",
    "tag": "NYT USA",
    "name": "NYT 50 Best Restaurants in America",
    "year": "2025",
@@ -6187,7 +6124,7 @@
   },
   "na50": {
    "cls": "plate r-na50",
-   "mono": "N50",
+   "mono": "NAB",
    "tag": "50 BEST",
    "name": "North America's 50 Best Restaurants 2025",
    "year": "2025",
@@ -6225,7 +6162,7 @@
   },
   "cnt22bsf": {
    "cls": "b-cnt40",
-   "mono": "22",
+   "mono": "CN",
    "tag": "CN TRAV",
    "name": "CN Traveller's Best 22 Bars in SF",
    "year": "2025",
@@ -6270,7 +6207,7 @@
   },
   "eater15bsf": {
    "cls": "b-eater",
-   "mono": "E15",
+   "mono": "E",
    "tag": "CKTL",
    "name": "Eater 15 Best Cocktail Bars in SF",
    "year": "2026",
@@ -6297,7 +6234,7 @@
   },
   "na50bars": {
    "cls": "b-na50bars",
-   "mono": "50",
+   "mono": "NAB",
    "tag": "50 BEST",
    "name": "North America's 50 Best Bars",
    "year": "2024",

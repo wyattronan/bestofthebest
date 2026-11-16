@@ -50,10 +50,6 @@
      null
     ],
     [
-     "beli25dc",
-     null
-    ],
-    [
      "washdc100",
      1
     ],
@@ -94,10 +90,6 @@
     ],
     [
      "eater38dc",
-     null
-    ],
-    [
-     "beli25dc",
      null
     ],
     [
@@ -151,10 +143,6 @@
      null
     ],
     [
-     "beli25dc",
-     null
-    ],
-    [
      "washdc100",
      13
     ],
@@ -190,10 +178,6 @@
     ],
     [
      "eater38dc",
-     null
-    ],
-    [
-     "beli25dc",
      null
     ],
     [
@@ -277,10 +261,6 @@
      null
     ],
     [
-     "beli25dc",
-     null
-    ],
-    [
      "washdc100",
      16
     ],
@@ -313,10 +293,6 @@
     [
      "washdc",
      23
-    ],
-    [
-     "beli25dc",
-     null
     ],
     [
      "wyattRdc",
@@ -354,10 +330,6 @@
      2
     ],
     [
-     "beli25dc",
-     null
-    ],
-    [
      "washdc100",
      2
     ],
@@ -385,10 +357,6 @@
     [
      "washdc",
      4
-    ],
-    [
-     "beli25dc",
-     null
     ],
     [
      "washdc100",
@@ -419,10 +387,6 @@
     [
      "washdc",
      9
-    ],
-    [
-     "beli25dc",
-     null
     ],
     [
      "nyt50dc",
@@ -523,10 +487,6 @@
      null
     ],
     [
-     "beli25dc",
-     null
-    ],
-    [
      "wyattRdc",
      13
     ],
@@ -559,10 +519,6 @@
     [
      "washdc",
      18
-    ],
-    [
-     "beli25dc",
-     null
     ],
     [
      "wyattRdc",
@@ -634,10 +590,6 @@
      null
     ],
     [
-     "beli25dc",
-     null
-    ],
-    [
      "wyattRdc",
      12
     ],
@@ -694,10 +646,6 @@
     ],
     [
      "eater38dc",
-     null
-    ],
-    [
-     "beli25dc",
      null
     ],
     [
@@ -783,10 +731,6 @@
      2
     ],
     [
-     "beli25dc",
-     null
-    ],
-    [
      "beli",
      4
     ]
@@ -807,10 +751,6 @@
     [
      "washdc",
      5
-    ],
-    [
-     "beli25dc",
-     null
     ],
     [
      "washdc100",
@@ -915,10 +855,6 @@
      1
     ],
     [
-     "beli25dc",
-     null
-    ],
-    [
      "washdc100",
      48
     ],
@@ -944,10 +880,6 @@
      1
     ],
     [
-     "beli25dc",
-     null
-    ],
-    [
      "beli",
      22
     ]
@@ -968,10 +900,6 @@
     [
      "michdc",
      1
-    ],
-    [
-     "beli25dc",
-     null
     ],
     [
      "beli",
@@ -995,10 +923,6 @@
      null
     ],
     [
-     "beli25dc",
-     null
-    ],
-    [
      "beli",
      18
     ]
@@ -1019,10 +943,6 @@
    "lists": [
     [
      "bibdc",
-     null
-    ],
-    [
-     "beli25dc",
      null
     ],
     [
@@ -1095,10 +1015,6 @@
    "lists": [
     [
      "eater38dc",
-     null
-    ],
-    [
-     "beli25dc",
      null
     ],
     [
@@ -1220,10 +1136,6 @@
     [
      "washdc",
      17
-    ],
-    [
-     "beli25dc",
-     null
     ],
     [
      "washdc100",
@@ -2844,10 +2756,6 @@
    "pr": 2,
    "lists": [
     [
-     "beli25dc",
-     null
-    ],
-    [
      "beli",
      19
     ]
@@ -2866,10 +2774,6 @@
    "note": "Brazilian",
    "pr": 1,
    "lists": [
-    [
-     "beli25dc",
-     null
-    ],
     [
      "washdc100",
      26
@@ -2892,10 +2796,6 @@
    "vg": 1,
    "pr": 2,
    "lists": [
-    [
-     "beli25dc",
-     null
-    ],
     [
      "washdc100",
      29
@@ -3888,10 +3788,6 @@
      null
     ],
     [
-     "belib5dc",
-     2
-    ],
-    [
      "belib",
      2
     ]
@@ -3910,10 +3806,6 @@
     [
      "infatbdc",
      null
-    ],
-    [
-     "belib5dc",
-     3
     ],
     [
      "belib",
@@ -3936,10 +3828,6 @@
      null
     ],
     [
-     "belib5dc",
-     1
-    ],
-    [
      "belib",
      1
     ]
@@ -3958,10 +3846,6 @@
     [
      "cnnadc",
      34
-    ],
-    [
-     "belib5dc",
-     5
     ],
     [
      "belib",
@@ -4712,10 +4596,6 @@
    "lng": -77.037882,
    "lists": [
     [
-     "belib5dc",
-     4
-    ],
-    [
      "belib",
      4
     ]
@@ -4748,7 +4628,7 @@
  "rlists": {
   "eater38dc": {
    "cls": "plate r-eater38",
-   "mono": "E38",
+   "mono": "E",
    "tag": "EATER",
    "name": "Eater: The 38 Best Restaurants Around D.C.",
    "year": "2026",
@@ -4766,7 +4646,7 @@
   },
   "washdc": {
    "cls": "plate r-wash",
-   "mono": "W25",
+   "mono": "WGTN",
    "tag": "WASHNGTN",
    "name": "Washingtonian's Top 25 Restaurants in DC",
    "year": "2026",
@@ -4809,15 +4689,6 @@
    "ranked": true,
    "starChip": true
   },
-  "beli25dc": {
-   "cls": "plate r-beli25",
-   "mono": "B25",
-   "tag": "BELI",
-   "name": "Beli Top 25 Restaurants in DC",
-   "year": "2025",
-   "ranked": false,
-   "starChip": false
-  },
   "wyattRdc": {
    "cls": "plate r-wyattR",
    "mono": "W",
@@ -4829,7 +4700,7 @@
   },
   "nyt50dc": {
    "cls": "plate r-nyt50",
-   "mono": "50",
+   "mono": "NYT",
    "tag": "NYT USA",
    "name": "NYT 50 Best Restaurants in America",
    "year": "2025",
@@ -4847,7 +4718,7 @@
   },
   "washdc100": {
    "cls": "plate r-washdc100",
-   "mono": "W100",
+   "mono": "WGTN",
    "tag": "WASHINGTONIAN",
    "name": "Washingtonian's 100 Very Best Restaurants",
    "year": "2026",
@@ -4856,7 +4727,7 @@
   },
   "na50": {
    "cls": "plate r-na50",
-   "mono": "N50",
+   "mono": "NAB",
    "tag": "50 BEST",
    "name": "North America's 50 Best Restaurants 2025",
    "year": "2025",
@@ -4919,15 +4790,6 @@
    "ranked": false,
    "starChip": false
   },
-  "belib5dc": {
-   "cls": "b-beli",
-   "mono": "B5",
-   "tag": "TOP 5",
-   "name": "Beli Top 5 Bars",
-   "year": "2025",
-   "ranked": true,
-   "starChip": false
-  },
   "wyattdc": {
    "cls": "b-wyatt",
    "mono": "W",
@@ -4948,7 +4810,7 @@
   },
   "na50bars": {
    "cls": "b-na50bars",
-   "mono": "50",
+   "mono": "NAB",
    "tag": "50 BEST",
    "name": "North America's 50 Best Bars",
    "year": "2024",

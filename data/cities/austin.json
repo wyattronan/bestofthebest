@@ -3193,7 +3193,7 @@
  "rlists": {
   "eater38aus": {
    "cls": "plate r-eater38aus",
-   "mono": "E38",
+   "mono": "E",
    "tag": "EATER",
    "name": "Eater Austin's 38 Best Restaurants",
    "year": "2026",
@@ -3202,7 +3202,7 @@
   },
   "infataus": {
    "cls": "plate r-infataus",
-   "mono": "25",
+   "mono": "IN",
    "tag": "INFAT",
    "name": "The Infatuation's 25 Best Restaurants in Austin",
    "year": "2026",
@@ -3265,7 +3265,7 @@
   },
   "nyt50aus": {
    "cls": "plate r-nyt50aus",
-   "mono": "50",
+   "mono": "NYT",
    "tag": "NYT 50",
    "name": "The New York Times' Restaurant List (Austin)",
    "year": "2026",

@@ -2991,7 +2991,7 @@
  "rlists": {
   "infatphl": {
    "cls": "plate r-infatphl",
-   "mono": "25",
+   "mono": "IN",
    "tag": "INFAT",
    "name": "The Infatuation's Best Restaurants in Philadelphia",
    "year": "2026",
@@ -3036,7 +3036,7 @@
   },
   "eater38phl": {
    "cls": "plate r-eater38phl",
-   "mono": "E38",
+   "mono": "E",
    "tag": "EATER",
    "name": "Eater Philadelphia's 38 Best Restaurants",
    "year": "2026",
@@ -3045,7 +3045,7 @@
   },
   "nyt50phl": {
    "cls": "plate r-nyt50phl",
-   "mono": "50",
+   "mono": "NYT",
    "tag": "NYT 50",
    "name": "NYT Restaurant List — 50 Best in America",
    "year": "2025",
@@ -3081,7 +3081,7 @@
   },
   "na50": {
    "cls": "plate r-na50",
-   "mono": "N50",
+   "mono": "NAB",
    "tag": "50 BEST",
    "name": "North America's 50 Best Restaurants 2025",
    "year": "2025",
@@ -3110,7 +3110,7 @@
  "blists": {
   "infatbphl": {
    "cls": "b-infatbphl",
-   "mono": "25",
+   "mono": "IN",
    "tag": "INFAT",
    "name": "The Infatuation's Most Fun Bars in Philly",
    "year": "2026",

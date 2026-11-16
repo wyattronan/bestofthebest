@@ -1973,7 +1973,7 @@
  "rlists": {
   "infatpdx": {
    "cls": "plate r-infatpdx",
-   "mono": "25",
+   "mono": "IN",
    "tag": "INFAT",
    "name": "The Infatuation's Best Restaurants in Portland",
    "year": "2026",
@@ -2009,7 +2009,7 @@
   },
   "eaterpdx": {
    "cls": "plate r-eaterpdx",
-   "mono": "E38",
+   "mono": "E",
    "tag": "EATER",
    "name": "Eater Portland's 38 Best Restaurants & Carts",
    "year": "2026",
@@ -2027,7 +2027,7 @@
   },
   "na50": {
    "cls": "plate r-na50",
-   "mono": "N50",
+   "mono": "NAB",
    "tag": "50 BEST",
    "name": "North America's 50 Best Restaurants 2025",
    "year": "2025",

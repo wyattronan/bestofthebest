@@ -3179,7 +3179,7 @@
  "rlists": {
   "eater38sea": {
    "cls": "plate r-eater38sea",
-   "mono": "E38",
+   "mono": "E",
    "tag": "EATER",
    "name": "Eater Seattle's 38 Essential Restaurants",
    "year": "2026",
@@ -3197,7 +3197,7 @@
   },
   "infatsea": {
    "cls": "plate r-infatsea",
-   "mono": "25",
+   "mono": "IN",
    "tag": "INFAT",
    "name": "The Infatuation's Top 25 Seattle Restaurants",
    "year": "2026",

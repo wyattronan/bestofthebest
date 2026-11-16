@@ -36,10 +36,6 @@
      null
     ],
     [
-     "beli25bos",
-     10
-    ],
-    [
      "beli",
      10
     ]
@@ -77,10 +73,6 @@
      null
     ],
     [
-     "beli25bos",
-     9
-    ],
-    [
      "beli",
      9
     ]
@@ -115,10 +107,6 @@
      null
     ],
     [
-     "beli25bos",
-     15
-    ],
-    [
      "beli",
      15
     ]
@@ -151,10 +139,6 @@
     [
      "infatbos",
      null
-    ],
-    [
-     "beli25bos",
-     11
     ],
     [
      "beli",
@@ -229,10 +213,6 @@
      null
     ],
     [
-     "beli25bos",
-     25
-    ],
-    [
      "beli",
      25
     ]
@@ -265,10 +245,6 @@
     [
      "cnt35bos",
      null
-    ],
-    [
-     "beli25bos",
-     3
     ],
     [
      "beli",
@@ -305,7 +281,7 @@
      null
     ],
     [
-     "beli25bos",
+     "beli",
      2
     ]
    ],
@@ -329,10 +305,6 @@
     [
      "infatbos",
      null
-    ],
-    [
-     "beli25bos",
-     6
     ],
     [
      "beli",
@@ -366,10 +338,6 @@
      null
     ],
     [
-     "beli25bos",
-     8
-    ],
-    [
      "beli",
      8
     ]
@@ -400,10 +368,6 @@
      null
     ],
     [
-     "beli25bos",
-     16
-    ],
-    [
      "beli",
      16
     ]
@@ -431,10 +395,6 @@
     [
      "infatbos",
      null
-    ],
-    [
-     "beli25bos",
-     21
     ],
     [
      "beli",
@@ -577,10 +537,6 @@
      null
     ],
     [
-     "beli25bos",
-     7
-    ],
-    [
      "beli",
      7
     ]
@@ -628,10 +584,6 @@
     [
      "nytbos",
      null
-    ],
-    [
-     "beli25bos",
-     20
     ],
     [
      "beli",
@@ -857,8 +809,8 @@
      17
     ],
     [
-     "beli25bos",
-     4
+     "beli",
+     null
     ]
    ],
    "dual": false,
@@ -1057,10 +1009,6 @@
     [
      "nytbos",
      null
-    ],
-    [
-     "beli25bos",
-     18
     ],
     [
      "beli",
@@ -1486,10 +1434,6 @@
    "pr": 2,
    "lists": [
     [
-     "beli25bos",
-     23
-    ],
-    [
      "beli",
      23
     ]
@@ -1526,10 +1470,6 @@
    "note": "Greek",
    "pr": 2,
    "lists": [
-    [
-     "beli25bos",
-     5
-    ],
     [
      "beli",
      5
@@ -1628,10 +1568,6 @@
    "pr": 3,
    "lists": [
     [
-     "beli25bos",
-     13
-    ],
-    [
      "beli",
      13
     ]
@@ -1665,10 +1601,6 @@
    "pr": 4,
    "lists": [
     [
-     "beli25bos",
-     24
-    ],
-    [
      "beli",
      24
     ]
@@ -1687,10 +1619,6 @@
    "note": "Szechuan Mountain House",
    "pr": 2,
    "lists": [
-    [
-     "beli25bos",
-     22
-    ],
     [
      "beli",
      22
@@ -1726,10 +1654,6 @@
    "pr": 3,
    "lists": [
     [
-     "beli25bos",
-     17
-    ],
-    [
      "beli",
      17
     ]
@@ -1764,10 +1688,6 @@
    "lng": -71.0679,
    "pr": 3,
    "lists": [
-    [
-     "beli25bos",
-     12
-    ],
     [
      "beli",
      12
@@ -1863,10 +1783,6 @@
    "vg": 1,
    "pr": 2,
    "lists": [
-    [
-     "beli25bos",
-     19
-    ],
     [
      "beli",
      19
@@ -2030,10 +1946,6 @@
    "pr": 2,
    "lists": [
     [
-     "beli25bos",
-     14
-    ],
-    [
      "beli",
      14
     ]
@@ -2125,10 +2037,6 @@
    "pr": 3,
    "lists": [
     [
-     "beli25bos",
-     1
-    ],
-    [
      "beli",
      1
     ]
@@ -2189,23 +2097,6 @@
    ],
    "dual": false,
    "vb": "datenight"
-  },
-  {
-   "name": "Tonino",
-   "hood": "Jamaica Plain",
-   "type": "italian",
-   "typekind": "cui",
-   "lat": 42.3125036,
-   "lng": -71.1143365,
-   "pr": 2,
-   "lists": [
-    [
-     "beli",
-     2
-    ]
-   ],
-   "vb": "italian",
-   "dual": false
   }
  ],
  "bars": [
@@ -2442,10 +2333,6 @@
      null
     ],
     [
-     "belibbos",
-     1
-    ],
-    [
      "belib",
      1
     ]
@@ -2514,10 +2401,6 @@
     [
      "timeoutbos",
      null
-    ],
-    [
-     "belibbos",
-     4
     ],
     [
      "belib",
@@ -2601,10 +2484,6 @@
     [
      "timeoutbos",
      null
-    ],
-    [
-     "belibbos",
-     2
     ],
     [
      "belib",
@@ -2970,10 +2849,6 @@
    "lng": -71.1013,
    "lists": [
     [
-     "belibbos",
-     3
-    ],
-    [
      "belib",
      3
     ]
@@ -3022,10 +2897,6 @@
    "lng": -71.0754,
    "note": "Also on the Restaurants page",
    "lists": [
-    [
-     "belibbos",
-     5
-    ],
     [
      "belib",
      5
@@ -3988,7 +3859,7 @@
   },
   "eater38bos": {
    "cls": "plate r-eater38",
-   "mono": "E38",
+   "mono": "E",
    "tag": "EATER",
    "name": "Eater's 38 Best Restaurants in Boston",
    "year": "2026",
@@ -3997,7 +3868,7 @@
   },
   "cnt35bos": {
    "cls": "plate r-cnt33",
-   "mono": "35",
+   "mono": "CN",
    "tag": "CN TRAV",
    "name": "CN Traveller 35 Best Restaurants in Boston",
    "year": "2026",
@@ -4006,25 +3877,16 @@
   },
   "infatbos": {
    "cls": "plate r-infat25",
-   "mono": "25",
+   "mono": "IN",
    "tag": "INFAT",
    "name": "The Infatuation's Top 25 Restaurants in Boston",
    "year": "2026",
    "ranked": false,
    "starChip": false
   },
-  "beli25bos": {
-   "cls": "plate r-beli25",
-   "mono": "B25",
-   "tag": "BELI",
-   "name": "Beli Top 25 Restaurants in Boston",
-   "year": "2025",
-   "ranked": true,
-   "starChip": false
-  },
   "nyt50bos": {
    "cls": "plate r-nyt50",
-   "mono": "50",
+   "mono": "NYT",
    "tag": "NYT USA",
    "name": "NYT 50 Best Restaurants in America",
    "year": "2025",
@@ -4098,19 +3960,10 @@
   },
   "cnt23bos": {
    "cls": "b-cnt40",
-   "mono": "23",
+   "mono": "CN",
    "tag": "CN TRAV",
    "name": "CN Traveller Best Bars in Boston",
    "year": "2026",
-   "ranked": true,
-   "starChip": false
-  },
-  "belibbos": {
-   "cls": "b-beli",
-   "mono": "B5",
-   "tag": "TOP 5",
-   "name": "Beli Top 5 Bars in Boston",
-   "year": "2025",
    "ranked": true,
    "starChip": false
   },

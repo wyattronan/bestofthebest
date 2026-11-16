@@ -31,10 +31,6 @@
      null
     ],
     [
-     "beli25",
-     null
-    ],
-    [
      "nyt",
      null
     ],
@@ -75,10 +71,6 @@
     ],
     [
      "jba",
-     null
-    ],
-    [
-     "beli25",
      null
     ],
     [
@@ -130,10 +122,6 @@
      null
     ],
     [
-     "beli25",
-     null
-    ],
-    [
      "nyt",
      null
     ],
@@ -173,10 +161,6 @@
     ],
     [
      "jba",
-     null
-    ],
-    [
-     "beli25",
      null
     ],
     [
@@ -231,10 +215,6 @@
      null
     ],
     [
-     "beli25",
-     null
-    ],
-    [
      "mich",
      1
     ],
@@ -277,10 +257,6 @@
      null
     ],
     [
-     "beli25",
-     null
-    ],
-    [
      "nyt",
      null
     ],
@@ -312,10 +288,6 @@
     ],
     [
      "cnt33",
-     null
-    ],
-    [
-     "beli25",
      null
     ],
     [
@@ -522,10 +494,6 @@
      null
     ],
     [
-     "beli25",
-     null
-    ],
-    [
      "mich",
      2
     ],
@@ -642,10 +610,6 @@
    "lists": [
     [
      "eater38",
-     null
-    ],
-    [
-     "beli25",
      null
     ],
     [
@@ -771,10 +735,6 @@
      null
     ],
     [
-     "beli25",
-     null
-    ],
-    [
      "chimag50",
      3
     ],
@@ -835,10 +795,6 @@
      null
     ],
     [
-     "beli25",
-     null
-    ],
-    [
      "mich",
      1
     ],
@@ -895,10 +851,6 @@
    "lists": [
     [
      "bacg",
-     null
-    ],
-    [
-     "beli25",
      null
     ],
     [
@@ -981,10 +933,6 @@
    "lists": [
     [
      "cnt33",
-     null
-    ],
-    [
-     "beli25",
      null
     ],
     [
@@ -1102,10 +1050,6 @@
      null
     ],
     [
-     "beli25",
-     null
-    ],
-    [
      "beli",
      24
     ]
@@ -1152,10 +1096,6 @@
      null
     ],
     [
-     "beli25",
-     null
-    ],
-    [
      "wyattR",
      2
     ],
@@ -1179,10 +1119,6 @@
    "lists": [
     [
      "infat25",
-     null
-    ],
-    [
-     "beli25",
      null
     ],
     [
@@ -1288,10 +1224,6 @@
      null
     ],
     [
-     "beli25",
-     null
-    ],
-    [
      "beli",
      4
     ]
@@ -1361,10 +1293,6 @@
      null
     ],
     [
-     "beli25",
-     null
-    ],
-    [
      "beli",
      7
     ]
@@ -1423,10 +1351,6 @@
    "lng": -87.6777,
    "pr": 3,
    "lists": [
-    [
-     "beli25",
-     null
-    ],
     [
      "chimag50",
      24
@@ -1582,10 +1506,6 @@
    "pr": 2,
    "lists": [
     [
-     "beli25",
-     null
-    ],
-    [
      "bib",
      null
     ],
@@ -1690,10 +1610,6 @@
    "lists": [
     [
      "jba",
-     null
-    ],
-    [
-     "beli25",
      null
     ],
     [
@@ -2478,10 +2394,6 @@
    "pr": 2,
    "lists": [
     [
-     "beli25",
-     null
-    ],
-    [
      "beli",
      9
     ]
@@ -2498,10 +2410,6 @@
    "lng": -87.6653,
    "pr": 2,
    "lists": [
-    [
-     "beli25",
-     null
-    ],
     [
      "beli",
      10
@@ -2520,10 +2428,6 @@
    "pr": 2,
    "lists": [
     [
-     "beli25",
-     null
-    ],
-    [
      "beli",
      14
     ]
@@ -2541,10 +2445,6 @@
    "vg": 1,
    "pr": 2,
    "lists": [
-    [
-     "beli25",
-     null
-    ],
     [
      "beli",
      23
@@ -3337,10 +3237,6 @@
      null
     ],
     [
-     "beli",
-     null
-    ],
-    [
      "na50bars",
      19
     ],
@@ -3374,10 +3270,6 @@
     ],
     [
      "cnt40",
-     null
-    ],
-    [
-     "beli",
      null
     ],
     [
@@ -3679,10 +3571,6 @@
    "lists": [
     [
      "cnt40",
-     null
-    ],
-    [
-     "beli",
      null
     ],
     [
@@ -3994,10 +3882,6 @@
      null
     ],
     [
-     "beli",
-     null
-    ],
-    [
      "belib",
      4
     ]
@@ -4095,10 +3979,6 @@
    "lists": [
     [
      "infat",
-     null
-    ],
-    [
-     "beli",
      null
     ],
     [
@@ -5191,7 +5071,7 @@
  "rlists": {
   "eater38": {
    "cls": "plate r-eater38",
-   "mono": "E38",
+   "mono": "E",
    "tag": "EATER",
    "name": "Eater's 38 Best Restaurants in Chicago",
    "year": "2026",
@@ -5209,7 +5089,7 @@
   },
   "cnt33": {
    "cls": "plate r-cnt33",
-   "mono": "33",
+   "mono": "CN",
    "tag": "CN TRAV",
    "name": "CN Traveler 33 Best Restaurants in Chicago",
    "year": "2026",
@@ -5227,7 +5107,7 @@
   },
   "infat25": {
    "cls": "plate r-infat25",
-   "mono": "25",
+   "mono": "IN",
    "tag": "INFAT",
    "name": "The Infatuation's Top 25 Best Restaurants in Chicago",
    "year": "2026",
@@ -5240,15 +5120,6 @@
    "tag": "BEARD",
    "name": "Chicago James Beard Award Nominees",
    "year": "2026",
-   "ranked": false,
-   "starChip": false
-  },
-  "beli25": {
-   "cls": "plate r-beli25",
-   "mono": "B25",
-   "tag": "BELI",
-   "name": "Beli's Top 25",
-   "year": "2025",
    "ranked": false,
    "starChip": false
   },
@@ -5299,7 +5170,7 @@
   },
   "nyt50chi": {
    "cls": "plate r-nyt50",
-   "mono": "50",
+   "mono": "NYT",
    "tag": "NYT USA",
    "name": "NYT 50 Best Restaurants in America",
    "year": "2025",
@@ -5308,7 +5179,7 @@
   },
   "na50": {
    "cls": "plate r-na50",
-   "mono": "N50",
+   "mono": "NAB",
    "tag": "50 BEST",
    "name": "North America's 50 Best Restaurants 2025",
    "year": "2025",
@@ -5391,7 +5262,7 @@
   },
   "cnt40": {
    "cls": "b-cnt40",
-   "mono": "40",
+   "mono": "CN",
    "tag": "CN TRAV",
    "name": "CN Traveler: Chicago's Best 40 Bars",
    "year": "2026",
@@ -5416,15 +5287,6 @@
    "ranked": false,
    "starChip": false
   },
-  "beli": {
-   "cls": "b-beli",
-   "mono": "B5",
-   "tag": "TOP 5",
-   "name": "Beli Top 5 Bars",
-   "year": "2026",
-   "ranked": false,
-   "starChip": false
-  },
   "esq": {
    "cls": "b-esq",
    "mono": "ES",
@@ -5445,7 +5307,7 @@
   },
   "na50bars": {
    "cls": "b-na50bars",
-   "mono": "50",
+   "mono": "NAB",
    "tag": "50 BEST",
    "name": "North America's 50 Best Bars",
    "year": "2024",

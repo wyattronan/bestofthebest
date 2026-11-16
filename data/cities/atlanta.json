@@ -4514,7 +4514,7 @@
   },
   "eater38atl": {
    "cls": "plate r-eater38atl",
-   "mono": "E38",
+   "mono": "E",
    "tag": "EATER",
    "name": "Eater Atlanta's 38 Best Restaurants",
    "year": "2026",
@@ -4523,7 +4523,7 @@
   },
   "infatatl": {
    "cls": "plate r-infatatl",
-   "mono": "25",
+   "mono": "IN",
    "tag": "INFAT",
    "name": "The Infatuation's 25 Best Restaurants in Atlanta",
    "year": "2026",
@@ -4568,7 +4568,7 @@
   },
   "nyt50atl": {
    "cls": "plate r-nyt50atl",
-   "mono": "50",
+   "mono": "NYT",
    "tag": "NYT 50",
    "name": "The New York Times' Restaurant List (Atlanta)",
    "year": "2026",
@@ -4588,7 +4588,7 @@
  "blists": {
   "infatbatl": {
    "cls": "b-infatbatl",
-   "mono": "25",
+   "mono": "IN",
    "tag": "INFAT",
    "name": "The Infatuation's 19 Best Bars in Atlanta",
    "year": "2026",

@@ -16,10 +16,6 @@
      49
     ],
     [
-     "beli25la",
-     3
-    ],
-    [
      "eater38la",
      null
     ],
@@ -75,10 +71,6 @@
    "pr": 3,
    "lists": [
     [
-     "beli25la",
-     11
-    ],
-    [
      "eater38la",
      null
     ],
@@ -131,10 +123,6 @@
     [
      "cnna50la",
      26
-    ],
-    [
-     "beli25la",
-     9
     ],
     [
      "eater38la",
@@ -191,10 +179,6 @@
      32
     ],
     [
-     "beli25la",
-     7
-    ],
-    [
      "michla",
      3
     ],
@@ -242,10 +226,6 @@
    "pr": 2,
    "lists": [
     [
-     "beli25la",
-     22
-    ],
-    [
      "eater38la",
      null
     ],
@@ -288,10 +268,6 @@
    "note": "Korean fermentation tasting",
    "pr": 4,
    "lists": [
-    [
-     "beli25la",
-     8
-    ],
     [
      "nytla",
      null
@@ -336,10 +312,6 @@
    "pr": 4,
    "lists": [
     [
-     "beli25la",
-     6
-    ],
-    [
      "michla",
      1
     ],
@@ -381,10 +353,6 @@
    "vg": 1,
    "pr": 2,
    "lists": [
-    [
-     "beli25la",
-     10
-    ],
     [
      "infat25la",
      10
@@ -507,10 +475,6 @@
      46
     ],
     [
-     "beli25la",
-     1
-    ],
-    [
      "michla",
      3
     ],
@@ -575,10 +539,6 @@
    "note": "Seven-seat kappo",
    "pr": 3,
    "lists": [
-    [
-     "beli25la",
-     2
-    ],
     [
      "michla",
      2
@@ -987,10 +947,6 @@
    "pr": 4,
    "lists": [
     [
-     "beli25la",
-     16
-    ],
-    [
      "michla",
      2
     ],
@@ -1053,10 +1009,6 @@
    "pr": 1,
    "lists": [
     [
-     "beli25la",
-     23
-    ],
-    [
      "timeoutla",
      34
     ],
@@ -1086,10 +1038,6 @@
    "vg": 1,
    "pr": 2,
    "lists": [
-    [
-     "beli25la",
-     24
-    ],
     [
      "infat25la",
      24
@@ -1152,10 +1100,6 @@
    "pr": 1,
    "lists": [
     [
-     "beli25la",
-     21
-    ],
-    [
      "eater38la",
      null
     ],
@@ -1212,10 +1156,6 @@
    "note": "Afro-Caribbean fusion",
    "pr": 2,
    "lists": [
-    [
-     "beli25la",
-     19
-    ],
     [
      "eater38la",
      null
@@ -1274,10 +1214,6 @@
    "pr": 2,
    "lists": [
     [
-     "beli25la",
-     13
-    ],
-    [
      "eater38la",
      null
     ],
@@ -1322,10 +1258,6 @@
    "note": "Southeast Asian",
    "pr": 2,
    "lists": [
-    [
-     "beli25la",
-     14
-    ],
     [
      "bibla",
      null
@@ -1607,10 +1539,6 @@
    "tg": 1,
    "pr": 4,
    "lists": [
-    [
-     "beli25la",
-     17
-    ],
     [
      "michla",
      1
@@ -1913,8 +1841,8 @@
    "pr": 1,
    "lists": [
     [
-     "beli25la",
-     25
+     "beli",
+     null
     ]
    ],
    "dual": false,
@@ -1984,10 +1912,6 @@
    "note": "Roving pop-up — not pinned on the map",
    "pr": 2,
    "lists": [
-    [
-     "beli25la",
-     12
-    ],
     [
      "beli",
      12
@@ -2264,10 +2188,6 @@
    "note": "Also on the Bars page",
    "pr": 2,
    "lists": [
-    [
-     "beli25la",
-     15
-    ],
     [
      "beli",
      15
@@ -2987,10 +2907,6 @@
    "pr": 2,
    "lists": [
     [
-     "beli25la",
-     4
-    ],
-    [
      "beli",
      4
     ]
@@ -3403,10 +3319,6 @@
    "pr": 4,
    "lists": [
     [
-     "beli25la",
-     18
-    ],
-    [
      "beli",
      18
     ]
@@ -3572,10 +3484,6 @@
    "vg": 1,
    "pr": 3,
    "lists": [
-    [
-     "beli25la",
-     5
-    ],
     [
      "beli",
      5
@@ -4023,10 +3931,6 @@
    "lng": -118.292,
    "pr": 2,
    "lists": [
-    [
-     "beli25la",
-     20
-    ],
     [
      "beli",
      20
@@ -5063,10 +4967,6 @@
    "lng": -118.238,
    "lists": [
     [
-     "belibla",
-     4
-    ],
-    [
      "timeoutbla",
      11
     ],
@@ -5102,10 +5002,6 @@
    "note": "Location unverified — not pinned on the map",
    "lists": [
     [
-     "belibla",
-     5
-    ],
-    [
      "babla",
      null
     ],
@@ -5138,10 +5034,6 @@
    "lng": -118.2246,
    "note": "Aperitivo",
    "lists": [
-    [
-     "belibla",
-     1
-    ],
     [
      "timeoutbla",
      17
@@ -5707,10 +5599,6 @@
    "typekind": "drink",
    "note": "Location unverified — not pinned on the map",
    "lists": [
-    [
-     "belibla",
-     2
-    ],
     [
      "belib",
      2
@@ -6611,10 +6499,6 @@
    "lng": -118.467,
    "lists": [
     [
-     "belibla",
-     3
-    ],
-    [
      "belib",
      3
     ]
@@ -6845,18 +6729,9 @@
    "ranked": true,
    "starChip": false
   },
-  "beli25la": {
-   "cls": "plate r-beli25",
-   "mono": "B25",
-   "tag": "BELI",
-   "name": "Beli Top 25 Restaurants in LA",
-   "year": "2025",
-   "ranked": true,
-   "starChip": false
-  },
   "eater38la": {
    "cls": "plate r-eater38",
-   "mono": "E38",
+   "mono": "E",
    "tag": "EATER",
    "name": "Eater's Top 38 Restaurants in LA",
    "year": "2026",
@@ -6892,7 +6767,7 @@
   },
   "infat25la": {
    "cls": "plate r-infat25",
-   "mono": "25",
+   "mono": "IN",
    "tag": "INFAT",
    "name": "The Infatuation's 25 Best Restaurants in LA",
    "year": "2026",
@@ -6928,7 +6803,7 @@
   },
   "cnt38la": {
    "cls": "plate r-cnt33",
-   "mono": "38",
+   "mono": "CN",
    "tag": "CN TRAV",
    "name": "CN Traveler Best 38 Restaurants in LA",
    "year": "2026",
@@ -6955,7 +6830,7 @@
   },
   "nyt50la": {
    "cls": "plate r-nyt50",
-   "mono": "50",
+   "mono": "NYT",
    "tag": "NYT USA",
    "name": "NYT 50 Best Restaurants in America",
    "year": "2025",
@@ -6964,7 +6839,7 @@
   },
   "latimes101": {
    "cls": "plate r-latimes101",
-   "mono": "101",
+   "mono": "LAT",
    "tag": "LA TIMES",
    "name": "The Los Angeles Times' 101 Best Restaurants",
    "year": "2026",
@@ -6973,7 +6848,7 @@
   },
   "na50": {
    "cls": "plate r-na50",
-   "mono": "N50",
+   "mono": "NAB",
    "tag": "50 BEST",
    "name": "North America's 50 Best Restaurants 2025",
    "year": "2025",
@@ -7000,15 +6875,6 @@
   }
  },
  "blists": {
-  "belibla": {
-   "cls": "b-beli",
-   "mono": "B5",
-   "tag": "TOP 5",
-   "name": "Beli Top 5 Bars in LA",
-   "year": "2025",
-   "ranked": true,
-   "starChip": false
-  },
   "timeoutbla": {
    "cls": "b-timeout",
    "mono": "TO",
@@ -7083,7 +6949,7 @@
   },
   "cnt25la": {
    "cls": "b-cnt40",
-   "mono": "25",
+   "mono": "CN",
    "tag": "CN TRAV",
    "name": "Condé Nast Traveler's 25 Best Bars in Los Angeles",
    "year": "2025",
@@ -7092,7 +6958,7 @@
   },
   "na50bars": {
    "cls": "b-na50bars",
-   "mono": "50",
+   "mono": "NAB",
    "tag": "50 BEST",
    "name": "North America's 50 Best Bars",
    "year": "2024",

@@ -84,10 +84,6 @@
      3
     ],
     [
-     "beli25ny",
-     15
-    ],
-    [
      "nyt100ny",
      21
     ],
@@ -128,10 +124,6 @@
     [
      "michny",
      2
-    ],
-    [
-     "beli25ny",
-     12
     ],
     [
      "nyt100ny",
@@ -176,8 +168,8 @@
      null
     ],
     [
-     "beli25ny",
-     7
+     "beli",
+     null
     ]
    ],
    "dual": false,
@@ -209,10 +201,6 @@
     [
      "michny",
      1
-    ],
-    [
-     "beli25ny",
-     25
     ],
     [
      "jbny",
@@ -257,10 +245,6 @@
      2
     ],
     [
-     "beli25ny",
-     10
-    ],
-    [
      "nyt100ny",
      16
     ],
@@ -299,10 +283,6 @@
      2
     ],
     [
-     "beli25ny",
-     5
-    ],
-    [
      "na50",
      38
     ],
@@ -337,10 +317,6 @@
      null
     ],
     [
-     "beli25ny",
-     24
-    ],
-    [
      "na50",
      10
     ],
@@ -373,10 +349,6 @@
     [
      "michny",
      1
-    ],
-    [
-     "beli25ny",
-     17
     ],
     [
      "nyt100ny",
@@ -415,10 +387,6 @@
     [
      "michny",
      1
-    ],
-    [
-     "beli25ny",
-     4
     ],
     [
      "nyt100ny",
@@ -515,10 +483,6 @@
      1
     ],
     [
-     "beli25ny",
-     21
-    ],
-    [
      "jbny",
      null
     ],
@@ -582,10 +546,6 @@
     ],
     [
      "michny",
-     3
-    ],
-    [
-     "beli25ny",
      3
     ],
     [
@@ -789,10 +749,6 @@
     [
      "michny",
      1
-    ],
-    [
-     "beli25ny",
-     2
     ],
     [
      "beli",
@@ -1004,10 +960,6 @@
     [
      "cnt30ny",
      null
-    ],
-    [
-     "beli25ny",
-     14
     ],
     [
      "beli",
@@ -1299,10 +1251,6 @@
      null
     ],
     [
-     "beli25ny",
-     20
-    ],
-    [
      "nyt100ny",
      60
     ],
@@ -1327,10 +1275,6 @@
     [
      "infatny",
      null
-    ],
-    [
-     "beli25ny",
-     19
     ],
     [
      "nyt100ny",
@@ -1482,10 +1426,6 @@
      null
     ],
     [
-     "beli25ny",
-     16
-    ],
-    [
      "nyt100ny",
      31
     ],
@@ -1509,10 +1449,6 @@
     [
      "michny",
      1
-    ],
-    [
-     "beli25ny",
-     13
     ],
     [
      "beli",
@@ -1554,10 +1490,6 @@
    "lng": -74.001,
    "pr": 4,
    "lists": [
-    [
-     "beli25ny",
-     1
-    ],
     [
      "beli",
      1
@@ -2465,10 +2397,6 @@
    "pr": 2,
    "lists": [
     [
-     "beli25ny",
-     8
-    ],
-    [
      "nyt100ny",
      57
     ],
@@ -2824,10 +2752,6 @@
    "pr": 2,
    "lists": [
     [
-     "beli25ny",
-     23
-    ],
-    [
      "beli",
      23
     ]
@@ -2879,10 +2803,6 @@
    "lng": -74.0101,
    "pr": 3,
    "lists": [
-    [
-     "beli25ny",
-     22
-    ],
     [
      "beli",
      22
@@ -3427,8 +3347,8 @@
    "pr": 3,
    "lists": [
     [
-     "beli25ny",
-     18
+     "beli",
+     null
     ]
    ],
    "dual": false,
@@ -4000,10 +3920,6 @@
    "note": "Spanish crudo bar",
    "pr": 2,
    "lists": [
-    [
-     "beli25ny",
-     9
-    ],
     [
      "beli",
      9
@@ -4606,10 +4522,6 @@
    "pr": 3,
    "lists": [
     [
-     "beli25ny",
-     11
-    ],
-    [
      "beli",
      11
     ]
@@ -4664,10 +4576,6 @@
    "vg": 1,
    "pr": 2,
    "lists": [
-    [
-     "beli25ny",
-     6
-    ],
     [
      "beli",
      6
@@ -6064,10 +5972,6 @@
      null
     ],
     [
-     "belibny",
-     1
-    ],
-    [
      "na50bars",
      7
     ],
@@ -6113,12 +6017,12 @@
      null
     ],
     [
-     "belibny",
-     12
-    ],
-    [
      "na50bars",
      31
+    ],
+    [
+     "belib",
+     null
     ]
    ],
    "dual": false,
@@ -6158,12 +6062,12 @@
      null
     ],
     [
-     "belibny",
-     5
-    ],
-    [
      "na50bars",
      41
+    ],
+    [
+     "belib",
+     null
     ]
    ],
    "dual": false,
@@ -6312,12 +6216,12 @@
      null
     ],
     [
-     "belibny",
-     10
-    ],
-    [
      "na50bars",
      4
+    ],
+    [
+     "belib",
+     null
     ]
    ],
    "dual": false,
@@ -6349,12 +6253,12 @@
      null
     ],
     [
-     "belibny",
-     9
-    ],
-    [
      "na50bars",
      3
+    ],
+    [
+     "belib",
+     null
     ]
    ],
    "dual": false,
@@ -6386,8 +6290,8 @@
      null
     ],
     [
-     "belibny",
-     13
+     "belib",
+     null
     ]
    ],
    "dual": false,
@@ -6445,10 +6349,6 @@
     [
      "cnt33bny",
      null
-    ],
-    [
-     "belibny",
-     3
     ],
     [
      "belib",
@@ -6570,10 +6470,6 @@
      null
     ],
     [
-     "belibny",
-     4
-    ],
-    [
      "belib",
      9
     ]
@@ -6597,10 +6493,6 @@
     [
      "infatbny",
      null
-    ],
-    [
-     "belibny",
-     2
     ],
     [
      "na50bars",
@@ -7083,8 +6975,8 @@
      null
     ],
     [
-     "belibny",
-     14
+     "belib",
+     null
     ]
    ],
    "dual": false,
@@ -7269,8 +7161,8 @@
    "note": "Above Freemans",
    "lists": [
     [
-     "belibny",
-     6
+     "belib",
+     null
     ]
    ],
    "dual": false,
@@ -7836,8 +7728,8 @@
    "lng": -74.009,
    "lists": [
     [
-     "belibny",
-     8
+     "belib",
+     null
     ]
    ],
    "dual": false,
@@ -8342,10 +8234,6 @@
    "note": "Piano lounge",
    "lists": [
     [
-     "belibny",
-     7
-    ],
-    [
      "belib",
      8
     ]
@@ -8443,8 +8331,8 @@
    "note": "Basement jazz izakaya",
    "lists": [
     [
-     "belibny",
-     11
+     "belib",
+     null
     ]
    ],
    "dual": false,
@@ -8547,7 +8435,7 @@
   },
   "eater38ny": {
    "cls": "plate r-eater38",
-   "mono": "E38",
+   "mono": "E",
    "tag": "EATER",
    "name": "Eater's 38 Best Restaurants in New York City",
    "year": "2026",
@@ -8556,7 +8444,7 @@
   },
   "cnt30ny": {
    "cls": "plate r-cnt33",
-   "mono": "30",
+   "mono": "CN",
    "tag": "CN TRAV",
    "name": "CN Traveller 30 Best Restaurants in NYC",
    "year": "2026",
@@ -8565,7 +8453,7 @@
   },
   "infatny": {
    "cls": "plate r-infat25",
-   "mono": "25",
+   "mono": "IN",
    "tag": "INFAT",
    "name": "The Infatuation's Top 25 Restaurants in NYC",
    "year": "2026",
@@ -8590,18 +8478,9 @@
    "ranked": true,
    "starChip": true
   },
-  "beli25ny": {
-   "cls": "plate r-beli25",
-   "mono": "B25",
-   "tag": "BELI",
-   "name": "Beli Top 25 Restaurants in NYC",
-   "year": "2025",
-   "ranked": true,
-   "starChip": false
-  },
   "nyt50ny": {
    "cls": "plate r-nyt50",
-   "mono": "50",
+   "mono": "NYT",
    "tag": "NYT USA",
    "name": "NYT 50 Best Restaurants in America",
    "year": "2025",
@@ -8628,7 +8507,7 @@
   },
   "na50": {
    "cls": "plate r-na50",
-   "mono": "N50",
+   "mono": "NAB",
    "tag": "50 BEST",
    "name": "North America's 50 Best Restaurants 2025",
    "year": "2025",
@@ -8729,7 +8608,7 @@
   },
   "cnt20ny": {
    "cls": "b-cnt20",
-   "mono": "20",
+   "mono": "CN",
    "tag": "DIVES",
    "name": "CN Traveller 20 NYC Dive Bars",
    "year": "2026",
@@ -8738,7 +8617,7 @@
   },
   "cnt33bny": {
    "cls": "b-cnt40",
-   "mono": "33",
+   "mono": "CN",
    "tag": "CN TRAV",
    "name": "CN Traveller 33 Best Bars in NYC",
    "year": "2025",
@@ -8754,15 +8633,6 @@
    "ranked": false,
    "starChip": false
   },
-  "belibny": {
-   "cls": "b-beli",
-   "mono": "B14",
-   "tag": "TOP 14",
-   "name": "Beli Top 14 Cocktail Bars in NYC",
-   "year": "2025",
-   "ranked": true,
-   "starChip": false
-  },
   "jbbny": {
    "cls": "b-jb",
    "mono": "JB",
@@ -8774,7 +8644,7 @@
   },
   "na50bars": {
    "cls": "b-na50bars",
-   "mono": "50",
+   "mono": "NAB",
    "tag": "50 BEST",
    "name": "North America's 50 Best Bars",
    "year": "2024",

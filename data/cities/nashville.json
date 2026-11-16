@@ -2018,7 +2018,7 @@
  "rlists": {
   "infatnash": {
    "cls": "plate r-infatnash",
-   "mono": "25",
+   "mono": "IN",
    "tag": "INFAT",
    "name": "The Infatuation's Best Restaurants in Nashville",
    "year": "2026",
@@ -2036,7 +2036,7 @@
   },
   "eaternash": {
    "cls": "plate r-eaternash",
-   "mono": "E38",
+   "mono": "E",
    "tag": "EATER",
    "name": "Eater Nashville's 38 Best Restaurants",
    "year": "2026",
@@ -2081,7 +2081,7 @@
   },
   "na50": {
    "cls": "plate r-na50",
-   "mono": "N50",
+   "mono": "NAB",
    "tag": "50 BEST",
    "name": "North America's 50 Best Restaurants 2025",
    "year": "2025",
@@ -2092,7 +2092,7 @@
  "blists": {
   "infatbnash": {
    "cls": "b-infatbnash",
-   "mono": "25",
+   "mono": "IN",
    "tag": "INFAT",
    "name": "The Infatuation's Best Bars in Nashville",
    "year": "2026",

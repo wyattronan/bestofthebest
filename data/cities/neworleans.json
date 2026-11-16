@@ -1755,7 +1755,7 @@
  "rlists": {
   "infatnola": {
    "cls": "plate r-infatnola",
-   "mono": "25",
+   "mono": "IN",
    "tag": "INFAT",
    "name": "The Infatuation's Best Restaurants in New Orleans",
    "year": "2026",
@@ -1764,7 +1764,7 @@
   },
   "eater38nola": {
    "cls": "plate r-eater38nola",
-   "mono": "E38",
+   "mono": "E",
    "tag": "EATER",
    "name": "Eater New Orleans's 38 Best Restaurants",
    "year": "2026",
@@ -1791,7 +1791,7 @@
   },
   "na50": {
    "cls": "plate r-na50",
-   "mono": "N50",
+   "mono": "NAB",
    "tag": "50 BEST",
    "name": "North America's 50 Best Restaurants 2025",
    "year": "2025",
@@ -1811,7 +1811,7 @@
  "blists": {
   "infatbnola": {
    "cls": "b-infatbnola",
-   "mono": "25",
+   "mono": "IN",
    "tag": "INFAT",
    "name": "The Infatuation's Best Bars in New Orleans",
    "year": "2026",

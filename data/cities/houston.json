@@ -3842,7 +3842,7 @@
   },
   "eater38hou": {
    "cls": "plate r-eater38hou",
-   "mono": "E38",
+   "mono": "E",
    "tag": "EATER",
    "name": "Eater Houston's 38 Best Restaurants",
    "year": "2026",
@@ -3851,7 +3851,7 @@
   },
   "infathou": {
    "cls": "plate r-infathou",
-   "mono": "25",
+   "mono": "IN",
    "tag": "INFAT",
    "name": "The Infatuation's 25 Best Restaurants in Houston",
    "year": "2026",
