@@ -4628,7 +4628,7 @@
  "rlists": {
   "eater38dc": {
    "cls": "plate r-eater38",
-   "mono": "E",
+   "mono": "EAT",
    "tag": "EATER",
    "name": "Eater: The 38 Best Restaurants Around D.C.",
    "year": "2026",
@@ -4646,7 +4646,7 @@
   },
   "washdc": {
    "cls": "plate r-wash",
-   "mono": "WGTN",
+   "mono": "WAS",
    "tag": "WASHNGTN",
    "name": "Washingtonian's Top 25 Restaurants in DC",
    "year": "2026",
@@ -4718,7 +4718,7 @@
   },
   "washdc100": {
    "cls": "plate r-washdc100",
-   "mono": "WGTN",
+   "mono": "WAS",
    "tag": "WASHINGTONIAN",
    "name": "Washingtonian's 100 Very Best Restaurants",
    "year": "2026",
@@ -4765,7 +4765,7 @@
   },
   "eaterdc": {
    "cls": "b-eater",
-   "mono": "E",
+   "mono": "EAT",
    "tag": "EATER",
    "name": "Eater Best Cocktail Bars in DC",
    "year": "2025",

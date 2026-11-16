@@ -2702,7 +2702,7 @@
   },
   "eater38mia": {
    "cls": "plate r-eater38mia",
-   "mono": "E",
+   "mono": "EAT",
    "tag": "EATER",
    "name": "Eater Miami's 38 Best Restaurants",
    "year": "2026",
@@ -2749,7 +2749,7 @@
   },
   "eaterbmia": {
    "cls": "b-eaterbmia",
-   "mono": "EB",
+   "mono": "EAT",
    "tag": "EATER",
    "name": "Eater Miami's Essential Cocktail Bars",
    "year": "2026",

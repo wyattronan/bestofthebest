@@ -4514,7 +4514,7 @@
   },
   "eater38atl": {
    "cls": "plate r-eater38atl",
-   "mono": "E",
+   "mono": "EAT",
    "tag": "EATER",
    "name": "Eater Atlanta's 38 Best Restaurants",
    "year": "2026",
@@ -4615,7 +4615,7 @@
   },
   "eaterbatl": {
    "cls": "b-eaterbatl",
-   "mono": "EB",
+   "mono": "EAT",
    "tag": "EATER",
    "name": "Eater Atlanta's Essential Bars",
    "year": "2015",

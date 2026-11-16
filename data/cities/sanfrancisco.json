@@ -158,10 +158,6 @@
     [
      "infat25sf",
      4
-    ],
-    [
-     "beli",
-     null
     ]
    ],
    "dual": false,
@@ -792,10 +788,6 @@
     [
      "michsf",
      2
-    ],
-    [
-     "beli",
-     null
     ]
    ],
    "dual": false,
@@ -1066,10 +1058,6 @@
     [
      "michsf",
      2
-    ],
-    [
-     "beli",
-     null
     ]
    ],
    "dual": false,
@@ -3432,10 +3420,6 @@
     [
      "sfchron100",
      10
-    ],
-    [
-     "beli",
-     null
     ]
    ],
    "vb": "datenight",
@@ -6070,7 +6054,7 @@
   },
   "eater38sf": {
    "cls": "plate r-eater38",
-   "mono": "E",
+   "mono": "EAT",
    "tag": "EATER",
    "name": "Eater Best 38 Restaurants in SF",
    "year": "2026",
@@ -6207,7 +6191,7 @@
   },
   "eater15bsf": {
    "cls": "b-eater",
-   "mono": "E",
+   "mono": "EAT",
    "tag": "CKTL",
    "name": "Eater 15 Best Cocktail Bars in SF",
    "year": "2026",

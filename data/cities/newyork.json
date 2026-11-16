@@ -166,10 +166,6 @@
     [
      "infatny",
      null
-    ],
-    [
-     "beli",
-     null
     ]
    ],
    "dual": false,
@@ -3338,23 +3334,6 @@
    "vb": "pizza"
   },
   {
-   "name": "Lucile",
-   "hood": "New York",
-   "type": "newam",
-   "typekind": "cui",
-   "vg": 1,
-   "note": "Location unverified — not pinned on the map",
-   "pr": 3,
-   "lists": [
-    [
-     "beli",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "datenight"
-  },
-  {
    "name": "Lungi",
    "hood": "Upper East Side",
    "type": "indian",
@@ -6019,10 +5998,6 @@
     [
      "na50bars",
      31
-    ],
-    [
-     "belib",
-     null
     ]
    ],
    "dual": false,
@@ -6064,10 +6039,6 @@
     [
      "na50bars",
      41
-    ],
-    [
-     "belib",
-     null
     ]
    ],
    "dual": false,
@@ -6218,10 +6189,6 @@
     [
      "na50bars",
      4
-    ],
-    [
-     "belib",
-     null
     ]
    ],
    "dual": false,
@@ -6255,10 +6222,6 @@
     [
      "na50bars",
      3
-    ],
-    [
-     "belib",
-     null
     ]
    ],
    "dual": false,
@@ -6287,10 +6250,6 @@
     ],
     [
      "cnt33bny",
-     null
-    ],
-    [
-     "belib",
      null
     ]
    ],
@@ -6973,10 +6932,6 @@
     [
      "cnt33bny",
      null
-    ],
-    [
-     "belib",
-     null
     ]
    ],
    "dual": false,
@@ -7150,23 +7105,6 @@
    ],
    "dual": false,
    "vb": "dive"
-  },
-  {
-   "name": "Banzarbar",
-   "hood": "Lower East Side",
-   "type": "m",
-   "typekind": "drink",
-   "lat": 40.722,
-   "lng": -73.992,
-   "note": "Above Freemans",
-   "lists": [
-    [
-     "belib",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "mixo"
   },
   {
    "name": "Bar Blondeau",
@@ -7713,22 +7651,6 @@
    "lists": [
     [
      "bany",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "mixo"
-  },
-  {
-   "name": "Manhatta",
-   "hood": "Financial District",
-   "type": "m",
-   "typekind": "drink",
-   "lat": 40.708,
-   "lng": -74.009,
-   "lists": [
-    [
-     "belib",
      null
     ]
    ],
@@ -8322,23 +8244,6 @@
    "vb": "wine"
   },
   {
-   "name": "Tomi Jazz",
-   "hood": "Midtown East",
-   "type": "m",
-   "typekind": "drink",
-   "lat": 40.757,
-   "lng": -73.968,
-   "note": "Basement jazz izakaya",
-   "lists": [
-    [
-     "belib",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "livemusic"
-  },
-  {
    "name": "Vin Sur Vingt",
    "hood": "West Village",
    "type": "w",
@@ -8435,7 +8340,7 @@
   },
   "eater38ny": {
    "cls": "plate r-eater38",
-   "mono": "E",
+   "mono": "EAT",
    "tag": "EATER",
    "name": "Eater's 38 Best Restaurants in New York City",
    "year": "2026",
@@ -8554,7 +8459,7 @@
   },
   "eatercny": {
    "cls": "b-eater",
-   "mono": "E",
+   "mono": "EAT",
    "tag": "CKTL",
    "name": "Eater Best Cocktail Bars in NYC",
    "year": "2025",
@@ -8563,7 +8468,7 @@
   },
   "eaterdny": {
    "cls": "b-eaterd",
-   "mono": "E",
+   "mono": "EAT",
    "tag": "DIVE",
    "name": "Eater Best Dive Bars in NYC",
    "year": "2025",
@@ -8572,7 +8477,7 @@
   },
   "eaterwny": {
    "cls": "b-eaterw",
-   "mono": "E",
+   "mono": "EAT",
    "tag": "WINE",
    "name": "Eater Best NYC Places to Drink Wine",
    "year": "2025",

@@ -3842,7 +3842,7 @@
   },
   "eater38hou": {
    "cls": "plate r-eater38hou",
-   "mono": "E",
+   "mono": "EAT",
    "tag": "EATER",
    "name": "Eater Houston's 38 Best Restaurants",
    "year": "2026",
@@ -3907,7 +3907,7 @@
   },
   "eaterbhou": {
    "cls": "b-eaterbhou",
-   "mono": "EB",
+   "mono": "EAT",
    "tag": "EATER",
    "name": "Eater Houston's Best Bars",
    "year": "2025",

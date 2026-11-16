@@ -3179,7 +3179,7 @@
  "rlists": {
   "eater38sea": {
    "cls": "plate r-eater38sea",
-   "mono": "E",
+   "mono": "EAT",
    "tag": "EATER",
    "name": "Eater Seattle's 38 Essential Restaurants",
    "year": "2026",
@@ -3253,7 +3253,7 @@
   },
   "eaterbsea": {
    "cls": "b-eaterbsea",
-   "mono": "EB",
+   "mono": "EAT",
    "tag": "EATER",
    "name": "Eater Seattle's Best Bars",
    "year": "2025",

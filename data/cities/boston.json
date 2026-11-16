@@ -807,10 +807,6 @@
     [
      "bosmag",
      17
-    ],
-    [
-     "beli",
-     null
     ]
    ],
    "dual": false,
@@ -3859,7 +3855,7 @@
   },
   "eater38bos": {
    "cls": "plate r-eater38",
-   "mono": "E",
+   "mono": "EAT",
    "tag": "EATER",
    "name": "Eater's 38 Best Restaurants in Boston",
    "year": "2026",
@@ -3906,7 +3902,7 @@
  "blists": {
   "eaterbbos": {
    "cls": "b-eater",
-   "mono": "E",
+   "mono": "EAT",
    "tag": "BARS",
    "name": "Eater Best Bars in Boston",
    "year": "2025",

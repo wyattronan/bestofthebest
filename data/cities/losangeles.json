@@ -1833,22 +1833,6 @@
    "vb": "global"
   },
   {
-   "name": "Agen's Tijuana Tacos",
-   "hood": "Los Angeles",
-   "type": "mexican",
-   "typekind": "cui",
-   "note": "Location unverified — not pinned on the map",
-   "pr": 1,
-   "lists": [
-    [
-     "beli",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "taco"
-  },
-  {
    "name": "Alta Adams",
    "hood": "West Adams",
    "type": "southern",
@@ -6731,7 +6715,7 @@
   },
   "eater38la": {
    "cls": "plate r-eater38",
-   "mono": "E",
+   "mono": "EAT",
    "tag": "EATER",
    "name": "Eater's Top 38 Restaurants in LA",
    "year": "2026",
@@ -6922,7 +6906,7 @@
   },
   "eatercla": {
    "cls": "b-eater",
-   "mono": "E",
+   "mono": "EAT",
    "tag": "CKTL",
    "name": "Eater Best Cocktail Bars in LA",
    "year": "2025",
@@ -6931,7 +6915,7 @@
   },
   "eaterdla": {
    "cls": "b-eaterd",
-   "mono": "E",
+   "mono": "EAT",
    "tag": "DIVE",
    "name": "Eater Best Dive Bars in LA",
    "year": "2025",

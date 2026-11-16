@@ -5071,7 +5071,7 @@
  "rlists": {
   "eater38": {
    "cls": "plate r-eater38",
-   "mono": "E",
+   "mono": "EAT",
    "tag": "EATER",
    "name": "Eater's 38 Best Restaurants in Chicago",
    "year": "2026",
@@ -5244,7 +5244,7 @@
   },
   "eater": {
    "cls": "b-eater",
-   "mono": "E",
+   "mono": "EAT",
    "tag": "EATER",
    "name": "Eater Best Places to Drink Cocktails in Chicago",
    "year": "2025",

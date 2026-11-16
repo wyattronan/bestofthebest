@@ -3193,7 +3193,7 @@
  "rlists": {
   "eater38aus": {
    "cls": "plate r-eater38aus",
-   "mono": "E",
+   "mono": "EAT",
    "tag": "EATER",
    "name": "Eater Austin's 38 Best Restaurants",
    "year": "2026",
@@ -3312,7 +3312,7 @@
   },
   "eaterbaus": {
    "cls": "b-eaterbaus",
-   "mono": "EB",
+   "mono": "EAT",
    "tag": "EATER",
    "name": "Eater Austin's Outstanding Bars",
    "year": "2023",
