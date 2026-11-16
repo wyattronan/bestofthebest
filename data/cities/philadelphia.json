@@ -406,6 +406,10 @@
     [
      "eater38phl",
      null
+    ],
+    [
+     "beli",
+     14
     ]
    ],
    "vb": "datenight",
@@ -731,6 +735,10 @@
     [
      "infatphl",
      24
+    ],
+    [
+     "beli",
+     22
     ]
    ],
    "vb": "specialty",
@@ -1746,6 +1754,10 @@
     [
      "nytphl",
      null
+    ],
+    [
+     "beli",
+     19
     ]
    ],
    "vb": "italian",
@@ -1822,6 +1834,10 @@
     [
      "eater38phl",
      null
+    ],
+    [
+     "beli",
+     20
     ]
    ],
    "vb": "asian",
@@ -2240,6 +2256,40 @@
     ]
    ],
    "vb": "cheesesteak",
+   "dual": false
+  },
+  {
+   "name": "Sakana Omakase Sushi",
+   "hood": "Queen Village",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 39.940697,
+   "lng": -75.1459966,
+   "pr": 4,
+   "lists": [
+    [
+     "beli",
+     5
+    ]
+   ],
+   "vb": "tasting",
+   "dual": false
+  },
+  {
+   "name": "Alpen Rose",
+   "hood": "Midtown Village",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 39.9497495,
+   "lng": -75.1621537,
+   "pr": 4,
+   "lists": [
+    [
+     "beli",
+     9
+    ]
+   ],
+   "vb": "oldguard",
    "dual": false
   }
  ],
@@ -2918,6 +2968,23 @@
     ]
    ],
    "vb": "wine",
+   "dual": false
+  },
+  {
+   "name": "Skyhigh",
+   "hood": "Logan Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.9549919,
+   "lng": -75.1708895,
+   "pr": 4,
+   "lists": [
+    [
+     "belib",
+     2
+    ]
+   ],
+   "vb": "mixo",
    "dual": false
   }
  ],

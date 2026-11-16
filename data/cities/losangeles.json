@@ -5034,6 +5034,23 @@
    ],
    "vb": "lunch",
    "dual": false
+  },
+  {
+   "name": "Angel's Tijuana Tacos",
+   "hood": "Echo Park",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 34.0680823,
+   "lng": -118.2500123,
+   "pr": 1,
+   "lists": [
+    [
+     "beli",
+     25
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
   }
  ],
  "bars": [
@@ -5068,6 +5085,10 @@
     [
      "cnt25la",
      null
+    ],
+    [
+     "belib",
+     4
     ]
    ],
    "dual": false,

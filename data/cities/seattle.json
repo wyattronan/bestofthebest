@@ -1462,6 +1462,10 @@
     [
      "seamet",
      null
+    ],
+    [
+     "beli",
+     1
     ]
    ],
    "vb": "tasting",
@@ -1606,6 +1610,10 @@
     [
      "infatsea",
      15
+    ],
+    [
+     "beli",
+     11
     ]
    ],
    "vb": "asian",
@@ -1876,6 +1884,125 @@
     ]
    ],
    "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Ciudad",
+   "hood": "Georgetown",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 47.5481767,
+   "lng": -122.3171731,
+   "pr": 2,
+   "lists": [
+    [
+     "beli",
+     13
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Lupo",
+   "hood": "Fremont",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 47.6591419,
+   "lng": -122.350174,
+   "pr": 3,
+   "lists": [
+    [
+     "beli",
+     15
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "La Loba",
+   "hood": "Belltown",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 47.6182484,
+   "lng": -122.3374281,
+   "pr": 2,
+   "lists": [
+    [
+     "beli",
+     16
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Asadero Ballard",
+   "hood": "Ballard",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 47.6669218,
+   "lng": -122.382668,
+   "pr": 2,
+   "lists": [
+    [
+     "beli",
+     19
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Itto's Tapas",
+   "hood": "West Seattle",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 47.5648061,
+   "lng": -122.3865627,
+   "pr": 2,
+   "lists": [
+    [
+     "beli",
+     21
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Hushy's Sandwiches",
+   "hood": "Fremont",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 47.6489855,
+   "lng": -122.3424887,
+   "pr": 1,
+   "lists": [
+    [
+     "beli",
+     24
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Tacos La Cuadra",
+   "hood": "Beacon Hill",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 47.5840207,
+   "lng": -122.302729,
+   "pr": 1,
+   "lists": [
+    [
+     "beli",
+     25
+    ]
+   ],
+   "vb": "quick",
    "dual": false
   }
  ],

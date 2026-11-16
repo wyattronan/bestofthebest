@@ -4791,6 +4791,10 @@
     [
      "nyt100ny",
      88
+    ],
+    [
+     "beli",
+     48
     ]
    ],
    "dual": false,
@@ -5715,6 +5719,278 @@
    ],
    "vb": "datenight",
    "dual": false
+  },
+  {
+   "name": "Chongqing Lao Zao",
+   "hood": "Flushing",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7606459,
+   "lng": -73.8330454,
+   "pr": 2,
+   "lists": [
+    [
+     "beli",
+     26
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Lucky Charlie",
+   "hood": "Bushwick",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 40.6998399,
+   "lng": -73.9163025,
+   "pr": 2,
+   "lists": [
+    [
+     "beli",
+     27
+    ]
+   ],
+   "vb": "pizza",
+   "dual": false
+  },
+  {
+   "name": "Bangkok Supper Club",
+   "hood": "Meatpacking District",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7390218,
+   "lng": -74.0056634,
+   "pr": 3,
+   "lists": [
+    [
+     "beli",
+     28
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Kaew Jao Jorm Thai Restaurant",
+   "hood": "East Williamsburg",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7117174,
+   "lng": -73.9413374,
+   "pr": 2,
+   "lists": [
+    [
+     "beli",
+     33
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Musaafer",
+   "hood": "Tribeca",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 40.7163245,
+   "lng": -74.0075569,
+   "pr": 4,
+   "lists": [
+    [
+     "beli",
+     34
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Salt Hank's",
+   "hood": "West Village",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 40.7317339,
+   "lng": -74.0034057,
+   "pr": 2,
+   "lists": [
+    [
+     "beli",
+     37
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Taqueria Ramirez",
+   "hood": "Greenpoint",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 40.7278816,
+   "lng": -73.9569597,
+   "pr": 1,
+   "lists": [
+    [
+     "beli",
+     38
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Xu Chu",
+   "hood": "Flushing",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7588727,
+   "lng": -73.8327834,
+   "pr": 2,
+   "lists": [
+    [
+     "beli",
+     39
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "New Asha Sri Lanka Restaurant",
+   "hood": "Tompkinsville",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.6341969,
+   "lng": -74.0853708,
+   "pr": 1,
+   "lists": [
+    [
+     "beli",
+     40
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "L'Industrie Pizzeria",
+   "hood": "Williamsburg",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 40.7115764,
+   "lng": -73.9578034,
+   "pr": 1,
+   "lists": [
+    [
+     "beli",
+     43
+    ]
+   ],
+   "vb": "pizza",
+   "dual": false
+  },
+  {
+   "name": "Ambrosia Garden",
+   "hood": "Astoria",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7749018,
+   "lng": -73.9133719,
+   "pr": 2,
+   "lists": [
+    [
+     "beli",
+     44
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Casa Della Mozzarella",
+   "hood": "Belmont",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 40.8553207,
+   "lng": -73.8874113,
+   "pr": 1,
+   "lists": [
+    [
+     "beli",
+     45
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Dept. of Culture",
+   "hood": "Bedford-Stuyvesant",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 40.6871918,
+   "lng": -73.9507828,
+   "pr": 4,
+   "lists": [
+    [
+     "beli",
+     46
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Taste Of Heaven",
+   "hood": "Bushwick",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 40.7171398,
+   "lng": -73.9405413,
+   "pr": 1,
+   "lists": [
+    [
+     "beli",
+     47
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Taqueria Tlaxcalli",
+   "hood": "Parkchester",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 40.8362142,
+   "lng": -73.8548784,
+   "pr": 1,
+   "lists": [
+    [
+     "beli",
+     49
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Apollo Bagels",
+   "hood": "Kips Bay",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 40.7430766,
+   "lng": -73.980334,
+   "pr": 1,
+   "lists": [
+    [
+     "beli",
+     50
+    ]
+   ],
+   "vb": "brunch",
+   "dual": false
   }
  ],
  "bars": [
@@ -6173,6 +6449,10 @@
     [
      "belibny",
      3
+    ],
+    [
+     "belib",
+     4
     ]
    ],
    "dual": false,
@@ -8197,6 +8477,40 @@
     [
      "na50bars",
      44
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "All Blues",
+   "hood": "Tribeca",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7178766,
+   "lng": -74.0015815,
+   "pr": 2,
+   "lists": [
+    [
+     "belib",
+     3
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "People's",
+   "hood": "Greenwich Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7371023,
+   "lng": -73.9979073,
+   "pr": 2,
+   "lists": [
+    [
+     "belib",
+     5
     ]
    ],
    "vb": "mixo",

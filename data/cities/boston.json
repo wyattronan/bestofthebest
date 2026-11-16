@@ -2189,6 +2189,23 @@
    ],
    "dual": false,
    "vb": "datenight"
+  },
+  {
+   "name": "Tonino",
+   "hood": "Jamaica Plain",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 42.3125036,
+   "lng": -71.1143365,
+   "pr": 2,
+   "lists": [
+    [
+     "beli",
+     2
+    ]
+   ],
+   "vb": "italian",
+   "dual": false
   }
  ],
  "bars": [
@@ -3007,6 +3024,10 @@
    "lists": [
     [
      "belibbos",
+     5
+    ],
+    [
+     "belib",
      5
     ]
    ],

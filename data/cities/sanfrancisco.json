@@ -4288,6 +4288,125 @@
    ],
    "vb": "datenight",
    "dual": false
+  },
+  {
+   "name": "Noodle in a Haystack",
+   "hood": "Richmond District",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 37.7806408,
+   "lng": -122.4687107,
+   "pr": 3,
+   "lists": [
+    [
+     "beli",
+     1
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "KUSAKABE",
+   "hood": "Financial District",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 37.7956898,
+   "lng": -122.4028845,
+   "pr": 4,
+   "lists": [
+    [
+     "beli",
+     11
+    ]
+   ],
+   "vb": "datenight",
+   "dual": false
+  },
+  {
+   "name": "Hwa Mi Won",
+   "hood": "Outer Richmond",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 37.7802605,
+   "lng": -122.4872709,
+   "pr": 2,
+   "lists": [
+    [
+     "beli",
+     13
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "Mr. Pollo",
+   "hood": "Mission",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 37.7519135,
+   "lng": -122.4182569,
+   "pr": 3,
+   "lists": [
+    [
+     "beli",
+     19
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
+  },
+  {
+   "name": "Kokkari Estiatorio",
+   "hood": "Jackson Square",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 37.7969945,
+   "lng": -122.3996909,
+   "pr": 3,
+   "lists": [
+    [
+     "beli",
+     20
+    ]
+   ],
+   "vb": "global",
+   "dual": false
+  },
+  {
+   "name": "Anh Hong",
+   "hood": "Outer Richmond",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 37.7814671,
+   "lng": -122.492871,
+   "pr": 2,
+   "lists": [
+    [
+     "beli",
+     21
+    ]
+   ],
+   "vb": "asian",
+   "dual": false
+  },
+  {
+   "name": "El Gallo Giro",
+   "hood": "Mission",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 37.7543286,
+   "lng": -122.4130051,
+   "pr": 1,
+   "lists": [
+    [
+     "beli",
+     23
+    ]
+   ],
+   "vb": "quick",
+   "dual": false
   }
  ],
  "bars": [
@@ -5877,6 +5996,57 @@
    ],
    "dual": false,
    "vb": "mixo"
+  },
+  {
+   "name": "Bar Crenn",
+   "hood": "Cow Hollow",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7983812,
+   "lng": -122.4361462,
+   "pr": 4,
+   "lists": [
+    [
+     "belib",
+     1
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
+  },
+  {
+   "name": "Horsies Market & Saloon",
+   "hood": "Mission",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 37.7603638,
+   "lng": -122.4186229,
+   "pr": 1,
+   "lists": [
+    [
+     "belib",
+     2
+    ]
+   ],
+   "vb": "wine",
+   "dual": false
+  },
+  {
+   "name": "Bar 821",
+   "hood": "NoPa",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7771532,
+   "lng": -122.4384162,
+   "pr": 2,
+   "lists": [
+    [
+     "belib",
+     4
+    ]
+   ],
+   "vb": "mixo",
+   "dual": false
   }
  ],
  "rlists": {
