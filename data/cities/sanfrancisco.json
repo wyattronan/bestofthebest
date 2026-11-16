@@ -42,6 +42,10 @@
     [
      "na50",
      48
+    ],
+    [
+     "beli",
+     9
     ]
    ],
    "dual": false,
@@ -85,6 +89,10 @@
     [
      "na50",
      25
+    ],
+    [
+     "beli",
+     2
     ]
    ],
    "dual": false,
@@ -124,6 +132,10 @@
     [
      "sfchron100",
      45
+    ],
+    [
+     "beli",
+     22
     ]
    ],
    "dual": false,
@@ -196,6 +208,10 @@
     [
      "sfchron100",
      20
+    ],
+    [
+     "beli",
+     10
     ]
    ],
    "dual": false,
@@ -300,6 +316,10 @@
     [
      "na50",
      14
+    ],
+    [
+     "beli",
+     3
     ]
    ],
    "dual": false,
@@ -607,6 +627,10 @@
     [
      "na50",
      46
+    ],
+    [
+     "beli",
+     12
     ]
    ],
    "dual": false,
@@ -641,6 +665,10 @@
     [
      "na50",
      13
+    ],
+    [
+     "beli",
+     8
     ]
    ],
    "dual": false,
@@ -702,6 +730,10 @@
     [
      "sfchron100",
      4
+    ],
+    [
+     "beli",
+     18
     ]
    ],
    "dual": false,
@@ -732,6 +764,10 @@
     [
      "sfchron100",
      51
+    ],
+    [
+     "beli",
+     14
     ]
    ],
    "dual": false,
@@ -882,6 +918,10 @@
     [
      "na50",
      21
+    ],
+    [
+     "beli",
+     5
     ]
    ],
    "dual": false,
@@ -1036,6 +1076,10 @@
     [
      "sfchron100",
      39
+    ],
+    [
+     "beli",
+     24
     ]
    ],
    "dual": false,
@@ -1111,6 +1155,10 @@
     [
      "sfchron100",
      49
+    ],
+    [
+     "beli",
+     17
     ]
    ],
    "dual": false,
@@ -1630,6 +1678,10 @@
     [
      "michsf",
      2
+    ],
+    [
+     "beli",
+     16
     ]
    ],
    "dual": false,
@@ -2282,6 +2334,10 @@
     [
      "beli14sf",
      3
+    ],
+    [
+     "beli",
+     7
     ]
    ],
    "dual": false,
@@ -2593,6 +2649,10 @@
     [
      "beli14sf",
      9
+    ],
+    [
+     "beli",
+     4
     ]
    ],
    "dual": false,
@@ -3165,6 +3225,10 @@
     [
      "timeoutsf",
      13
+    ],
+    [
+     "beli",
+     15
     ]
    ],
    "dual": false,
@@ -3443,6 +3507,10 @@
     [
      "sfchron100",
      16
+    ],
+    [
+     "beli",
+     6
     ]
    ],
    "vb": "datenight",
@@ -3681,6 +3749,10 @@
     [
      "sfchron100",
      61
+    ],
+    [
+     "beli",
+     25
     ]
    ],
    "vb": "datenight",
@@ -4258,6 +4330,10 @@
     [
      "na50bars",
      38
+    ],
+    [
+     "belib",
+     5
     ]
    ],
    "dual": false,
@@ -4303,6 +4379,10 @@
     [
      "na50bars",
      30
+    ],
+    [
+     "belib",
+     3
     ]
    ],
    "dual": true,
@@ -5952,6 +6032,15 @@
    "year": "2026",
    "ranked": true,
    "starChip": false
+  },
+  "beli": {
+   "cls": "plate r-beli",
+   "mono": "BELI",
+   "tag": "BELI",
+   "name": "Beli's Top Restaurants in San Francisco (2025)",
+   "year": "2025",
+   "ranked": true,
+   "starChip": false
   }
  },
  "blists": {
@@ -6042,6 +6131,15 @@
    "tag": "50 BEST",
    "name": "North America's 50 Best Bars",
    "year": "2024",
+   "ranked": true,
+   "starChip": false
+  },
+  "belib": {
+   "cls": "b-belib",
+   "mono": "BELI",
+   "tag": "BELI",
+   "name": "Beli's Top Bars in San Francisco (2025)",
+   "year": "2025",
    "ranked": true,
    "starChip": false
   }

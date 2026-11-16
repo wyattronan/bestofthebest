@@ -41,6 +41,10 @@
     [
      "chimag50",
      10
+    ],
+    [
+     "beli",
+     12
     ]
    ],
    "dual": false,
@@ -92,6 +96,10 @@
     [
      "na50",
      31
+    ],
+    [
+     "beli",
+     13
     ]
    ],
    "dual": false,
@@ -136,6 +144,10 @@
     [
      "chimag50",
      2
+    ],
+    [
+     "beli",
+     1
     ]
    ],
    "dual": false,
@@ -182,6 +194,10 @@
     [
      "nyt50chi",
      null
+    ],
+    [
+     "beli",
+     5
     ]
    ],
    "dual": false,
@@ -225,6 +241,10 @@
     [
      "chimag50",
      14
+    ],
+    [
+     "beli",
+     19
     ]
    ],
    "dual": false,
@@ -267,6 +287,10 @@
     [
      "chimag50",
      1
+    ],
+    [
+     "beli",
+     21
     ]
    ],
    "dual": false,
@@ -500,6 +524,10 @@
     [
      "mich",
      2
+    ],
+    [
+     "beli",
+     11
     ]
    ],
    "dual": false,
@@ -623,6 +651,10 @@
     [
      "chimag50",
      19
+    ],
+    [
+     "beli",
+     6
     ]
    ],
    "dual": false,
@@ -741,6 +773,10 @@
     [
      "chimag50",
      3
+    ],
+    [
+     "beli",
+     3
     ]
    ],
    "dual": false,
@@ -805,6 +841,10 @@
     [
      "chimag50",
      22
+    ],
+    [
+     "beli",
+     8
     ]
    ],
    "dual": false,
@@ -1052,6 +1092,10 @@
     [
      "beli25",
      null
+    ],
+    [
+     "beli",
+     24
     ]
    ],
    "dual": false,
@@ -1128,6 +1172,10 @@
     [
      "chimag50",
      47
+    ],
+    [
+     "beli",
+     15
     ]
    ],
    "dual": false,
@@ -1226,6 +1274,10 @@
     [
      "beli25",
      null
+    ],
+    [
+     "beli",
+     4
     ]
    ],
    "dual": false,
@@ -1358,6 +1410,10 @@
     [
      "chimag50",
      24
+    ],
+    [
+     "beli",
+     20
     ]
    ],
    "dual": false,
@@ -1512,6 +1568,10 @@
     [
      "bib",
      null
+    ],
+    [
+     "beli",
+     17
     ]
    ],
    "dual": false,
@@ -1615,6 +1675,10 @@
     [
      "beli25",
      null
+    ],
+    [
+     "beli",
+     18
     ]
    ],
    "dual": false,
@@ -2396,6 +2460,10 @@
     [
      "beli25",
      null
+    ],
+    [
+     "beli",
+     9
     ]
    ],
    "dual": false,
@@ -2413,6 +2481,10 @@
     [
      "beli25",
      null
+    ],
+    [
+     "beli",
+     10
     ]
    ],
    "dual": false,
@@ -2430,6 +2502,10 @@
     [
      "beli25",
      null
+    ],
+    [
+     "beli",
+     14
     ]
    ],
    "dual": false,
@@ -2448,6 +2524,10 @@
     [
      "beli25",
      null
+    ],
+    [
+     "beli",
+     23
     ]
    ],
    "dual": false,
@@ -3243,6 +3323,10 @@
     [
      "na50bars",
      19
+    ],
+    [
+     "belib",
+     1
     ]
    ],
    "dual": false,
@@ -3287,6 +3371,10 @@
     [
      "na50bars",
      32
+    ],
+    [
+     "belib",
+     3
     ]
    ],
    "dual": false,
@@ -3580,6 +3668,10 @@
     [
      "wyatt",
      7
+    ],
+    [
+     "belib",
+     2
     ]
    ],
    "dual": false,
@@ -3884,6 +3976,10 @@
     [
      "beli",
      null
+    ],
+    [
+     "belib",
+     4
     ]
    ],
    "dual": false,
@@ -3984,6 +4080,10 @@
     [
      "beli",
      null
+    ],
+    [
+     "belib",
+     5
     ]
    ],
    "dual": false,
@@ -5194,6 +5294,15 @@
    "year": "2025",
    "ranked": true,
    "starChip": false
+  },
+  "beli": {
+   "cls": "plate r-beli",
+   "mono": "BELI",
+   "tag": "BELI",
+   "name": "Beli's Top Restaurants in Chicago (2025)",
+   "year": "2025",
+   "ranked": true,
+   "starChip": false
   }
  },
  "blists": {
@@ -5320,6 +5429,15 @@
    "tag": "50 BEST",
    "name": "North America's 50 Best Bars",
    "year": "2024",
+   "ranked": true,
+   "starChip": false
+  },
+  "belib": {
+   "cls": "b-belib",
+   "mono": "BELI",
+   "tag": "BELI",
+   "name": "Beli's Top Bars in Chicago (2025)",
+   "year": "2025",
    "ranked": true,
    "starChip": false
   }

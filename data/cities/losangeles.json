@@ -54,6 +54,10 @@
     [
      "na50",
      26
+    ],
+    [
+     "beli",
+     3
     ]
    ],
    "dual": true,
@@ -105,6 +109,10 @@
     [
      "latimes101",
      4
+    ],
+    [
+     "beli",
+     11
     ]
    ],
    "dual": false,
@@ -159,6 +167,10 @@
     [
      "na50",
      42
+    ],
+    [
+     "beli",
+     9
     ]
    ],
    "dual": false,
@@ -209,6 +221,10 @@
     [
      "na50",
      47
+    ],
+    [
+     "beli",
+     7
     ]
    ],
    "dual": false,
@@ -252,6 +268,10 @@
     [
      "latimes101",
      12
+    ],
+    [
+     "beli",
+     22
     ]
    ],
    "dual": false,
@@ -295,6 +315,10 @@
     [
      "latimes101",
      5
+    ],
+    [
+     "beli",
+     8
     ]
    ],
    "dual": false,
@@ -338,6 +362,10 @@
     [
      "latimes101",
      6
+    ],
+    [
+     "beli",
+     6
     ]
    ],
    "dual": false,
@@ -376,6 +404,10 @@
     [
      "latimes101",
      34
+    ],
+    [
+     "beli",
+     10
     ]
    ],
    "dual": false,
@@ -489,6 +521,10 @@
     [
      "cnt38la",
      null
+    ],
+    [
+     "beli",
+     1
     ]
    ],
    "dual": false,
@@ -562,6 +598,10 @@
     [
      "fwgt",
      6
+    ],
+    [
+     "beli",
+     2
     ]
    ],
    "dual": false,
@@ -961,6 +1001,10 @@
     [
      "latimes101",
      22
+    ],
+    [
+     "beli",
+     16
     ]
    ],
    "dual": false,
@@ -1023,6 +1067,10 @@
     [
      "latimes101",
      52
+    ],
+    [
+     "beli",
+     23
     ]
    ],
    "dual": false,
@@ -1053,6 +1101,10 @@
     [
      "latimes101",
      32
+    ],
+    [
+     "beli",
+     24
     ]
    ],
    "dual": false,
@@ -1110,6 +1162,10 @@
     [
      "infat25la",
      17
+    ],
+    [
+     "beli",
+     21
     ]
    ],
    "dual": false,
@@ -1171,6 +1227,10 @@
     [
      "latimes101",
      64
+    ],
+    [
+     "beli",
+     19
     ]
    ],
    "dual": false,
@@ -1220,6 +1280,10 @@
     [
      "eater38la",
      null
+    ],
+    [
+     "beli",
+     13
     ]
    ],
    "dual": false,
@@ -1265,6 +1329,10 @@
     [
      "bibla",
      null
+    ],
+    [
+     "beli",
+     14
     ]
    ],
    "dual": false,
@@ -1546,6 +1614,10 @@
     [
      "michla",
      1
+    ],
+    [
+     "beli",
+     17
     ]
    ],
    "dual": false,
@@ -1915,6 +1987,10 @@
     [
      "beli25la",
      12
+    ],
+    [
+     "beli",
+     12
     ]
    ],
    "dual": false,
@@ -2190,6 +2266,10 @@
    "lists": [
     [
      "beli25la",
+     15
+    ],
+    [
+     "beli",
      15
     ]
    ],
@@ -2909,6 +2989,10 @@
     [
      "beli25la",
      4
+    ],
+    [
+     "beli",
+     4
     ]
    ],
    "dual": false,
@@ -3321,6 +3405,10 @@
     [
      "beli25la",
      18
+    ],
+    [
+     "beli",
+     18
     ]
    ],
    "dual": false,
@@ -3486,6 +3574,10 @@
    "lists": [
     [
      "beli25la",
+     5
+    ],
+    [
+     "beli",
      5
     ]
    ],
@@ -3933,6 +4025,10 @@
    "lists": [
     [
      "beli25la",
+     20
+    ],
+    [
+     "beli",
      20
     ]
    ],
@@ -5003,6 +5099,10 @@
     [
      "cnt25la",
      null
+    ],
+    [
+     "belib",
+     5
     ]
    ],
    "dual": false,
@@ -5036,6 +5136,10 @@
     [
      "infatbla",
      null
+    ],
+    [
+     "belib",
+     1
     ]
    ],
    "dual": false,
@@ -5584,6 +5688,10 @@
    "lists": [
     [
      "belibla",
+     2
+    ],
+    [
+     "belib",
      2
     ]
    ],
@@ -6484,6 +6592,10 @@
     [
      "belibla",
      3
+    ],
+    [
+     "belib",
+     3
     ]
    ],
    "dual": false,
@@ -6855,6 +6967,15 @@
    "year": "2026",
    "ranked": true,
    "starChip": false
+  },
+  "beli": {
+   "cls": "plate r-beli",
+   "mono": "BELI",
+   "tag": "BELI",
+   "name": "Beli's Top Restaurants in Los Angeles (2025)",
+   "year": "2025",
+   "ranked": true,
+   "starChip": false
   }
  },
  "blists": {
@@ -6954,6 +7075,15 @@
    "tag": "50 BEST",
    "name": "North America's 50 Best Bars",
    "year": "2024",
+   "ranked": true,
+   "starChip": false
+  },
+  "belib": {
+   "cls": "b-belib",
+   "mono": "BELI",
+   "tag": "BELI",
+   "name": "Beli's Top Bars in Los Angeles (2025)",
+   "year": "2025",
    "ranked": true,
    "starChip": false
   }

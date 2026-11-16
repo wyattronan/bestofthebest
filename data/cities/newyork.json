@@ -35,6 +35,10 @@
     [
      "jbny",
      null
+    ],
+    [
+     "beli",
+     36
     ]
    ],
    "dual": false,
@@ -90,6 +94,10 @@
     [
      "na50",
      9
+    ],
+    [
+     "beli",
+     15
     ]
    ],
    "dual": false,
@@ -132,6 +140,10 @@
     [
      "na50",
      1
+    ],
+    [
+     "beli",
+     12
     ]
    ],
    "dual": false,
@@ -213,6 +225,10 @@
     [
      "na50",
      15
+    ],
+    [
+     "beli",
+     25
     ]
    ],
    "dual": true,
@@ -251,6 +267,10 @@
     [
      "na50",
      24
+    ],
+    [
+     "beli",
+     10
     ]
    ],
    "dual": false,
@@ -285,6 +305,10 @@
     [
      "na50",
      38
+    ],
+    [
+     "beli",
+     5
     ]
    ],
    "dual": false,
@@ -319,6 +343,10 @@
     [
      "na50",
      10
+    ],
+    [
+     "beli",
+     24
     ]
    ],
    "dual": false,
@@ -357,6 +385,10 @@
     [
      "fwgt",
      7
+    ],
+    [
+     "beli",
+     17
     ]
    ],
    "dual": false,
@@ -391,6 +423,10 @@
     [
      "nyt100ny",
      3
+    ],
+    [
+     "beli",
+     4
     ]
    ],
    "dual": false,
@@ -489,6 +525,10 @@
     [
      "nyt100ny",
      4
+    ],
+    [
+     "beli",
+     21
     ]
    ],
    "dual": false,
@@ -551,6 +591,10 @@
     [
      "nyt100ny",
      11
+    ],
+    [
+     "beli",
+     3
     ]
    ],
    "dual": false,
@@ -611,6 +655,10 @@
     [
      "nyt100ny",
      17
+    ],
+    [
+     "beli",
+     35
     ]
    ],
    "dual": false,
@@ -665,6 +713,10 @@
     [
      "nyt100ny",
      33
+    ],
+    [
+     "beli",
+     30
     ]
    ],
    "dual": false,
@@ -740,6 +792,10 @@
     ],
     [
      "beli25ny",
+     2
+    ],
+    [
+     "beli",
      2
     ]
    ],
@@ -952,6 +1008,10 @@
     [
      "beli25ny",
      14
+    ],
+    [
+     "beli",
+     14
     ]
    ],
    "dual": false,
@@ -1031,6 +1091,10 @@
     [
      "na50",
      35
+    ],
+    [
+     "beli",
+     31
     ]
    ],
    "dual": false,
@@ -1158,6 +1222,10 @@
     [
      "na50",
      40
+    ],
+    [
+     "beli",
+     42
     ]
    ],
    "dual": true,
@@ -1180,6 +1248,10 @@
     [
      "bibny",
      null
+    ],
+    [
+     "beli",
+     32
     ]
    ],
    "dual": false,
@@ -1233,6 +1305,10 @@
     [
      "nyt100ny",
      60
+    ],
+    [
+     "beli",
+     20
     ]
    ],
    "dual": false,
@@ -1259,6 +1335,10 @@
     [
      "nyt100ny",
      81
+    ],
+    [
+     "beli",
+     19
     ]
    ],
    "dual": false,
@@ -1408,6 +1488,10 @@
     [
      "nyt100ny",
      31
+    ],
+    [
+     "beli",
+     16
     ]
    ],
    "dual": false,
@@ -1428,6 +1512,10 @@
     ],
     [
      "beli25ny",
+     13
+    ],
+    [
+     "beli",
      13
     ]
    ],
@@ -1468,6 +1556,10 @@
    "lists": [
     [
      "beli25ny",
+     1
+    ],
+    [
+     "beli",
      1
     ]
    ],
@@ -1842,6 +1934,10 @@
     [
      "bibny",
      null
+    ],
+    [
+     "beli",
+     29
     ]
    ],
    "dual": false,
@@ -2375,6 +2471,10 @@
     [
      "nyt100ny",
      57
+    ],
+    [
+     "beli",
+     8
     ]
    ],
    "dual": false,
@@ -2726,6 +2826,10 @@
     [
      "beli25ny",
      23
+    ],
+    [
+     "beli",
+     23
     ]
    ],
    "dual": false,
@@ -2777,6 +2881,10 @@
    "lists": [
     [
      "beli25ny",
+     22
+    ],
+    [
+     "beli",
      22
     ]
    ],
@@ -2871,6 +2979,10 @@
     [
      "michny",
      1
+    ],
+    [
+     "beli",
+     41
     ]
    ],
    "dual": false,
@@ -3296,6 +3408,10 @@
     [
      "cnt30ny",
      null
+    ],
+    [
+     "beli",
+     18
     ]
    ],
    "dual": false,
@@ -3886,6 +4002,10 @@
    "lists": [
     [
      "beli25ny",
+     9
+    ],
+    [
+     "beli",
      9
     ]
    ],
@@ -4488,6 +4608,10 @@
     [
      "beli25ny",
      11
+    ],
+    [
+     "beli",
+     11
     ]
    ],
    "dual": false,
@@ -4542,6 +4666,10 @@
    "lists": [
     [
      "beli25ny",
+     6
+    ],
+    [
+     "beli",
      6
     ]
    ],
@@ -4848,6 +4976,10 @@
     [
      "nyt100ny",
      12
+    ],
+    [
+     "beli",
+     7
     ]
    ],
    "vb": "datenight",
@@ -5662,6 +5794,10 @@
     [
      "na50bars",
      7
+    ],
+    [
+     "belib",
+     2
     ]
    ],
    "dual": false,
@@ -5788,6 +5924,10 @@
     [
      "bany",
      null
+    ],
+    [
+     "belib",
+     6
     ]
    ],
    "dual": false,
@@ -6152,6 +6292,10 @@
     [
      "belibny",
      4
+    ],
+    [
+     "belib",
+     9
     ]
    ],
    "dual": false,
@@ -6181,6 +6325,10 @@
     [
      "na50bars",
      43
+    ],
+    [
+     "belib",
+     7
     ]
    ],
    "dual": false,
@@ -7026,6 +7174,10 @@
     [
      "jbbny",
      null
+    ],
+    [
+     "belib",
+     1
     ]
    ],
    "dual": false,
@@ -7354,6 +7506,10 @@
     [
      "cnt33bny",
      null
+    ],
+    [
+     "belib",
+     10
     ]
    ],
    "dual": false,
@@ -7908,6 +8064,10 @@
     [
      "belibny",
      7
+    ],
+    [
+     "belib",
+     8
     ]
    ],
    "dual": false,
@@ -8169,6 +8329,15 @@
    "year": "2026",
    "ranked": true,
    "starChip": false
+  },
+  "beli": {
+   "cls": "plate r-beli",
+   "mono": "BELI",
+   "tag": "BELI",
+   "name": "Beli's Top Restaurants in New York (2025)",
+   "year": "2025",
+   "ranked": true,
+   "starChip": false
   }
  },
  "blists": {
@@ -8295,6 +8464,15 @@
    "tag": "50 BEST",
    "name": "North America's 50 Best Bars",
    "year": "2024",
+   "ranked": true,
+   "starChip": false
+  },
+  "belib": {
+   "cls": "b-belib",
+   "mono": "BELI",
+   "tag": "BELI",
+   "name": "Beli's Top Bars in New York (2025)",
+   "year": "2025",
    "ranked": true,
    "starChip": false
   }

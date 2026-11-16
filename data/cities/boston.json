@@ -38,6 +38,10 @@
     [
      "beli25bos",
      10
+    ],
+    [
+     "beli",
+     10
     ]
    ],
    "dual": false,
@@ -75,6 +79,10 @@
     [
      "beli25bos",
      9
+    ],
+    [
+     "beli",
+     9
     ]
    ],
    "dual": false,
@@ -109,6 +117,10 @@
     [
      "beli25bos",
      15
+    ],
+    [
+     "beli",
+     15
     ]
    ],
    "dual": false,
@@ -142,6 +154,10 @@
     ],
     [
      "beli25bos",
+     11
+    ],
+    [
+     "beli",
      11
     ]
    ],
@@ -215,6 +231,10 @@
     [
      "beli25bos",
      25
+    ],
+    [
+     "beli",
+     25
     ]
    ],
    "dual": false,
@@ -248,6 +268,10 @@
     ],
     [
      "beli25bos",
+     3
+    ],
+    [
+     "beli",
      3
     ]
    ],
@@ -309,6 +333,10 @@
     [
      "beli25bos",
      6
+    ],
+    [
+     "beli",
+     6
     ]
    ],
    "dual": false,
@@ -340,6 +368,10 @@
     [
      "beli25bos",
      8
+    ],
+    [
+     "beli",
+     8
     ]
    ],
    "dual": false,
@@ -370,6 +402,10 @@
     [
      "beli25bos",
      16
+    ],
+    [
+     "beli",
+     16
     ]
    ],
    "dual": false,
@@ -398,6 +434,10 @@
     ],
     [
      "beli25bos",
+     21
+    ],
+    [
+     "beli",
      21
     ]
    ],
@@ -539,6 +579,10 @@
     [
      "beli25bos",
      7
+    ],
+    [
+     "beli",
+     7
     ]
    ],
    "dual": false,
@@ -587,6 +631,10 @@
     ],
     [
      "beli25bos",
+     20
+    ],
+    [
+     "beli",
      20
     ]
    ],
@@ -1013,6 +1061,10 @@
     [
      "beli25bos",
      18
+    ],
+    [
+     "beli",
+     18
     ]
    ],
    "dual": false,
@@ -1436,6 +1488,10 @@
     [
      "beli25bos",
      23
+    ],
+    [
+     "beli",
+     23
     ]
    ],
    "dual": false,
@@ -1472,6 +1528,10 @@
    "lists": [
     [
      "beli25bos",
+     5
+    ],
+    [
+     "beli",
      5
     ]
    ],
@@ -1570,6 +1630,10 @@
     [
      "beli25bos",
      13
+    ],
+    [
+     "beli",
+     13
     ]
    ],
    "dual": false,
@@ -1603,6 +1667,10 @@
     [
      "beli25bos",
      24
+    ],
+    [
+     "beli",
+     24
     ]
    ],
    "dual": false,
@@ -1621,6 +1689,10 @@
    "lists": [
     [
      "beli25bos",
+     22
+    ],
+    [
+     "beli",
      22
     ]
    ],
@@ -1656,6 +1728,10 @@
     [
      "beli25bos",
      17
+    ],
+    [
+     "beli",
+     17
     ]
    ],
    "dual": false,
@@ -1690,6 +1766,10 @@
    "lists": [
     [
      "beli25bos",
+     12
+    ],
+    [
+     "beli",
      12
     ]
    ],
@@ -1728,6 +1808,10 @@
     [
      "nytbos",
      null
+    ],
+    [
+     "beli",
+     4
     ]
    ],
    "dual": false,
@@ -1781,6 +1865,10 @@
    "lists": [
     [
      "beli25bos",
+     19
+    ],
+    [
+     "beli",
      19
     ]
    ],
@@ -1944,6 +2032,10 @@
     [
      "beli25bos",
      14
+    ],
+    [
+     "beli",
+     14
     ]
    ],
    "dual": false,
@@ -2034,6 +2126,10 @@
    "lists": [
     [
      "beli25bos",
+     1
+    ],
+    [
+     "beli",
      1
     ]
    ],
@@ -2331,6 +2427,10 @@
     [
      "belibbos",
      1
+    ],
+    [
+     "belib",
+     1
     ]
    ],
    "dual": false,
@@ -2400,6 +2500,10 @@
     ],
     [
      "belibbos",
+     4
+    ],
+    [
+     "belib",
      4
     ]
    ],
@@ -2483,6 +2587,10 @@
     ],
     [
      "belibbos",
+     2
+    ],
+    [
+     "belib",
      2
     ]
    ],
@@ -2846,6 +2954,10 @@
    "lists": [
     [
      "belibbos",
+     3
+    ],
+    [
+     "belib",
      3
     ]
    ],
@@ -3897,6 +4009,15 @@
    "year": "2025",
    "ranked": false,
    "starChip": false
+  },
+  "beli": {
+   "cls": "plate r-beli",
+   "mono": "BELI",
+   "tag": "BELI",
+   "name": "Beli's Top Restaurants in Boston (2025)",
+   "year": "2025",
+   "ranked": true,
+   "starChip": false
   }
  },
  "blists": {
@@ -3997,6 +4118,15 @@
    "name": "Boston Globe: 18 Top-Notch Cocktail and Wine Bars",
    "year": "2026",
    "ranked": false,
+   "starChip": false
+  },
+  "belib": {
+   "cls": "b-belib",
+   "mono": "BELI",
+   "tag": "BELI",
+   "name": "Beli's Top Bars in Boston (2025)",
+   "year": "2025",
+   "ranked": true,
    "starChip": false
   }
  }

@@ -60,6 +60,10 @@
     [
      "na50",
      34
+    ],
+    [
+     "beli",
+     3
     ]
    ],
    "dual": false,
@@ -111,6 +115,10 @@
     [
      "fwgt",
      4
+    ],
+    [
+     "beli",
+     6
     ]
    ],
    "dual": false,
@@ -149,6 +157,10 @@
     [
      "washdc100",
      13
+    ],
+    [
+     "beli",
+     21
     ]
    ],
    "dual": false,
@@ -187,6 +199,10 @@
     [
      "washdc100",
      15
+    ],
+    [
+     "beli",
+     13
     ]
    ],
    "dual": false,
@@ -267,6 +283,10 @@
     [
      "washdc100",
      16
+    ],
+    [
+     "beli",
+     5
     ]
    ],
    "dual": false,
@@ -305,6 +325,10 @@
     [
      "washdc100",
      23
+    ],
+    [
+     "beli",
+     9
     ]
    ],
    "dual": false,
@@ -336,6 +360,10 @@
     [
      "washdc100",
      2
+    ],
+    [
+     "beli",
+     1
     ]
    ],
    "dual": false,
@@ -365,6 +393,10 @@
     [
      "washdc100",
      4
+    ],
+    [
+     "beli",
+     2
     ]
    ],
    "dual": false,
@@ -399,6 +431,10 @@
     [
      "washdc100",
      9
+    ],
+    [
+     "beli",
+     8
     ]
    ],
    "dual": false,
@@ -497,6 +533,10 @@
     [
      "washdc100",
      25
+    ],
+    [
+     "beli",
+     15
     ]
    ],
    "dual": false,
@@ -531,6 +571,10 @@
     [
      "washdc100",
      18
+    ],
+    [
+     "beli",
+     17
     ]
    ],
    "dual": false,
@@ -600,6 +644,10 @@
     [
      "washdc100",
      38
+    ],
+    [
+     "beli",
+     23
     ]
    ],
    "dual": false,
@@ -655,6 +703,10 @@
     [
      "washdc100",
      66
+    ],
+    [
+     "beli",
+     10
     ]
    ],
    "dual": false,
@@ -759,6 +811,10 @@
     [
      "washdc100",
      5
+    ],
+    [
+     "beli",
+     14
     ]
    ],
    "dual": false,
@@ -861,6 +917,10 @@
     [
      "washdc100",
      48
+    ],
+    [
+     "beli",
+     11
     ]
    ],
    "dual": false,
@@ -882,6 +942,10 @@
     [
      "beli25dc",
      null
+    ],
+    [
+     "beli",
+     22
     ]
    ],
    "dual": false,
@@ -904,6 +968,10 @@
     [
      "beli25dc",
      null
+    ],
+    [
+     "beli",
+     16
     ]
    ],
    "dual": false,
@@ -925,6 +993,10 @@
     [
      "beli25dc",
      null
+    ],
+    [
+     "beli",
+     18
     ]
    ],
    "dual": false,
@@ -948,6 +1020,10 @@
     [
      "beli25dc",
      null
+    ],
+    [
+     "beli",
+     24
     ]
    ],
    "dual": true,
@@ -1024,6 +1100,10 @@
     [
      "washdc100",
      37
+    ],
+    [
+     "beli",
+     12
     ]
    ],
    "dual": false,
@@ -1144,6 +1224,10 @@
     [
      "washdc100",
      17
+    ],
+    [
+     "beli",
+     7
     ]
    ],
    "dual": false,
@@ -2758,6 +2842,10 @@
     [
      "beli25dc",
      null
+    ],
+    [
+     "beli",
+     19
     ]
    ],
    "dual": false,
@@ -2781,6 +2869,10 @@
     [
      "washdc100",
      26
+    ],
+    [
+     "beli",
+     20
     ]
    ],
    "dual": false,
@@ -3790,6 +3882,10 @@
     [
      "belib5dc",
      2
+    ],
+    [
+     "belib",
+     2
     ]
    ],
    "dual": true,
@@ -3810,6 +3906,10 @@
     [
      "belib5dc",
      3
+    ],
+    [
+     "belib",
+     3
     ]
    ],
    "dual": false,
@@ -3829,6 +3929,10 @@
     ],
     [
      "belib5dc",
+     1
+    ],
+    [
+     "belib",
      1
     ]
    ],
@@ -4598,6 +4702,10 @@
     [
      "belib5dc",
      4
+    ],
+    [
+     "belib",
+     4
     ]
    ],
    "dual": false,
@@ -4751,6 +4859,15 @@
    "year": "2026",
    "ranked": true,
    "starChip": false
+  },
+  "beli": {
+   "cls": "plate r-beli",
+   "mono": "BELI",
+   "tag": "BELI",
+   "name": "Beli's Top Restaurants in Washington, D.C. (2025)",
+   "year": "2025",
+   "ranked": true,
+   "starChip": false
   }
  },
  "blists": {
@@ -4823,6 +4940,15 @@
    "tag": "50 BEST",
    "name": "North America's 50 Best Bars",
    "year": "2024",
+   "ranked": true,
+   "starChip": false
+  },
+  "belib": {
+   "cls": "b-belib",
+   "mono": "BELI",
+   "tag": "BELI",
+   "name": "Beli's Top Bars in Washington, D.C. (2025)",
+   "year": "2025",
    "ranked": true,
    "starChip": false
   }
