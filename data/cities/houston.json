@@ -23,7 +23,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Maximo",
@@ -247,7 +248,8 @@
     ]
    ],
    "vb": "bbq",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Zaranda",
@@ -536,7 +538,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Theodore Rex",
@@ -625,7 +628,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Bahel Ethiopian Mart & Kitchen",
@@ -661,7 +665,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Bar-A-BBQ",
@@ -678,7 +683,8 @@
     ]
    ],
    "vb": "bbq",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "BCN Taste & Tradition",
@@ -844,7 +850,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Coltivare",
@@ -883,7 +890,8 @@
     ]
    ],
    "vb": "bbq",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Costa Brava Bistro",
@@ -922,7 +930,8 @@
    ],
    "vb": "lunch",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Doris Metropolitan",
@@ -956,7 +965,8 @@
     ]
    ],
    "vb": "bbq",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Feges BBQ",
@@ -973,7 +983,8 @@
     ]
    ],
    "vb": "bbq",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Fish & Chips",
@@ -990,7 +1001,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Giacomo's Cibo e Vino",
@@ -1043,7 +1055,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Ishtia",
@@ -1081,7 +1094,8 @@
     ]
    ],
    "vb": "bbq",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Jane and the Lion Bakehouse",
@@ -1098,7 +1112,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Jamaica Pon Di Road",
@@ -1167,7 +1182,8 @@
     ]
    ],
    "vb": "oldguard",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Kira",
@@ -1250,7 +1266,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Kriti Kitchen",
@@ -1346,7 +1363,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Mala Sichuan",
@@ -1364,7 +1382,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Mandola's Deli",
@@ -1381,7 +1400,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Milton's",
@@ -1463,7 +1483,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Ninfa's on Navigation",
@@ -1519,7 +1540,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Pier 6 Seafood & Oyster House",
@@ -1589,7 +1611,8 @@
     ]
    ],
    "vb": "bbq",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Rumi's Kitchen",
@@ -1625,7 +1648,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Sayad Mediterranean Kitchen",
@@ -1687,7 +1711,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Soto",
@@ -1704,7 +1729,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Street to Kitchen",
@@ -1734,7 +1760,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Tacos Doña Lena",
@@ -1751,7 +1778,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Talespin",
@@ -1786,7 +1814,8 @@
     ]
    ],
    "vb": "bbq",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "The Breakfast Klub",
@@ -1803,7 +1832,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Thien Thanh",
@@ -1821,7 +1851,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Tiny Champions",
@@ -1843,7 +1874,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Titas Taco House",
@@ -1860,7 +1892,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Toga",
@@ -1902,7 +1935,8 @@
     ]
    ],
    "vb": "bbq",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Turan Uyghur Kitchen",
@@ -1970,7 +2004,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Xeo Yum",
@@ -1988,7 +2023,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Brisket & Rice",
@@ -2005,7 +2041,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Phat Eatery",
@@ -2023,7 +2060,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Mala Sichuan Bistro",
@@ -2045,7 +2083,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Huynh Restaurant",
@@ -2063,7 +2102,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Hidden Omakase",
@@ -2172,7 +2212,8 @@
    ],
    "vb": "lunch",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Da Gama",
@@ -2325,7 +2366,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Tacos La Sultana",
@@ -2342,7 +2384,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Fung's Kitchen",
@@ -2360,7 +2403,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Sao Lao Thai Cafe",
@@ -2378,7 +2422,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Triple J's Smokehouse",
@@ -2395,7 +2440,8 @@
     ]
    ],
    "vb": "bbq",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Oru",
@@ -2481,7 +2527,8 @@
     ]
    ],
    "vb": "bbq",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "The Pit Room",
@@ -2498,7 +2545,8 @@
     ]
    ],
    "vb": "bbq",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Blood Bros BBQ",
@@ -2515,7 +2563,8 @@
     ]
    ],
    "vb": "bbq",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Murray's Pizza & Wine",
@@ -2550,7 +2599,8 @@
     ]
    ],
    "vb": "bbq",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Di An Pho",
@@ -2568,7 +2618,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Latuli",

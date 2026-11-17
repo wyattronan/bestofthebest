@@ -58,7 +58,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Murata",
@@ -275,7 +276,8 @@
    ],
    "vb": "pizza",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Akadi",
@@ -393,7 +395,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Xiao Ye",
@@ -440,7 +443,8 @@
    ],
    "vb": "pizza",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Apizza Scholls",
@@ -462,7 +466,8 @@
    ],
    "vb": "pizza",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Lilia Comedor",
@@ -509,7 +514,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Oma's Hideaway",
@@ -623,7 +629,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Maurice",
@@ -701,7 +708,8 @@
    ],
    "vb": "pizza",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Coquine",
@@ -803,7 +811,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "The Paper Bridge",
@@ -892,7 +901,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Arden",
@@ -927,7 +937,8 @@
    ],
    "vb": "pizza",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Campana",
@@ -978,7 +989,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Güero",
@@ -999,7 +1011,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Higgins",
@@ -1079,7 +1092,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Luce",
@@ -1177,7 +1191,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "OK Omens",
@@ -1312,7 +1327,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Farag's",
@@ -1364,7 +1380,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Loncheria Los Mayas",
@@ -1381,7 +1398,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Paadee",
@@ -1399,7 +1417,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Tabor Bread",
@@ -1416,7 +1435,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Duck House",
@@ -1433,7 +1453,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Bellwether",
@@ -1467,7 +1488,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Casa Zoraya",
@@ -1518,7 +1540,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Urdaneta",
@@ -1673,7 +1696,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Kita Steak & Ribs",
@@ -1690,7 +1714,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Bun Bo Hue",
@@ -1707,7 +1732,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Bake on the Run",
@@ -1724,7 +1750,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Sanchez Taqueria",
@@ -1741,7 +1768,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Lansdowne",
@@ -1792,7 +1820,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Double Dragon",
@@ -1809,7 +1838,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   }
  ],
  "bars": [

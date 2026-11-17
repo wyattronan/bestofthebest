@@ -431,7 +431,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "to": 1
   },
   {
    "name": "Oyster Oyster",
@@ -1053,7 +1054,8 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch"
+   "vb": "lunch",
+   "to": 1
   },
   {
    "name": "St. James",
@@ -1269,7 +1271,8 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch"
+   "vb": "lunch",
+   "to": 1
   },
   {
    "name": "Rasika",
@@ -1348,7 +1351,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "to": 1
   },
   {
    "name": "The Inn at Little Washington",
@@ -1581,7 +1585,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "to": 1
   },
   {
    "name": "Hitching Post",
@@ -1598,7 +1603,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "to": 1
   },
   {
    "name": "Ivy City Smokehouse",
@@ -1673,7 +1679,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Laos in Town",
@@ -1808,7 +1815,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Taqueria Habanero",
@@ -1826,7 +1834,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Toki Underground",
@@ -1921,7 +1930,8 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch"
+   "vb": "lunch",
+   "to": 1
   },
   {
    "name": "The Monocle",
@@ -2010,7 +2020,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "to": 1
   },
   {
    "name": "1789",
@@ -2045,7 +2056,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "to": 1
   },
   {
    "name": "Any Day Now",
@@ -2062,7 +2074,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "to": 1
   },
   {
    "name": "Rose Ave Bakery",
@@ -2079,7 +2092,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "to": 1
   },
   {
    "name": "Sweet Crimes Bakery",
@@ -2097,7 +2111,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "to": 1
   },
   {
    "name": "Un Je Ne Sais Quoi",
@@ -2114,7 +2129,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "to": 1
   },
   {
    "name": "SURA",
@@ -2380,7 +2396,8 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch"
+   "vb": "lunch",
+   "to": 1
   },
   {
    "name": "Motorkat",
@@ -2925,7 +2942,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Joon",
@@ -3180,7 +3198,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Aventino",
@@ -3384,7 +3403,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Arrels",
@@ -3435,7 +3455,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "L'Auberge Chez François and Jacques' Brasserie",
@@ -3503,7 +3524,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Brasserie Royale",

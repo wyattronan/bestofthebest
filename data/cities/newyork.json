@@ -777,7 +777,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Che Li",
@@ -1067,7 +1068,8 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch"
+   "vb": "lunch",
+   "to": 1
   },
   {
    "name": "La Piraña Lechonera",
@@ -1090,7 +1092,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Lilia",
@@ -1304,7 +1307,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "to": 1
   },
   {
    "name": "Thai Diner",
@@ -1356,7 +1360,8 @@
     ]
    ],
    "dual": false,
-   "vb": "pizza"
+   "vb": "pizza",
+   "to": 1
   },
   {
    "name": "Win Son",
@@ -1548,7 +1553,8 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch"
+   "vb": "lunch",
+   "to": 1
   },
   {
    "name": "Adda",
@@ -1585,7 +1591,8 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch"
+   "vb": "lunch",
+   "to": 1
   },
   {
    "name": "al Badawi",
@@ -1636,7 +1643,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Ambassadors Clubhouse",
@@ -1983,7 +1991,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Cardamom",
@@ -2071,7 +2080,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Chrissy's Pizza",
@@ -2093,7 +2103,8 @@
     ]
    ],
    "dual": false,
-   "vb": "pizza"
+   "vb": "pizza",
+   "to": 1
   },
   {
    "name": "Chuan Tian Xia",
@@ -2138,7 +2149,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Coqodaq",
@@ -2176,7 +2188,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Crevette",
@@ -2269,7 +2282,8 @@
     ]
    ],
    "dual": false,
-   "vb": "deli"
+   "vb": "deli",
+   "to": 1
   },
   {
    "name": "Dim Sum Go Go",
@@ -2563,7 +2577,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "to": 1
   },
   {
    "name": "Gordo's Cantina",
@@ -2581,7 +2596,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Ha's Snack Bar",
@@ -2643,7 +2659,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "HanGawi",
@@ -2679,7 +2696,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "to": 1
   },
   {
    "name": "Hupo",
@@ -3331,7 +3349,8 @@
     ]
    ],
    "dual": false,
-   "vb": "pizza"
+   "vb": "pizza",
+   "to": 1
   },
   {
    "name": "Lungi",
@@ -3736,7 +3755,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Oxomoco",
@@ -4018,7 +4038,8 @@
     ]
    ],
    "dual": false,
-   "vb": "pizza"
+   "vb": "pizza",
+   "to": 1
   },
   {
    "name": "Ruffian",
@@ -4073,7 +4094,8 @@
     ]
    ],
    "dual": false,
-   "vb": "deli"
+   "vb": "deli",
+   "to": 1
   },
   {
    "name": "S&P Lunch",
@@ -4091,7 +4113,8 @@
     ]
    ],
    "dual": false,
-   "vb": "deli"
+   "vb": "deli",
+   "to": 1
   },
   {
    "name": "Saga",
@@ -4285,7 +4308,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Soda Club",
@@ -4322,7 +4346,8 @@
     ]
    ],
    "dual": false,
-   "vb": "pizza"
+   "vb": "pizza",
+   "to": 1
   },
   {
    "name": "Sunn's",
@@ -4433,7 +4458,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Tempura Matsui",
@@ -4685,7 +4711,8 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch"
+   "vb": "lunch",
+   "to": 1
   },
   {
    "name": "Tsukimi",
@@ -4757,7 +4784,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Warung Selasa at IndoJava",
@@ -4817,7 +4845,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Yingtao",
@@ -4993,7 +5022,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "ABCV",
@@ -5078,7 +5108,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Hellbender",
@@ -5129,7 +5160,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Txikito",
@@ -5197,7 +5229,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Lola's",
@@ -5265,7 +5298,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Maison Passerelle",
@@ -5367,7 +5401,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Okiboru House of Tsukemen",
@@ -5384,7 +5419,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "188 Bakery Cuchifritos",
@@ -5401,7 +5437,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Ho Foods",
@@ -5469,7 +5506,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Lakruwana",
@@ -5520,7 +5558,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Çka Ka Qëllu",
@@ -5571,7 +5610,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Chalupas Poblanas El Tlecuile",
@@ -5639,7 +5679,8 @@
     ]
    ],
    "vb": "pizza",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Bangkok Supper Club",
@@ -5707,7 +5748,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Taqueria Ramirez",
@@ -5724,7 +5766,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Xu Chu",
@@ -5775,7 +5818,8 @@
     ]
    ],
    "vb": "pizza",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Ambrosia Garden",
@@ -5809,7 +5853,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Dept. of Culture",
@@ -5860,7 +5905,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Apollo Bagels",
@@ -5877,7 +5923,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   }
  ],
  "bars": [

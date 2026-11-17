@@ -170,7 +170,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Aria",
@@ -403,7 +404,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Casa Balam",
@@ -748,7 +750,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Nàdair",
@@ -870,7 +873,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Southern National",
@@ -899,7 +903,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Table & Main",
@@ -1469,7 +1474,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Palo Santo",
@@ -1549,7 +1555,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Staplehouse",
@@ -1694,7 +1701,8 @@
    ],
    "vb": "lunch",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Auburn Angel",
@@ -1791,7 +1799,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Buena Gente Cuban Bakery",
@@ -1808,7 +1817,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Chai Pani",
@@ -1838,7 +1848,8 @@
    ],
    "vb": "lunch",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Daily Chew",
@@ -1895,7 +1906,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Fishmonger",
@@ -1937,7 +1949,8 @@
     ]
    ],
    "vb": "bbq",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Fritti",
@@ -2006,7 +2019,8 @@
     ]
    ],
    "vb": "bbq",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Hen Mother Cookhouse",
@@ -2061,7 +2075,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Kamayan ATL",
@@ -2087,7 +2102,8 @@
    ],
    "vb": "lunch",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "La Grotta Ristorante Italiano",
@@ -2126,7 +2142,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Lyla Lila",
@@ -2160,7 +2177,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Nakato",
@@ -2195,7 +2213,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "9292 Korean BBQ",
@@ -2212,7 +2231,8 @@
     ]
    ],
    "vb": "bbq",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Northern China Eatery",
@@ -2230,7 +2250,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Pata Negra Mezcaleria",
@@ -2269,7 +2290,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Pit Boss",
@@ -2364,7 +2386,8 @@
    ],
    "vb": "taco",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Taqueria La Oaxaqueña",
@@ -2381,7 +2404,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Tum Pok Pok",
@@ -2399,7 +2423,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Twisted Soul Cookhouse & Pours",
@@ -2424,7 +2449,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Zyka: The Taste",
@@ -2501,7 +2527,8 @@
     ]
    ],
    "vb": "bbq",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Desta Ethiopian Kitchen",
@@ -2536,7 +2563,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Antico Pizza Napoletana",
@@ -2566,7 +2594,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Highland Tap",
@@ -2630,7 +2659,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Sammy's",
@@ -2687,7 +2717,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "So So Fed",
@@ -2750,7 +2781,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Sargent",
@@ -2805,7 +2837,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "BEY Mediterranean Kitchen & Bar",
@@ -3023,7 +3056,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Fred's Meat & Bread",
@@ -3074,7 +3108,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Holeman and Finch Public House",
@@ -3091,7 +3126,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "The Magic City Kitchen",

@@ -152,7 +152,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Iggy's",
@@ -332,7 +333,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Maíz De La Vida",
@@ -497,7 +499,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Tantísimo",
@@ -570,7 +573,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Xiao Bao",
@@ -600,7 +604,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "St. Vito Focacceria",
@@ -656,7 +661,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Kien Giang",
@@ -674,7 +680,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Bolton's Famous Hot Chicken",
@@ -695,7 +702,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "City House",
@@ -839,7 +847,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Sho Pizza Bar",
@@ -861,7 +870,8 @@
    ],
    "vb": "italian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "East Side Banh Mi",
@@ -879,7 +889,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "FatBelly Pretzel",
@@ -896,7 +907,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Big Al's Deli",
@@ -913,7 +925,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Turkey and the Wolf Icehouse",
@@ -930,7 +943,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Dino's Bar & Grill",
@@ -947,7 +961,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": true
+   "dual": true,
+   "to": 1
   },
   {
    "name": "Lockeland Table",
@@ -1011,7 +1026,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Little Hats Market",
@@ -1087,7 +1103,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "VN Pho & Deli",
@@ -1105,7 +1122,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "The Butter Milk Ranch",
@@ -1122,7 +1140,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Gojo Ethiopian",
@@ -1193,7 +1212,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Audrey & June",
@@ -1516,7 +1536,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Joyland",
@@ -1533,7 +1554,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Five Points Pizza",
@@ -1551,7 +1573,8 @@
    ],
    "vb": "italian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "The Southern V",
@@ -1569,7 +1592,8 @@
    ],
    "vb": "specialty",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Redheaded Stranger",
@@ -1587,7 +1611,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Otaku Ramen",
@@ -1604,7 +1629,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Prince's Hot Chicken Shack",
@@ -1625,7 +1651,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Loveless Cafe",
@@ -1642,7 +1669,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Pancake Pantry",
@@ -1694,7 +1722,8 @@
    ],
    "vb": "lunch",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Cal's Country Kitchen",
@@ -1711,7 +1740,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   }
  ],
  "bars": [

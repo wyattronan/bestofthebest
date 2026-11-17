@@ -15,7 +15,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Tomo",
@@ -67,7 +68,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Mezzanotte",
@@ -146,7 +148,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Off Alley",
@@ -302,7 +305,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "E-Jae Pak Mor",
@@ -320,7 +324,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Dim Sum King",
@@ -338,7 +343,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "The Boat",
@@ -355,7 +361,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "L'Oursin",
@@ -600,7 +607,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Joule",
@@ -650,7 +658,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Kamonegi",
@@ -787,7 +796,8 @@
    ],
    "vb": "lunch",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Windy City Pie",
@@ -805,7 +815,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Three Sacks Full",
@@ -826,7 +837,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Un Bien",
@@ -851,7 +863,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "La Cabaña",
@@ -872,7 +885,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Ahadu",
@@ -1095,7 +1109,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Chicken Supply",
@@ -1112,7 +1127,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Drae's Lake Route Eatery",
@@ -1232,7 +1248,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Lark",
@@ -1300,7 +1317,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "MariPili Tapas Bar",
@@ -1397,7 +1415,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Pho Bac Súp Shop",
@@ -1414,7 +1433,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Saint Bread",
@@ -1431,7 +1451,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Secret Congee",
@@ -1452,7 +1473,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Sophon",
@@ -1473,7 +1495,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Taneda Sushi in Kaiseki",
@@ -1550,7 +1573,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Cafe Juanita",
@@ -1586,7 +1610,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Sushi Kashiba",
@@ -1646,7 +1671,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Miss Pho",
@@ -1667,7 +1693,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Lupe's Situ Tacos",
@@ -1684,7 +1711,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Cornelly",
@@ -1760,7 +1788,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Bar Bayonne",
@@ -1845,7 +1874,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Doris",
@@ -1879,7 +1909,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Le Pichet",
@@ -1964,7 +1995,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Asadero Ballard",
@@ -1981,7 +2013,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Itto's Tapas",
@@ -2033,7 +2066,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   }
  ],
  "bars": [

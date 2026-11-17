@@ -338,7 +338,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Mijoté",
@@ -674,7 +675,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "to": 1
   },
   {
    "name": "Copra",
@@ -769,7 +771,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Kiln",
@@ -963,7 +966,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "to": 1
   },
   {
    "name": "Angler",
@@ -1012,7 +1016,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Aziza",
@@ -1088,7 +1093,8 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch"
+   "vb": "lunch",
+   "to": 1
   },
   {
    "name": "Dalida",
@@ -1193,7 +1199,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "La Taqueria",
@@ -1218,7 +1225,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taqueria"
+   "vb": "taqueria",
+   "to": 1
   },
   {
    "name": "Lunette",
@@ -1245,7 +1253,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Mandalay",
@@ -1268,7 +1277,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Niku Steakhouse",
@@ -1355,7 +1365,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Pearl 6101",
@@ -1504,7 +1515,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taqueria"
+   "vb": "taqueria",
+   "to": 1
   },
   {
    "name": "Thanh Long",
@@ -1527,7 +1539,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Via Aurelia",
@@ -1570,7 +1583,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "3rd Cousin",
@@ -1620,7 +1634,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Acquerello",
@@ -1657,7 +1672,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Bar Maritime",
@@ -1729,7 +1745,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Bon Delire",
@@ -1778,7 +1795,8 @@
    "pr": 1,
    "lists": [],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "to": 1
   },
   {
    "name": "Caché",
@@ -1812,7 +1830,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "to": 1
   },
   {
    "name": "Colibri",
@@ -1830,7 +1849,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Comal",
@@ -1848,7 +1868,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Commis",
@@ -1886,7 +1907,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Daeho",
@@ -1904,7 +1926,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Dingles Public House",
@@ -1938,7 +1961,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "El Buen Comer",
@@ -1956,7 +1980,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "El Mil Amores",
@@ -1972,7 +1997,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Fikscue Thrive City",
@@ -1990,7 +2016,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "to": 1
   },
   {
    "name": "FOB Kitchen",
@@ -2008,7 +2035,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Fog Harbor Fish House",
@@ -2044,7 +2072,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "to": 1
   },
   {
    "name": "Good Mong Kok",
@@ -2062,7 +2091,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "to": 1
   },
   {
    "name": "Great China",
@@ -2080,7 +2110,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Hilda and Jesse",
@@ -2119,7 +2150,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "to": 1
   },
   {
    "name": "House of Prime Rib",
@@ -2199,7 +2231,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Joodooboo",
@@ -2222,7 +2255,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "JouJou",
@@ -2275,7 +2309,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Kitchen Istanbul",
@@ -2338,7 +2373,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Loltun",
@@ -2354,7 +2390,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Madcap",
@@ -2413,7 +2450,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Maria Isabel",
@@ -2433,7 +2471,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Marufuku Ramen",
@@ -2466,7 +2505,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Nope Fish",
@@ -2498,7 +2538,8 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch"
+   "vb": "lunch",
+   "to": 1
   },
   {
    "name": "Octavia",
@@ -2551,7 +2592,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Osso Steakhouse",
@@ -2605,7 +2647,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Pausa",
@@ -2659,7 +2702,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Playa",
@@ -2676,7 +2720,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Popoca",
@@ -2699,7 +2744,8 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch"
+   "vb": "lunch",
+   "to": 1
   },
   {
    "name": "Rad Radish",
@@ -2781,7 +2827,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Saigon Sandwich",
@@ -2800,7 +2847,8 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch"
+   "vb": "lunch",
+   "to": 1
   },
   {
    "name": "Sam's Grill",
@@ -2893,7 +2941,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Side A",
@@ -2948,7 +2997,8 @@
    "pr": 2,
    "lists": [],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Sorrel",
@@ -3035,7 +3085,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taqueria"
+   "vb": "taqueria",
+   "to": 1
   },
   {
    "name": "Taishan Cuisine",
@@ -3055,7 +3106,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Taqueria Cancun",
@@ -3073,7 +3125,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taqueria"
+   "vb": "taqueria",
+   "to": 1
   },
   {
    "name": "Taqueria El Farolito",
@@ -3091,7 +3144,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taqueria"
+   "vb": "taqueria",
+   "to": 1
   },
   {
    "name": "Teni East Kitchen",
@@ -3110,7 +3164,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "The Post Room",
@@ -3142,7 +3197,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Tiya",
@@ -3370,7 +3426,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "to": 1
   },
   {
    "name": "Z&Y",
@@ -3388,7 +3445,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Z&Y Peking Duck",
@@ -3406,7 +3464,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "to": 1
   },
   {
    "name": "Fù Huì Huá",
@@ -3478,7 +3537,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "La Vaca Birria",
@@ -3495,7 +3555,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Bo Ne Phu Yen",
@@ -3648,7 +3709,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Lou's Takeaway",
@@ -3703,7 +3765,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Peña's Bakery",
@@ -3720,7 +3783,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Spicy Joi",
@@ -3941,7 +4005,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Reem's",
@@ -3975,7 +4040,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Enclos",
@@ -4077,7 +4143,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Keeku da Dhaba",
@@ -4268,7 +4335,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Mr. Pollo",
@@ -4285,7 +4353,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Kokkari Estiatorio",
@@ -4319,7 +4388,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "El Gallo Giro",
@@ -4336,7 +4406,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   }
  ],
  "bars": [

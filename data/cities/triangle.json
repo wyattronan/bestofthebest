@@ -215,7 +215,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Mala Pata",
@@ -286,7 +287,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Tamasha",
@@ -373,7 +375,8 @@
    ],
    "vb": "italian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Death & Taxes",
@@ -430,7 +433,8 @@
    ],
    "vb": "italian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "St. Roch Fine Oysters",
@@ -532,7 +536,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Herons",
@@ -568,7 +573,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": true
+   "dual": true,
+   "to": 1
   },
   {
    "name": "Little Bull",
@@ -709,7 +715,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Guglhupf",
@@ -726,7 +733,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "The Q Shack",
@@ -743,7 +751,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Sunrise Biscuit Kitchen",
@@ -777,7 +786,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Cosmic Cantina",
@@ -795,7 +805,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Jade Palace",
@@ -813,7 +824,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Cocoa Cinnamon",
@@ -830,7 +842,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "The Parlour",
@@ -847,7 +860,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Chirba Chirba",
@@ -865,7 +879,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Vimala's Curryblossom Cafe",
@@ -900,7 +915,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Mezcalito",
@@ -952,7 +968,8 @@
    ],
    "vb": "italian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Succotash",
@@ -969,7 +986,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Thai Cafe",
@@ -987,7 +1005,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Heavenly Buffaloes",
@@ -1004,7 +1023,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   }
  ],
  "bars": [

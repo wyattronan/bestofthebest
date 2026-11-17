@@ -618,7 +618,8 @@
     ]
    ],
    "vb": "cheesesteak",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Sao",
@@ -665,7 +666,8 @@
    ],
    "vb": "specialty",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Sang Kee Peking Duck House",
@@ -691,7 +693,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "El Chingón",
@@ -755,7 +758,8 @@
    ],
    "vb": "specialty",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Chibanos",
@@ -839,7 +843,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": true
+   "dual": true,
+   "to": 1
   },
   {
    "name": "Roxanne",
@@ -1202,7 +1207,8 @@
    ],
    "vb": "specialty",
    "dual": true,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Mish Mish",
@@ -1435,7 +1441,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Dante & Luigi's",
@@ -1524,7 +1531,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Nan Zhou Hand Drawn Noodle House",
@@ -1542,7 +1550,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "South Philly Barbacoa",
@@ -1609,7 +1618,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "White Dog Cafe",
@@ -1644,7 +1654,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Ekta Indian Cuisine",
@@ -1876,7 +1887,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Sulimay's",
@@ -1893,7 +1905,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "South",
@@ -1945,7 +1958,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Banshee",
@@ -1996,7 +2010,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Dalessandro's Steaks",
@@ -2017,7 +2032,8 @@
     ]
    ],
    "vb": "cheesesteak",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Woodrow's Sandwich Shop",
@@ -2038,7 +2054,8 @@
     ]
    ],
    "vb": "cheesesteak",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Joe's Steaks + Soda Shop",
@@ -2059,7 +2076,8 @@
     ]
    ],
    "vb": "cheesesteak",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Chubby's Steaks",
@@ -2080,7 +2098,8 @@
     ]
    ],
    "vb": "cheesesteak",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Jim's South Street",
@@ -2101,7 +2120,8 @@
     ]
    ],
    "vb": "cheesesteak",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Cleavers",
@@ -2122,7 +2142,8 @@
     ]
    ],
    "vb": "cheesesteak",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "John's Roast Pork",
@@ -2139,7 +2160,8 @@
     ]
    ],
    "vb": "cheesesteak",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Mike's BBQ",
@@ -2156,7 +2178,8 @@
     ]
    ],
    "vb": "cheesesteak",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Oh Brother Philly",
@@ -2173,7 +2196,8 @@
     ]
    ],
    "vb": "cheesesteak",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Campo's",
@@ -2190,7 +2214,8 @@
     ]
    ],
    "vb": "cheesesteak",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Cosmi's Deli",
@@ -2207,7 +2232,8 @@
     ]
    ],
    "vb": "cheesesteak",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Pat's King of Steaks",
@@ -2224,7 +2250,8 @@
     ]
    ],
    "vb": "cheesesteak",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Sonny's Famous Steaks",
@@ -2241,7 +2268,8 @@
     ]
    ],
    "vb": "cheesesteak",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Geno's Steaks",
@@ -2258,7 +2286,8 @@
     ]
    ],
    "vb": "cheesesteak",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Donkey's Place",
@@ -2275,7 +2304,8 @@
     ]
    ],
    "vb": "cheesesteak",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Ishkabibble's",
@@ -2292,7 +2322,8 @@
     ]
    ],
    "vb": "cheesesteak",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Sakana Omakase Sushi",

@@ -52,7 +52,8 @@
     ]
    ],
    "vb": "latindc",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Tâm Tâm",
@@ -133,7 +134,8 @@
     ]
    ],
    "vb": "latindc",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Ariete",
@@ -258,7 +260,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Macchialina",
@@ -342,7 +345,8 @@
     ]
    ],
    "vb": "latindc",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Cotoa",
@@ -465,7 +469,8 @@
     ]
    ],
    "vb": "latindc",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Daniel's Miami",
@@ -504,7 +509,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "El Bagel",
@@ -521,7 +527,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Long Gong",
@@ -539,7 +546,8 @@
    ],
    "vb": "lunch",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "B & M Market and Roti Shop",
@@ -557,7 +565,8 @@
    ],
    "vb": "lunch",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Frankie & Wally's",
@@ -578,7 +587,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "L'Atelier de Joël Robuchon",
@@ -719,7 +729,8 @@
    ],
    "vb": "latindc",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Mutra",
@@ -870,7 +881,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Chug's Diner",
@@ -887,7 +899,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "El Turco",
@@ -952,7 +965,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "La Natural",
@@ -974,7 +988,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Lucali",
@@ -992,7 +1007,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Mandolin Aegean Bistro",
@@ -1081,7 +1097,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Tinta y Cafe",
@@ -1102,7 +1119,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Claudie",
@@ -1342,7 +1360,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Islas Canarias Restaurant",
@@ -1359,7 +1378,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Lil Greenhouse Grill",
@@ -1376,7 +1396,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Lung Yai Thai Tapas",
@@ -1394,7 +1415,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Rusty Pelican",
@@ -1428,7 +1450,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Awash",
@@ -1501,7 +1524,8 @@
     ]
    ],
    "vb": "latindc",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Niu Kitchen",
@@ -1648,7 +1672,8 @@
     ]
    ],
    "vb": "latindc",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Klaw Miami",
@@ -1699,7 +1724,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "LPM Miami",
@@ -1733,7 +1759,8 @@
     ]
    ],
    "vb": "latindc",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Nuna",
@@ -1750,7 +1777,8 @@
     ]
    ],
    "vb": "latindc",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Bouchon Bistro",
@@ -1820,7 +1848,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Tokyo Tuna",
@@ -1837,7 +1866,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Apocalypse BBQ",
@@ -1854,7 +1884,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Amelia's 1931",
@@ -1871,7 +1902,8 @@
     ]
    ],
    "vb": "latindc",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Drinking Pig BBQ",
@@ -1888,7 +1920,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "El Mago de las Fritas",
@@ -1905,7 +1938,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Happy Wine Calle Ocho",
@@ -1922,7 +1956,8 @@
     ]
    ],
    "vb": "latindc",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "La Camaronera",
@@ -1939,7 +1974,8 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Ricky Thai Bistro",
@@ -1957,7 +1993,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Tin Tin",
@@ -1993,7 +2030,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "to": 1
   },
   {
    "name": "Itamae AO",

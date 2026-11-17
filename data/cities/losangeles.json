@@ -418,7 +418,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Restaurant Ki",
@@ -629,7 +630,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "RVR",
@@ -733,7 +735,8 @@
     ]
    ],
    "dual": false,
-   "vb": "healthy"
+   "vb": "healthy",
+   "to": 1
   },
   {
    "name": "Antico Nuovo",
@@ -856,7 +859,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Jitlada",
@@ -908,7 +912,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "to": 1
   },
   {
    "name": "Morihiro",
@@ -1026,7 +1031,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Saffy's",
@@ -1113,7 +1119,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Sushi Kaneyoshi",
@@ -1389,7 +1396,8 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch"
+   "vb": "lunch",
+   "to": 1
   },
   {
    "name": "Last",
@@ -1431,7 +1439,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taco"
+   "vb": "taco",
+   "to": 1
   },
   {
    "name": "Little Fish",
@@ -1479,7 +1488,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Luv2Eat Thai Bistro",
@@ -1692,7 +1702,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Sushi Sonagi",
@@ -1739,7 +1750,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taco"
+   "vb": "taco",
+   "to": 1
   },
   {
    "name": "Vin Folk",
@@ -1868,7 +1880,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Amor y Tacos",
@@ -1886,7 +1899,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taco"
+   "vb": "taco",
+   "to": 1
   },
   {
    "name": "APL BBQ Pop Up",
@@ -1902,7 +1916,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "to": 1
   },
   {
    "name": "Apollonia's",
@@ -1920,7 +1935,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Badmaash Fairfax",
@@ -1957,7 +1973,8 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch"
+   "vb": "lunch",
+   "to": 1
   },
   {
    "name": "Bar di Bello",
@@ -2010,7 +2027,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taco"
+   "vb": "taco",
+   "to": 1
   },
   {
    "name": "Bell's",
@@ -2101,7 +2119,8 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch"
+   "vb": "lunch",
+   "to": 1
   },
   {
    "name": "Broken Spanish Comedor",
@@ -2123,7 +2142,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Café Telegrama",
@@ -2212,7 +2232,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taco"
+   "vb": "taco",
+   "to": 1
   },
   {
    "name": "Chainsaw",
@@ -2321,7 +2342,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Corridor 109",
@@ -2392,7 +2414,8 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch"
+   "vb": "lunch",
+   "to": 1
   },
   {
    "name": "Crossroads Kitchen",
@@ -2411,7 +2434,8 @@
     ]
    ],
    "dual": false,
-   "vb": "healthy"
+   "vb": "healthy",
+   "to": 1
   },
   {
    "name": "Dai Ho",
@@ -2517,7 +2541,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Etra",
@@ -2558,7 +2583,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Genwa Korean BBQ",
@@ -2593,7 +2619,8 @@
     ]
    ],
    "dual": false,
-   "vb": "healthy"
+   "vb": "healthy",
+   "to": 1
   },
   {
    "name": "Gjusta",
@@ -2611,7 +2638,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "to": 1
   },
   {
    "name": "Goldburger Los Feliz",
@@ -2630,7 +2658,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Gra",
@@ -2647,7 +2676,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Guelaguetza",
@@ -2791,7 +2821,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Howlin' Ray's",
@@ -2809,7 +2840,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "to": 1
   },
   {
    "name": "Ipoh Kopitiam",
@@ -2914,7 +2946,8 @@
     ]
    ],
    "dual": false,
-   "vb": "healthy"
+   "vb": "healthy",
+   "to": 1
   },
   {
    "name": "Kismet",
@@ -2936,7 +2969,8 @@
     ]
    ],
    "dual": false,
-   "vb": "healthy"
+   "vb": "healthy",
+   "to": 1
   },
   {
    "name": "KOJIMA",
@@ -3252,7 +3286,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Mae Malai",
@@ -3290,7 +3325,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taco"
+   "vb": "taco",
+   "to": 1
   },
   {
    "name": "Matū",
@@ -3364,7 +3400,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Meteora",
@@ -3563,7 +3600,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "to": 1
   },
   {
    "name": "Pasjoli",
@@ -3653,7 +3691,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Pizzeria Bianco",
@@ -3671,7 +3710,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Pizzeria Mozza",
@@ -3689,7 +3729,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Pollo a la Brasa",
@@ -3707,7 +3748,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "RasaRumah",
@@ -3763,7 +3805,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Ronan",
@@ -3781,7 +3824,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Rossoblu",
@@ -3815,7 +3859,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "to": 1
   },
   {
    "name": "San Damián",
@@ -3834,7 +3879,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Sea Harbour",
@@ -3943,7 +3989,8 @@
     ]
    ],
    "dual": false,
-   "vb": "healthy"
+   "vb": "healthy",
+   "to": 1
   },
   {
    "name": "Stir Crazy",
@@ -4019,7 +4066,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taco"
+   "vb": "taco",
+   "to": 1
   },
   {
    "name": "Tev's & Family Kitchen",
@@ -4090,7 +4138,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taco"
+   "vb": "taco",
+   "to": 1
   },
   {
    "name": "Tomat",
@@ -4129,7 +4178,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "to": 1
   },
   {
    "name": "Union",
@@ -4187,7 +4237,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taco"
+   "vb": "taco",
+   "to": 1
   },
   {
    "name": "Wilde's",
@@ -4513,7 +4564,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Budonoki",
@@ -4598,7 +4650,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Lorenzo California",
@@ -4666,7 +4719,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Bao Kee Cafe",
@@ -4683,7 +4737,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Tainos L.A.",
@@ -4785,7 +4840,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Al Baraka Restaurant",
@@ -4921,7 +4977,8 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false
+   "dual": false,
+   "to": 1
   },
   {
    "name": "Angel's Tijuana Tacos",
@@ -4938,7 +4995,8 @@
     ]
    ],
    "vb": "quick",
-   "dual": false
+   "dual": false,
+   "to": 1
   }
  ],
  "bars": [
