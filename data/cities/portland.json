@@ -1233,7 +1233,9 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "cl": 1,
+   "note": "Permanently closed (Feb 2026)"
   },
   {
    "name": "RingSide Steakhouse",
