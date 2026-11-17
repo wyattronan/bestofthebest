@@ -1712,6 +1712,22 @@
     [
      "dobar",
      1
+    ],
+    [
+     "barmagdal",
+     null
+    ],
+    [
+     "infatdal",
+     null
+    ],
+    [
+     "timeoutdal",
+     null
+    ],
+    [
+     "eaterdal",
+     null
     ]
    ],
    "vb": "mixo",
@@ -1732,6 +1748,10 @@
     [
      "dmagbar",
      null
+    ],
+    [
+     "thrilldal",
+     null
     ]
    ],
    "vb": "mixo",
@@ -1748,6 +1768,18 @@
     [
      "dobar",
      3
+    ],
+    [
+     "barmagdal",
+     null
+    ],
+    [
+     "bonappdal",
+     null
+    ],
+    [
+     "timeoutdal",
+     null
     ]
    ],
    "vb": "mixo",
@@ -1767,6 +1799,22 @@
     ],
     [
      "dmagbar",
+     null
+    ],
+    [
+     "barmagdal",
+     null
+    ],
+    [
+     "timeoutdal",
+     null
+    ],
+    [
+     "eaterdal",
+     null
+    ],
+    [
+     "thrilldal",
      null
     ]
    ],
@@ -1804,6 +1852,22 @@
     [
      "dmagbar",
      null
+    ],
+    [
+     "barmagdal",
+     null
+    ],
+    [
+     "infatdal",
+     null
+    ],
+    [
+     "timeoutdal",
+     null
+    ],
+    [
+     "eaterdal",
+     null
     ]
    ],
    "vb": "mixo",
@@ -1820,6 +1884,14 @@
     [
      "dobar",
      7
+    ],
+    [
+     "barmagdal",
+     null
+    ],
+    [
+     "bonappdal",
+     null
     ]
    ],
    "vb": "vibey",
@@ -1872,6 +1944,26 @@
     [
      "dmagbar",
      null
+    ],
+    [
+     "barmagdal",
+     null
+    ],
+    [
+     "infatdal",
+     null
+    ],
+    [
+     "timeoutdal",
+     null
+    ],
+    [
+     "eaterdal",
+     null
+    ],
+    [
+     "thrilldal",
+     null
     ]
    ],
    "vb": "mixo",
@@ -1888,6 +1980,14 @@
     [
      "dobar",
      11
+    ],
+    [
+     "barmagdal",
+     null
+    ],
+    [
+     "bonappdal",
+     null
     ]
    ],
    "vb": "mixo",
@@ -1908,6 +2008,34 @@
     [
      "dmagbar",
      null
+    ],
+    [
+     "barmagdal",
+     null
+    ],
+    [
+     "infatdal",
+     null
+    ],
+    [
+     "bonappdal",
+     null
+    ],
+    [
+     "timeoutdal",
+     null
+    ],
+    [
+     "eaterdal",
+     null
+    ],
+    [
+     "thrilldal",
+     null
+    ],
+    [
+     "cntdal",
+     null
     ]
    ],
    "vb": "mixo",
@@ -1923,6 +2051,10 @@
    "lists": [
     [
      "dmagbar",
+     null
+    ],
+    [
+     "cntdal",
      null
     ]
    ],
@@ -1956,6 +2088,18 @@
     [
      "dmagbar",
      null
+    ],
+    [
+     "barmagdal",
+     null
+    ],
+    [
+     "dalobsdal",
+     null
+    ],
+    [
+     "bonappdal",
+     null
     ]
    ],
    "vb": "mixo",
@@ -1987,6 +2131,10 @@
    "lists": [
     [
      "dmagbar",
+     null
+    ],
+    [
+     "barmagdal",
      null
     ]
    ],
@@ -2052,6 +2200,14 @@
     [
      "dmagbar",
      null
+    ],
+    [
+     "infatdal",
+     null
+    ],
+    [
+     "thrilldal",
+     null
     ]
    ],
    "vb": "dive",
@@ -2068,6 +2224,10 @@
     [
      "dmagbar",
      null
+    ],
+    [
+     "thrilldal",
+     null
     ]
    ],
    "vb": "wine",
@@ -2083,6 +2243,22 @@
    "lists": [
     [
      "dmagbar",
+     null
+    ],
+    [
+     "infatdal",
+     null
+    ],
+    [
+     "bonappdal",
+     null
+    ],
+    [
+     "timeoutdal",
+     null
+    ],
+    [
+     "thrilldal",
      null
     ]
    ],
@@ -2180,6 +2356,14 @@
     [
      "dmagbar",
      null
+    ],
+    [
+     "infatdal",
+     null
+    ],
+    [
+     "cntdal",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2195,6 +2379,10 @@
    "lists": [
     [
      "dmagbar",
+     null
+    ],
+    [
+     "cntdal",
      null
     ]
    ],
@@ -2212,6 +2400,14 @@
     [
      "dmagbar",
      null
+    ],
+    [
+     "bonappdal",
+     null
+    ],
+    [
+     "eaterdal",
+     null
     ]
    ],
    "vb": "livemusic",
@@ -2227,6 +2423,14 @@
    "lists": [
     [
      "dmagbar",
+     null
+    ],
+    [
+     "dalobsdal",
+     null
+    ],
+    [
+     "cntdal",
      null
     ]
    ],
@@ -2244,6 +2448,22 @@
     [
      "dmagbar",
      null
+    ],
+    [
+     "barmagdal",
+     null
+    ],
+    [
+     "infatdal",
+     null
+    ],
+    [
+     "eaterdal",
+     null
+    ],
+    [
+     "thrilldal",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2260,6 +2480,14 @@
     [
      "dmagbar",
      null
+    ],
+    [
+     "timeoutdal",
+     null
+    ],
+    [
+     "cntdal",
+     null
     ]
    ],
    "vb": "dive",
@@ -2275,6 +2503,10 @@
    "lists": [
     [
      "dmagbar",
+     null
+    ],
+    [
+     "cntdal",
      null
     ]
    ],
@@ -2323,6 +2555,18 @@
    "lists": [
     [
      "dmagbar",
+     null
+    ],
+    [
+     "infatdal",
+     null
+    ],
+    [
+     "bonappdal",
+     null
+    ],
+    [
+     "timeoutdal",
      null
     ]
    ],
@@ -2404,6 +2648,10 @@
     [
      "dmagbar",
      null
+    ],
+    [
+     "infatdal",
+     null
     ]
    ],
    "vb": "livemusic",
@@ -2419,6 +2667,10 @@
    "lists": [
     [
      "dmagbar",
+     null
+    ],
+    [
+     "thrilldal",
      null
     ]
    ],
@@ -2436,6 +2688,14 @@
     [
      "dmagbar",
      null
+    ],
+    [
+     "bonappdal",
+     null
+    ],
+    [
+     "timeoutdal",
+     null
     ]
    ],
    "vb": "party",
@@ -2451,6 +2711,14 @@
    "lists": [
     [
      "dmagbar",
+     null
+    ],
+    [
+     "infatdal",
+     null
+    ],
+    [
+     "eaterdal",
      null
     ]
    ],
@@ -2516,6 +2784,10 @@
     [
      "dmagbar",
      null
+    ],
+    [
+     "eaterdal",
+     null
     ]
    ],
    "vb": "vibey",
@@ -2564,6 +2836,10 @@
     [
      "dmagbar",
      null
+    ],
+    [
+     "cntdal",
+     null
     ]
    ],
    "vb": "dive",
@@ -2596,6 +2872,18 @@
     [
      "dmagbar",
      null
+    ],
+    [
+     "timeoutdal",
+     null
+    ],
+    [
+     "eaterdal",
+     null
+    ],
+    [
+     "cntdal",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2611,6 +2899,14 @@
    "lists": [
     [
      "dmagbar",
+     null
+    ],
+    [
+     "infatdal",
+     null
+    ],
+    [
+     "cntdal",
      null
     ]
    ],
@@ -2643,6 +2939,14 @@
    "lists": [
     [
      "dmagbar",
+     null
+    ],
+    [
+     "thrilldal",
+     null
+    ],
+    [
+     "cntdal",
      null
     ]
    ],
@@ -2692,6 +2996,14 @@
     [
      "dmagbar",
      null
+    ],
+    [
+     "infatdal",
+     null
+    ],
+    [
+     "eaterdal",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2728,6 +3040,450 @@
    ],
    "vb": "mixo",
    "dual": false
+  },
+  {
+   "name": "Bourbon & Banter",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7806782,
+   "lng": -96.7947182,
+   "lists": [
+    [
+     "barmagdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Columbian Country Club",
+   "hood": "Bryan Place",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7956036,
+   "lng": -96.7886198,
+   "lists": [
+    [
+     "barmagdal",
+     null
+    ],
+    [
+     "eaterdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Upside West Village",
+   "hood": "Uptown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.8062795,
+   "lng": -96.7943163,
+   "lists": [
+    [
+     "barmagdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Alamo Club",
+   "hood": "Lower Greenville",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 32.8141255,
+   "lng": -96.7704645,
+   "lists": [
+    [
+     "infatdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Shyboy HiFi",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7805249,
+   "lng": -96.8003489,
+   "lists": [
+    [
+     "infatdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Sylvestro",
+   "hood": "Uptown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.8042489,
+   "lng": -96.7738643,
+   "lists": [
+    [
+     "infatdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Armoury D.E.",
+   "hood": "Deep Ellum",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7844333,
+   "lng": -96.7840917,
+   "lists": [
+    [
+     "infatdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Kilmac's",
+   "hood": "Oak Cliff",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7493983,
+   "lng": -96.8364253,
+   "lists": [
+    [
+     "infatdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Black Swan Saloon",
+   "hood": "Bryan Place",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7951756,
+   "lng": -96.7889994,
+   "lists": [
+    [
+     "infatdal",
+     null
+    ],
+    [
+     "dalobsdal",
+     null
+    ],
+    [
+     "eaterdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Triumphs Espresso and Whiskey",
+   "hood": "Design District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.794223,
+   "lng": -96.8310407,
+   "lists": [
+    [
+     "dalobsdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Wild Detectives",
+   "hood": "Bishop Arts",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7478889,
+   "lng": -96.8272483,
+   "lists": [
+    [
+     "dalobsdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Opening Bell Coffee",
+   "hood": "Cedars",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 32.7673584,
+   "lng": -96.796026,
+   "lists": [
+    [
+     "dalobsdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Rye",
+   "hood": "Lower Greenville",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.8134924,
+   "lng": -96.7698533,
+   "lists": [
+    [
+     "timeoutdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Ellie's Restaurant & Lounge",
+   "hood": "Arts District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7895023,
+   "lng": -96.7965523,
+   "lists": [
+    [
+     "timeoutdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Grapevine Bar",
+   "hood": "Medical District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.8152237,
+   "lng": -96.8378847,
+   "lists": [
+    [
+     "timeoutdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Rayo",
+   "hood": "Expo Park",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7820145,
+   "lng": -96.766598,
+   "lists": [
+    [
+     "eaterdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bar Eden",
+   "hood": "Bishop Arts",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7474004,
+   "lng": -96.8278015,
+   "lists": [
+    [
+     "thrilldal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Tannahill's Tavern & Music Hall",
+   "hood": "Stockyards",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7883403,
+   "lng": -97.3477735,
+   "lists": [
+    [
+     "thrilldal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Mayer's Garden",
+   "hood": "Knox-Henderson",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 32.8157526,
+   "lng": -96.7792103,
+   "lists": [
+    [
+     "thrilldal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Casablanca",
+   "hood": "Bishop Arts",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7465685,
+   "lng": -96.828072,
+   "lists": [
+    [
+     "thrilldal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Neon Kitten",
+   "hood": "Deep Ellum",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7841732,
+   "lng": -96.7832527,
+   "lists": [
+    [
+     "thrilldal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Atlas",
+   "hood": "Bishop Arts",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7484432,
+   "lng": -96.8282014,
+   "lists": [
+    [
+     "thrilldal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Clifton Club",
+   "hood": "Uptown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.8169563,
+   "lng": -96.7941493,
+   "lists": [
+    [
+     "thrilldal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Federales",
+   "hood": "Deep Ellum",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7832696,
+   "lng": -96.7823338,
+   "lists": [
+    [
+     "thrilldal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "PM Lounge",
+   "hood": "Knox-Henderson",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.820907,
+   "lng": -96.7848656,
+   "lists": [
+    [
+     "thrilldal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Shoals Sound & Service",
+   "hood": "Deep Ellum",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7840029,
+   "lng": -96.7858981,
+   "lists": [
+    [
+     "cntdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Rapscallion",
+   "hood": "Lower Greenville",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.8152446,
+   "lng": -96.770449,
+   "lists": [
+    [
+     "cntdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
   }
  ],
  "rlists": {
@@ -2820,6 +3576,78 @@
    "tag": "D MAGAZINE",
    "name": "D Magazine's Ultimate Dallas Bar Guide",
    "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "barmagdal": {
+   "cls": "b-barmagdal",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The 14 Best Bars in Dallas",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "infatdal": {
+   "cls": "b-infatdal",
+   "mono": "IN",
+   "tag": "INFAT",
+   "name": "The Infatuation: The Best Bars in Dallas",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "dalobsdal": {
+   "cls": "b-dalobsdal",
+   "mono": "DO",
+   "tag": "DAL OBS",
+   "name": "Dallas Observer: Where to Take Out-of-Town Guests in Dallas: The Ultimate Local Dining and Drinking Guide",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "bonappdal": {
+   "cls": "b-bonappdal",
+   "mono": "BA",
+   "tag": "BON APP",
+   "name": "Bon Appétit: The 9 Best Bars in Dallas Right Now",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "timeoutdal": {
+   "cls": "b-timeoutdal",
+   "mono": "TO",
+   "tag": "TIME OUT",
+   "name": "Time Out: The Best Bars in Dallas Right Now",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "eaterdal": {
+   "cls": "b-eaterdal",
+   "mono": "EAT",
+   "tag": "EATER",
+   "name": "Eater Dallas: The Best Bars in Dallas",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "thrilldal": {
+   "cls": "b-thrilldal",
+   "mono": "TH",
+   "tag": "THRILLIST",
+   "name": "Thrillist: Where to Grab a Drink in Dallas Right Now",
+   "year": "2023",
+   "ranked": false,
+   "starChip": false
+  },
+  "cntdal": {
+   "cls": "b-cntdal",
+   "mono": "CN",
+   "tag": "CN TRAV",
+   "name": "Condé Nast Traveler: 15 Best Bars in Dallas",
+   "year": "2018",
    "ranked": false,
    "starChip": false
   }

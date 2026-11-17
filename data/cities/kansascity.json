@@ -527,6 +527,10 @@
     [
      "timeout",
      null
+    ],
+    [
+     "barmagkc",
+     null
     ]
    ],
    "dual": false,
@@ -542,6 +546,10 @@
    "lists": [
     [
      "timeout",
+     null
+    ],
+    [
+     "barmagkc",
      null
     ]
    ],
@@ -559,6 +567,10 @@
     [
      "timeout",
      null
+    ],
+    [
+     "barmagkc",
+     null
     ]
    ],
    "dual": false,
@@ -574,6 +586,18 @@
    "lists": [
     [
      "timeout",
+     null
+    ],
+    [
+     "barmagkc",
+     null
+    ],
+    [
+     "kcurkc",
+     null
+    ],
+    [
+     "foodwinekc",
      null
     ]
    ],
@@ -595,6 +619,10 @@
     [
      "visitkc",
      null
+    ],
+    [
+     "barmagkc",
+     null
     ]
    ],
    "dual": false,
@@ -610,6 +638,14 @@
    "lists": [
     [
      "timeout",
+     null
+    ],
+    [
+     "barmagkc",
+     null
+    ],
+    [
+     "kcurkc",
      null
     ]
    ],
@@ -643,6 +679,10 @@
     [
      "timeout",
      null
+    ],
+    [
+     "barmagkc",
+     null
     ]
    ],
    "dual": false,
@@ -663,6 +703,10 @@
     [
      "visitkc",
      null
+    ],
+    [
+     "barmagkc",
+     null
     ]
    ],
    "dual": false,
@@ -682,6 +726,18 @@
     ],
     [
      "visitkc",
+     null
+    ],
+    [
+     "barmagkc",
+     null
+    ],
+    [
+     "kcurkc",
+     null
+    ],
+    [
+     "foodwinekc",
      null
     ]
    ],
@@ -779,6 +835,14 @@
     [
      "visitkc",
      null
+    ],
+    [
+     "barmagkc",
+     null
+    ],
+    [
+     "foodwinekc",
+     null
     ]
    ],
    "dual": false,
@@ -815,6 +879,330 @@
    ],
    "dual": false,
    "vb": "vibey"
+  },
+  {
+   "name": "Fern Bar",
+   "hood": "Crossroads",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0876857,
+   "lng": -94.5888452,
+   "lists": [
+    [
+     "barmagkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Wild Child",
+   "hood": "Shawnee KS",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0231076,
+   "lng": -94.7144416,
+   "lists": [
+    [
+     "barmagkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Drastic Measures",
+   "hood": "Shawnee KS",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0232018,
+   "lng": -94.7143653,
+   "lists": [
+    [
+     "barmagkc",
+     null
+    ],
+    [
+     "kcurkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Voltaire",
+   "hood": "West Bottoms",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0939552,
+   "lng": -94.6048354,
+   "lists": [
+    [
+     "barmagkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Nighthawk at Kansas City Hotel",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0988801,
+   "lng": -94.5845601,
+   "lists": [
+    [
+     "kcmagkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "Lucky Boys",
+   "hood": "West Bottoms",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 39.0940389,
+   "lng": -94.6048187,
+   "lists": [
+    [
+     "kcmagkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Green Lady Lounge",
+   "hood": "Crossroads",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0913572,
+   "lng": -94.5811156,
+   "lists": [
+    [
+     "kcmagkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Rye",
+   "hood": "Country Club Plaza",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0426365,
+   "lng": -94.5884017,
+   "lists": [
+    [
+     "kcmagkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Mitch E Amaro",
+   "hood": "North Kansas City",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.142263,
+   "lng": -94.5767725,
+   "lists": [
+    [
+     "kcmagkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Primrose",
+   "hood": "Mission KS",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0224798,
+   "lng": -94.6509883,
+   "lists": [
+    [
+     "kcurkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Harry's Bar and Tables",
+   "hood": "Westport",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0526256,
+   "lng": -94.5914416,
+   "lists": [
+    [
+     "kcurkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Mean Mule Distilling Co.",
+   "hood": "Crossroads",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0920743,
+   "lng": -94.5775589,
+   "lists": [
+    [
+     "kcurkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Cheval on Main",
+   "hood": "Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0554046,
+   "lng": -94.5863463,
+   "lists": [
+    [
+     "kcurkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "King G",
+   "hood": "Crossroads",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0917646,
+   "lng": -94.5774658,
+   "lists": [
+    [
+     "kcurkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Campground",
+   "hood": "West Bottoms",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.094853,
+   "lng": -94.60457,
+   "lists": [
+    [
+     "kcurkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Harry's Country Club",
+   "hood": "River Market",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.1079139,
+   "lng": -94.5806948,
+   "lists": [
+    [
+     "kcurkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Hey! Hey! Club",
+   "hood": "East Bottoms",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.1194277,
+   "lng": -94.5487189,
+   "lists": [
+    [
+     "kcurkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Lifted Spirits",
+   "hood": "Crossroads",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0920954,
+   "lng": -94.5767834,
+   "lists": [
+    [
+     "foodwinekc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Julep & Soft Conspiracy",
+   "hood": "Westport",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0520664,
+   "lng": -94.5905027,
+   "lists": [
+    [
+     "foodwinekc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Ça Va",
+   "hood": "Westport",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 39.0513858,
+   "lng": -94.5900996,
+   "lists": [
+    [
+     "foodwinekc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
   }
  ],
  "rlists": {
@@ -853,6 +1241,42 @@
    "tag": "VISIT KC",
    "name": "Visit KC's Cocktail Bars & Speakeasies",
    "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "barmagkc": {
+   "cls": "b-barmagkc",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The 14 Best Bars in Kansas City",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "kcmagkc": {
+   "cls": "b-kcmagkc",
+   "mono": "KM",
+   "tag": "KC MAG",
+   "name": "Kansas City Magazine: Where to Drink Before (and After) Dinner",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "kcurkc": {
+   "cls": "b-kcurkc",
+   "mono": "KU",
+   "tag": "KCUR",
+   "name": "KCUR (Up To Date): Food Recs: Kansas City's Best Bars and Restaurants for Cocktails",
+   "year": "2023",
+   "ranked": false,
+   "starChip": false
+  },
+  "foodwinekc": {
+   "cls": "b-foodwinekc",
+   "mono": "FW",
+   "tag": "FOOD & WINE",
+   "name": "Food & Wine: Where to Drink in Kansas City, One of America's Most Exciting Cocktail Destinations",
+   "year": "2022",
    "ranked": false,
    "starChip": false
   }

@@ -2852,6 +2852,10 @@
     [
      "chronbhou",
      null
+    ],
+    [
+     "houstoniahou",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2879,6 +2883,22 @@
     ],
     [
      "punchhou",
+     null
+    ],
+    [
+     "barmaghou",
+     null
+    ],
+    [
+     "houstoniahou",
+     null
+    ],
+    [
+     "timeouthou",
+     null
+    ],
+    [
+     "cnthou",
      null
     ]
    ],
@@ -2915,6 +2935,22 @@
     ],
     [
      "eaterbhou",
+     null
+    ],
+    [
+     "barmaghou",
+     null
+    ],
+    [
+     "houstoniahou",
+     null
+    ],
+    [
+     "bonapphou",
+     null
+    ],
+    [
+     "timeouthou",
      null
     ]
    ],
@@ -2964,6 +3000,14 @@
     [
      "chronbhou",
      null
+    ],
+    [
+     "barmaghou",
+     null
+    ],
+    [
+     "timeouthou",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2979,6 +3023,10 @@
    "lists": [
     [
      "chronbhou",
+     null
+    ],
+    [
+     "houstoniahou",
      null
     ]
    ],
@@ -3064,6 +3112,14 @@
     [
      "chronbhou",
      null
+    ],
+    [
+     "barmaghou",
+     null
+    ],
+    [
+     "bonapphou",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3096,6 +3152,10 @@
     [
      "chronbhou",
      null
+    ],
+    [
+     "houstoniahou",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3124,6 +3184,22 @@
     [
      "punchhou",
      null
+    ],
+    [
+     "barmaghou",
+     null
+    ],
+    [
+     "houstoniahou",
+     null
+    ],
+    [
+     "bonapphou",
+     null
+    ],
+    [
+     "timeouthou",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3139,6 +3215,22 @@
    "lists": [
     [
      "chronbhou",
+     null
+    ],
+    [
+     "barmaghou",
+     null
+    ],
+    [
+     "houstoniahou",
+     null
+    ],
+    [
+     "bonapphou",
+     null
+    ],
+    [
+     "timeouthou",
      null
     ]
    ],
@@ -3163,6 +3255,10 @@
     ],
     [
      "punchhou",
+     null
+    ],
+    [
+     "houstoniahou",
      null
     ]
    ],
@@ -3200,6 +3296,14 @@
     [
      "eaterbhou",
      null
+    ],
+    [
+     "barmaghou",
+     null
+    ],
+    [
+     "houstoniahou",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3215,6 +3319,22 @@
    "lists": [
     [
      "chronbhou",
+     null
+    ],
+    [
+     "barmaghou",
+     null
+    ],
+    [
+     "houstoniahou",
+     null
+    ],
+    [
+     "bonapphou",
+     null
+    ],
+    [
+     "timeouthou",
      null
     ]
    ],
@@ -3247,6 +3367,18 @@
    "lists": [
     [
      "chronbhou",
+     null
+    ],
+    [
+     "barmaghou",
+     null
+    ],
+    [
+     "houstoniahou",
+     null
+    ],
+    [
+     "timeouthou",
      null
     ]
    ],
@@ -3284,6 +3416,22 @@
     [
      "thrillhou",
      null
+    ],
+    [
+     "barmaghou",
+     null
+    ],
+    [
+     "houstoniahou",
+     null
+    ],
+    [
+     "bonapphou",
+     null
+    ],
+    [
+     "timeouthou",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3299,6 +3447,10 @@
    "lists": [
     [
      "eaterbhou",
+     null
+    ],
+    [
+     "houstoniahou",
      null
     ]
    ],
@@ -3336,6 +3488,14 @@
     [
      "thrillhou",
      null
+    ],
+    [
+     "houstoniahou",
+     null
+    ],
+    [
+     "cnthou",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3368,6 +3528,14 @@
     [
      "eaterbhou",
      null
+    ],
+    [
+     "houstoniahou",
+     null
+    ],
+    [
+     "cnthou",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3384,6 +3552,10 @@
     [
      "eaterbhou",
      null
+    ],
+    [
+     "barmaghou",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3399,6 +3571,22 @@
    "lists": [
     [
      "eaterbhou",
+     null
+    ],
+    [
+     "houstoniahou",
+     null
+    ],
+    [
+     "bonapphou",
+     null
+    ],
+    [
+     "timeouthou",
+     null
+    ],
+    [
+     "cnthou",
      null
     ]
    ],
@@ -3432,6 +3620,10 @@
     [
      "eaterbhou",
      null
+    ],
+    [
+     "houstoniahou",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3447,6 +3639,10 @@
    "lists": [
     [
      "eaterbhou",
+     null
+    ],
+    [
+     "barmaghou",
      null
     ]
    ],
@@ -3532,6 +3728,14 @@
     [
      "thrillhou",
      null
+    ],
+    [
+     "barmaghou",
+     null
+    ],
+    [
+     "houstoniahou",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3551,6 +3755,10 @@
     ],
     [
      "punchhou",
+     null
+    ],
+    [
+     "houstoniahou",
      null
     ]
    ],
@@ -3648,6 +3856,10 @@
     [
      "punchhou",
      null
+    ],
+    [
+     "houstoniahou",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3696,6 +3908,10 @@
     [
      "punchhou",
      null
+    ],
+    [
+     "cnthou",
+     null
     ]
    ],
    "vb": "dive",
@@ -3711,6 +3927,10 @@
    "lists": [
     [
      "punchhou",
+     null
+    ],
+    [
+     "houstoniahou",
      null
     ]
    ],
@@ -3792,6 +4012,14 @@
     [
      "punchhou",
      null
+    ],
+    [
+     "houstoniahou",
+     null
+    ],
+    [
+     "cnthou",
+     null
     ]
    ],
    "vb": "dive",
@@ -3872,6 +4100,10 @@
     [
      "punchhou",
      null
+    ],
+    [
+     "houstoniahou",
+     null
     ]
    ],
    "vb": "dive",
@@ -3887,6 +4119,10 @@
    "lists": [
     [
      "punchhou",
+     null
+    ],
+    [
+     "houstoniahou",
      null
     ]
    ],
@@ -4100,6 +4336,570 @@
    ],
    "vb": "mixo",
    "dual": false
+  },
+  {
+   "name": "Angel Share",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7622809,
+   "lng": -95.3613048,
+   "lists": [
+    [
+     "barmaghou",
+     null
+    ],
+    [
+     "houstoniahou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Kanpai Club",
+   "hood": "Heights",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7903602,
+   "lng": -95.4030538,
+   "lists": [
+    [
+     "barmaghou",
+     null
+    ],
+    [
+     "houstoniahou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Davenport Lounge",
+   "hood": "Upper Kirby",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.73403,
+   "lng": -95.4112961,
+   "lists": [
+    [
+     "barmaghou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "13 Celsius",
+   "hood": "Midtown",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 29.7412639,
+   "lng": -95.3737717,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ],
+    [
+     "cnthou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Axelrad Beer Garden",
+   "hood": "Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7349733,
+   "lng": -95.3747763,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ],
+    [
+     "cnthou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Bar Daphne",
+   "hood": "Heights",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.8040975,
+   "lng": -95.4033833,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bar No. 3",
+   "hood": "Montrose",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7416345,
+   "lng": -95.3916238,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Catbirds",
+   "hood": "Montrose",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.743638,
+   "lng": -95.395661,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Cidercade",
+   "hood": "EaDo",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7575594,
+   "lng": -95.3465344,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Concrete Rose",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7601681,
+   "lng": -95.3531931,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "East End Hardware",
+   "hood": "EaDo",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7421937,
+   "lng": -95.3508489,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "EZ's Liquor Lounge",
+   "hood": "Heights",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7817151,
+   "lng": -95.3931173,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ],
+    [
+     "timeouthou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Heights & Co.",
+   "hood": "Heights",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7960636,
+   "lng": -95.3992344,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "JR's Bar and Grill",
+   "hood": "Montrose",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.746962,
+   "lng": -95.3901434,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "La Carafe",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7630694,
+   "lng": -95.361875,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ],
+    [
+     "cnthou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Library",
+   "hood": "Spring Branch",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 29.8032871,
+   "lng": -95.4974261,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Lil Danny Speedo's Go Fly a Kite Lounge",
+   "hood": "East End",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7389857,
+   "lng": -95.3267665,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Little Woodrow's",
+   "hood": "Midtown",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.7497448,
+   "lng": -95.3772901,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Monkey's Tail",
+   "hood": "Lindale Park",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.81189,
+   "lng": -95.3695461,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Moon",
+   "hood": "Galleria",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7472036,
+   "lng": -95.4616665,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Plume",
+   "hood": "Heights",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.8060576,
+   "lng": -95.4185137,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Rabbit's Got the Gun",
+   "hood": "Near Northside",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 29.7764025,
+   "lng": -95.3601741,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Saint Arnold Brewing Company",
+   "hood": "Near Northside",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.7711841,
+   "lng": -95.3476251,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Trash Panda Drinking Club",
+   "hood": "Near Northside",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7983638,
+   "lng": -95.3630809,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Two Headed Dog",
+   "hood": "Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7415109,
+   "lng": -95.3763018,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ],
+    [
+     "bonapphou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Voodoo Queen Daiquiri Dive",
+   "hood": "EaDo",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7475331,
+   "lng": -95.337928,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "West Alabama Ice House",
+   "hood": "Upper Kirby",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.7383726,
+   "lng": -95.4078194,
+   "lists": [
+    [
+     "houstoniahou",
+     null
+    ],
+    [
+     "timeouthou",
+     null
+    ],
+    [
+     "cnthou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Montrose Grocer",
+   "hood": "Montrose",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 29.743616,
+   "lng": -95.395774,
+   "lists": [
+    [
+     "bonapphou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Off the Record",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7611373,
+   "lng": -95.3619918,
+   "lists": [
+    [
+     "timeouthou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Boheme",
+   "hood": "Montrose",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7479948,
+   "lng": -95.3860618,
+   "lists": [
+    [
+     "cnthou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Goode Co. Armadillo Palace",
+   "hood": "Upper Kirby",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7274584,
+   "lng": -95.4182061,
+   "lists": [
+    [
+     "cnthou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Tongue-Cut Sparrow",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7620019,
+   "lng": -95.3612333,
+   "lists": [
+    [
+     "cnthou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Continental Club Houston",
+   "hood": "Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.7384533,
+   "lng": -95.3797556,
+   "lists": [
+    [
+     "cnthou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
   }
  ],
  "rlists": {
@@ -4210,6 +5010,51 @@
    "tag": "PUNCH",
    "name": "PUNCH's Guide to Drinking in Houston",
    "year": "2014",
+   "ranked": false,
+   "starChip": false
+  },
+  "barmaghou": {
+   "cls": "b-barmaghou",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The 16 Best Bars in Houston",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "houstoniahou": {
+   "cls": "b-houstoniahou",
+   "mono": "HO",
+   "tag": "HOUSTONIA",
+   "name": "Houstonia: The 50 Hottest Bars in Houston Right Now",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "bonapphou": {
+   "cls": "b-bonapphou",
+   "mono": "BA",
+   "tag": "BON APP",
+   "name": "Bon Appétit: The 9 Best Bars in Houston Right Now",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "timeouthou": {
+   "cls": "b-timeouthou",
+   "mono": "TO",
+   "tag": "TIME OUT",
+   "name": "Time Out: The Best Bars in Houston Right Now",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "cnthou": {
+   "cls": "b-cnthou",
+   "mono": "CN",
+   "tag": "CN TRAV",
+   "name": "Condé Nast Traveler: 15 Best Bars in Houston",
+   "year": "2018",
    "ranked": false,
    "starChip": false
   }

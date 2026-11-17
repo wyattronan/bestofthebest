@@ -662,6 +662,14 @@
     [
      "eaterdet",
      null
+    ],
+    [
+     "barmagdet",
+     null
+    ],
+    [
+     "detisitdet",
+     null
     ]
    ],
    "dual": false,
@@ -693,6 +701,10 @@
    "lists": [
     [
      "mtcocktail",
+     null
+    ],
+    [
+     "barmagdet",
      null
     ]
    ],
@@ -790,6 +802,14 @@
     [
      "mtcocktail",
      null
+    ],
+    [
+     "barmagdet",
+     null
+    ],
+    [
+     "detisitdet",
+     null
     ]
    ],
    "dual": false,
@@ -821,6 +841,10 @@
    "lists": [
     [
      "eaterdet",
+     null
+    ],
+    [
+     "detisitdet",
      null
     ]
    ],
@@ -950,6 +974,10 @@
     [
      "eaterdet",
      null
+    ],
+    [
+     "detisitdet",
+     null
     ]
    ],
    "dual": false,
@@ -1046,6 +1074,10 @@
     [
      "eaterdet",
      null
+    ],
+    [
+     "detisitdet",
+     null
     ]
    ],
    "dual": false,
@@ -1078,6 +1110,10 @@
     [
      "eaterdet",
      null
+    ],
+    [
+     "detisitdet",
+     null
     ]
    ],
    "dual": false,
@@ -1093,6 +1129,10 @@
    "lists": [
     [
      "eaterdet",
+     null
+    ],
+    [
+     "detisitdet",
      null
     ]
    ],
@@ -1114,6 +1154,186 @@
    ],
    "dual": false,
    "vb": "livemusic"
+  },
+  {
+   "name": "Grey Ghost",
+   "hood": "Brush Park",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3451748,
+   "lng": -83.0555796,
+   "lists": [
+    [
+     "barmagdet",
+     null
+    ],
+    [
+     "detisitdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Father Forgive Me",
+   "hood": "West Village",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 42.3603582,
+   "lng": -82.9848433,
+   "lists": [
+    [
+     "barmagdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "The Best Kept Secret",
+   "hood": "St Clair Shores",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.4617605,
+   "lng": -82.9101013,
+   "lists": [
+    [
+     "barmagdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Evening Bar",
+   "hood": "Shinola Hotel",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3345491,
+   "lng": -83.0483734,
+   "lists": [
+    [
+     "barmagdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Antidote",
+   "hood": "East Jefferson",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3738164,
+   "lng": -82.941406,
+   "lists": [
+    [
+     "barmagdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Pocket Change",
+   "hood": "Eastern Market",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.344168,
+   "lng": -83.0378788,
+   "lists": [
+    [
+     "barmagdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Saksey's",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3357909,
+   "lng": -83.0494117,
+   "lists": [
+    [
+     "barmagdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Aladdin Sane",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3329919,
+   "lng": -83.0514498,
+   "lists": [
+    [
+     "barmagdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Easy Peasy",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3350121,
+   "lng": -83.0489516,
+   "lists": [
+    [
+     "detisitdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "TwoBirds",
+   "hood": "West Village",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 42.3589472,
+   "lng": -82.9978416,
+   "lists": [
+    [
+     "detisitdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Raven Lounge",
+   "hood": "Poletown East",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.366913,
+   "lng": -83.0419769,
+   "lists": [
+    [
+     "detisitdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
   }
  ],
  "rlists": {
@@ -1152,6 +1372,24 @@
    "tag": "EATER",
    "name": "Eater Detroit: Detroit's Best Bars",
    "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "barmagdet": {
+   "cls": "b-barmagdet",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The 11 Best Cocktail Bars in Detroit",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "detisitdet": {
+   "cls": "b-detisitdet",
+   "mono": "DI",
+   "tag": "DETROITISIT",
+   "name": "Detroitisit: Local Love: Ashley Davidson's Guide to Detroit's Best Bars, Eats and Experiences",
+   "year": "2024",
    "ranked": false,
    "starChip": false
   }
