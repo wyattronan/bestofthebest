@@ -2425,6 +2425,10 @@
     [
      "cntbaus",
      null
+    ],
+    [
+     "infataus",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2481,6 +2485,10 @@
     [
      "austinmob",
      null
+    ],
+    [
+     "infataus",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2521,6 +2529,14 @@
     [
      "austinmob",
      null
+    ],
+    [
+     "infataus",
+     null
+    ],
+    [
+     "thrillnlaus",
+     null
     ]
    ],
    "vb": "dive",
@@ -2556,6 +2572,10 @@
    "lists": [
     [
      "cntbaus",
+     null
+    ],
+    [
+     "infataus",
      null
     ]
    ],
@@ -2604,6 +2624,10 @@
     ],
     [
      "austinmob",
+     null
+    ],
+    [
+     "infataus",
      null
     ]
    ],
@@ -2705,6 +2729,10 @@
     [
      "eaterbaus",
      null
+    ],
+    [
+     "infataus",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2740,6 +2768,14 @@
     ],
     [
      "austinmob",
+     null
+    ],
+    [
+     "infataus",
+     null
+    ],
+    [
+     "thrillnlaus",
      null
     ]
    ],
@@ -2780,6 +2816,14 @@
     ],
     [
      "austinmob",
+     null
+    ],
+    [
+     "infataus",
+     null
+    ],
+    [
+     "thrillnlaus",
      null
     ]
    ],
@@ -2829,6 +2873,10 @@
     [
      "eaterbaus",
      null
+    ],
+    [
+     "pasteaus",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2860,6 +2908,10 @@
    "lists": [
     [
      "eaterbaus",
+     null
+    ],
+    [
+     "infataus",
      null
     ]
    ],
@@ -2900,6 +2952,10 @@
     ],
     [
      "austinmob",
+     null
+    ],
+    [
+     "infataus",
      null
     ]
    ],
@@ -2965,6 +3021,14 @@
     [
      "thrillaus",
      null
+    ],
+    [
+     "infataus",
+     null
+    ],
+    [
+     "pasteaus",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2985,6 +3049,14 @@
     [
      "austinmob",
      null
+    ],
+    [
+     "infataus",
+     null
+    ],
+    [
+     "pasteaus",
+     null
     ]
    ],
    "vb": "dive",
@@ -3000,6 +3072,14 @@
    "lists": [
     [
      "thrillaus",
+     null
+    ],
+    [
+     "infataus",
+     null
+    ],
+    [
+     "thrillnlaus",
      null
     ]
    ],
@@ -3313,6 +3393,10 @@
     [
      "austinmob",
      null
+    ],
+    [
+     "thrillnlaus",
+     null
     ]
    ],
    "vb": "dive",
@@ -3328,6 +3412,10 @@
    "lists": [
     [
      "austinmob",
+     null
+    ],
+    [
+     "infataus",
      null
     ]
    ],
@@ -3408,6 +3496,10 @@
    "lists": [
     [
      "austinmob",
+     null
+    ],
+    [
+     "infataus",
      null
     ]
    ],
@@ -3509,6 +3601,214 @@
    ],
    "vb": "dive",
    "dual": false
+  },
+  {
+   "name": "Armadillo Den",
+   "hood": "South",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.1703304,
+   "lng": -97.8261086,
+   "lists": [
+    [
+     "infataus",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Papercut",
+   "hood": "East",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2644531,
+   "lng": -97.733346,
+   "lists": [
+    [
+     "infataus",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Murray's Tavern",
+   "hood": "East",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2626961,
+   "lng": -97.7154273,
+   "lists": [
+    [
+     "infataus",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Here Nor There",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2684109,
+   "lng": -97.7413784,
+   "lists": [
+    [
+     "infataus",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Coconut Club",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2662955,
+   "lng": -97.7451516,
+   "lists": [
+    [
+     "thrillnlaus",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "Outer Heaven Disco Club",
+   "hood": "East",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2512884,
+   "lng": -97.7007309,
+   "lists": [
+    [
+     "thrillnlaus",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "Barbarella",
+   "hood": "Red River",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2670911,
+   "lng": -97.7368338,
+   "lists": [
+    [
+     "thrillnlaus",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "Las Perlas",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2676883,
+   "lng": -97.7386274,
+   "lists": [
+    [
+     "thrillnlaus",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Hotel Vegas",
+   "hood": "East 6th",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2634183,
+   "lng": -97.7272288,
+   "lists": [
+    [
+     "thrillnlaus",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "The Far Out Lounge and Stage",
+   "hood": "South",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.1726796,
+   "lng": -97.7856763,
+   "lists": [
+    [
+     "thrillnlaus",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Lustre Pearl",
+   "hood": "East",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 30.253006,
+   "lng": -97.7107398,
+   "lists": [
+    [
+     "thrillnlaus",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Sagebrush",
+   "hood": "South",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 30.2061517,
+   "lng": -97.774639,
+   "lists": [
+    [
+     "thrillnlaus",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Jackalope Downtown",
+   "hood": "6th St",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 30.2671265,
+   "lng": -97.7390038,
+   "lists": [
+    [
+     "thrillnlaus",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
   }
  ],
  "rlists": {
@@ -3664,6 +3964,33 @@
    "tag": "AUS MONTHLY",
    "name": "Austin Monthly's 40 Best Bars",
    "year": "2019",
+   "ranked": false,
+   "starChip": false
+  },
+  "infataus": {
+   "cls": "b-infataus",
+   "mono": "IN",
+   "tag": "INFAT",
+   "name": "The Infatuation: The Best Bars in Austin",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "pasteaus": {
+   "cls": "b-pasteaus",
+   "mono": "PA",
+   "tag": "PASTE",
+   "name": "Paste: 48 Hours in Austin: 7 Cool Bars and Restaurants in the Texas Capital",
+   "year": "2023",
+   "ranked": false,
+   "starChip": false
+  },
+  "thrillnlaus": {
+   "cls": "b-thrillnlaus",
+   "mono": "TH",
+   "tag": "THRILLIST",
+   "name": "Thrillist: The Ultimate Guide to Austin Nightlife",
+   "year": "2023",
    "ranked": false,
    "starChip": false
   }

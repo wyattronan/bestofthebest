@@ -3339,6 +3339,10 @@
     [
      "infatbatl",
      null
+    ],
+    [
+     "barmagatl",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3354,6 +3358,18 @@
    "lists": [
     [
      "infatbatl",
+     null
+    ],
+    [
+     "bonappatl",
+     null
+    ],
+    [
+     "barmagatl",
+     null
+    ],
+    [
+     "maximatl",
      null
     ]
    ],
@@ -3387,6 +3403,10 @@
     [
      "infatbatl",
      null
+    ],
+    [
+     "barmagatl",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3403,6 +3423,14 @@
     [
      "infatbatl",
      null
+    ],
+    [
+     "bonappatl",
+     null
+    ],
+    [
+     "barmagatl",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3418,6 +3446,10 @@
    "lists": [
     [
      "infatbatl",
+     null
+    ],
+    [
+     "barmagatl",
      null
     ]
    ],
@@ -3479,6 +3511,18 @@
     [
      "atlmagb",
      null
+    ],
+    [
+     "bonappatl",
+     null
+    ],
+    [
+     "barmagatl",
+     null
+    ],
+    [
+     "resyatl",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3494,6 +3538,14 @@
    "lists": [
     [
      "infatbatl",
+     null
+    ],
+    [
+     "barmagatl",
+     null
+    ],
+    [
+     "thrillnlatl",
      null
     ]
    ],
@@ -3635,6 +3687,14 @@
     [
      "atlmagb",
      null
+    ],
+    [
+     "bonappatl",
+     null
+    ],
+    [
+     "barmagatl",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3670,6 +3730,10 @@
    "lists": [
     [
      "atlmagb",
+     null
+    ],
+    [
+     "maximatl",
      null
     ]
    ],
@@ -3718,6 +3782,14 @@
    "lists": [
     [
      "atlmagb",
+     null
+    ],
+    [
+     "bonappatl",
+     null
+    ],
+    [
+     "maximatl",
      null
     ]
    ],
@@ -3815,6 +3887,18 @@
     [
      "atlmagb",
      null
+    ],
+    [
+     "barmagatl",
+     null
+    ],
+    [
+     "resyatl",
+     null
+    ],
+    [
+     "thrillnlatl",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3879,6 +3963,14 @@
     [
      "atlmagb",
      null
+    ],
+    [
+     "bonappatl",
+     null
+    ],
+    [
+     "barmagatl",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3902,6 +3994,18 @@
     ],
     [
      "eaterbatl",
+     null
+    ],
+    [
+     "bonappatl",
+     null
+    ],
+    [
+     "barmagatl",
+     null
+    ],
+    [
+     "resyatl",
      null
     ]
    ],
@@ -4135,6 +4239,10 @@
     [
      "atlmagb",
      null
+    ],
+    [
+     "resyatl",
+     null
     ]
    ],
    "vb": "mixo",
@@ -4339,6 +4447,10 @@
     [
      "eaterbatl",
      null
+    ],
+    [
+     "thrillnlatl",
+     null
     ]
    ],
    "vb": "dive",
@@ -4490,6 +4602,10 @@
     ],
     [
      "thrillatl",
+     null
+    ],
+    [
+     "thrillnlatl",
      null
     ]
    ],
@@ -4719,6 +4835,642 @@
    ],
    "vb": "mixo",
    "dual": false
+  },
+  {
+   "name": "Madeira Park",
+   "hood": "Poncey-Highland",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 33.7718353,
+   "lng": -84.3526972,
+   "lists": [
+    [
+     "bonappatl",
+     null
+    ],
+    [
+     "barmagatl",
+     null
+    ],
+    [
+     "resyatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Lucky Star",
+   "hood": "West Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.7834391,
+   "lng": -84.4112678,
+   "lists": [
+    [
+     "bonappatl",
+     null
+    ],
+    [
+     "barmagatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Anansi Cocktail Lounge",
+   "hood": "Decatur",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.7750843,
+   "lng": -84.2783313,
+   "lists": [
+    [
+     "barmagatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "BoccaLupo",
+   "hood": "Inman Park",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.7546962,
+   "lng": -84.3627627,
+   "lists": [
+    [
+     "barmagatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Red Phone Booth Buckhead",
+   "hood": "Buckhead",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.8439094,
+   "lng": -84.3730977,
+   "lists": [
+    [
+     "barmagatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Side Saddle Wine Saloon & Bar",
+   "hood": "Chosewood Park",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 33.7268644,
+   "lng": -84.3657691,
+   "lists": [
+    [
+     "barmagatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Spaceman",
+   "hood": "Buckhead",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.8436256,
+   "lng": -84.3619668,
+   "lists": [
+    [
+     "maximatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Moonlight",
+   "hood": "Old Fourth Ward",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.768607,
+   "lng": -84.363674,
+   "lists": [
+    [
+     "maximatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "St. Regis Bar",
+   "hood": "Buckhead",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.8397791,
+   "lng": -84.3825776,
+   "lists": [
+    [
+     "maximatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Dad's Bar",
+   "hood": "Virginia-Highland",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.77836,
+   "lng": -84.3531162,
+   "lists": [
+    [
+     "maximatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Block & Drum",
+   "hood": "Chamblee",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.8874519,
+   "lng": -84.3124085,
+   "lists": [
+    [
+     "maximatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Painted Park",
+   "hood": "Inman Park",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 33.7618311,
+   "lng": -84.3603551,
+   "lists": [
+    [
+     "maximatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Rose & Rye",
+   "hood": "Buckhead",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.8477648,
+   "lng": -84.3663246,
+   "lists": [
+    [
+     "maximatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Little Sparrow",
+   "hood": "West Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.7865629,
+   "lng": -84.4123343,
+   "lists": [
+    [
+     "resyatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "STATS Brewpub",
+   "hood": "Downtown",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 33.7615127,
+   "lng": -84.3962936,
+   "lists": [
+    [
+     "resyatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "AltaToro",
+   "hood": "Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.780567,
+   "lng": -84.387098,
+   "lists": [
+    [
+     "resyatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Sebastian Pintxos Bar",
+   "hood": "Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.7768998,
+   "lng": -84.3831371,
+   "lists": [
+    [
+     "resyatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Boqueria Colony Square",
+   "hood": "Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.7881477,
+   "lng": -84.3830177,
+   "lists": [
+    [
+     "resyatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Brasserie Lundi",
+   "hood": "Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.7926084,
+   "lng": -84.3856556,
+   "lists": [
+    [
+     "resyatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "7th House",
+   "hood": "West End",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.7401887,
+   "lng": -84.4088217,
+   "lists": [
+    [
+     "resyatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "a mano",
+   "hood": "Old Fourth Ward",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 33.7638344,
+   "lng": -84.3679659,
+   "lists": [
+    [
+     "resyatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Highland Tap",
+   "hood": "Virginia-Highland",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.7825413,
+   "lng": -84.3546336,
+   "lists": [
+    [
+     "resyatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Nino's Italian Restaurant",
+   "hood": "Downtown",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 33.810037,
+   "lng": -84.3596123,
+   "lists": [
+    [
+     "resyatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Banshee",
+   "hood": "East Atlanta",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.7399618,
+   "lng": -84.3459272,
+   "lists": [
+    [
+     "resyatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "CRU East Atlanta",
+   "hood": "East Atlanta",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.74353,
+   "lng": -84.348453,
+   "lists": [
+    [
+     "resyatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Pasha Restaurant and Bar",
+   "hood": "Buckhead",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.8282768,
+   "lng": -84.3653164,
+   "lists": [
+    [
+     "resyatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "V12 Restaurant",
+   "hood": "Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.7709069,
+   "lng": -84.3894179,
+   "lists": [
+    [
+     "resyatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Station 11",
+   "hood": "Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.7715994,
+   "lng": -84.3864504,
+   "lists": [
+    [
+     "resyatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Apt4B",
+   "hood": "Buckhead",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.8168513,
+   "lng": -84.3894596,
+   "lists": [
+    [
+     "thrillnlatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "L.O.A. Social Club",
+   "hood": "West Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.7852683,
+   "lng": -84.4113572,
+   "lists": [
+    [
+     "thrillnlatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Drawbar",
+   "hood": "West Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.7855316,
+   "lng": -84.4104266,
+   "lists": [
+    [
+     "thrillnlatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Wicked Wolf",
+   "hood": "Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.7834386,
+   "lng": -84.3844357,
+   "lists": [
+    [
+     "thrillnlatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "Rock Steady",
+   "hood": "West Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.7771263,
+   "lng": -84.4078999,
+   "lists": [
+    [
+     "thrillnlatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "12 Cocktail Bar",
+   "hood": "Poncey-Highland",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.7731131,
+   "lng": -84.3655426,
+   "lists": [
+    [
+     "thrillnlatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "MJQ Concourse",
+   "hood": "Underground",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.7518911,
+   "lng": -84.3892495,
+   "lists": [
+    [
+     "thrillnlatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "Little 5 Corner Tavern",
+   "hood": "Little Five Points",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 33.765546,
+   "lng": -84.349357,
+   "lists": [
+    [
+     "thrillnlatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Ladybird Grove & Mess Hall",
+   "hood": "Old Fourth Ward",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 33.7595612,
+   "lng": -84.3642999,
+   "lists": [
+    [
+     "thrillnlatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Joystick Gamebar",
+   "hood": "East Atlanta",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.7407695,
+   "lng": -84.3464613,
+   "lists": [
+    [
+     "thrillnlatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Smith's Old Bar",
+   "hood": "Morningside",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.7976384,
+   "lng": -84.3688347,
+   "lists": [
+    [
+     "thrillnlatl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
   }
  ],
  "rlists": {
@@ -4856,6 +5608,51 @@
    "tag": "EATER",
    "name": "Eater Atlanta's Essential Bars",
    "year": "2015",
+   "ranked": false,
+   "starChip": false
+  },
+  "bonappatl": {
+   "cls": "b-bonappatl",
+   "mono": "BA",
+   "tag": "BON APP",
+   "name": "Bon Appétit: The Best Bars in Atlanta Right Now",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "barmagatl": {
+   "cls": "b-barmagatl",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The 17 Best Bars in Atlanta",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "maximatl": {
+   "cls": "b-maximatl",
+   "mono": "MX",
+   "tag": "MAXIM",
+   "name": "Maxim: The Best Bars in Atlanta, According to the City's Top Influencers",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "resyatl": {
+   "cls": "b-resyatl",
+   "mono": "RE",
+   "tag": "RESY",
+   "name": "Resy: The Best Places to Drink in Atlanta",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "thrillnlatl": {
+   "cls": "b-thrillnlatl",
+   "mono": "TH",
+   "tag": "THRILLIST",
+   "name": "Thrillist: The Ultimate Nightlife Guide to Atlanta",
+   "year": "2024",
    "ranked": false,
    "starChip": false
   }

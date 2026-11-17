@@ -3544,6 +3544,14 @@
     [
      "belib",
      1
+    ],
+    [
+     "barmagchi",
+     null
+    ],
+    [
+     "thrillchi",
+     null
     ]
    ],
    "dual": false,
@@ -3588,6 +3596,10 @@
     [
      "belib",
      3
+    ],
+    [
+     "barmagchi",
+     null
     ]
    ],
    "dual": false,
@@ -3624,6 +3636,14 @@
     [
      "wyatt",
      2
+    ],
+    [
+     "barmagchi",
+     null
+    ],
+    [
+     "opentblchi",
+     null
     ]
    ],
    "dual": false,
@@ -3660,6 +3680,10 @@
     [
      "wyatt",
      9
+    ],
+    [
+     "barmagchi",
+     null
     ]
    ],
    "dual": false,
@@ -3696,6 +3720,10 @@
     [
      "na50bars",
      48
+    ],
+    [
+     "barmagchi",
+     null
     ]
    ],
    "dual": false,
@@ -3728,6 +3756,10 @@
     [
      "wyatt",
      5
+    ],
+    [
+     "barmagchi",
+     null
     ]
    ],
    "dual": false,
@@ -3756,6 +3788,10 @@
     [
      "wyatt",
      10
+    ],
+    [
+     "barmagchi",
+     null
     ]
    ],
    "dual": false,
@@ -3784,6 +3820,10 @@
     [
      "wyatt",
      1
+    ],
+    [
+     "barmagchi",
+     null
     ]
    ],
    "dual": false,
@@ -3809,6 +3849,18 @@
     [
      "cnt40",
      null
+    ],
+    [
+     "barmagchi",
+     null
+    ],
+    [
+     "opentblchi",
+     null
+    ],
+    [
+     "thrillchi",
+     null
     ]
    ],
    "dual": false,
@@ -3833,6 +3885,10 @@
     [
      "cnt40",
      null
+    ],
+    [
+     "thrillchi",
+     null
     ]
    ],
    "dual": false,
@@ -3856,6 +3912,10 @@
     ],
     [
      "esq",
+     null
+    ],
+    [
+     "thrillchi",
      null
     ]
    ],
@@ -3904,6 +3964,10 @@
     ],
     [
      "esq",
+     null
+    ],
+    [
+     "barmagchi",
      null
     ]
    ],
@@ -4025,6 +4089,10 @@
     [
      "cnt40",
      null
+    ],
+    [
+     "barmagchi",
+     null
     ]
    ],
    "dual": false,
@@ -4085,6 +4153,10 @@
     [
      "ba",
      null
+    ],
+    [
+     "barmagchi",
+     null
     ]
    ],
    "dual": false,
@@ -4104,6 +4176,10 @@
     ],
     [
      "ba",
+     null
+    ],
+    [
+     "barmagchi",
      null
     ]
    ],
@@ -4125,6 +4201,10 @@
     [
      "ba",
      null
+    ],
+    [
+     "opentblchi",
+     null
     ]
    ],
    "dual": false,
@@ -4145,6 +4225,10 @@
     [
      "wyatt",
      11
+    ],
+    [
+     "barmagchi",
+     null
     ]
    ],
    "dual": false,
@@ -4185,6 +4269,14 @@
     [
      "belib",
      4
+    ],
+    [
+     "barmagchi",
+     null
+    ],
+    [
+     "thrillchi",
+     null
     ]
    ],
    "dual": false,
@@ -4224,6 +4316,10 @@
     ],
     [
      "ba",
+     null
+    ],
+    [
+     "opentblchi",
      null
     ]
    ],
@@ -4265,6 +4361,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "thrillchi",
+     null
     ]
    ],
    "dual": false,
@@ -4285,6 +4385,10 @@
     [
      "belib",
      5
+    ],
+    [
+     "opentblchi",
+     null
     ]
    ],
    "dual": false,
@@ -4305,6 +4409,10 @@
     [
      "wyatt",
      8
+    ],
+    [
+     "thrillchi",
+     null
     ]
    ],
    "dual": false,
@@ -4401,6 +4509,10 @@
     [
      "tiptop",
      null
+    ],
+    [
+     "thrillchi",
+     null
     ]
    ],
    "dual": false,
@@ -4433,6 +4545,10 @@
     [
      "tiptop",
      null
+    ],
+    [
+     "barmagchi",
+     null
     ]
    ],
    "dual": false,
@@ -4448,6 +4564,10 @@
    "lists": [
     [
      "eater",
+     null
+    ],
+    [
+     "thrillchi",
      null
     ]
    ],
@@ -4529,6 +4649,10 @@
     [
      "eater",
      null
+    ],
+    [
+     "barmagchi",
+     null
     ]
    ],
    "dual": false,
@@ -4563,6 +4687,14 @@
     [
      "eater",
      null
+    ],
+    [
+     "opentblchi",
+     null
+    ],
+    [
+     "thrillchi",
+     null
     ]
    ],
    "dual": false,
@@ -4594,6 +4726,10 @@
    "lists": [
     [
      "chimag",
+     null
+    ],
+    [
+     "thrillchi",
      null
     ]
    ],
@@ -4675,6 +4811,10 @@
    "lists": [
     [
      "chimag",
+     null
+    ],
+    [
+     "barmagchi",
      null
     ]
    ],
@@ -4772,6 +4912,10 @@
     [
      "cnt40",
      null
+    ],
+    [
+     "barmagchi",
+     null
     ]
    ],
    "dual": true,
@@ -4787,6 +4931,10 @@
    "lists": [
     [
      "cnt40",
+     null
+    ],
+    [
+     "opentblchi",
      null
     ]
    ],
@@ -4948,6 +5096,10 @@
     [
      "cnt40",
      null
+    ],
+    [
+     "barmagchi",
+     null
     ]
    ],
    "dual": false,
@@ -5044,6 +5196,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "thrillchi",
+     null
     ]
    ],
    "dual": false,
@@ -5123,6 +5279,14 @@
    "lists": [
     [
      "infat",
+     null
+    ],
+    [
+     "barmagchi",
+     null
+    ],
+    [
+     "thrillchi",
      null
     ]
    ],
@@ -5364,9 +5528,257 @@
     [
      "esq",
      null
+    ],
+    [
+     "thrillchi",
+     null
     ]
    ],
    "dual": true,
+   "vb": "mixo"
+  },
+  {
+   "name": "Lazy Bird",
+   "hood": "West Loop",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 41.8857747,
+   "lng": -87.649349,
+   "lists": [
+    [
+     "barmagchi",
+     null
+    ],
+    [
+     "opentblchi",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Daisies",
+   "hood": "Logan Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 41.9244424,
+   "lng": -87.6996148,
+   "lists": [
+    [
+     "barmagchi",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Double Fun",
+   "hood": "Gold Coast",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 41.9033228,
+   "lng": -87.628878,
+   "lists": [
+    [
+     "barmagchi",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Billy Sunday",
+   "hood": "Logan Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 41.9278184,
+   "lng": -87.7065093,
+   "lists": [
+    [
+     "barmagchi",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Culebra",
+   "hood": "Logan Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 41.9196703,
+   "lng": -87.6970732,
+   "lists": [
+    [
+     "barmagchi",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Dorian's",
+   "hood": "Wicker Park",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 41.9103857,
+   "lng": -87.6765996,
+   "lists": [
+    [
+     "barmagchi",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Berkshire Room",
+   "hood": "River North",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 41.892249,
+   "lng": -87.627499,
+   "lists": [
+    [
+     "opentblchi",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Rooftop at Nobu Hotel",
+   "hood": "West Loop",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 41.8847057,
+   "lng": -87.6495189,
+   "lists": [
+    [
+     "opentblchi",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Utopian Tailgate",
+   "hood": "Old Town",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 41.9114916,
+   "lng": -87.6349772,
+   "lists": [
+    [
+     "opentblchi",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Ørkenoy",
+   "hood": "Logan Square",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 41.9135446,
+   "lng": -87.7115715,
+   "lists": [
+    [
+     "thrillchi",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Chicago Winery",
+   "hood": "River North",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 41.8959927,
+   "lng": -87.6309087,
+   "lists": [
+    [
+     "thrillchi",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Outside Voices",
+   "hood": "Logan Square",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 41.917601,
+   "lng": -87.7073905,
+   "lists": [
+    [
+     "thrillchi",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Mother's Ruin",
+   "hood": "Avondale",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 41.934971,
+   "lng": -87.7164668,
+   "lists": [
+    [
+     "thrillchi",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Dorothy Downstairs",
+   "hood": "Ukrainian Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 41.8959306,
+   "lng": -87.6895287,
+   "lists": [
+    [
+     "thrillchi",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Clipper (California Clipper)",
+   "hood": "Humboldt Park",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 41.899481,
+   "lng": -87.69705,
+   "lists": [
+    [
+     "thrillchi",
+     null
+    ]
+   ],
+   "dual": false,
    "vb": "mixo"
   }
  ],
@@ -5632,6 +6044,33 @@
    "name": "Beli's Top Bars in Chicago (2025)",
    "year": "2025",
    "ranked": true,
+   "starChip": false
+  },
+  "barmagchi": {
+   "cls": "b-barmagchi",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The 27 Best Cocktail Bars in Chicago",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "opentblchi": {
+   "cls": "b-opentblchi",
+   "mono": "OT",
+   "tag": "OPENTBL",
+   "name": "OpenTable: The Coolest Bars in Chicago Right Now",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "thrillchi": {
+   "cls": "b-thrillchi",
+   "mono": "TH",
+   "tag": "THRILLIST",
+   "name": "Thrillist: The Best Bars in Chicago Right Now",
+   "year": "2023",
+   "ranked": false,
    "starChip": false
   }
  }

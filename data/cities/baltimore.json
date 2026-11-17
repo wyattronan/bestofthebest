@@ -1,1 +1,1879 @@
-{"restos": [{"name": "Alma Cocina Latina", "hood": "Station North", "type": "latin", "typekind": "cui", "lat": 39.3088589, "lng": -76.6162283, "pr": 3, "lists": [["baltmag", null], ["infat", null]], "dual": false, "vb": "global"}, {"name": "Ammoora", "hood": "Federal Hill", "type": "lebanese", "typekind": "cui", "lat": 39.2808776, "lng": -76.6067643, "pr": 4, "lists": [["baltmag", null], ["infat", null]], "dual": false, "vb": "global"}, {"name": "Ananda", "hood": "Fulton", "type": "indian", "typekind": "cui", "lat": 39.1601749, "lng": -76.9026844, "pr": 3, "lists": [["baltmag", null]], "dual": false, "vb": "global"}, {"name": "Bunny's Buckets & Bubbles", "hood": "Fells Point", "type": "southern", "typekind": "cui", "lat": 39.28258, "lng": -76.5909434, "pr": 2, "lists": [["baltmag", null], ["infat", null]], "dual": false, "vb": "brunch"}, {"name": "Cece's of Roland Park", "hood": "Roland Park", "type": "mediterranean", "typekind": "cui", "lat": 39.3553588, "lng": -76.645849, "pr": 3, "lists": [["baltmag", null]], "dual": false, "vb": "datenight"}, {"name": "Charleston", "hood": "Harbor East", "type": "american", "typekind": "cui", "lat": 39.2825989, "lng": -76.6000479, "pr": 4, "lists": [["baltmag", null]], "dual": false, "vb": "datenight"}, {"name": "Cinghiale", "hood": "Harbor East", "type": "italian", "typekind": "cui", "lat": 39.2824949, "lng": -76.6005131, "pr": 3, "lists": [["baltmag", null]], "dual": false, "vb": "italian"}, {"name": "Clavel", "hood": "Remington", "type": "mexican", "typekind": "cui", "lat": 39.3150317, "lng": -76.6204571, "pr": 2, "lists": [["baltmag", null], ["infat", null]], "dual": false, "vb": "global"}, {"name": "Cookhouse", "hood": "Bolton Hill", "type": "american", "typekind": "cui", "lat": 39.3071773, "lng": -76.62589, "pr": 3, "lists": [["baltmag", null]], "dual": false, "vb": "datenight"}, {"name": "Costiera", "hood": "Little Italy", "type": "mediterranean", "typekind": "cui", "lat": 39.2855772, "lng": -76.5990003, "pr": 2, "lists": [["baltmag", null]], "dual": false, "vb": "italian"}, {"name": "The Dara", "hood": "Fells Point", "type": "thai", "typekind": "cui", "lat": 39.2816441, "lng": -76.5899191, "pr": 2, "lists": [["baltmag", null]], "dual": false, "vb": "asian"}, {"name": "The Duchess", "hood": "Hampden", "type": "chamorro", "typekind": "cui", "lat": 39.3312352, "lng": -76.6328311, "pr": 2, "lists": [["baltmag", null], ["infat", null]], "dual": false, "vb": "global"}, {"name": "Dylan's Oyster Cellar", "hood": "Hampden", "type": "seafood", "typekind": "cui", "lat": 39.3313517, "lng": -76.6292685, "pr": 2, "lists": [["baltmag", null], ["infat", null]], "dual": false, "vb": "specialty"}, {"name": "Ekiben", "hood": "Hampden", "type": "asian", "typekind": "cui", "lat": 39.3306972, "lng": -76.6316844, "pr": 1, "lists": [["infat", null]], "dual": false, "vb": "asian"}, {"name": "Faidley's Seafood", "hood": "Downtown", "type": "seafood", "typekind": "cui", "lat": 39.2912199, "lng": -76.6221873, "pr": 2, "lists": [["infat", null]], "dual": false, "vb": "oldguard"}, {"name": "Foraged", "hood": "Station North", "type": "american", "typekind": "cui", "lat": 39.3090421, "lng": -76.616287, "pr": 4, "lists": [["baltmag", null], ["infat", null]], "dual": false, "vb": "datenight"}, {"name": "Gertrude's", "hood": "Charles Village", "type": "seafood", "typekind": "cui", "lat": 39.3261931, "lng": -76.6190574, "pr": 2, "lists": [["baltmag", null], ["infat", null]], "dual": false, "vb": "specialty"}, {"name": "Gunther & Co.", "hood": "Brewers Hill", "type": "american", "typekind": "cui", "lat": 39.2786235, "lng": -76.5659248, "pr": 3, "lists": [["baltmag", null]], "dual": false, "vb": "datenight"}, {"name": "Hersh's", "hood": "Riverside", "type": "pizza", "typekind": "cui", "lat": 39.26861, "lng": -76.611753, "pr": 2, "lists": [["baltmag", null]], "dual": false, "vb": "italian"}, {"name": "La Cuchara", "hood": "Woodberry", "type": "basque", "typekind": "cui", "lat": 39.3307227, "lng": -76.6426097, "pr": 4, "lists": [["baltmag", null]], "dual": false, "vb": "global"}, {"name": "Le Comptoir du Vin", "hood": "Station North", "type": "french", "typekind": "cui", "lat": 39.3095016, "lng": -76.61759, "pr": 3, "lists": [["baltmag", null], ["infat", null]], "dual": false, "vb": "datenight"}, {"name": "Linwoods", "hood": "Owings Mills", "type": "american", "typekind": "cui", "lat": 39.3973198, "lng": -76.7507095, "pr": 4, "lists": [["baltmag", null]], "dual": false, "vb": "oldguard"}, {"name": "Little Donna's", "hood": "Fells Point", "type": "polish", "typekind": "cui", "lat": 39.2869055, "lng": -76.5909075, "pr": 2, "lists": [["baltmag", null], ["infat", null]], "dual": false, "vb": "global"}, {"name": "Love Pomelo", "hood": "Canton", "type": "italian", "typekind": "cui", "lat": 39.2799221, "lng": -76.574225, "pr": 3, "lists": [["baltmag", null]], "dual": false, "vb": "italian"}, {"name": "Magdalena", "hood": "Mount Vernon", "type": "american", "typekind": "cui", "lat": 39.3033937, "lng": -76.6127185, "pr": 3, "lists": [["baltmag", null]], "dual": false, "vb": "datenight"}, {"name": "Marta", "hood": "Patterson Park", "type": "italian", "typekind": "cui", "lat": 39.2894173, "lng": -76.5862162, "pr": 3, "lists": [["baltmag", null], ["infat", null]], "dual": false, "vb": "italian"}, {"name": "The Milton Inn", "hood": "Sparks-Glencoe", "type": "american", "typekind": "cui", "lat": 39.532375, "lng": -76.645764, "pr": 4, "lists": [["baltmag", null]], "dual": false, "vb": "datenight"}, {"name": "NiHao", "hood": "Canton", "type": "chinese", "typekind": "cui", "lat": 39.282911, "lng": -76.5838725, "pr": 2, "lists": [["baltmag", null], ["infat", null]], "dual": false, "vb": "asian"}, {"name": "Oleum", "hood": "Fells Point", "type": "vegan", "typekind": "cui", "lat": 39.2833455, "lng": -76.5950142, "pr": 2, "lists": [["baltmag", null]], "dual": false, "vb": "global"}, {"name": "Peerce's", "hood": "Phoenix", "type": "indian", "typekind": "cui", "lat": 39.467479, "lng": -76.5470183, "pr": 2, "lists": [["baltmag", null]], "dual": false, "vb": "global"}, {"name": "Peter's Inn", "hood": "Fells Point", "type": "american", "typekind": "cui", "lat": 39.2854533, "lng": -76.5915703, "pr": 4, "lists": [["baltmag", null]], "dual": false, "vb": "oldguard"}, {"name": "Petit Louis Bistro", "hood": "Roland Park", "type": "french", "typekind": "cui", "lat": 39.350414, "lng": -76.635735, "pr": 3, "lists": [["baltmag", null], ["infat", null]], "dual": false, "vb": "datenight"}, {"name": "Preserve", "hood": "Annapolis", "type": "american", "typekind": "cui", "lat": 38.977876, "lng": -76.4898159, "pr": 2, "lists": [["baltmag", null]], "dual": false, "vb": "datenight"}, {"name": "The Prime Rib", "hood": "Mount Vernon", "type": "steakhouse", "typekind": "cui", "lat": 39.3026582, "lng": -76.6128284, "pr": 4, "lists": [["baltmag", null]], "dual": false, "vb": "datenight"}, {"name": "Red Pepper Sichuan Bistro", "hood": "Towson", "type": "chinese", "typekind": "cui", "lat": 39.4015249, "lng": -76.6031555, "pr": 2, "lists": [["baltmag", null]], "dual": false, "vb": "asian"}, {"name": "Rooted Rotisserie", "hood": "Hollins Market", "type": "american", "typekind": "cui", "lat": 39.287837, "lng": -76.6357658, "pr": 2, "lists": [["baltmag", null], ["infat", null]], "dual": false, "vb": "specialty"}, {"name": "The Ruxton", "hood": "Harbor East", "type": "steakhouse", "typekind": "cui", "lat": 39.2833771, "lng": -76.6023062, "pr": 4, "lists": [["baltmag", null]], "dual": false, "vb": "datenight"}, {"name": "Sangam Indian Cuisine", "hood": "Ellicott City", "type": "indian", "typekind": "cui", "lat": 39.2789062, "lng": -76.8576097, "pr": 2, "lists": [["baltmag", null]], "dual": false, "vb": "global"}, {"name": "Tagliata", "hood": "Harbor East", "type": "italian", "typekind": "cui", "lat": 39.2843976, "lng": -76.59969, "pr": 3, "lists": [["baltmag", null]], "dual": false, "vb": "italian"}, {"name": "Thames Street Oyster House", "hood": "Fells Point", "type": "seafood", "typekind": "cui", "lat": 39.2821061, "lng": -76.5916158, "pr": 3, "lists": [["baltmag", null]], "dual": false, "vb": "specialty"}, {"name": "True Chesapeake", "hood": "Woodberry", "type": "seafood", "typekind": "cui", "lat": 39.3268683, "lng": -76.6370069, "pr": 2, "lists": [["baltmag", null]], "dual": false, "vb": "specialty"}, {"name": "Tavern at Woodberry Kitchen", "hood": "Woodberry", "type": "american", "typekind": "cui", "lat": 39.3320685, "lng": -76.6453523, "pr": 3, "lists": [["infat", null]], "dual": false, "vb": "specialty"}, {"name": "The Wren", "hood": "Fells Point", "type": "american", "typekind": "cui", "lat": 39.2837103, "lng": -76.5926094, "pr": 2, "lists": [["baltmag", null]], "dual": false, "vb": "datenight"}, {"name": "Wye Oak Tavern", "hood": "Frederick", "type": "steakhouse", "typekind": "cui", "lat": 39.415162, "lng": -77.4070423, "pr": 4, "lists": [["baltmag", null]], "dual": false, "vb": "datenight"}, {"name": "Puerto 511", "hood": "Downtown", "type": "peruvian", "typekind": "cui", "lat": 39.2924952, "lng": -76.6171388, "pr": 3, "lists": [["infat", null]], "dual": false, "vb": "global"}, {"name": "Toki Underground", "hood": "Waverly", "type": "ramen", "typekind": "cui", "lat": 39.3216106, "lng": -76.6092741, "pr": 2, "lists": [["infat", null]], "dual": false, "vb": "asian"}, {"name": "Blacksauce Kitchen", "hood": "Remington", "type": "soul", "typekind": "cui", "lat": 39.321106, "lng": -76.6241318, "pr": 2, "lists": [["infat", null]], "dual": false, "vb": "specialty"}, {"name": "The Helmand", "hood": "Mount Vernon", "type": "afghan", "typekind": "cui", "lat": 39.2989159, "lng": -76.6159629, "pr": 2, "lists": [["infat", null]], "dual": false, "vb": "global"}, {"name": "Chaps Pit Beef", "hood": "East Baltimore", "type": "bbq", "typekind": "cui", "lat": 39.3014135, "lng": -76.5476039, "pr": 1, "lists": [["infat", null]], "dual": false, "vb": "specialty"}, {"name": "La Barrita", "hood": "Upper Fells", "type": "argentinian", "typekind": "cui", "lat": 39.2927909, "lng": -76.5876666, "pr": 2, "lists": [["infat", null]], "dual": false, "vb": "global"}], "bars": [{"name": "The Bluebird Cocktail Room", "hood": "Hampden", "type": "m", "typekind": "drink", "lat": 39.3313184, "lng": -76.6340102, "lists": [["visitbmore", null]], "dual": false, "vb": "mixo"}, {"name": "The Elk Room", "hood": "Harbor East", "type": "m", "typekind": "drink", "lat": 39.2846488, "lng": -76.5999526, "lists": [["visitbmore", null]], "dual": false, "vb": "mixo"}, {"name": "Dutch Courage", "hood": "Old Goucher", "type": "m", "typekind": "drink", "lat": 39.3151529, "lng": -76.6165633, "lists": [["baltmagbars", null], ["visitbmore", null]], "dual": false, "vb": "mixo"}, {"name": "W.C. Harlan", "hood": "Remington", "type": "m", "typekind": "drink", "lat": 39.3152824, "lng": -76.6220817, "lists": [["visitbmore", null]], "dual": false, "vb": "mixo"}, {"name": "Sugarvale", "hood": "Mount Vernon", "type": "m", "typekind": "drink", "lat": 39.2986794, "lng": -76.6160617, "lists": [["visitbmore", null]], "dual": false, "vb": "mixo"}, {"name": "The Bygone", "hood": "Harbor East", "type": "m", "typekind": "drink", "lat": 39.2827209, "lng": -76.6025148, "lists": [["visitbmore", null]], "dual": false, "vb": "vibey"}, {"name": "Rye", "hood": "Fells Point", "type": "m", "typekind": "drink", "lat": 39.2814674, "lng": -76.5935198, "lists": [["visitbmore", null]], "dual": false, "vb": "mixo"}, {"name": "29th Street Tavern", "hood": "Remington", "type": "b", "typekind": "drink", "lat": 39.3214264, "lng": -76.6240288, "lists": [["baltmagbars", null]], "dual": false, "vb": "dive"}, {"name": "The Back Yard", "hood": "Hollins Market", "type": "m", "typekind": "drink", "lat": 39.2859115, "lng": -76.6334022, "lists": [["baltmagbars", null]], "dual": false, "vb": "mixo"}, {"name": "The Coral Wig", "hood": "Mount Vernon", "type": "m", "typekind": "drink", "lat": 39.2997593, "lng": -76.6152671, "lists": [["baltmagbars", null], ["visitbmore", null]], "dual": false, "vb": "mixo"}, {"name": "The Club Car", "hood": "Station North", "type": "m", "typekind": "drink", "lat": 39.3114069, "lng": -76.6170344, "lists": [["baltmagbars", null]], "dual": false, "vb": "livemusic"}, {"name": "The Dive", "hood": "Canton", "type": "m", "typekind": "drink", "lat": 39.2791112, "lng": -76.5716819, "lists": [["baltmagbars", null]], "dual": false, "vb": "vibey"}, {"name": "Fadensonnen", "hood": "Old Goucher", "type": "w", "typekind": "drink", "lat": 39.3150835, "lng": -76.61759, "lists": [["baltmagbars", null]], "dual": false, "vb": "wine"}, {"name": "Mama Koko's", "hood": "Barclay", "type": "m", "typekind": "drink", "lat": 39.3155088, "lng": -76.6149621, "lists": [["baltmagbars", null]], "dual": false, "vb": "vibey"}, {"name": "Meander", "hood": "Upper Fells", "type": "m", "typekind": "drink", "lat": 39.2903423, "lng": -76.5915625, "lists": [["baltmagbars", null]], "dual": false, "vb": "vibey"}, {"name": "Old Major", "hood": "Pigtown", "type": "m", "typekind": "drink", "lat": 39.2819396, "lng": -76.6373848, "lists": [["baltmagbars", null]], "dual": false, "vb": "livemusic"}, {"name": "Pink Flamingo", "hood": "Remington", "type": "m", "typekind": "drink", "lat": 39.3232233, "lng": -76.6231864, "lists": [["baltmagbars", null], ["visitbmore", null]], "dual": false, "vb": "vibey"}, {"name": "The Royal Blue", "hood": "Station North", "type": "m", "typekind": "drink", "lat": 39.3096448, "lng": -76.6176818, "lists": [["baltmagbars", null]], "dual": false, "vb": "vibey"}, {"name": "Sisu Bar & Bottles", "hood": "Little Italy", "type": "m", "typekind": "drink", "lat": 39.2858826, "lng": -76.601393, "lists": [["baltmagbars", null]], "dual": false, "vb": "mixo"}, {"name": "Southpaw", "hood": "Fells Point", "type": "m", "typekind": "drink", "lat": 39.2846139, "lng": -76.5950572, "lists": [["baltmagbars", null], ["visitbmore", null]], "dual": false, "vb": "mixo"}, {"name": "Vision House", "hood": "Charles Village", "type": "m", "typekind": "drink", "lat": 39.3180119, "lng": -76.6195434, "lists": [["baltmagbars", null]], "dual": false, "vb": "vibey"}, {"name": "Bloom's", "hood": "Mount Vernon", "type": "m", "typekind": "drink", "lat": 39.2997406, "lng": -76.6153435, "lists": [["visitbmore", null]], "dual": false, "vb": "vibey"}, {"name": "R. Bar", "hood": "Remington", "type": "m", "typekind": "drink", "lat": 39.3217276, "lng": -76.6222273, "lists": [["visitbmore", null]], "dual": false, "vb": "vibey"}, {"name": "Sally O's", "hood": "Highlandtown", "type": "m", "typekind": "drink", "lat": 39.288469, "lng": -76.5674009, "lists": [["visitbmore", null]], "dual": false, "vb": "vibey"}, {"name": "Melanie's at Griffith's Tavern", "hood": "Hampden", "type": "b", "typekind": "drink", "lat": 39.3323386, "lng": -76.6340368, "lists": [["baltmagbars", null]], "dual": false, "vb": "dive"}], "rlists": {"baltmag": {"cls": "plate r-baltmag", "mono": "BM", "tag": "BALT MAG", "name": "Baltimore Magazine's Best Restaurants", "year": "2026", "ranked": false, "starChip": false}, "infat": {"cls": "plate r-balinfat", "mono": "IN", "tag": "INFAT", "name": "The Infatuation's Best Restaurants in Baltimore", "year": "2025", "ranked": false, "starChip": false}}, "blists": {"baltmagbars": {"cls": "b-baltmag", "mono": "BM", "tag": "BALT MAG", "name": "Baltimore Magazine's Best Bars", "year": "2026", "ranked": false, "starChip": false}, "visitbmore": {"cls": "b-balvisit", "mono": "VB", "tag": "VISIT BMORE", "name": "Visit Baltimore's Best Cocktail Bars", "year": "2026", "ranked": false, "starChip": false}}}
+{
+ "restos": [
+  {
+   "name": "Alma Cocina Latina",
+   "hood": "Station North",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 39.3088589,
+   "lng": -76.6162283,
+   "pr": 3,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Ammoora",
+   "hood": "Federal Hill",
+   "type": "lebanese",
+   "typekind": "cui",
+   "lat": 39.2808776,
+   "lng": -76.6067643,
+   "pr": 4,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Ananda",
+   "hood": "Fulton",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 39.1601749,
+   "lng": -76.9026844,
+   "pr": 3,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Bunny's Buckets & Bubbles",
+   "hood": "Fells Point",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 39.28258,
+   "lng": -76.5909434,
+   "pr": 2,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Cece's of Roland Park",
+   "hood": "Roland Park",
+   "type": "mediterranean",
+   "typekind": "cui",
+   "lat": 39.3553588,
+   "lng": -76.645849,
+   "pr": 3,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Charleston",
+   "hood": "Harbor East",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 39.2825989,
+   "lng": -76.6000479,
+   "pr": 4,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Cinghiale",
+   "hood": "Harbor East",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 39.2824949,
+   "lng": -76.6005131,
+   "pr": 3,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Clavel",
+   "hood": "Remington",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 39.3150317,
+   "lng": -76.6204571,
+   "pr": 2,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Cookhouse",
+   "hood": "Bolton Hill",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 39.3071773,
+   "lng": -76.62589,
+   "pr": 3,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Costiera",
+   "hood": "Little Italy",
+   "type": "mediterranean",
+   "typekind": "cui",
+   "lat": 39.2855772,
+   "lng": -76.5990003,
+   "pr": 2,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "The Dara",
+   "hood": "Fells Point",
+   "type": "thai",
+   "typekind": "cui",
+   "lat": 39.2816441,
+   "lng": -76.5899191,
+   "pr": 2,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "The Duchess",
+   "hood": "Hampden",
+   "type": "chamorro",
+   "typekind": "cui",
+   "lat": 39.3312352,
+   "lng": -76.6328311,
+   "pr": 2,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Dylan's Oyster Cellar",
+   "hood": "Hampden",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 39.3313517,
+   "lng": -76.6292685,
+   "pr": 2,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "Ekiben",
+   "hood": "Hampden",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 39.3306972,
+   "lng": -76.6316844,
+   "pr": 1,
+   "lists": [
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Faidley's Seafood",
+   "hood": "Downtown",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 39.2912199,
+   "lng": -76.6221873,
+   "pr": 2,
+   "lists": [
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Foraged",
+   "hood": "Station North",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 39.3090421,
+   "lng": -76.616287,
+   "pr": 4,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Gertrude's",
+   "hood": "Charles Village",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 39.3261931,
+   "lng": -76.6190574,
+   "pr": 2,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "Gunther & Co.",
+   "hood": "Brewers Hill",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 39.2786235,
+   "lng": -76.5659248,
+   "pr": 3,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Hersh's",
+   "hood": "Riverside",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 39.26861,
+   "lng": -76.611753,
+   "pr": 2,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "La Cuchara",
+   "hood": "Woodberry",
+   "type": "basque",
+   "typekind": "cui",
+   "lat": 39.3307227,
+   "lng": -76.6426097,
+   "pr": 4,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Le Comptoir du Vin",
+   "hood": "Station North",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 39.3095016,
+   "lng": -76.61759,
+   "pr": 3,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Linwoods",
+   "hood": "Owings Mills",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 39.3973198,
+   "lng": -76.7507095,
+   "pr": 4,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Little Donna's",
+   "hood": "Fells Point",
+   "type": "polish",
+   "typekind": "cui",
+   "lat": 39.2869055,
+   "lng": -76.5909075,
+   "pr": 2,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Love Pomelo",
+   "hood": "Canton",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 39.2799221,
+   "lng": -76.574225,
+   "pr": 3,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Magdalena",
+   "hood": "Mount Vernon",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 39.3033937,
+   "lng": -76.6127185,
+   "pr": 3,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Marta",
+   "hood": "Patterson Park",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 39.2894173,
+   "lng": -76.5862162,
+   "pr": 3,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "The Milton Inn",
+   "hood": "Sparks-Glencoe",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 39.532375,
+   "lng": -76.645764,
+   "pr": 4,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "NiHao",
+   "hood": "Canton",
+   "type": "chinese",
+   "typekind": "cui",
+   "lat": 39.282911,
+   "lng": -76.5838725,
+   "pr": 2,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Oleum",
+   "hood": "Fells Point",
+   "type": "vegan",
+   "typekind": "cui",
+   "lat": 39.2833455,
+   "lng": -76.5950142,
+   "pr": 2,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Peerce's",
+   "hood": "Phoenix",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 39.467479,
+   "lng": -76.5470183,
+   "pr": 2,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Peter's Inn",
+   "hood": "Fells Point",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 39.2854533,
+   "lng": -76.5915703,
+   "pr": 4,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Petit Louis Bistro",
+   "hood": "Roland Park",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 39.350414,
+   "lng": -76.635735,
+   "pr": 3,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Preserve",
+   "hood": "Annapolis",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 38.977876,
+   "lng": -76.4898159,
+   "pr": 2,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "The Prime Rib",
+   "hood": "Mount Vernon",
+   "type": "steakhouse",
+   "typekind": "cui",
+   "lat": 39.3026582,
+   "lng": -76.6128284,
+   "pr": 4,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Red Pepper Sichuan Bistro",
+   "hood": "Towson",
+   "type": "chinese",
+   "typekind": "cui",
+   "lat": 39.4015249,
+   "lng": -76.6031555,
+   "pr": 2,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Rooted Rotisserie",
+   "hood": "Hollins Market",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 39.287837,
+   "lng": -76.6357658,
+   "pr": 2,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "The Ruxton",
+   "hood": "Harbor East",
+   "type": "steakhouse",
+   "typekind": "cui",
+   "lat": 39.2833771,
+   "lng": -76.6023062,
+   "pr": 4,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Sangam Indian Cuisine",
+   "hood": "Ellicott City",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 39.2789062,
+   "lng": -76.8576097,
+   "pr": 2,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Tagliata",
+   "hood": "Harbor East",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 39.2843976,
+   "lng": -76.59969,
+   "pr": 3,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Thames Street Oyster House",
+   "hood": "Fells Point",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 39.2821061,
+   "lng": -76.5916158,
+   "pr": 3,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "True Chesapeake",
+   "hood": "Woodberry",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 39.3268683,
+   "lng": -76.6370069,
+   "pr": 2,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "Tavern at Woodberry Kitchen",
+   "hood": "Woodberry",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 39.3320685,
+   "lng": -76.6453523,
+   "pr": 3,
+   "lists": [
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "The Wren",
+   "hood": "Fells Point",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 39.2837103,
+   "lng": -76.5926094,
+   "pr": 2,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Wye Oak Tavern",
+   "hood": "Frederick",
+   "type": "steakhouse",
+   "typekind": "cui",
+   "lat": 39.415162,
+   "lng": -77.4070423,
+   "pr": 4,
+   "lists": [
+    [
+     "baltmag",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Puerto 511",
+   "hood": "Downtown",
+   "type": "peruvian",
+   "typekind": "cui",
+   "lat": 39.2924952,
+   "lng": -76.6171388,
+   "pr": 3,
+   "lists": [
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Toki Underground",
+   "hood": "Waverly",
+   "type": "ramen",
+   "typekind": "cui",
+   "lat": 39.3216106,
+   "lng": -76.6092741,
+   "pr": 2,
+   "lists": [
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Blacksauce Kitchen",
+   "hood": "Remington",
+   "type": "soul",
+   "typekind": "cui",
+   "lat": 39.321106,
+   "lng": -76.6241318,
+   "pr": 2,
+   "lists": [
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "The Helmand",
+   "hood": "Mount Vernon",
+   "type": "afghan",
+   "typekind": "cui",
+   "lat": 39.2989159,
+   "lng": -76.6159629,
+   "pr": 2,
+   "lists": [
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Chaps Pit Beef",
+   "hood": "East Baltimore",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 39.3014135,
+   "lng": -76.5476039,
+   "pr": 1,
+   "lists": [
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "La Barrita",
+   "hood": "Upper Fells",
+   "type": "argentinian",
+   "typekind": "cui",
+   "lat": 39.2927909,
+   "lng": -76.5876666,
+   "pr": 2,
+   "lists": [
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  }
+ ],
+ "bars": [
+  {
+   "name": "The Bluebird Cocktail Room",
+   "hood": "Hampden",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.3313184,
+   "lng": -76.6340102,
+   "lists": [
+    [
+     "visitbmore",
+     null
+    ],
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Elk Room",
+   "hood": "Harbor East",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.2846488,
+   "lng": -76.5999526,
+   "lists": [
+    [
+     "visitbmore",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Dutch Courage",
+   "hood": "Old Goucher",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.3151529,
+   "lng": -76.6165633,
+   "lists": [
+    [
+     "baltmagbars",
+     null
+    ],
+    [
+     "visitbmore",
+     null
+    ],
+    [
+     "barmagbal",
+     null
+    ],
+    [
+     "infatbal",
+     null
+    ],
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "W.C. Harlan",
+   "hood": "Remington",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.3152824,
+   "lng": -76.6220817,
+   "lists": [
+    [
+     "visitbmore",
+     null
+    ],
+    [
+     "infatbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Sugarvale",
+   "hood": "Mount Vernon",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.2986794,
+   "lng": -76.6160617,
+   "lists": [
+    [
+     "visitbmore",
+     null
+    ],
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Bygone",
+   "hood": "Harbor East",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.2827209,
+   "lng": -76.6025148,
+   "lists": [
+    [
+     "visitbmore",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Rye",
+   "hood": "Fells Point",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.2814674,
+   "lng": -76.5935198,
+   "lists": [
+    [
+     "visitbmore",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "29th Street Tavern",
+   "hood": "Remington",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 39.3214264,
+   "lng": -76.6240288,
+   "lists": [
+    [
+     "baltmagbars",
+     null
+    ],
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Back Yard",
+   "hood": "Hollins Market",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.2859115,
+   "lng": -76.6334022,
+   "lists": [
+    [
+     "baltmagbars",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Coral Wig",
+   "hood": "Mount Vernon",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.2997593,
+   "lng": -76.6152671,
+   "lists": [
+    [
+     "baltmagbars",
+     null
+    ],
+    [
+     "visitbmore",
+     null
+    ],
+    [
+     "barmagbal",
+     null
+    ],
+    [
+     "infatbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Club Car",
+   "hood": "Station North",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.3114069,
+   "lng": -76.6170344,
+   "lists": [
+    [
+     "baltmagbars",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "The Dive",
+   "hood": "Canton",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.2791112,
+   "lng": -76.5716819,
+   "lists": [
+    [
+     "baltmagbars",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Fadensonnen",
+   "hood": "Old Goucher",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 39.3150835,
+   "lng": -76.61759,
+   "lists": [
+    [
+     "baltmagbars",
+     null
+    ],
+    [
+     "infatbal",
+     null
+    ],
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Mama Koko's",
+   "hood": "Barclay",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.3155088,
+   "lng": -76.6149621,
+   "lists": [
+    [
+     "baltmagbars",
+     null
+    ],
+    [
+     "infatbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Meander",
+   "hood": "Upper Fells",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.2903423,
+   "lng": -76.5915625,
+   "lists": [
+    [
+     "baltmagbars",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Old Major",
+   "hood": "Pigtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.2819396,
+   "lng": -76.6373848,
+   "lists": [
+    [
+     "baltmagbars",
+     null
+    ],
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Pink Flamingo",
+   "hood": "Remington",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.3232233,
+   "lng": -76.6231864,
+   "lists": [
+    [
+     "baltmagbars",
+     null
+    ],
+    [
+     "visitbmore",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Royal Blue",
+   "hood": "Station North",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.3096448,
+   "lng": -76.6176818,
+   "lists": [
+    [
+     "baltmagbars",
+     null
+    ],
+    [
+     "infatbal",
+     null
+    ],
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Sisu Bar & Bottles",
+   "hood": "Little Italy",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.2858826,
+   "lng": -76.601393,
+   "lists": [
+    [
+     "baltmagbars",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Southpaw",
+   "hood": "Fells Point",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.2846139,
+   "lng": -76.5950572,
+   "lists": [
+    [
+     "baltmagbars",
+     null
+    ],
+    [
+     "visitbmore",
+     null
+    ],
+    [
+     "barmagbal",
+     null
+    ],
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Vision House",
+   "hood": "Charles Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.3180119,
+   "lng": -76.6195434,
+   "lists": [
+    [
+     "baltmagbars",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Bloom's",
+   "hood": "Mount Vernon",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.2997406,
+   "lng": -76.6153435,
+   "lists": [
+    [
+     "visitbmore",
+     null
+    ],
+    [
+     "barmagbal",
+     null
+    ],
+    [
+     "infatbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "R. Bar",
+   "hood": "Remington",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.3217276,
+   "lng": -76.6222273,
+   "lists": [
+    [
+     "visitbmore",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Sally O's",
+   "hood": "Highlandtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.288469,
+   "lng": -76.5674009,
+   "lists": [
+    [
+     "visitbmore",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Melanie's at Griffith's Tavern",
+   "hood": "Hampden",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 39.3323386,
+   "lng": -76.6340368,
+   "lists": [
+    [
+     "baltmagbars",
+     null
+    ],
+    [
+     "infatbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Clavel Mezcaleria",
+   "hood": "Remington",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.3150317,
+   "lng": -76.6204571,
+   "lists": [
+    [
+     "barmagbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Wren",
+   "hood": "Fells Point",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.2837103,
+   "lng": -76.5926094,
+   "lists": [
+    [
+     "infatbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Rocket to Venus",
+   "hood": "Hampden",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.3285064,
+   "lng": -76.6294937,
+   "lists": [
+    [
+     "infatbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Ottobar",
+   "hood": "Remington",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.318881,
+   "lng": -76.6195818,
+   "lists": [
+    [
+     "infatbal",
+     null
+    ],
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "Club Charles",
+   "hood": "Station North",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.3095271,
+   "lng": -76.61674,
+   "lists": [
+    [
+     "infatbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Peabody Heights",
+   "hood": "Harwood",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 39.3243423,
+   "lng": -76.6104348,
+   "lists": [
+    [
+     "infatbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Hudson Street Stack House",
+   "hood": "Canton",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 39.2822003,
+   "lng": -76.5789223,
+   "lists": [
+    [
+     "infatbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Cocktail Gallery",
+   "hood": "Hampden",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.3358682,
+   "lng": -76.6443156,
+   "lists": [
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Manor",
+   "hood": "Mount Vernon",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 39.3004692,
+   "lng": -76.6162329,
+   "lists": [
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Johnny Rad's Pizzeria Tavern",
+   "hood": "Fells Point",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.2860452,
+   "lng": -76.5865575,
+   "lists": [
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Frazier's on the Avenue",
+   "hood": "Hampden",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.3309927,
+   "lng": -76.6319971,
+   "lists": [
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Tapas Teatro",
+   "hood": "Station North",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.3091079,
+   "lng": -76.6162901,
+   "lists": [
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Little Havana",
+   "hood": "Federal Hill",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 39.2745335,
+   "lng": -76.6032331,
+   "lists": [
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Wet City",
+   "hood": "Mount Vernon",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 39.3017083,
+   "lng": -76.6191111,
+   "lists": [
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Papi's Taco Joint",
+   "hood": "Fells Point",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.2834181,
+   "lng": -76.5928949,
+   "lists": [
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Old Line Spirits",
+   "hood": "Highlandtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.2904122,
+   "lng": -76.5609341,
+   "lists": [
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Idle Hour",
+   "hood": "Federal Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.272633,
+   "lng": -76.609882,
+   "lists": [
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Cat's Eye Pub",
+   "hood": "Fells Point",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.2821073,
+   "lng": -76.5916007,
+   "lists": [
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "The Chasseur",
+   "hood": "Canton",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.2846729,
+   "lng": -76.5690299,
+   "lists": [
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Wiley Gunter's",
+   "hood": "Riverside",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 39.2717499,
+   "lng": -76.60223,
+   "lists": [
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Brewer's Art",
+   "hood": "Mount Vernon",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 39.3027445,
+   "lng": -76.6161317,
+   "lists": [
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Maggie's Farm",
+   "hood": "Hamilton",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 39.3394572,
+   "lng": -76.5724949,
+   "lists": [
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Of Love & Regret",
+   "hood": "Canton",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.2807454,
+   "lng": -76.566988,
+   "lists": [
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Max's Taphouse",
+   "hood": "Fells Point",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 39.2826448,
+   "lng": -76.5930146,
+   "lists": [
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Annabel Lee Tavern",
+   "hood": "Canton",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.2853718,
+   "lng": -76.5696986,
+   "lists": [
+    [
+     "thrillbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  }
+ ],
+ "rlists": {
+  "baltmag": {
+   "cls": "plate r-baltmag",
+   "mono": "BM",
+   "tag": "BALT MAG",
+   "name": "Baltimore Magazine's Best Restaurants",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "infat": {
+   "cls": "plate r-balinfat",
+   "mono": "IN",
+   "tag": "INFAT",
+   "name": "The Infatuation's Best Restaurants in Baltimore",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  }
+ },
+ "blists": {
+  "baltmagbars": {
+   "cls": "b-baltmag",
+   "mono": "BM",
+   "tag": "BALT MAG",
+   "name": "Baltimore Magazine's Best Bars",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "visitbmore": {
+   "cls": "b-balvisit",
+   "mono": "VB",
+   "tag": "VISIT BMORE",
+   "name": "Visit Baltimore's Best Cocktail Bars",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "barmagbal": {
+   "cls": "b-barmagbal",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The Best Bars in Baltimore",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "infatbal": {
+   "cls": "b-infatbal",
+   "mono": "IN",
+   "tag": "INFAT",
+   "name": "The Infatuation: The Best Bars in Baltimore",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "thrillbal": {
+   "cls": "b-thrillbal",
+   "mono": "TH",
+   "tag": "THRILLIST",
+   "name": "Thrillist: The Absolute Best Bars in Baltimore",
+   "year": "2023",
+   "ranked": false,
+   "starChip": false
+  }
+ }
+}

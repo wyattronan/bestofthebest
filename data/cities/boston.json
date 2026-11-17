@@ -2265,6 +2265,14 @@
     [
      "globebos",
      null
+    ],
+    [
+     "barmagbos",
+     null
+    ],
+    [
+     "resybos",
+     null
     ]
    ],
    "dual": false,
@@ -2296,6 +2304,18 @@
     ],
     [
      "globebos",
+     null
+    ],
+    [
+     "barmagbos",
+     null
+    ],
+    [
+     "infatbos",
+     null
+    ],
+    [
+     "resybos",
      null
     ]
    ],
@@ -2329,6 +2349,10 @@
     [
      "globebos",
      null
+    ],
+    [
+     "barmagbos",
+     null
     ]
    ],
    "dual": false,
@@ -2356,6 +2380,14 @@
     ],
     [
      "globebos",
+     null
+    ],
+    [
+     "barmagbos",
+     null
+    ],
+    [
+     "infatbos",
      null
     ]
    ],
@@ -2386,6 +2418,14 @@
     [
      "cnt23bos",
      22
+    ],
+    [
+     "barmagbos",
+     null
+    ],
+    [
+     "infatbos",
+     null
     ]
    ],
    "dual": false,
@@ -2413,6 +2453,10 @@
     ],
     [
      "thrillbos",
+     null
+    ],
+    [
+     "barmagbos",
      null
     ]
    ],
@@ -2443,6 +2487,10 @@
     [
      "cnt23bos",
      3
+    ],
+    [
+     "barmagbos",
+     null
     ]
    ],
    "dual": false,
@@ -2468,6 +2516,10 @@
     [
      "belib",
      1
+    ],
+    [
+     "barmagbos",
+     null
     ]
    ],
    "dual": false,
@@ -2492,6 +2544,10 @@
     ],
     [
      "globebos",
+     null
+    ],
+    [
+     "barmagbos",
      null
     ]
    ],
@@ -2518,6 +2574,18 @@
     [
      "globebos",
      null
+    ],
+    [
+     "barmagbos",
+     null
+    ],
+    [
+     "infatbos",
+     null
+    ],
+    [
+     "resybos",
+     null
     ]
    ],
    "dual": false,
@@ -2538,6 +2606,14 @@
     [
      "belib",
      4
+    ],
+    [
+     "barmagbos",
+     null
+    ],
+    [
+     "resybos",
+     null
     ]
    ],
    "dual": false,
@@ -2579,6 +2655,14 @@
     [
      "cnt23bos",
      4
+    ],
+    [
+     "barmagbos",
+     null
+    ],
+    [
+     "infatbos",
+     null
     ]
    ],
    "dual": false,
@@ -2621,6 +2705,10 @@
     [
      "belib",
      2
+    ],
+    [
+     "barmagbos",
+     null
     ]
    ],
    "dual": false,
@@ -2705,6 +2793,14 @@
     [
      "cnt23bos",
      10
+    ],
+    [
+     "barmagbos",
+     null
+    ],
+    [
+     "infatbos",
+     null
     ]
    ],
    "dual": false,
@@ -2726,6 +2822,10 @@
     [
      "cnt23bos",
      2
+    ],
+    [
+     "barmagbos",
+     null
     ]
    ],
    "dual": false,
@@ -2767,6 +2867,10 @@
     [
      "timeoutbos",
      null
+    ],
+    [
+     "barmagbos",
+     null
     ]
    ],
    "dual": true,
@@ -2787,6 +2891,10 @@
     [
      "cnt23bos",
      6
+    ],
+    [
+     "barmagbos",
+     null
     ]
    ],
    "dual": false,
@@ -2887,6 +2995,10 @@
     [
      "cnt23bos",
      1
+    ],
+    [
+     "barmagbos",
+     null
     ]
    ],
    "dual": false,
@@ -2934,6 +3046,10 @@
    "lists": [
     [
      "timeoutbos",
+     null
+    ],
+    [
+     "barmagbos",
      null
     ]
    ],
@@ -3115,6 +3231,10 @@
    "lists": [
     [
      "globebos",
+     null
+    ],
+    [
+     "barmagbos",
      null
     ]
    ],
@@ -3327,6 +3447,14 @@
     [
      "timeoutbos",
      null
+    ],
+    [
+     "barmagbos",
+     null
+    ],
+    [
+     "resybos",
+     null
     ]
    ],
    "dual": false,
@@ -3343,6 +3471,10 @@
    "lists": [
     [
      "globebos",
+     null
+    ],
+    [
+     "barmagbos",
      null
     ]
    ],
@@ -3458,6 +3590,10 @@
     [
      "eaterbbos",
      null
+    ],
+    [
+     "barmagbos",
+     null
     ]
    ],
    "dual": false,
@@ -3505,6 +3641,14 @@
    "lists": [
     [
      "globebos",
+     null
+    ],
+    [
+     "barmagbos",
+     null
+    ],
+    [
+     "infatbos",
      null
     ]
    ],
@@ -3587,6 +3731,10 @@
     [
      "globebos",
      null
+    ],
+    [
+     "barmagbos",
+     null
     ]
    ],
    "dual": true,
@@ -3602,6 +3750,10 @@
    "lists": [
     [
      "punchbos",
+     null
+    ],
+    [
+     "infatbos",
      null
     ]
    ],
@@ -3865,6 +4017,14 @@
     [
      "cnt23bos",
      16
+    ],
+    [
+     "barmagbos",
+     null
+    ],
+    [
+     "infatbos",
+     null
     ]
    ],
    "dual": false,
@@ -3951,6 +4111,386 @@
    ],
    "dual": false,
    "vb": "brewery"
+  },
+  {
+   "name": "Coquette",
+   "hood": "Seaport",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3471767,
+   "lng": -71.0429053,
+   "lists": [
+    [
+     "barmagbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Lucky's Lounge",
+   "hood": "Fort Point",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3502162,
+   "lng": -71.0484495,
+   "lists": [
+    [
+     "barmagbos",
+     null
+    ],
+    [
+     "resybos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Krasi",
+   "hood": "Back Bay",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 42.3487186,
+   "lng": -71.0840374,
+   "lists": [
+    [
+     "barmagbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "My Girl",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3572727,
+   "lng": -71.0559236,
+   "lists": [
+    [
+     "barmagbos",
+     null
+    ],
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Nook",
+   "hood": "Somerville",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3809549,
+   "lng": -71.0978753,
+   "lists": [
+    [
+     "barmagbos",
+     null
+    ],
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Liars",
+   "hood": "Somerville",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.4035233,
+   "lng": -71.1272821,
+   "lists": [
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Mother's East Tavern",
+   "hood": "South Boston",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.332053,
+   "lng": -71.0527705,
+   "lists": [
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Druid",
+   "hood": "Inman Sq",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3737841,
+   "lng": -71.100171,
+   "lists": [
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Gray's Hall",
+   "hood": "South Boston",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 42.3353933,
+   "lng": -71.0397621,
+   "lists": [
+    [
+     "infatbos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Marzae Cellar + Provisions",
+   "hood": "Public Market",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 42.3624128,
+   "lng": -71.0580635,
+   "lists": [
+    [
+     "resybos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Parla",
+   "hood": "North End",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3632455,
+   "lng": -71.0552327,
+   "lists": [
+    [
+     "resybos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Scores",
+   "hood": "West End",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3650623,
+   "lng": -71.0609455,
+   "lists": [
+    [
+     "resybos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Tip Tap Room",
+   "hood": "Beacon Hill",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3610014,
+   "lng": -71.0639605,
+   "lists": [
+    [
+     "resybos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brewery"
+  },
+  {
+   "name": "Taco Azul",
+   "hood": "Beacon Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3581485,
+   "lng": -71.0624814,
+   "lists": [
+    [
+     "resybos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Folio",
+   "hood": "Beacon Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3579162,
+   "lng": -71.0625146,
+   "lists": [
+    [
+     "resybos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Somaek",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3552498,
+   "lng": -71.0625555,
+   "lists": [
+    [
+     "resybos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Liberty Bar",
+   "hood": "West End",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3620354,
+   "lng": -71.0703608,
+   "lists": [
+    [
+     "resybos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Alibi Bar and Lounge",
+   "hood": "West End",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3620354,
+   "lng": -71.0703608,
+   "lists": [
+    [
+     "resybos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Zurito",
+   "hood": "Beacon Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3567992,
+   "lng": -71.0698989,
+   "lists": [
+    [
+     "resybos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Willie's",
+   "hood": "Beacon Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3566518,
+   "lng": -71.0699553,
+   "lists": [
+    [
+     "resybos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "City Tap Fort Point",
+   "hood": "Fort Point",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.350076,
+   "lng": -71.0472696,
+   "lists": [
+    [
+     "resybos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brewery"
+  },
+  {
+   "name": "Cactus Club Cafe Back Bay",
+   "hood": "Back Bay",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3507305,
+   "lng": -71.0742773,
+   "lists": [
+    [
+     "resybos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Boqueria Seaport",
+   "hood": "Seaport",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3512416,
+   "lng": -71.0473171,
+   "lists": [
+    [
+     "resybos",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
   }
  ],
  "rlists": {
@@ -4143,6 +4683,33 @@
    "name": "Beli's Top Bars in Boston (2025)",
    "year": "2025",
    "ranked": true,
+   "starChip": false
+  },
+  "barmagbos": {
+   "cls": "b-barmagbos",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The 31 Best Bars in Boston",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "infatbos": {
+   "cls": "b-infatbos",
+   "mono": "IN",
+   "tag": "INFAT",
+   "name": "The Infatuation: The Best Bars in Boston",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "resybos": {
+   "cls": "b-resybos",
+   "mono": "RE",
+   "tag": "RESY",
+   "name": "Resy: The Best Places to Drink in Boston",
+   "year": "2026",
+   "ranked": false,
    "starChip": false
   }
  }
