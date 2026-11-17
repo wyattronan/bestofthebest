@@ -2715,6 +2715,10 @@
     [
      "belib",
      5
+    ],
+    [
+     "eaterphl",
+     null
     ]
    ],
    "vb": "vibey",
@@ -2798,6 +2802,10 @@
     ],
     [
      "jbbphl",
+     null
+    ],
+    [
+     "eaterphl",
      null
     ]
    ],
@@ -2915,6 +2923,10 @@
     [
      "toutbphl",
      3
+    ],
+    [
+     "eaterphl",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2963,6 +2975,10 @@
     [
      "toutbphl",
      6
+    ],
+    [
+     "eaterphl",
+     null
     ]
    ],
    "vb": "dive",
@@ -2982,6 +2998,10 @@
     ],
     [
      "punchphl",
+     null
+    ],
+    [
+     "eaterphl",
      null
     ]
    ],
@@ -3102,6 +3122,10 @@
    "lists": [
     [
      "phmagbphl",
+     null
+    ],
+    [
+     "resyphl",
      null
     ]
    ],
@@ -3288,6 +3312,470 @@
    ],
    "vb": "mixo",
    "dual": false
+  },
+  {
+   "name": "R&D",
+   "hood": "Fishtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.9691709,
+   "lng": -75.1346067,
+   "lists": [
+    [
+     "eaterphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Two Locals Brewing",
+   "hood": "University City",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 39.9568535,
+   "lng": -75.1954195,
+   "lists": [
+    [
+     "eaterphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Ranstead Room",
+   "hood": "Rittenhouse",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.9526096,
+   "lng": -75.1739615,
+   "lists": [
+    [
+     "eaterphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "a.bar",
+   "hood": "Rittenhouse",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 39.9502085,
+   "lng": -75.1705347,
+   "lists": [
+    [
+     "eaterphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Andra Hem",
+   "hood": "Rittenhouse",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.9491798,
+   "lng": -75.1677967,
+   "lists": [
+    [
+     "eaterphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Monk's Cafe",
+   "hood": "Rittenhouse",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.947701,
+   "lng": -75.168124,
+   "lists": [
+    [
+     "eaterphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Superfolie",
+   "hood": "Rittenhouse",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 39.9472073,
+   "lng": -75.168291,
+   "lists": [
+    [
+     "eaterphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Le Caveau",
+   "hood": "Bella Vista",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 39.9417309,
+   "lng": -75.1541846,
+   "lists": [
+    [
+     "eaterphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Southwark",
+   "hood": "Queen Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.9404576,
+   "lng": -75.1493157,
+   "lists": [
+    [
+     "eaterphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Fountain Porter",
+   "hood": "East Passyunk",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 39.9295081,
+   "lng": -75.1614274,
+   "lists": [
+    [
+     "eaterphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Mixteca Philly",
+   "hood": "Kensington",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.9822181,
+   "lng": -75.1281087,
+   "lists": [
+    [
+     "resyphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Starbolt",
+   "hood": "South Kensington",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.9796021,
+   "lng": -75.1334465,
+   "lists": [
+    [
+     "resyphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "LeoFigs",
+   "hood": "Fishtown",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 39.9795058,
+   "lng": -75.1292218,
+   "lists": [
+    [
+     "resyphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Suraya",
+   "hood": "Fishtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.9737135,
+   "lng": -75.1339284,
+   "lists": [
+    [
+     "resyphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Toska Restaurant and Brewery",
+   "hood": "Mt. Airy",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.0591708,
+   "lng": -75.1904446,
+   "lists": [
+    [
+     "resyphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Mamajuana Cafe Philly",
+   "hood": "Fishtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.9648616,
+   "lng": -75.1346275,
+   "lists": [
+    [
+     "resyphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Standard Tap",
+   "hood": "Northern Liberties",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.9641636,
+   "lng": -75.1405212,
+   "lists": [
+    [
+     "resyphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Bar1010",
+   "hood": "Northern Liberties",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.9619457,
+   "lng": -75.1408304,
+   "lists": [
+    [
+     "resyphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "NaBrasa Brazilian Steakhouse of Philadelphia",
+   "hood": "Center City",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.9547456,
+   "lng": -75.1726656,
+   "lists": [
+    [
+     "resyphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Mi Vida Philadelphia",
+   "hood": "Washington Square West",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.9509702,
+   "lng": -75.1594171,
+   "lists": [
+    [
+     "resyphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Time",
+   "hood": "Midtown Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.9500362,
+   "lng": -75.162516,
+   "lists": [
+    [
+     "resyphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Dandelion Pub",
+   "hood": "Rittenhouse",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 39.9509989,
+   "lng": -75.1706311,
+   "lists": [
+    [
+     "resyphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Dizengoff",
+   "hood": "Rittenhouse",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.9506895,
+   "lng": -75.1682688,
+   "lists": [
+    [
+     "resyphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Wilder",
+   "hood": "Rittenhouse",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.9514799,
+   "lng": -75.174028,
+   "lists": [
+    [
+     "resyphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Darling Jack's Tavern",
+   "hood": "Midtown Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.95011,
+   "lng": -75.1621167,
+   "lists": [
+    [
+     "resyphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Mission Taqueria",
+   "hood": "Rittenhouse",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.9502216,
+   "lng": -75.1665529,
+   "lists": [
+    [
+     "resyphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Vintage Wine Bar",
+   "hood": "Midtown Village",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 39.9495565,
+   "lng": -75.1617192,
+   "lists": [
+    [
+     "resyphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Oloroso",
+   "hood": "Washington Square West",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 39.9489319,
+   "lng": -75.1600046,
+   "lists": [
+    [
+     "resyphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Percy Diner & Bar",
+   "hood": "South Kensington",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.9758626,
+   "lng": -75.1344646,
+   "lists": [
+    [
+     "resyphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
   }
  ],
  "rlists": {
@@ -3471,6 +3959,24 @@
    "name": "Beli's Top Bars in Philadelphia (2025)",
    "year": "2025",
    "ranked": true,
+   "starChip": false
+  },
+  "eaterphl": {
+   "cls": "b-eaterphl",
+   "mono": "EAT",
+   "tag": "EATER",
+   "name": "Eater Philly: The 15 Best Bars in Philly",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "resyphl": {
+   "cls": "b-resyphl",
+   "mono": "RE",
+   "tag": "RESY",
+   "name": "Resy: The Best Places to Drink in Philadelphia",
+   "year": "2026",
+   "ranked": false,
    "starChip": false
   }
  }

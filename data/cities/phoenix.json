@@ -5097,6 +5097,18 @@
     [
      "nt50bphx",
      null
+    ],
+    [
+     "barmagphx",
+     null
+    ],
+    [
+     "eaterphx",
+     null
+    ],
+    [
+     "thrillphx",
+     null
     ]
    ],
    "vb": "mixo",
@@ -5149,6 +5161,14 @@
     [
      "nt50bphx",
      null
+    ],
+    [
+     "barmagphx",
+     null
+    ],
+    [
+     "thrillphx",
+     null
     ]
    ],
    "vb": "mixo",
@@ -5168,6 +5188,14 @@
     ],
     [
      "nt50bphx",
+     null
+    ],
+    [
+     "eaterphx",
+     null
+    ],
+    [
+     "thrillphx",
      null
     ]
    ],
@@ -5193,6 +5221,18 @@
     [
      "jbphx",
      null
+    ],
+    [
+     "barmagphx",
+     null
+    ],
+    [
+     "bonappphx",
+     null
+    ],
+    [
+     "eaterphx",
+     null
     ]
    ],
    "vb": "mixo",
@@ -5213,6 +5253,18 @@
     [
      "nt50bphx",
      null
+    ],
+    [
+     "barmagphx",
+     null
+    ],
+    [
+     "eaterphx",
+     null
+    ],
+    [
+     "thrillphx",
+     null
     ]
    ],
    "vb": "mixo",
@@ -5232,6 +5284,10 @@
     ],
     [
      "nt50bphx",
+     null
+    ],
+    [
+     "thrillphx",
      null
     ]
    ],
@@ -5285,6 +5341,10 @@
     [
      "nt50bphx",
      null
+    ],
+    [
+     "barmagphx",
+     null
     ]
    ],
    "vb": "mixo",
@@ -5300,6 +5360,14 @@
    "lists": [
     [
      "nt50bphx",
+     null
+    ],
+    [
+     "barmagphx",
+     null
+    ],
+    [
+     "thrillphx",
      null
     ]
    ],
@@ -5321,6 +5389,18 @@
     [
      "jbphx",
      null
+    ],
+    [
+     "barmagphx",
+     null
+    ],
+    [
+     "eaterphx",
+     null
+    ],
+    [
+     "thrillphx",
+     null
     ]
    ],
    "vb": "mixo",
@@ -5336,6 +5416,10 @@
    "lists": [
     [
      "nt50bphx",
+     null
+    ],
+    [
+     "barmagphx",
      null
     ]
    ],
@@ -5401,6 +5485,10 @@
     [
      "nt50bphx",
      null
+    ],
+    [
+     "barmagphx",
+     null
     ]
    ],
    "vb": "dive",
@@ -5465,6 +5553,10 @@
     [
      "nt50bphx",
      null
+    ],
+    [
+     "thrillphx",
+     null
     ]
    ],
    "vb": "dive",
@@ -5480,6 +5572,14 @@
    "lists": [
     [
      "nt50bphx",
+     null
+    ],
+    [
+     "barmagphx",
+     null
+    ],
+    [
+     "eaterphx",
      null
     ]
    ],
@@ -5657,6 +5757,10 @@
     [
      "nt50bphx",
      null
+    ],
+    [
+     "thrillphx",
+     null
     ]
    ],
    "vb": "livemusic",
@@ -5737,6 +5841,14 @@
     [
      "nt50bphx",
      null
+    ],
+    [
+     "eaterphx",
+     null
+    ],
+    [
+     "thrillphx",
+     null
     ]
    ],
    "vb": "vibey",
@@ -5816,6 +5928,14 @@
    "lists": [
     [
      "nt50bphx",
+     null
+    ],
+    [
+     "eaterphx",
+     null
+    ],
+    [
+     "thrillphx",
      null
     ]
    ],
@@ -5949,6 +6069,362 @@
    ],
    "vb": "wine",
    "dual": false
+  },
+  {
+   "name": "Pretty Penny",
+   "hood": "Roosevelt Row",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.4585316,
+   "lng": -112.0670687,
+   "lists": [
+    [
+     "barmagphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Captain's Cabin",
+   "hood": "Midtown Phoenix",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.5115375,
+   "lng": -112.0653133,
+   "lists": [
+    [
+     "barmagphx",
+     null
+    ],
+    [
+     "eaterphx",
+     null
+    ],
+    [
+     "thrillphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Arizona Wilderness - Miracle Mile",
+   "hood": "Downtown",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 33.465952,
+   "lng": -112.051037,
+   "lists": [
+    [
+     "bonappphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Wren House Paradise Valley",
+   "hood": "Paradise Valley",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 33.6020782,
+   "lng": -111.9820668,
+   "lists": [
+    [
+     "bonappphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Legends Never Die",
+   "hood": "Roosevelt Row",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.4585002,
+   "lng": -112.0671162,
+   "lists": [
+    [
+     "bonappphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Jamie's Bottle Shop",
+   "hood": "Scottsdale",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 33.4928966,
+   "lng": -111.9294971,
+   "lists": [
+    [
+     "bonappphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Thunderbird Lounge",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.4996353,
+   "lng": -112.083446,
+   "lists": [
+    [
+     "eaterphx",
+     null
+    ],
+    [
+     "thrillphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Rough Riders",
+   "hood": "Downtown Phoenix",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.4589438,
+   "lng": -112.0735001,
+   "lists": [
+    [
+     "eaterphx",
+     null
+    ],
+    [
+     "thrillphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Sauvage Bottle Shop",
+   "hood": "Downtown",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 33.4655028,
+   "lng": -112.0779922,
+   "lists": [
+    [
+     "eaterphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Superstition Meadery",
+   "hood": "Downtown Phoenix",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 33.4484803,
+   "lng": -112.0584564,
+   "lists": [
+    [
+     "eaterphx",
+     null
+    ],
+    [
+     "thrillphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Wandering Tortoise",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.4945,
+   "lng": -112.0291265,
+   "lists": [
+    [
+     "eaterphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Jamie's Wine Bar at Wrigley Mansion",
+   "hood": "Downtown",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 33.522711,
+   "lng": -112.0269931,
+   "lists": [
+    [
+     "eaterphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Sunny's Lounge",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.4947405,
+   "lng": -112.0235342,
+   "lists": [
+    [
+     "eaterphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Four Peaks Brewing Company",
+   "hood": "Tempe",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 33.4195041,
+   "lng": -111.9158283,
+   "lists": [
+    [
+     "eaterphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Goose",
+   "hood": "Scottsdale",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.5571621,
+   "lng": -111.8993307,
+   "lists": [
+    [
+     "eaterphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Quartz",
+   "hood": "Downtown Phoenix",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.4510928,
+   "lng": -112.0785545,
+   "lists": [
+    [
+     "thrillphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Khla",
+   "hood": "Downtown Phoenix",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.4603157,
+   "lng": -112.0703887,
+   "lists": [
+    [
+     "thrillphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "So Far, So Good",
+   "hood": "Downtown Phoenix",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.4578459,
+   "lng": -112.0721894,
+   "lists": [
+    [
+     "thrillphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Baby Boy",
+   "hood": "Downtown Phoenix",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.4608782,
+   "lng": -112.0707877,
+   "lists": [
+    [
+     "thrillphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Garden Bar PHX",
+   "hood": "Downtown Phoenix",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.4575509,
+   "lng": -112.0817172,
+   "lists": [
+    [
+     "thrillphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Don Woods' Say When Rooftop Bar",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.5095037,
+   "lng": -112.0800199,
+   "lists": [
+    [
+     "thrillphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
   }
  ],
  "rlists": {
@@ -6052,6 +6528,42 @@
    "year": "2025",
    "ranked": false,
    "starChip": true
+  },
+  "barmagphx": {
+   "cls": "b-barmagphx",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The 12 Best Cocktail Bars in Phoenix",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "bonappphx": {
+   "cls": "b-bonappphx",
+   "mono": "BA",
+   "tag": "BON APP",
+   "name": "Bon Appétit: The Best Bars and Cafés in Phoenix Right Now",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "eaterphx": {
+   "cls": "b-eaterphx",
+   "mono": "EAT",
+   "tag": "EATER",
+   "name": "Eater Phoenix: The Best Bars in Phoenix",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "thrillphx": {
+   "cls": "b-thrillphx",
+   "mono": "TH",
+   "tag": "THRILLIST",
+   "name": "Thrillist: 21 Bars in Phoenix That Belong on Your Must-Visit List",
+   "year": "2023",
+   "ranked": false,
+   "starChip": false
   }
  }
 }

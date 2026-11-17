@@ -2009,6 +2009,10 @@
     [
      "pdxmobar",
      null
+    ],
+    [
+     "barmagpdx",
+     null
     ]
    ],
    "vb": "vibey",
@@ -2041,6 +2045,10 @@
     [
      "pdxmobar",
      null
+    ],
+    [
+     "barmagpdx",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2056,6 +2064,10 @@
    "lists": [
     [
      "pdxmobar",
+     null
+    ],
+    [
+     "barmagpdx",
      null
     ]
    ],
@@ -2093,6 +2105,14 @@
     [
      "jbbpdx",
      null
+    ],
+    [
+     "barmagpdx",
+     null
+    ],
+    [
+     "thrillpdx",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2108,6 +2128,10 @@
    "lists": [
     [
      "pdxmobar",
+     null
+    ],
+    [
+     "barmagpdx",
      null
     ]
    ],
@@ -2125,10 +2149,222 @@
     [
      "pdxmobar",
      null
+    ],
+    [
+     "barmagpdx",
+     null
     ]
    ],
    "vb": "vibey",
    "dual": false
+  },
+  {
+   "name": "Hey Love",
+   "hood": "Central Eastside",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.5227548,
+   "lng": -122.6561647,
+   "lists": [
+    [
+     "barmagpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Pacific Standard",
+   "hood": "Central Eastside",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.5238164,
+   "lng": -122.6615901,
+   "lists": [
+    [
+     "barmagpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Multnomah Whiskey Library",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.5209808,
+   "lng": -122.6834594,
+   "lists": [
+    [
+     "barmagpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Angel Face",
+   "hood": "Kerns",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.523214,
+   "lng": -122.637125,
+   "lists": [
+    [
+     "barmagpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Driftwood Room",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.5209868,
+   "lng": -122.6877048,
+   "lists": [
+    [
+     "barmagpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Panther Club",
+   "hood": "Central Eastside",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.5176308,
+   "lng": -122.6596036,
+   "lists": [
+    [
+     "barmagpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Sousòl",
+   "hood": "Central Eastside",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.521217,
+   "lng": -122.6598115,
+   "lists": [
+    [
+     "thrillpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bar Cala",
+   "hood": "Alberta",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.5592191,
+   "lng": -122.6376955,
+   "lists": [
+    [
+     "thrillpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Sports Bra",
+   "hood": "Irvington",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 45.5349916,
+   "lng": -122.6397597,
+   "lists": [
+    [
+     "thrillpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Bar Comala",
+   "hood": "Pearl District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.5263056,
+   "lng": -122.6782917,
+   "lists": [
+    [
+     "thrillpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Libre",
+   "hood": "Clinton",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.503655,
+   "lng": -122.6394978,
+   "lists": [
+    [
+     "thrillpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Assembly Brewing",
+   "hood": "Alberta",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 45.5589515,
+   "lng": -122.6350728,
+   "lists": [
+    [
+     "thrillpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Silk Road",
+   "hood": "Pearl District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.5269934,
+   "lng": -122.6838989,
+   "lists": [
+    [
+     "thrillpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
   }
  ],
  "rlists": {
@@ -2232,6 +2468,24 @@
    "year": "2026",
    "ranked": false,
    "starChip": true
+  },
+  "barmagpdx": {
+   "cls": "b-barmagpdx",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The 12 Best Bars in Portland, OR",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "thrillpdx": {
+   "cls": "b-thrillpdx",
+   "mono": "TH",
+   "tag": "THRILLIST",
+   "name": "Thrillist: 10 Bars You Can't Leave Portland Without Trying",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false
   }
  }
 }

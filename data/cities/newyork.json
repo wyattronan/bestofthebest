@@ -6656,6 +6656,10 @@
     [
      "belib",
      2
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -6697,6 +6701,10 @@
     [
      "na50bars",
      31
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -6738,6 +6746,14 @@
     [
      "na50bars",
      41
+    ],
+    [
+     "barmagny",
+     null
+    ],
+    [
+     "nymagny",
+     null
     ]
    ],
    "dual": false,
@@ -6778,6 +6794,10 @@
     [
      "belib",
      6
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -6819,6 +6839,10 @@
     [
      "na50bars",
      2
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -6856,6 +6880,10 @@
     [
      "na50bars",
      12
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -6888,6 +6916,10 @@
     [
      "na50bars",
      4
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -6921,6 +6953,10 @@
     [
      "na50bars",
      3
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -6982,6 +7018,10 @@
     [
      "cnt33bny",
      null
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -7011,6 +7051,10 @@
     [
      "belib",
      4
+    ],
+    [
+     "nymagny",
+     null
     ]
    ],
    "dual": false,
@@ -7044,6 +7088,10 @@
     [
      "na50bars",
      20
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -7101,6 +7149,10 @@
     [
      "cnt33bny",
      null
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -7130,6 +7182,10 @@
     [
      "belib",
      9
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -7159,6 +7215,10 @@
     [
      "belib",
      7
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -7182,6 +7242,10 @@
     ],
     [
      "cnt33bny",
+     null
+    ],
+    [
+     "barmagny",
      null
     ]
    ],
@@ -7230,6 +7294,10 @@
     ],
     [
      "bany",
+     null
+    ],
+    [
+     "barmagny",
      null
     ]
    ],
@@ -7283,6 +7351,18 @@
     [
      "na50bars",
      33
+    ],
+    [
+     "barmagny",
+     null
+    ],
+    [
+     "resyny",
+     null
+    ],
+    [
+     "nymagny",
+     null
     ]
    ],
    "dual": false,
@@ -7345,6 +7425,10 @@
     [
      "timeoutny",
      24
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -7365,6 +7449,10 @@
     [
      "timeoutny",
      1
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -7384,6 +7472,14 @@
     ],
     [
      "cnt33bny",
+     null
+    ],
+    [
+     "barmagny",
+     null
+    ],
+    [
+     "nymagny",
      null
     ]
    ],
@@ -7430,6 +7526,10 @@
     [
      "na50bars",
      15
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -7491,6 +7591,10 @@
     ],
     [
      "cnt33bny",
+     null
+    ],
+    [
+     "barmagny",
      null
     ]
    ],
@@ -7768,6 +7872,10 @@
     [
      "infatbny",
      null
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -7849,6 +7957,10 @@
     [
      "eatercny",
      null
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -7865,6 +7977,10 @@
     [
      "cnnabny",
      36
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -7987,6 +8103,10 @@
     [
      "belib",
      1
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -8003,6 +8123,14 @@
     [
      "timeoutny",
      28
+    ],
+    [
+     "barmagny",
+     null
+    ],
+    [
+     "nymagny",
+     null
     ]
    ],
    "dual": false,
@@ -8068,6 +8196,10 @@
     [
      "timeoutny",
      34
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -8298,6 +8430,10 @@
     [
      "eaterwny",
      null
+    ],
+    [
+     "resyny",
+     null
     ]
    ],
    "dual": true,
@@ -8335,6 +8471,10 @@
     [
      "timeoutny",
      31
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -8415,6 +8555,10 @@
     [
      "bany",
      null
+    ],
+    [
+     "resyny",
+     null
     ]
    ],
    "dual": false,
@@ -8463,6 +8607,10 @@
    "lists": [
     [
      "infatbny",
+     null
+    ],
+    [
+     "nymagny",
      null
     ]
    ],
@@ -8661,6 +8809,10 @@
     [
      "timeoutny",
      16
+    ],
+    [
+     "resyny",
+     null
     ]
    ],
    "dual": false,
@@ -8677,6 +8829,10 @@
     [
      "cnnabny",
      77
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "dual": false,
@@ -8774,6 +8930,10 @@
     [
      "timeoutny",
      9
+    ],
+    [
+     "resyny",
+     null
     ]
    ],
    "dual": false,
@@ -8969,6 +9129,10 @@
     [
      "na50bars",
      44
+    ],
+    [
+     "barmagny",
+     null
     ]
    ],
    "vb": "mixo",
@@ -8986,6 +9150,10 @@
     [
      "belib",
      3
+    ],
+    [
+     "resyny",
+     null
     ]
    ],
    "vb": "mixo",
@@ -9007,6 +9175,730 @@
    ],
    "vb": "mixo",
    "dual": false
+  },
+  {
+   "name": "Dante West Village",
+   "hood": "West Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7352026,
+   "lng": -74.0062505,
+   "lists": [
+    [
+     "barmagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Raines Law Room",
+   "hood": "Chelsea",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7387132,
+   "lng": -73.9946006,
+   "lists": [
+    [
+     "barmagny",
+     null
+    ],
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Crown Shy",
+   "hood": "Financial District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7061962,
+   "lng": -74.0075229,
+   "lists": [
+    [
+     "barmagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Dolores",
+   "hood": "Bedford-Stuyvesant",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.6838554,
+   "lng": -73.9438622,
+   "lists": [
+    [
+     "barmagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Hello Hello Bar & Cafe",
+   "hood": "Chelsea",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7457455,
+   "lng": -73.9931919,
+   "lists": [
+    [
+     "barmagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Birds",
+   "hood": "West Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7288427,
+   "lng": -74.0048793,
+   "lists": [
+    [
+     "barmagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Lighthouse BK",
+   "hood": "Williamsburg",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.7108511,
+   "lng": -73.9536962,
+   "lists": [
+    [
+     "barmagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Gage & Tollner",
+   "hood": "Downtown Brooklyn",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.6913485,
+   "lng": -73.9878195,
+   "lists": [
+    [
+     "barmagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Milly's",
+   "hood": "Bedford-Stuyvesant",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.6881039,
+   "lng": -73.9551546,
+   "lists": [
+    [
+     "barmagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Nubeluz",
+   "hood": "NoMad",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7455382,
+   "lng": -73.9888515,
+   "lists": [
+    [
+     "barmagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Galerie Bar",
+   "hood": "Tribeca",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7152206,
+   "lng": -74.009131,
+   "lists": [
+    [
+     "resyny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Della's",
+   "hood": "Tribeca",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.7146846,
+   "lng": -74.0101186,
+   "lists": [
+    [
+     "resyny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Beast & Butterflies Downtown",
+   "hood": "Financial District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7110948,
+   "lng": -74.0104321,
+   "lists": [
+    [
+     "resyny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Holywater",
+   "hood": "Tribeca",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7160921,
+   "lng": -74.0085818,
+   "lists": [
+    [
+     "resyny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "WarrenPeace",
+   "hood": "Tribeca",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.7150327,
+   "lng": -74.0103941,
+   "lists": [
+    [
+     "resyny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Tara Kitchen Tribeca",
+   "hood": "Tribeca",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7178686,
+   "lng": -74.0053451,
+   "lists": [
+    [
+     "resyny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Split Eights",
+   "hood": "Financial District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.705866,
+   "lng": -74.0101904,
+   "lists": [
+    [
+     "resyny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Soso's",
+   "hood": "Nolita",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7186113,
+   "lng": -73.9997358,
+   "lists": [
+    [
+     "resyny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Sixpoint Brewery Taproom",
+   "hood": "Battery Park City",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.7112127,
+   "lng": -74.0156148,
+   "lists": [
+    [
+     "resyny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Tacombi - Financial District",
+   "hood": "Financial District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7046878,
+   "lng": -74.0116672,
+   "lists": [
+    [
+     "resyny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Onieal's",
+   "hood": "Nolita",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7196972,
+   "lng": -73.9978939,
+   "lists": [
+    [
+     "resyny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Toraya Bar",
+   "hood": "Seaport",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7034121,
+   "lng": -74.0107554,
+   "lists": [
+    [
+     "resyny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Champers Social Club",
+   "hood": "SoHo",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.7215357,
+   "lng": -73.9987798,
+   "lists": [
+    [
+     "resyny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Bar Oliver",
+   "hood": "Financial District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7130117,
+   "lng": -73.9982193,
+   "lists": [
+    [
+     "resyny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Kingston Hall",
+   "hood": "East Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7295037,
+   "lng": -73.9872627,
+   "lists": [
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Woodwork",
+   "hood": "Prospect Heights",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.6802561,
+   "lng": -73.9676121,
+   "lists": [
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Little Branch",
+   "hood": "West Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.730118,
+   "lng": -74.0050449,
+   "lists": [
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Booker & Dax",
+   "hood": "East Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7317738,
+   "lng": -73.9859625,
+   "lists": [
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Bar Downstairs",
+   "hood": "Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7528628,
+   "lng": -73.9810276,
+   "lists": [
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Brooklyn Brewery",
+   "hood": "Williamsburg",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.7217625,
+   "lng": -73.9577086,
+   "lists": [
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Barcade",
+   "hood": "Williamsburg",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.712072,
+   "lng": -73.951063,
+   "lists": [
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Huckleberry Bar",
+   "hood": "East Williamsburg",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 40.7111111,
+   "lng": -73.9483333,
+   "lists": [
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Mayahuel",
+   "hood": "East Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7271235,
+   "lng": -73.9881856,
+   "lists": [
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Rum House",
+   "hood": "Theater District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.759711,
+   "lng": -73.986307,
+   "lists": [
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Brooklyn Inn",
+   "hood": "Boerum Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.6858466,
+   "lng": -73.9885413,
+   "lists": [
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Bohemian Hall & Beer Garden",
+   "hood": "Astoria",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.7727451,
+   "lng": -73.9157359,
+   "lists": [
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Dream Downtown",
+   "hood": "Chelsea",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7423311,
+   "lng": -74.0034791,
+   "lists": [
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Nougatine",
+   "hood": "Upper West Side",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7690255,
+   "lng": -73.9816255,
+   "lists": [
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Rudy's Bar & Grill",
+   "hood": "Hell's Kitchen",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.7600309,
+   "lng": -73.9917951,
+   "lists": [
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Greenwood Park",
+   "hood": "South Slope",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.6594032,
+   "lng": -73.9878607,
+   "lists": [
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Bossa Nova Civic Club",
+   "hood": "Bushwick",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.6979439,
+   "lng": -73.9279219,
+   "lists": [
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "Lavender Lake",
+   "hood": "Gowanus",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7107645,
+   "lng": -73.9663357,
+   "lists": [
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Lounge at Atera",
+   "hood": "Tribeca",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7169003,
+   "lng": -74.0055631,
+   "lists": [
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Flatiron Room",
+   "hood": "NoMad",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7445519,
+   "lng": -73.9904324,
+   "lists": [
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Forgtmenot",
+   "hood": "Lower East Side",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.714555,
+   "lng": -73.9915134,
+   "lists": [
+    [
+     "nymagny",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
   }
  ],
  "rlists": {
@@ -9271,6 +10163,33 @@
    "name": "Beli's Top Bars in New York (2025)",
    "year": "2025",
    "ranked": true,
+   "starChip": false
+  },
+  "barmagny": {
+   "cls": "b-barmagny",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The 40 Best Bars in New York",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "resyny": {
+   "cls": "b-resyny",
+   "mono": "RE",
+   "tag": "RESY",
+   "name": "Resy: The Best Places to Drink in New York",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "nymagny": {
+   "cls": "b-nymagny",
+   "mono": "NY",
+   "tag": "NY MAG",
+   "name": "New York Magazine: Top 25 New York Bars & Clubs",
+   "year": "2013",
+   "ranked": false,
    "starChip": false
   }
  }
