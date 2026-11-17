@@ -1,0 +1,860 @@
+{
+ "restos": [
+  {
+   "name": "The Antler Room",
+   "hood": "Longfellow",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 39.081172,
+   "lng": -94.5761522,
+   "pr": 3,
+   "lists": [
+    [
+     "kcmag30",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "Kata Nori",
+   "hood": "Crossroads",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 39.0917636,
+   "lng": -94.5787161,
+   "pr": 2,
+   "lists": [
+    [
+     "kcmag30",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1
+  },
+  {
+   "name": "The Restaurant at 1900",
+   "hood": "Mission Woods (KS)",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 39.0347826,
+   "lng": -94.6082453,
+   "pr": 4,
+   "lists": [
+    [
+     "kcmag30",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Of Course",
+   "hood": "Overland Park (KS)",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 38.8389303,
+   "lng": -94.67779,
+   "pr": 2,
+   "lists": [
+    [
+     "kcmag30",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "The Town Company",
+   "hood": "Downtown",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 39.0988801,
+   "lng": -94.5845601,
+   "pr": 4,
+   "lists": [
+    [
+     "kcmag30",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Chewology",
+   "hood": "Westport",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 39.0507848,
+   "lng": -94.5969016,
+   "pr": 2,
+   "lists": [
+    [
+     "kcmag30",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Earl's Premier",
+   "hood": "Brookside",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 39.0199489,
+   "lng": -94.5789571,
+   "pr": 2,
+   "lists": [
+    [
+     "kcmag30",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "Green Dirt on Oak",
+   "hood": "Crossroads",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 39.0942217,
+   "lng": -94.5784776,
+   "pr": 2,
+   "lists": [
+    [
+     "kcmag30",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty",
+   "lu": 1
+  },
+  {
+   "name": "Westport Cafe",
+   "hood": "Westport",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 39.0529449,
+   "lng": -94.5907655,
+   "pr": 2,
+   "lists": [
+    [
+     "kcmag30",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Fox and Pearl",
+   "hood": "Westside",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 39.086004,
+   "lng": -94.5935843,
+   "pr": 2,
+   "lists": [
+    [
+     "kcmag30",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "Clay & Fire",
+   "hood": "Westside",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 39.0929014,
+   "lng": -94.5940754,
+   "pr": 2,
+   "lists": [
+    [
+     "kcmag30",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Shagan's",
+   "hood": "Overland Park (KS)",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 38.8664363,
+   "lng": -94.6668688,
+   "pr": 1,
+   "lists": [
+    [
+     "kcmag30",
+     null
+    ],
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Sushi Kodawari",
+   "hood": "Crossroads",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 39.0873235,
+   "lng": -94.5880684,
+   "pr": 4,
+   "lists": [
+    [
+     "kcmag30",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Waldo Thai",
+   "hood": "Waldo",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 38.9749946,
+   "lng": -94.5947563,
+   "pr": 2,
+   "lists": [
+    [
+     "kcmag30",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Yoli Tortilleria",
+   "hood": "Westside",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 39.0931248,
+   "lng": -94.5925053,
+   "pr": 1,
+   "lists": [
+    [
+     "kcmag30",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Le Fou Frog",
+   "hood": "River Market",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 39.109196,
+   "lng": -94.579104,
+   "pr": 3,
+   "lists": [
+    [
+     "kcmag30",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Tailleur",
+   "hood": "Midtown",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 39.055456,
+   "lng": -94.5858707,
+   "pr": 3,
+   "lists": [
+    [
+     "kcmag30",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Farina",
+   "hood": "Crossroads",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 39.0901774,
+   "lng": -94.5845718,
+   "pr": 3,
+   "lists": [
+    [
+     "kcmag30",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Acre",
+   "hood": "Parkville (MO)",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 39.209088,
+   "lng": -94.6842146,
+   "pr": 4,
+   "lists": [
+    [
+     "kcmag30",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Joe's KC BBQ",
+   "hood": "Kansas City (KS)",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 39.0444482,
+   "lng": -94.6207405,
+   "pr": 1,
+   "lists": [
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "bbq",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Noka",
+   "hood": "Martini Corner",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 39.0710189,
+   "lng": -94.5802709,
+   "pr": 2,
+   "lists": [
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Stock Hill",
+   "hood": "Country Club Plaza",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 39.039155,
+   "lng": -94.587396,
+   "pr": 4,
+   "lists": [
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Nour's",
+   "hood": "Midtown",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 39.0568756,
+   "lng": -94.5828106,
+   "pr": 2,
+   "lists": [
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Extra Virgin",
+   "hood": "Crossroads",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 39.0902121,
+   "lng": -94.5840456,
+   "pr": 2,
+   "lists": [
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Pierpont's",
+   "hood": "Union Station",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 39.0850273,
+   "lng": -94.5849205,
+   "pr": 4,
+   "lists": [
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Voltaire",
+   "hood": "West Bottoms",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 39.0939552,
+   "lng": -94.6048354,
+   "pr": 2,
+   "lists": [
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "Bacaro Primo",
+   "hood": "Brookside",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 39.0273577,
+   "lng": -94.5836724,
+   "pr": 2,
+   "lists": [
+    [
+     "infat",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  }
+ ],
+ "bars": [
+  {
+   "name": "In Good Company",
+   "hood": "Crossroads",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0950732,
+   "lng": -94.5802954,
+   "lists": [
+    [
+     "timeout",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Goat & Rabbit",
+   "hood": "Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0574908,
+   "lng": -94.6064344,
+   "lists": [
+    [
+     "timeout",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "XO HiFi",
+   "hood": "Westside",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0928627,
+   "lng": -94.5927347,
+   "lists": [
+    [
+     "timeout",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Monarch Bar",
+   "hood": "Country Club Plaza",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0405208,
+   "lng": -94.5977349,
+   "lists": [
+    [
+     "timeout",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Blanc Champagne Bar",
+   "hood": "Midtown",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 39.0570232,
+   "lng": -94.5857459,
+   "lists": [
+    [
+     "timeout",
+     null
+    ],
+    [
+     "visitkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Percheron Rooftop Bar",
+   "hood": "Crossroads",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0880202,
+   "lng": -94.5873866,
+   "lists": [
+    [
+     "timeout",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Q Kansas City",
+   "hood": "Westport",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0528727,
+   "lng": -94.5917837,
+   "lists": [
+    [
+     "timeout",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "The Brass Monkey",
+   "hood": "Columbus Park",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.1051386,
+   "lng": -94.5790317,
+   "lists": [
+    [
+     "timeout",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Prime Social",
+   "hood": "Country Club Plaza",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0431044,
+   "lng": -94.5937604,
+   "lists": [
+    [
+     "timeout",
+     null
+    ],
+    [
+     "visitkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Swordfish Tom's",
+   "hood": "Crossroads",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0902792,
+   "lng": -94.5866162,
+   "lists": [
+    [
+     "timeout",
+     null
+    ],
+    [
+     "visitkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Audrey's Wine + Bourbon",
+   "hood": "Waldo",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 38.9925936,
+   "lng": -94.5947244,
+   "lists": [
+    [
+     "visitkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "P.S. Speakeasy",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.1001278,
+   "lng": -94.5845814,
+   "lists": [
+    [
+     "visitkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Conductor Club",
+   "hood": "Union Station",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0853282,
+   "lng": -94.5855784,
+   "lists": [
+    [
+     "visitkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Fold",
+   "hood": "Crossroads",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0906005,
+   "lng": -94.5828221,
+   "lists": [
+    [
+     "visitkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Savoy",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.1035795,
+   "lng": -94.5867076,
+   "lists": [
+    [
+     "visitkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Tom's Town Distilling",
+   "hood": "Crossroads",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0932958,
+   "lng": -94.5833419,
+   "lists": [
+    [
+     "visitkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "VOO Lounge",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0996521,
+   "lng": -94.584439,
+   "lists": [
+    [
+     "visitkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Electric Park Garden Bar",
+   "hood": "Northeast",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.1194277,
+   "lng": -94.5487189,
+   "lists": [
+    [
+     "visitkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  }
+ ],
+ "rlists": {
+  "kcmag30": {
+   "cls": "plate r-kcmag30",
+   "mono": "KC",
+   "tag": "KC MAG",
+   "name": "Kansas City Magazine's 30 Best Restaurants",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "infat": {
+   "cls": "plate r-kcinfat",
+   "mono": "IN",
+   "tag": "INFAT",
+   "name": "The Infatuation's Best Restaurants in Kansas City",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  }
+ },
+ "blists": {
+  "timeout": {
+   "cls": "b-timeout",
+   "mono": "TO",
+   "tag": "TIME OUT",
+   "name": "Time Out's Best Bars in Kansas City",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "visitkc": {
+   "cls": "b-visitkc",
+   "mono": "KC",
+   "tag": "VISIT KC",
+   "name": "Visit KC's Cocktail Bars & Speakeasies",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  }
+ }
+}
