@@ -319,10 +319,15 @@
     [
      "beli",
      24
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "lu": 1
   },
   {
    "name": "Semma",
@@ -391,10 +396,15 @@
     [
      "beli",
      4
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "lu": 1
   },
   {
    "name": "Cervo's",
@@ -585,10 +595,15 @@
     [
      "na50",
      18
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "lu": 1
   },
   {
    "name": "AbuQir",
@@ -726,10 +741,15 @@
     [
      "nyt100ny",
      6
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": true,
-   "vb": "italian"
+   "vb": "italian",
+   "lu": 1
   },
   {
    "name": "bōm",
@@ -1230,10 +1250,15 @@
     [
      "eater38ny",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "lu": 1
   },
   {
    "name": "Saranrom Thai",
@@ -2149,11 +2174,16 @@
     [
      "eater38ny",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
    "vb": "quick",
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Coqodaq",
@@ -2206,10 +2236,15 @@
     [
      "eater38ny",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "lu": 1
   },
   {
    "name": "Crown Shy",
@@ -2659,11 +2694,16 @@
     [
      "eater38ny",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
    "vb": "quick",
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "HanGawi",
@@ -2966,10 +3006,15 @@
     [
      "eater38ny",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
-   "vb": "oldguard"
+   "vb": "oldguard",
+   "lu": 1
   },
   {
    "name": "Khao Kang",
@@ -3373,10 +3418,15 @@
     [
      "nyt100ny",
      59
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "lu": 1
   },
   {
    "name": "Makina Café",
@@ -4113,11 +4163,16 @@
     [
      "eater38ny",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
    "vb": "deli",
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Saga",
@@ -4550,10 +4605,15 @@
     [
      "infatny",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "lu": 1
   },
   {
    "name": "The Modern",
@@ -4785,11 +4845,16 @@
     [
      "eater38ny",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
    "vb": "quick",
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Warung Selasa at IndoJava",
@@ -5386,10 +5451,15 @@
     [
      "nyt100ny",
      84
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Uncle Ray's Chicken Rice",
@@ -5804,10 +5874,15 @@
     [
      "beli",
      40
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "L'Industrie Pizzeria",
@@ -5931,6 +6006,577 @@
    "vb": "brunch",
    "dual": false,
    "to": 1
+  },
+  {
+   "name": "Thái Sơn",
+   "hood": "Chinatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7168378,
+   "lng": -73.9996312,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Animo",
+   "hood": "Midtown East",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 40.7567764,
+   "lng": -73.9668003,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Edith's Sandwich Counter",
+   "hood": "West Village",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 40.7347702,
+   "lng": -74.0032413,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Don Udon",
+   "hood": "Crown Heights",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.6741079,
+   "lng": -73.9571529,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Mile End Delicatessen",
+   "hood": "Boerum Hill",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 40.6874457,
+   "lng": -73.9870445,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Taku Sando",
+   "hood": "Greenpoint",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 40.72988,
+   "lng": -73.9596357,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Beef Up Noodle",
+   "hood": "Kips Bay",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7406318,
+   "lng": -73.9820476,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Her Name Is Han",
+   "hood": "Nomad",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7462496,
+   "lng": -73.9847616,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Fonty's Deli + Dukaan",
+   "hood": "West Village",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 40.7338207,
+   "lng": -74.0006613,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Smør",
+   "hood": "Clinton Hill",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 40.6826191,
+   "lng": -73.9609604,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch",
+   "lu": 1
+  },
+  {
+   "name": "Altro Paradiso",
+   "hood": "Soho",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 40.7254266,
+   "lng": -74.0046926,
+   "pr": 3,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian",
+   "lu": 1
+  },
+  {
+   "name": "Cafe Mado",
+   "hood": "Prospect Heights",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.6729083,
+   "lng": -73.9626279,
+   "pr": 3,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Birds of a Feather",
+   "hood": "Williamsburg",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7143448,
+   "lng": -73.9605077,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Cafe Commerce",
+   "hood": "Upper East Side",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.7694419,
+   "lng": -73.9632635,
+   "pr": 4,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Cafe d'Alsace",
+   "hood": "Upper East Side",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 40.7794576,
+   "lng": -73.9509299,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Brothers Original",
+   "hood": "Soho",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 40.7248327,
+   "lng": -73.9953077,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Beto's Carnitas & Guisados",
+   "hood": "Lower East Side",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 40.7193634,
+   "lng": -73.985112,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "1915 Lanzhou Hand Pulled Noodles & Dumplings",
+   "hood": "Chinatown",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.716462,
+   "lng": -73.9978602,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Salvo's",
+   "hood": "Ridgewood",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 40.7077575,
+   "lng": -73.9033505,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian",
+   "lu": 1
+  },
+  {
+   "name": "Shifka",
+   "hood": "Noho",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 40.7255019,
+   "lng": -73.9924838,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Maxi's Noodle",
+   "hood": "Chinatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7161595,
+   "lng": -73.9979061,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Barker Cafeteria",
+   "hood": "Bed-Stuy",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.6842715,
+   "lng": -73.9502306,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Veselka",
+   "hood": "East Village",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 40.7290155,
+   "lng": -73.9871139,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard",
+   "lu": 1
+  },
+  {
+   "name": "Golden Taquitos",
+   "hood": "Highbridge",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 40.8354994,
+   "lng": -73.9282207,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Manuela",
+   "hood": "Soho",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.7253651,
+   "lng": -74.0005917,
+   "pr": 4,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Monkey Bar",
+   "hood": "Midtown",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.7598982,
+   "lng": -73.9732046,
+   "pr": 4,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Santi",
+   "hood": "Midtown East",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 40.760055,
+   "lng": -73.9745597,
+   "pr": 4,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian",
+   "lu": 1
+  },
+  {
+   "name": "Delmonico's",
+   "hood": "Financial District",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 40.7050268,
+   "lng": -74.0102557,
+   "pr": 4,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Carbone",
+   "hood": "Greenwich Village",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 40.7279891,
+   "lng": -74.0002414,
+   "pr": 4,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian",
+   "lu": 1
+  },
+  {
+   "name": "Minetta Tavern",
+   "hood": "Greenwich Village",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 40.7299881,
+   "lng": -74.0007016,
+   "pr": 4,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Tamarind Tribeca",
+   "hood": "Tribeca",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 40.7190883,
+   "lng": -74.0089129,
+   "pr": 4,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
   }
  ],
  "bars": [
@@ -8488,6 +9134,15 @@
    "name": "Beli's Top Restaurants in New York (2025)",
    "year": "2025",
    "ranked": true,
+   "starChip": false
+  },
+  "infatlun": {
+   "cls": "plate r-infatlun",
+   "mono": "LUNCH",
+   "tag": "INFAT LUNCH",
+   "name": "The Infatuation's Best Lunch in NYC",
+   "year": "2025",
+   "ranked": false,
    "starChip": false
   }
  },
