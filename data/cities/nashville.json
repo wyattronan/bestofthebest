@@ -35,7 +35,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Bastion",
@@ -76,7 +78,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Locust",
@@ -117,7 +121,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Kisser",
@@ -270,7 +276,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Bourbon Steak",

@@ -31,7 +31,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Hà VL",
@@ -681,7 +683,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Cafe Olli",

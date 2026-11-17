@@ -609,7 +609,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Cote Miami",
@@ -655,7 +657,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Hiden",
@@ -697,7 +701,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Los Félix",
@@ -811,7 +817,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Tambourine Room by Tristan Brandt",
@@ -828,7 +836,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "The Surf Club Restaurant",
@@ -1241,7 +1251,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Red Rooster Overtown",

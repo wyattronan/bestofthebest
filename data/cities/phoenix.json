@@ -1252,7 +1252,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Dahlia",
@@ -2303,7 +2305,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Kai",
@@ -2328,7 +2332,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Nobuo at Teeter House",
@@ -2362,7 +2368,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Talavera",
@@ -3351,7 +3359,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Reathrey Sekong",
@@ -3619,7 +3629,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Nelson's Meat + Fish",
@@ -4095,7 +4107,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Best Hong Kong Dining",
@@ -4407,7 +4421,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Pane Bianco",
@@ -4686,7 +4702,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Persian Room",

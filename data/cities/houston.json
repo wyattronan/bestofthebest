@@ -86,7 +86,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Camaraderie",
@@ -223,7 +225,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Pinkerton's BBQ",
@@ -1331,7 +1335,9 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1,
+   "vn": 1
   },
   {
    "name": "Lucille's",
