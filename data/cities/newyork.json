@@ -1068,8 +1068,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "oldguard",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "La Piraña Lechonera",
@@ -1553,8 +1554,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "global",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Adda",
@@ -1591,8 +1593,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "global",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "al Badawi",
@@ -4711,8 +4714,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "global",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Tsukimi",
@@ -5159,9 +5163,10 @@
      62
     ]
    ],
-   "vb": "lunch",
+   "vb": "quick",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Txikito",
@@ -5557,9 +5562,10 @@
      95
     ]
    ],
-   "vb": "lunch",
+   "vb": "quick",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Çka Ka Qëllu",

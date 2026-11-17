@@ -794,10 +794,11 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "global",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Windy City Pie",
@@ -862,9 +863,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "global",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "La Cabaña",
@@ -884,9 +886,10 @@
      16
     ]
    ],
-   "vb": "lunch",
+   "vb": "taco",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Ahadu",
@@ -1126,9 +1129,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "asian",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Drae's Lake Route Eatery",
@@ -1472,9 +1476,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "asian",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Sophon",
@@ -1609,9 +1614,10 @@
      8
     ]
    ],
-   "vb": "lunch",
+   "vb": "taco",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Sushi Kashiba",

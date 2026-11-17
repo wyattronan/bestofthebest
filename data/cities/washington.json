@@ -1054,8 +1054,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "taco",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "St. James",
@@ -1271,8 +1272,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "global",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Rasika",
@@ -1930,8 +1932,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "oldguard",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "The Monocle",
@@ -2396,8 +2399,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "taco",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Motorkat",
@@ -3523,9 +3527,10 @@
      90
     ]
    ],
-   "vb": "lunch",
+   "vb": "quick",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Brasserie Royale",

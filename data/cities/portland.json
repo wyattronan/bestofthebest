@@ -900,9 +900,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "global",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Arden",
@@ -1819,9 +1820,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "datenight",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Double Dragon",
@@ -1837,9 +1839,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "asian",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   }
  ],
  "bars": [

@@ -1617,9 +1617,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "datenight",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "White Dog Cafe",
@@ -1904,9 +1905,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "datenight",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "South",
@@ -2009,9 +2011,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "global",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Dalessandro's Steaks",

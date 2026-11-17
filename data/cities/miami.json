@@ -526,9 +526,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "brunch",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Long Gong",
@@ -544,10 +545,11 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "B & M Market and Roti Shop",
@@ -563,10 +565,11 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "global",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Frankie & Wally's",
@@ -586,9 +589,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "italian",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "L'Atelier de Joël Robuchon",
@@ -1359,9 +1363,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "global",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Islas Canarias Restaurant",
@@ -1395,9 +1400,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "specialty",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Lung Yai Thai Tapas",

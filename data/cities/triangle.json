@@ -535,9 +535,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "deli",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Herons",
@@ -572,9 +573,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "datenight",
    "dual": true,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Little Bull",
@@ -714,9 +716,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "brunch",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Guglhupf",
@@ -785,9 +788,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "specialty",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Cosmic Cantina",
@@ -914,9 +918,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "datenight",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Mezcalito",

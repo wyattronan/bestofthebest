@@ -433,8 +433,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "asian",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "O Ya",
@@ -490,8 +491,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "global",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "La Royal",
@@ -594,8 +596,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "asian",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Fox & The Knife",
@@ -906,8 +909,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "taco",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Toro",
@@ -1352,8 +1356,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "taco",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Fallow Kin",
@@ -1872,8 +1877,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "global",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Sofra",

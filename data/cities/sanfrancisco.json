@@ -1093,8 +1093,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "taco",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Dalida",
@@ -2538,8 +2539,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "oldguard",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Octavia",
@@ -2744,8 +2746,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "global",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Rad Radish",
@@ -2847,8 +2850,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "asian",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Sam's Grill",
@@ -3536,9 +3540,10 @@
      30
     ]
    ],
-   "vb": "lunch",
+   "vb": "quick",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "La Vaca Birria",
@@ -3764,9 +3769,10 @@
      62
     ]
    ],
-   "vb": "lunch",
+   "vb": "quick",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Peña's Bakery",

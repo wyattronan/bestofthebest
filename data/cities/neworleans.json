@@ -99,9 +99,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "global",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Brennan's",
@@ -196,9 +197,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "specialty",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Dakar NOLA",
@@ -457,10 +459,11 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "St. Pizza",
@@ -542,9 +545,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "specialty",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Two Tony's",
@@ -654,10 +658,11 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Cane & Table",

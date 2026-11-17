@@ -62,11 +62,12 @@ def run(city, listid, meta, existing_names, new_venues):
     # add list meta
     d['rlists'][listid]=meta
     byname={v['name']:v for v in d['restos']}
-    # tag existing
+    # tag existing (lu flag = meal type; keep their cuisine vb identity)
     tagged=0; miss=[]
     for nm in existing_names:
         v=byname.get(nm)
         if not v: miss.append(nm); continue
+        v['lu']=1
         if not any(l[0]==listid for l in v['lists']):
             v['lists'].append([listid,None]); tagged+=1
     # add new
@@ -79,7 +80,7 @@ def run(city, listid, meta, existing_names, new_venues):
             continue
         rec={'name':nv['name'],'hood':nv['hood'],'type':nv['type'],'typekind':'cui',
              'lat':nv['lat'],'lng':nv['lng'],'pr':nv['pr'],
-             'lists':[[listid,None]],'dual':False,'vb':nv['vb']}
+             'lists':[[listid,None]],'dual':False,'vb':nv['vb'],'lu':1}
         if is_to(rec): rec['to']=1
         d['restos'].append(rec); added+=1
     json.dump(d,open(p,'w'),ensure_ascii=False,indent=1)

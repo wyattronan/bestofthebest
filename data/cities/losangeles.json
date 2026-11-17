@@ -1396,8 +1396,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "oldguard",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Last",
@@ -1973,8 +1974,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "taco",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Bar di Bello",
@@ -2119,8 +2121,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "oldguard",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Broken Spanish Comedor",
@@ -2414,8 +2417,9 @@
     ]
    ],
    "dual": false,
-   "vb": "lunch",
-   "to": 1
+   "vb": "brunch",
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Crossroads Kitchen",
@@ -4563,9 +4567,10 @@
      61
     ]
    ],
-   "vb": "lunch",
+   "vb": "quick",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Budonoki",
@@ -4976,9 +4981,10 @@
      101
     ]
    ],
-   "vb": "lunch",
+   "vb": "quick",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Angel's Tijuana Tacos",

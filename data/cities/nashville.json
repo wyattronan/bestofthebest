@@ -906,9 +906,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "global",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Big Al's Deli",
@@ -924,9 +925,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "specialty",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Turkey and the Wolf Icehouse",
@@ -942,9 +944,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "specialty",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Dino's Bar & Grill",
@@ -960,9 +963,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "specialty",
    "dual": true,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Lockeland Table",
@@ -1553,9 +1557,10 @@
      33
     ]
    ],
-   "vb": "lunch",
+   "vb": "specialty",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Five Points Pizza",
@@ -1720,10 +1725,11 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "global",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Cal's Country Kitchen",

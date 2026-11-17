@@ -1699,10 +1699,11 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "global",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Auburn Angel",
@@ -1798,9 +1799,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "brunch",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Buena Gente Cuban Bakery",
@@ -1846,10 +1848,11 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "global",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Daily Chew",
@@ -2100,10 +2103,11 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "La Grotta Ristorante Italiano",
@@ -2403,9 +2407,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "taco",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Tum Pok Pok",

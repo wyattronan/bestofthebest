@@ -627,9 +627,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "brunch",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Bahel Ethiopian Mart & Kitchen",
@@ -849,9 +850,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "taco",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Coltivare",
@@ -928,10 +930,11 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "global",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Doris Metropolitan",
@@ -1265,9 +1268,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "brunch",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Kriti Kitchen",
@@ -1399,9 +1403,10 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "deli",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Milton's",
@@ -2210,10 +2215,11 @@
      null
     ]
    ],
-   "vb": "lunch",
+   "vb": "taco",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Da Gama",
