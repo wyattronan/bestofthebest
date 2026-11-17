@@ -525,10 +525,15 @@
     [
      "latimes101",
      23
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "lu": 1
   },
   {
    "name": "Hayato",
@@ -1298,10 +1303,15 @@
     [
      "latimes101",
      42
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "lu": 1
   },
   {
    "name": "Found Oyster",
@@ -1459,10 +1469,15 @@
     [
      "resyla",
      3
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "lu": 1
   },
   {
    "name": "Lugya'h",
@@ -1632,10 +1647,15 @@
     [
      "nytla",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "lu": 1
   },
   {
    "name": "Roasted Duck by Pa Ord",
@@ -2249,10 +2269,15 @@
     [
      "bala",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "lu": 1
   },
   {
    "name": "Chi Spacca",
@@ -2766,10 +2791,15 @@
     [
      "cnt38la",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "lu": 1
   },
   {
    "name": "Hippo",
@@ -4121,10 +4151,15 @@
     [
      "resyla",
      16
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": true,
-   "vb": "datenight"
+   "vb": "datenight",
+   "lu": 1
   },
   {
    "name": "Tito's Tacos",
@@ -5003,6 +5038,208 @@
    "vb": "quick",
    "dual": false,
    "to": 1
+  },
+  {
+   "name": "Padi",
+   "hood": "Hollywood",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.0976388,
+   "lng": -118.3313528,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Doto",
+   "hood": "Silver Lake",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0830784,
+   "lng": -118.284317,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Le Great Outdoor",
+   "hood": "Santa Monica",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 34.0280436,
+   "lng": -118.4673174,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Endless Color",
+   "hood": "Topanga",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 34.0889058,
+   "lng": -118.6043295,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "pizza",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Mariscos Za Za Zá",
+   "hood": "Frogtown",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 34.101221,
+   "lng": -118.2436063,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Quality Seafood",
+   "hood": "Redondo Beach",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 33.8406596,
+   "lng": -118.3909515,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Calabra",
+   "hood": "Santa Monica",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 34.0213135,
+   "lng": -118.4950707,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Terra",
+   "hood": "Century City",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 34.0607087,
+   "lng": -118.4184739,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian",
+   "lu": 1
+  },
+  {
+   "name": "Zinqué",
+   "hood": "West Hollywood",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 34.0812763,
+   "lng": -118.3826853,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch",
+   "lu": 1
+  },
+  {
+   "name": "The Front Yard",
+   "hood": "Studio City",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.1453744,
+   "lng": -118.3697784,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Fishing With Dynamite",
+   "hood": "Manhattan Beach",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 33.8853543,
+   "lng": -118.4109165,
+   "pr": 3,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
   }
  ],
  "bars": [
@@ -6919,6 +7156,15 @@
    "name": "Beli's Top Restaurants in Los Angeles (2025)",
    "year": "2025",
    "ranked": true,
+   "starChip": false
+  },
+  "infatlun": {
+   "cls": "plate r-infatlun",
+   "mono": "LUNCH",
+   "tag": "INFAT LUNCH",
+   "name": "The Infatuation's Best Lunch in LA",
+   "year": "2025",
+   "ranked": false,
    "starChip": false
   }
  },

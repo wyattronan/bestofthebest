@@ -231,10 +231,15 @@
     [
      "sfchron100",
      33
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
-   "vb": "oldguard"
+   "vb": "oldguard",
+   "lu": 1
   },
   {
    "name": "Beit Rima",
@@ -738,10 +743,15 @@
     [
      "beli",
      14
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "lu": 1
   },
   {
    "name": "Jules",
@@ -822,10 +832,15 @@
     [
      "sfchron100",
      58
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "lu": 1
   },
   {
    "name": "Minnie Bell's Soul Movement",
@@ -986,10 +1001,15 @@
     [
      "michsf",
      1
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "lu": 1
   },
   {
    "name": "Azalina's",
@@ -4374,10 +4394,15 @@
     [
      "beli",
      20
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Anh Hong",
@@ -4414,6 +4439,152 @@
    "vb": "quick",
    "dual": false,
    "to": 1
+  },
+  {
+   "name": "Tadich Grill",
+   "hood": "Financial District",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 37.7934352,
+   "lng": -122.3994491,
+   "pr": 3,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard",
+   "lu": 1
+  },
+  {
+   "name": "Harborview",
+   "hood": "Embarcadero",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 37.7947137,
+   "lng": -122.3961848,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "La Mar",
+   "hood": "Embarcadero",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 37.797239,
+   "lng": -122.3953922,
+   "pr": 4,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Piccino",
+   "hood": "Dogpatch",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 37.7575756,
+   "lng": -122.3899633,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "pizza",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Waterbar",
+   "hood": "Embarcadero",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 37.7904926,
+   "lng": -122.3890417,
+   "pr": 4,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Absinthe Brasserie & Bar",
+   "hood": "Hayes Valley",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 37.7771042,
+   "lng": -122.4227403,
+   "pr": 3,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "The Rotunda at Neiman Marcus",
+   "hood": "Union Square",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.787414,
+   "lng": -122.4061801,
+   "pr": 3,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "The Palm Court at RH",
+   "hood": "Dogpatch",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.7607634,
+   "lng": -122.3873612,
+   "pr": 4,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
   }
  ],
  "bars": [
@@ -6208,6 +6379,15 @@
    "name": "Beli's Top Restaurants in San Francisco (2025)",
    "year": "2025",
    "ranked": true,
+   "starChip": false
+  },
+  "infatlun": {
+   "cls": "plate r-infatlun",
+   "mono": "LUNCH",
+   "tag": "INFAT LUNCH",
+   "name": "The Infatuation's Best Lunch Spots in SF",
+   "year": "2025",
+   "ranked": false,
    "starChip": false
   }
  },
