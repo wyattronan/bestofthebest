@@ -1927,7 +1927,6 @@
    "typekind": "cui",
    "lat": 41.9031,
    "lng": -87.679,
-   "cl": 1,
    "pr": 2,
    "lists": [
     [
@@ -1975,15 +1974,15 @@
    "vb": "specialty"
   },
   {
-   "name": "Fat Rice",
+   "name": "NoodleBird",
    "hood": "Logan Square",
    "type": "asian",
    "typekind": "cui",
-   "lat": 41.9322,
-   "lng": -87.7016,
+   "lat": 41.9319516,
+   "lng": -87.7023611,
    "vg": 1,
    "pr": 2,
-   "note": "Permanently closed",
+   "note": "Formerly Fat Rice",
    "lists": [
     [
      "bacg",
@@ -3035,7 +3034,9 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "cl": 1,
+   "note": "Permanently closed"
   },
   {
    "name": "Lao Peng You",
@@ -4290,7 +4291,6 @@
    "typekind": "drink",
    "lat": 41.909095,
    "lng": -87.677576,
-   "note": "Permanently closed",
    "lists": [
     [
      "chimag",
@@ -4298,7 +4298,9 @@
     ]
    ],
    "dual": false,
-   "vb": "mixo"
+   "vb": "mixo",
+   "cl": 1,
+   "note": "Permanently closed"
   },
   {
    "name": "Elske",
