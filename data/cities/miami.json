@@ -52,8 +52,7 @@
     ]
    ],
    "vb": "latindc",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Tâm Tâm",
@@ -134,8 +133,7 @@
     ]
    ],
    "vb": "latindc",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Ariete",
@@ -193,8 +191,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Palma",
@@ -219,8 +216,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "ViceVersa",
@@ -245,8 +241,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Gramps Getaway",
@@ -292,8 +287,7 @@
     ]
    ],
    "vb": "oldguard",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Zitz Sum",
@@ -348,8 +342,7 @@
     ]
    ],
    "vb": "latindc",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Cotoa",
@@ -374,8 +367,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Hiyakawa",
@@ -473,8 +465,7 @@
     ]
    ],
    "vb": "latindc",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Daniel's Miami",
@@ -587,8 +578,7 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "L'Atelier de Joël Robuchon",
@@ -863,8 +853,7 @@
     ]
    ],
    "vb": "oldguard",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Bachour",
@@ -898,8 +887,7 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "El Turco",
@@ -1076,8 +1064,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Sanguich de Miami",
@@ -1094,8 +1081,7 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Tinta y Cafe",
@@ -1116,8 +1102,7 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Claudie",
@@ -1134,8 +1119,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Estiatorio Milos",
@@ -1190,8 +1174,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Café La Trova",
@@ -1233,8 +1216,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Kaori Miami",
@@ -1360,8 +1342,7 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Islas Canarias Restaurant",
@@ -1378,8 +1359,7 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Lil Greenhouse Grill",
@@ -1448,8 +1428,7 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Awash",
@@ -1488,8 +1467,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Café Panisse",
@@ -1506,8 +1484,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Fiorito",
@@ -1524,8 +1501,7 @@
     ]
    ],
    "vb": "latindc",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Niu Kitchen",
@@ -1546,8 +1522,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Shaddai Fine Lebanese Cuisine",
@@ -1656,8 +1631,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Amara at Paraiso",
@@ -1674,8 +1648,7 @@
     ]
    ],
    "vb": "latindc",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Klaw Miami",
@@ -1709,8 +1682,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "El Rey de las Fritas",
@@ -1727,8 +1699,7 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "LPM Miami",
@@ -1745,8 +1716,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Osaka Miami",
@@ -1763,8 +1733,7 @@
     ]
    ],
    "vb": "latindc",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Nuna",
@@ -1781,8 +1750,7 @@
     ]
    ],
    "vb": "latindc",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Bouchon Bistro",
@@ -1799,8 +1767,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Luca Osteria",
@@ -1817,8 +1784,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Mottai",
@@ -1905,8 +1871,7 @@
     ]
    ],
    "vb": "latindc",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Drinking Pig BBQ",
@@ -1940,8 +1905,7 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Happy Wine Calle Ocho",
@@ -1958,8 +1922,7 @@
     ]
    ],
    "vb": "latindc",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "La Camaronera",
