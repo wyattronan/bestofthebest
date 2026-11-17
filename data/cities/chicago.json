@@ -1158,10 +1158,6 @@
     [
      "infatlun",
      null
-    ],
-    [
-     "infatsand",
-     null
     ]
    ],
    "dual": false,
@@ -1829,10 +1825,6 @@
     [
      "eater38",
      null
-    ],
-    [
-     "infatsand",
-     null
     ]
    ],
    "dual": false,
@@ -1871,15 +1863,10 @@
     [
      "eater38",
      null
-    ],
-    [
-     "infatsand",
-     null
     ]
    ],
    "dual": false,
-   "vb": "global",
-   "lu": 1
+   "vb": "global"
   },
   {
    "name": "Chubby Boys",
@@ -2279,15 +2266,10 @@
     [
      "infat25",
      null
-    ],
-    [
-     "infatsand",
-     null
     ]
    ],
    "dual": false,
-   "vb": "global",
-   "lu": 1
+   "vb": "global"
   },
   {
    "name": "Xocome Antojeria",
@@ -2358,10 +2340,6 @@
    "lists": [
     [
      "infat25",
-     null
-    ],
-    [
-     "infatsand",
      null
     ]
    ],
@@ -2454,16 +2432,11 @@
     [
      "jba",
      null
-    ],
-    [
-     "infatsand",
-     null
     ]
    ],
    "dual": false,
    "vb": "brunch",
-   "to": 1,
-   "lu": 1
+   "to": 1
   },
   {
    "name": "Armitage Alehouse",
@@ -3248,15 +3221,10 @@
     [
      "chimag50",
      44
-    ],
-    [
-     "infatsand",
-     null
     ]
    ],
    "dual": false,
-   "vb": "brunch",
-   "lu": 1
+   "vb": "brunch"
   },
   {
    "name": "Bonyeon",
@@ -3473,10 +3441,6 @@
     [
      "infatlun",
      null
-    ],
-    [
-     "infatsand",
-     null
     ]
    ],
    "dual": false,
@@ -3538,367 +3502,6 @@
    "vb": "asian",
    "to": 1,
    "lu": 1
-  },
-  {
-   "name": "Cured And Crafted",
-   "hood": "Jefferson Park",
-   "type": "deli",
-   "typekind": "cui",
-   "lat": 41.9850574,
-   "lng": -87.7758574,
-   "pr": 1,
-   "lists": [
-    [
-     "infatsand",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "quick",
-   "lu": 1,
-   "to": 1
-  },
-  {
-   "name": "El Bagelero",
-   "hood": "Bucktown",
-   "type": "bakery",
-   "typekind": "cui",
-   "lat": 41.9174235,
-   "lng": -87.6871374,
-   "pr": 1,
-   "lists": [
-    [
-     "infatsand",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "brunch",
-   "lu": 1,
-   "to": 1
-  },
-  {
-   "name": "Bocadillo Market",
-   "hood": "West Town",
-   "type": "global",
-   "typekind": "cui",
-   "lat": 41.8908973,
-   "lng": -87.6553444,
-   "pr": 2,
-   "lists": [
-    [
-     "infatsand",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "quick",
-   "lu": 1,
-   "to": 1
-  },
-  {
-   "name": "Migos Fine Foods",
-   "hood": "Bronzeville",
-   "type": "mexican",
-   "typekind": "cui",
-   "lat": 41.8071608,
-   "lng": -87.6068465,
-   "pr": 1,
-   "lists": [
-    [
-     "infatsand",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "taco",
-   "lu": 1,
-   "to": 1
-  },
-  {
-   "name": "Southtown Sub",
-   "hood": "Greater Grand Crossing",
-   "type": "quick",
-   "typekind": "cui",
-   "lat": 41.7657572,
-   "lng": -87.6209771,
-   "pr": 1,
-   "lists": [
-    [
-     "infatsand",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "quick",
-   "lu": 1,
-   "to": 1
-  },
-  {
-   "name": "Tribecca's Sandwich Shop",
-   "hood": "Avondale",
-   "type": "deli",
-   "typekind": "cui",
-   "lat": 41.9392091,
-   "lng": -87.7022315,
-   "pr": 1,
-   "lists": [
-    [
-     "infatsand",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "quick",
-   "lu": 1,
-   "to": 1
-  },
-  {
-   "name": "Ricobene's",
-   "hood": "Bridgeport",
-   "type": "italian",
-   "typekind": "cui",
-   "lat": 41.8457437,
-   "lng": -87.6339284,
-   "pr": 1,
-   "lists": [
-    [
-     "infatsand",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "quick",
-   "lu": 1,
-   "to": 1
-  },
-  {
-   "name": "Tempesta Market",
-   "hood": "West Town",
-   "type": "deli",
-   "typekind": "cui",
-   "lat": 41.8912479,
-   "lng": -87.6618113,
-   "pr": 2,
-   "lists": [
-    [
-     "infatsand",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "quick",
-   "lu": 1,
-   "to": 1
-  },
-  {
-   "name": "Jibaritos y Más",
-   "hood": "Logan Square",
-   "type": "latin",
-   "typekind": "cui",
-   "lat": 41.9248161,
-   "lng": -87.7122564,
-   "pr": 1,
-   "lists": [
-    [
-     "infatsand",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "quick",
-   "lu": 1,
-   "to": 1
-  },
-  {
-   "name": "L&M Fine Foods",
-   "hood": "Lincoln Square",
-   "type": "deli",
-   "typekind": "cui",
-   "lat": 41.9612806,
-   "lng": -87.6836028,
-   "pr": 1,
-   "lists": [
-    [
-     "infatsand",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "quick",
-   "lu": 1,
-   "to": 1
-  },
-  {
-   "name": "J.T.'s Genuine Sandwich Shop",
-   "hood": "Irving Park",
-   "type": "deli",
-   "typekind": "cui",
-   "lat": 41.9532078,
-   "lng": -87.7187063,
-   "pr": 1,
-   "lists": [
-    [
-     "infatsand",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "quick",
-   "lu": 1,
-   "to": 1
-  },
-  {
-   "name": "Paulina Meat Market",
-   "hood": "Roscoe Village",
-   "type": "deli",
-   "typekind": "cui",
-   "lat": 41.9452602,
-   "lng": -87.6723029,
-   "pr": 2,
-   "lists": [
-    [
-     "infatsand",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "quick",
-   "lu": 1,
-   "to": 1
-  },
-  {
-   "name": "Al's #1 Italian Beef",
-   "hood": "Little Italy",
-   "type": "italian",
-   "typekind": "cui",
-   "lat": 41.8693274,
-   "lng": -87.6540136,
-   "pr": 1,
-   "lists": [
-    [
-     "infatsand",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "quick",
-   "lu": 1,
-   "to": 1
-  },
-  {
-   "name": "Capriccio",
-   "hood": "Lincoln Square",
-   "type": "pizza",
-   "typekind": "cui",
-   "lat": 41.96848,
-   "lng": -87.6882459,
-   "pr": 1,
-   "lists": [
-    [
-     "infatsand",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "pizza",
-   "lu": 1,
-   "to": 1
-  },
-  {
-   "name": "Torteria San Lenchito",
-   "hood": "Albany Park",
-   "type": "mexican",
-   "typekind": "cui",
-   "lat": 41.9687614,
-   "lng": -87.7172377,
-   "pr": 1,
-   "lists": [
-    [
-     "infatsand",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "taco",
-   "lu": 1,
-   "to": 1
-  },
-  {
-   "name": "Xoco",
-   "hood": "River North",
-   "type": "mexican",
-   "typekind": "cui",
-   "lat": 41.8907351,
-   "lng": -87.630605,
-   "pr": 2,
-   "lists": [
-    [
-     "infatsand",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "taco",
-   "lu": 1,
-   "to": 1
-  },
-  {
-   "name": "Publican Quality Meats",
-   "hood": "Fulton Market",
-   "type": "deli",
-   "typekind": "cui",
-   "lat": 41.886604,
-   "lng": -87.648538,
-   "pr": 2,
-   "lists": [
-    [
-     "infatsand",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "quick",
-   "lu": 1,
-   "to": 1
-  },
-  {
-   "name": "Fontano's Subs",
-   "hood": "University Village",
-   "type": "deli",
-   "typekind": "cui",
-   "lat": 41.8719536,
-   "lng": -87.6533856,
-   "pr": 1,
-   "lists": [
-    [
-     "infatsand",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "quick",
-   "lu": 1,
-   "to": 1
-  },
-  {
-   "name": "Cafecito",
-   "hood": "Loop",
-   "type": "latin",
-   "typekind": "cui",
-   "lat": 41.88239,
-   "lng": -87.6336452,
-   "pr": 1,
-   "lists": [
-    [
-     "infatsand",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "quick",
-   "lu": 1,
-   "to": 1
   }
  ],
  "bars": [
@@ -5899,15 +5502,6 @@
    "mono": "LUNCH",
    "tag": "INFAT LUNCH",
    "name": "The Infatuation's Best Lunch in Chicago",
-   "year": "2025",
-   "ranked": false,
-   "starChip": false
-  },
-  "infatsand": {
-   "cls": "plate r-infatsand",
-   "mono": "SAND",
-   "tag": "INFAT SAND",
-   "name": "The Infatuation's Best Sandwiches in Chicago",
    "year": "2025",
    "ranked": false,
    "starChip": false
