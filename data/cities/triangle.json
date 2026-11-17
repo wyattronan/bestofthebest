@@ -97,8 +97,7 @@
     ]
    ],
    "vb": "italian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Lantern",
@@ -166,8 +165,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Poole's Diner",
@@ -270,8 +268,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "G.58",
@@ -324,8 +321,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "East End Bistrot",
@@ -342,8 +338,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Seraphine",
@@ -469,8 +464,7 @@
     ]
    ],
    "vb": "italian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Tesoro",
@@ -487,8 +481,7 @@
     ]
    ],
    "vb": "italian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Figulina",
@@ -505,8 +498,7 @@
     ]
    ],
    "vb": "italian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Bombolo",
@@ -593,8 +585,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Hawthorne & Wood",
@@ -926,8 +917,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Wedgewood Cheese Bar",
@@ -944,8 +934,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Pizzeria Toro",

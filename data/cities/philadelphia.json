@@ -221,8 +221,7 @@
     ]
    ],
    "vb": "asian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Her Place Supper Club",
@@ -357,8 +356,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Emmett",
@@ -391,8 +389,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Little Fish",
@@ -446,8 +443,7 @@
     ]
    ],
    "vb": "italian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Blue Corn",
@@ -468,8 +464,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Ambra",
@@ -652,8 +647,7 @@
     ]
    ],
    "vb": "asian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Pizzeria Beddia",
@@ -722,8 +716,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Tesiny",
@@ -846,8 +839,7 @@
     ]
    ],
    "vb": "specialty",
-   "dual": true,
-   "vg": 1
+   "dual": true
   },
   {
    "name": "Roxanne",
@@ -907,8 +899,7 @@
     ]
    ],
    "vb": "italian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Laser Wolf",
@@ -959,8 +950,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Little Water",
@@ -1031,8 +1021,7 @@
     ]
    ],
    "vb": "global",
-   "dual": true,
-   "vg": 1
+   "dual": true
   },
   {
    "name": "River Twice",
@@ -1072,8 +1061,7 @@
     ]
    ],
    "vb": "italian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "La Baja",
@@ -1090,8 +1078,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Little Walter's",
@@ -1262,8 +1249,7 @@
     ]
    ],
    "vb": "italian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Tabachoy",
@@ -1319,8 +1305,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Lark",
@@ -1372,8 +1357,7 @@
     ]
    ],
    "vb": "italian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Baby's Kusina",
@@ -1468,8 +1452,7 @@
     ]
    ],
    "vb": "oldguard",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Megobari",
@@ -1584,8 +1567,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Louie Louie",
@@ -1769,8 +1751,7 @@
     ]
    ],
    "vb": "italian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Fiore",
@@ -1791,8 +1772,7 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Fiorella",
@@ -1813,8 +1793,7 @@
     ]
    ],
    "vb": "italian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Hardena",
@@ -1897,8 +1876,7 @@
     ]
    ],
    "vb": "asian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Sulimay's",
@@ -2001,8 +1979,7 @@
     ]
    ],
    "vb": "italian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Heavy Metal Sausage Co.",

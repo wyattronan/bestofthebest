@@ -15,8 +15,7 @@
     ]
    ],
    "vb": "quick",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Tomo",
@@ -89,8 +88,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Delish Ethiopian Cuisine",
@@ -148,8 +146,7 @@
     ]
    ],
    "vb": "asian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Off Alley",
@@ -178,8 +175,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Cafetal Quilombo Cafe",
@@ -196,8 +192,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Lil Red Jamaican BBQ and Soul Cuisine",
@@ -360,8 +355,7 @@
     ]
    ],
    "vb": "asian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "L'Oursin",
@@ -386,8 +380,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Oriental Mart",
@@ -408,8 +401,7 @@
     ]
    ],
    "vb": "oldguard",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Communion Restaurant & Bar",
@@ -481,8 +473,7 @@
     ]
    ],
    "vb": "asian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Cascina Spinasse",
@@ -507,8 +498,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Lenox",
@@ -610,8 +600,7 @@
     ]
    ],
    "vb": "asian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Joule",
@@ -632,8 +621,7 @@
     ]
    ],
    "vb": "asian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Local Tide",
@@ -729,8 +717,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Atoma",
@@ -864,8 +851,7 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "La Cabaña",
@@ -886,8 +872,7 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Ahadu",
@@ -972,8 +957,7 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Bar del Corso",
@@ -1111,8 +1095,7 @@
     ]
    ],
    "vb": "quick",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Chicken Supply",
@@ -1129,8 +1112,7 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Drae's Lake Route Eatery",
@@ -1185,8 +1167,7 @@
     ]
    ],
    "vb": "asian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Il Nido",
@@ -1207,8 +1188,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Indian-Nepali Kitchen",
@@ -1286,8 +1266,7 @@
     ]
    ],
    "vb": "oldguard",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Maneki",
@@ -1321,8 +1300,7 @@
     ]
    ],
    "vb": "quick",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "MariPili Tapas Bar",
@@ -1339,8 +1317,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Mojito",
@@ -1357,8 +1334,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Paju",
@@ -1379,8 +1355,7 @@
     ]
    ],
    "vb": "asian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Pancita",
@@ -1405,8 +1380,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Pasta Casalinga",
@@ -1423,8 +1397,7 @@
     ]
    ],
    "vb": "quick",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Pho Bac Súp Shop",
@@ -1441,8 +1414,7 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Saint Bread",
@@ -1480,8 +1452,7 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Sophon",
@@ -1502,8 +1473,7 @@
     ]
    ],
    "vb": "asian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Taneda Sushi in Kaiseki",
@@ -1562,8 +1532,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Xi'an Noodles",
@@ -1617,8 +1586,7 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Sushi Kashiba",
@@ -1699,8 +1667,7 @@
     ]
    ],
    "vb": "asian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Lupe's Situ Tacos",
@@ -1717,8 +1684,7 @@
     ]
    ],
    "vb": "quick",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Cornelly",
@@ -1777,8 +1743,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Stevie's Famous",
@@ -1863,8 +1828,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Ba Bar",
@@ -1881,8 +1845,7 @@
     ]
    ],
    "vb": "asian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Doris",
@@ -1916,8 +1879,7 @@
     ]
    ],
    "vb": "asian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Le Pichet",
@@ -1934,8 +1896,7 @@
     ]
    ],
    "vb": "oldguard",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Terra Plata",
@@ -1969,8 +1930,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Lupo",
@@ -1987,8 +1947,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "La Loba",
@@ -2005,8 +1964,7 @@
     ]
    ],
    "vb": "quick",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Asadero Ballard",
@@ -2023,8 +1981,7 @@
     ]
    ],
    "vb": "quick",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Itto's Tapas",
@@ -2076,8 +2033,7 @@
     ]
    ],
    "vb": "quick",
-   "dual": false,
-   "vg": 1
+   "dual": false
   }
  ],
  "bars": [
