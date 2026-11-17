@@ -1178,7 +1178,10 @@ body.theme-resto .bar-pint{display:none;}
 #homepage{display:none;min-height:100vh;background:#e2dbc8;color:#1a1712;padding:8px 20px 22px;}
 body.home{overflow-y:auto;}
 body.home #homepage{display:block;}
-body.home > .paper-tex, body.home > nav.city-switch, body.home > header.masthead, body.home > nav.topnav, body.home > #ribbon, body.home > main#main, body.home > section#report, body.home > footer{display:none !important;}
+body.home > .paper-tex, body.home > header.masthead, body.home > nav.topnav, body.home > #ribbon, body.home > main#main, body.home > section#report, body.home > footer{display:none !important;}
+body.home{display:flex;flex-direction:column;min-height:100vh;}
+body.home > nav.city-switch{order:-1;}
+body.home > #homepage{order:0;}
 .hp-paper{max-width:1240px;margin:0 auto;background:transparent;border:none;box-shadow:none;padding:8px 24px 20px;}
 .hp-eyebrow{display:flex;align-items:center;justify-content:center;gap:12px;font-family:'AccentSans','Space Grotesk',sans-serif;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:#6a5f4a;}
 .hp-eyebrow .d{color:#bcb096;}
