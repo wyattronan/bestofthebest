@@ -2069,6 +2069,264 @@
    "vb": "bbq",
    "dual": false,
    "to": 1
+  },
+  {
+   "name": "June's All Day",
+   "hood": "South Congress",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2462863,
+   "lng": -97.751199,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Joann's Fine Foods",
+   "hood": "South Congress",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2515845,
+   "lng": -97.7491547,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch",
+   "lu": 1
+  },
+  {
+   "name": "Colleen's Kitchen",
+   "hood": "Mueller",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 30.2983611,
+   "lng": -97.7047111,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch",
+   "lu": 1
+  },
+  {
+   "name": "Josephine House",
+   "hood": "Clarksville",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2805852,
+   "lng": -97.759033,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Oseyo",
+   "hood": "East Austin",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 30.2583519,
+   "lng": -97.7275608,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "ATX Cocina",
+   "hood": "Downtown",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 30.2649201,
+   "lng": -97.7492858,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "68 Degrees",
+   "hood": "Central Austin",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 30.2778844,
+   "lng": -97.7729907,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian",
+   "lu": 1
+  },
+  {
+   "name": "The Backspace",
+   "hood": "Downtown",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 30.2670094,
+   "lng": -97.7404066,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "pizza",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Wu Chow",
+   "hood": "Downtown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 30.2685782,
+   "lng": -97.7478856,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "La Condesa",
+   "hood": "Downtown",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 30.2656391,
+   "lng": -97.7477811,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Ranch 616",
+   "hood": "Downtown",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 30.270465,
+   "lng": -97.7483962,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Swift's Attic",
+   "hood": "Downtown",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2656345,
+   "lng": -97.7433776,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Caroline",
+   "hood": "Downtown",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.2688157,
+   "lng": -97.7422982,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch",
+   "lu": 1
+  },
+  {
+   "name": "Chez Zee",
+   "hood": "Northwest",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 30.3366903,
+   "lng": -97.7579582,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch",
+   "lu": 1
   }
  ],
  "bars": [
@@ -3351,6 +3609,15 @@
    "name": "Food & Wine's Top 10 US Restaurants 2026",
    "year": "2026",
    "ranked": true,
+   "starChip": false
+  },
+  "infatlun": {
+   "cls": "plate r-infatlun",
+   "mono": "LUNCH",
+   "tag": "OPENTABLE",
+   "name": "OpenTable's Best Lunch in Austin",
+   "year": "2025",
+   "ranked": false,
    "starChip": false
   }
  },

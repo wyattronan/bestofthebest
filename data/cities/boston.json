@@ -1466,10 +1466,15 @@
     [
      "cnt35bos",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "lu": 1
   },
   {
    "name": "KAVA neo-taverna",
@@ -2113,6 +2118,118 @@
    ],
    "dual": false,
    "vb": "datenight"
+  },
+  {
+   "name": "Gene's Chinese Flatbread Cafe",
+   "hood": "Downtown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 42.353409,
+   "lng": -71.059624,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Xi'an Rougamo",
+   "hood": "Downtown Crossing",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 42.355792,
+   "lng": -71.0602563,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Wheelhouse",
+   "hood": "Downtown",
+   "type": "quick",
+   "typekind": "cui",
+   "lat": 42.3541472,
+   "lng": -71.0555701,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Chacarero",
+   "hood": "Downtown",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 42.3549845,
+   "lng": -71.0586383,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Casa Razdora",
+   "hood": "Downtown",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 42.3580379,
+   "lng": -71.0546554,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian",
+   "lu": 1
+  },
+  {
+   "name": "Sam LaGrassa's",
+   "hood": "Downtown",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 42.3568718,
+   "lng": -71.0599198,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick",
+   "lu": 1,
+   "to": 1
   }
  ],
  "bars": [
@@ -3916,6 +4033,15 @@
    "name": "Beli's Top Restaurants in Boston (2025)",
    "year": "2025",
    "ranked": true,
+   "starChip": false
+  },
+  "infatlun": {
+   "cls": "plate r-infatlun",
+   "mono": "LUNCH",
+   "tag": "INFAT LUNCH",
+   "name": "The Infatuation's Downtown Boston Lunch Guide",
+   "year": "2025",
+   "ranked": false,
    "starChip": false
   }
  },

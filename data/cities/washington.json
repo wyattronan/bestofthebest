@@ -1895,10 +1895,15 @@
     [
      "bibdc",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "lu": 1
   },
   {
    "name": "Bazaar Meat",
@@ -2667,10 +2672,15 @@
     [
      "eater38dc",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "lu": 1
   },
   {
    "name": "Bantam King",
@@ -3684,6 +3694,61 @@
    ],
    "vb": "datenight",
    "dual": false
+  },
+  {
+   "name": "dLeña",
+   "hood": "Mount Vernon Square",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 38.9023215,
+   "lng": -77.0186969,
+   "pr": 3,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Via Sophia",
+   "hood": "Downtown",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 38.9029633,
+   "lng": -77.0315286,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "pizza",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Olio e Più",
+   "hood": "Downtown",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 38.8981096,
+   "lng": -77.0315979,
+   "pr": 3,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian",
+   "lu": 1
   }
  ],
  "bars": [
@@ -4777,6 +4842,15 @@
    "name": "Beli's Top Restaurants in Washington, D.C. (2025)",
    "year": "2025",
    "ranked": true,
+   "starChip": false
+  },
+  "infatlun": {
+   "cls": "plate r-infatlun",
+   "mono": "LUNCH",
+   "tag": "OPENTABLE",
+   "name": "OpenTable's Best Lunch in Downtown DC",
+   "year": "2025",
+   "ranked": false,
    "starChip": false
   }
  },

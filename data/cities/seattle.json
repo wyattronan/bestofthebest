@@ -655,11 +655,16 @@
     [
      "nytsea",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "specialty",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Kamonegi",
@@ -702,10 +707,15 @@
     [
      "infatsea",
      19
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Hamdi",
@@ -1374,10 +1384,15 @@
     [
      "nytsea",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Pancita",
@@ -1673,12 +1688,17 @@
     [
      "beli",
      11
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Miss Pho",
@@ -1696,11 +1716,16 @@
     [
      "beli",
      20
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "asian",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Lupe's Situ Tacos",
@@ -1714,11 +1739,16 @@
     [
      "infatsea",
      20
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "quick",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Cornelly",
@@ -1912,11 +1942,16 @@
     [
      "nytsea",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "asian",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Le Pichet",
@@ -2052,10 +2087,15 @@
     [
      "beli",
      24
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Tacos La Cuadra",
@@ -2074,6 +2114,229 @@
    "vb": "quick",
    "dual": false,
    "to": 1
+  },
+  {
+   "name": "Bé Mi",
+   "hood": "Pioneer Square",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 47.6018856,
+   "lng": -122.3347173,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "GoodMart",
+   "hood": "Ballard",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 47.6653063,
+   "lng": -122.3816197,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Fortuna",
+   "hood": "Greenwood",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 47.6845909,
+   "lng": -122.3556065,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Cafe Lolo",
+   "hood": "Capitol Hill",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 47.6252352,
+   "lng": -122.3217843,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Buddha Ruksa",
+   "hood": "West Seattle",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 47.5648541,
+   "lng": -122.3772746,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Tivoli",
+   "hood": "Fremont",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 47.6495897,
+   "lng": -122.348467,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "pizza",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Onibaba",
+   "hood": "International District",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 47.5998559,
+   "lng": -122.3267847,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Café Selam",
+   "hood": "Central District",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 47.6077754,
+   "lng": -122.2972689,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Rojo's Mexican Food",
+   "hood": "Pioneer Square",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 47.6024258,
+   "lng": -122.3317164,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Deru Market",
+   "hood": "Kirkland",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 47.68202,
+   "lng": -122.19416,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch",
+   "lu": 1
+  },
+  {
+   "name": "The Pink Door",
+   "hood": "Pike Place Market",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 47.6103652,
+   "lng": -122.3425604,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian",
+   "lu": 1
+  },
+  {
+   "name": "Pass D Jollof",
+   "hood": "Pioneer Square",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 47.6005138,
+   "lng": -122.3345987,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
   }
  ],
  "bars": [
@@ -3308,6 +3571,15 @@
    "name": "Beli's Top Restaurants in Seattle (2025)",
    "year": "2025",
    "ranked": true,
+   "starChip": false
+  },
+  "infatlun": {
+   "cls": "plate r-infatlun",
+   "mono": "LUNCH",
+   "tag": "INFAT LUNCH",
+   "name": "The Infatuation's Best Lunch in Seattle",
+   "year": "2025",
+   "ranked": false,
    "starChip": false
   }
  },
