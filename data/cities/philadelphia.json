@@ -495,8 +495,7 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Illata",
@@ -562,8 +561,7 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Càphê Roasters",
@@ -808,8 +806,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Meetinghouse",
@@ -1170,8 +1167,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Char",
@@ -1279,8 +1275,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Rice & Sambal",
@@ -1386,8 +1381,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Barclay Prime",
@@ -1929,8 +1923,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Cerveau",
@@ -2017,8 +2010,7 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Dalessandro's Steaks",

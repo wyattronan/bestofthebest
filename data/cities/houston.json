@@ -86,8 +86,7 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Camaraderie",
@@ -224,8 +223,7 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Pinkerton's BBQ",
@@ -470,8 +468,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Mimo",
@@ -726,8 +723,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Bludorn",
@@ -765,8 +761,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Brennan's of Houston",
@@ -800,8 +795,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Clark's Oyster Bar",
@@ -910,8 +904,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Craft Pita",
@@ -1076,8 +1069,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "J-Bar-M Barbecue",
@@ -1128,8 +1120,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Josephine's Gulf Coast Tradition",
@@ -1298,8 +1289,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Laurenzo's",
@@ -1316,8 +1306,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Le Jardinier",
@@ -1342,8 +1331,7 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Lucille's",
@@ -1430,8 +1418,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Musaafer",
@@ -1897,8 +1884,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Truth BBQ",
@@ -2141,8 +2127,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Candente",
@@ -2279,8 +2264,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Kata Robata",
@@ -2314,8 +2298,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Hugo's",
@@ -2479,8 +2462,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Xolo",
@@ -2497,8 +2479,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Khói Barbecue",
@@ -2619,8 +2600,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Xochi",

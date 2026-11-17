@@ -609,8 +609,7 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Cote Miami",
@@ -656,8 +655,7 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Hiden",
@@ -699,8 +697,7 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Los Félix",
@@ -831,8 +828,7 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "The Surf Club Restaurant",
@@ -1245,8 +1241,7 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Red Rooster Overtown",
@@ -1336,8 +1331,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Chefs on the Run",
@@ -1633,8 +1627,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Mother Wolf Miami",

@@ -315,8 +315,7 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Hugo's Seafood Bar",
@@ -1472,8 +1471,7 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Green Point Seafood",

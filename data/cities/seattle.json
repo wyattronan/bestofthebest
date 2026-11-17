@@ -218,8 +218,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Familyfriend",
@@ -919,8 +918,7 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Archipelago",
@@ -945,8 +943,7 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Asadero Prime",
@@ -1024,8 +1021,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Cafe Flora",
@@ -1590,8 +1586,7 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Alebrijes Kitchen",

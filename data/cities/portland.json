@@ -31,8 +31,7 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Hà VL",
@@ -142,8 +141,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Kaede",
@@ -311,8 +309,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Matt's BBQ Tacos",
@@ -611,8 +608,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Nong's Khao Man Gai",
@@ -908,8 +904,7 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Arden",
@@ -1082,8 +1077,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Kau Kau",
@@ -1512,8 +1506,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Alma",
@@ -1565,8 +1558,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Apna Chat Bhavan",
@@ -1671,8 +1663,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Someday",

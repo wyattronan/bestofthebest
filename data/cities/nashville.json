@@ -270,8 +270,7 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Bourbon Steak",
@@ -892,8 +891,7 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Big Al's Deli",
@@ -1047,8 +1045,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Etch",
