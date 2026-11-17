@@ -1,0 +1,857 @@
+{
+ "restos": [
+  {
+   "name": "Alma Fonda Fina",
+   "hood": "LoHi",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 39.7580312,
+   "lng": -105.0116729,
+   "pr": 3,
+   "lists": [
+    [
+     "michelin",
+     null
+    ],
+    [
+     "5280best",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Bruto",
+   "hood": "RiNo",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 39.7527783,
+   "lng": -104.996991,
+   "pr": 4,
+   "lists": [
+    [
+     "michelin",
+     null
+    ],
+    [
+     "eater38",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Barolo Grill",
+   "hood": "Cherry Creek",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 39.7254226,
+   "lng": -104.9514544,
+   "pr": 4,
+   "lists": [
+    [
+     "5280best",
+     null
+    ],
+    [
+     "eater38",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Dan Da",
+   "hood": "Aurora",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 39.7403183,
+   "lng": -104.8723906,
+   "pr": 2,
+   "lists": [
+    [
+     "5280best",
+     null
+    ],
+    [
+     "eater38",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1
+  },
+  {
+   "name": "Annette",
+   "hood": "Aurora",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 39.7527014,
+   "lng": -104.8773688,
+   "pr": 3,
+   "lists": [
+    [
+     "5280best",
+     null
+    ],
+    [
+     "eater38",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "The Wolf's Tailor",
+   "hood": "Sunnyside",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 39.7728352,
+   "lng": -105.011101,
+   "pr": 4,
+   "lists": [
+    [
+     "michelin",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Kizaki",
+   "hood": "Platt Park",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 39.6884361,
+   "lng": -104.980682,
+   "pr": 4,
+   "lists": [
+    [
+     "michelin",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Margot",
+   "hood": "Platt Park",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 39.6884361,
+   "lng": -104.9806821,
+   "pr": 4,
+   "lists": [
+    [
+     "michelin",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Mezcaleria Alma",
+   "hood": "LoHi",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 39.7580511,
+   "lng": -105.0115946,
+   "pr": 3,
+   "lists": [
+    [
+     "michelin",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Beckon",
+   "hood": "RiNo",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 39.7611853,
+   "lng": -104.9823884,
+   "pr": 4,
+   "lists": [
+    [
+     "michelin",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "The Bindery",
+   "hood": "LoHi",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 39.7606986,
+   "lng": -105.0065213,
+   "pr": 3,
+   "lists": [
+    [
+     "5280best",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty",
+   "lu": 1
+  },
+  {
+   "name": "Carne",
+   "hood": "RiNo",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 39.7588525,
+   "lng": -104.9852964,
+   "pr": 4,
+   "lists": [
+    [
+     "5280best",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Hey Kiddo",
+   "hood": "Berkeley",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 39.7754669,
+   "lng": -105.0441331,
+   "pr": 3,
+   "lists": [
+    [
+     "5280best",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "Kawa Ni",
+   "hood": "LoHi",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 39.7618138,
+   "lng": -105.0099703,
+   "pr": 2,
+   "lists": [
+    [
+     "5280best",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Luchador",
+   "hood": "Whittier",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 39.7568234,
+   "lng": -104.9631263,
+   "pr": 2,
+   "lists": [
+    [
+     "5280best",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Magna Kainan",
+   "hood": "Cole",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 39.7715208,
+   "lng": -104.9695634,
+   "pr": 2,
+   "lists": [
+    [
+     "5280best",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Major Tom",
+   "hood": "RiNo",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 39.7612307,
+   "lng": -104.9823427,
+   "pr": 4,
+   "lists": [
+    [
+     "5280best",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "MAKfam",
+   "hood": "Baker",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 39.7185568,
+   "lng": -104.98805,
+   "pr": 2,
+   "lists": [
+    [
+     "5280best",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1
+  },
+  {
+   "name": "Mama Jo's Biscuits & BBQ",
+   "hood": "City Park",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 39.7403838,
+   "lng": -104.9457097,
+   "pr": 1,
+   "lists": [
+    [
+     "5280best",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "bbq",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Molotov Kitschen",
+   "hood": "City Park",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 39.740313,
+   "lng": -104.9480345,
+   "pr": 3,
+   "lists": [
+    [
+     "5280best",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Restaurant Olivia",
+   "hood": "Washington Park",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 39.711258,
+   "lng": -104.97318,
+   "pr": 4,
+   "lists": [
+    [
+     "5280best",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Sap Sua",
+   "hood": "Congress Park",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 39.7399857,
+   "lng": -104.9564354,
+   "pr": 3,
+   "lists": [
+    [
+     "5280best",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Somebody People",
+   "hood": "Overland",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 39.6953301,
+   "lng": -104.98767,
+   "pr": 2,
+   "lists": [
+    [
+     "5280best",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Spuntino",
+   "hood": "Highland",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 39.76221,
+   "lng": -105.019933,
+   "pr": 3,
+   "lists": [
+    [
+     "5280best",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Sushi Den",
+   "hood": "Platt Park",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 39.689578,
+   "lng": -104.9808419,
+   "pr": 3,
+   "lists": [
+    [
+     "5280best",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Xiquita",
+   "hood": "North Cap Hill",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 39.7460131,
+   "lng": -104.9808363,
+   "pr": 2,
+   "lists": [
+    [
+     "5280best",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Yuan Wonton",
+   "hood": "North Park Hill",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 39.7578836,
+   "lng": -104.9281038,
+   "pr": 2,
+   "lists": [
+    [
+     "5280best",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1
+  },
+  {
+   "name": "Nocturne",
+   "hood": "RiNo",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 39.7595964,
+   "lng": -104.9843854,
+   "pr": 3,
+   "lists": [
+    [
+     "eater38",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  }
+ ],
+ "bars": [
+  {
+   "name": "La Dona Mezcaleria",
+   "hood": "Platt Park",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.6931542,
+   "lng": -104.9869292,
+   "lists": [
+    [
+     "5280bars",
+     null
+    ],
+    [
+     "westword",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Emerald Eye",
+   "hood": "LoDo",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.747615,
+   "lng": -104.9998303,
+   "lists": [
+    [
+     "5280bars",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Hell or High Water Tiki",
+   "hood": "LoDo",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.7498423,
+   "lng": -104.9996194,
+   "lists": [
+    [
+     "5280bars",
+     null
+    ],
+    [
+     "westword",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Ok Yeah",
+   "hood": "Berkeley",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.7754357,
+   "lng": -105.0443121,
+   "lists": [
+    [
+     "5280bars",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Salita",
+   "hood": "Capitol Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.7274476,
+   "lng": -104.983819,
+   "lists": [
+    [
+     "5280bars",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Wolf & Wildflower",
+   "hood": "Wheat Ridge",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 39.7692281,
+   "lng": -105.0771113,
+   "lists": [
+    [
+     "5280bars",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Trellis Wine Bar",
+   "hood": "Park Hill",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 39.7579035,
+   "lng": -104.9278734,
+   "lists": [
+    [
+     "5280bars",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Hello Darling",
+   "hood": "LoDo",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.7549482,
+   "lng": -105.0043013,
+   "lists": [
+    [
+     "5280bars",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "BurnDown",
+   "hood": "Wash Park West",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.7080432,
+   "lng": -104.9872152,
+   "lists": [
+    [
+     "5280bars",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Yacht Club",
+   "hood": "Cole",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.7683418,
+   "lng": -104.9661101,
+   "lists": [
+    [
+     "5280bars",
+     null
+    ],
+    [
+     "westword",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Dazzle",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.7456685,
+   "lng": -104.9978614,
+   "lists": [
+    [
+     "5280bars",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Ay Papi",
+   "hood": "Cherry Creek",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.7204609,
+   "lng": -104.9543366,
+   "lists": [
+    [
+     "5280bars",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Lazy Greyhound",
+   "hood": "Littleton",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.6135968,
+   "lng": -105.0180809,
+   "lists": [
+    [
+     "5280bars",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Williams & Graham",
+   "hood": "LoHi",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.7619399,
+   "lng": -105.011026,
+   "lists": [
+    [
+     "westword",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Death & Co",
+   "hood": "RiNo",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.7572854,
+   "lng": -104.9865039,
+   "lists": [
+    [
+     "westword",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Occidental",
+   "hood": "LoHi",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.7619388,
+   "lng": -105.0109184,
+   "lists": [
+    [
+     "westword",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Poka Lola Social Club",
+   "hood": "LoDo",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.7536151,
+   "lng": -104.9966858,
+   "lists": [
+    [
+     "westword",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "American Bonded",
+   "hood": "RiNo",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.7595468,
+   "lng": -104.9838046,
+   "lists": [
+    [
+     "westword",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  }
+ ],
+ "rlists": {
+  "michelin": {
+   "cls": "plate r-denmichelin",
+   "mono": "★",
+   "tag": "MICHELIN",
+   "name": "Michelin Guide Colorado — Denver Stars",
+   "year": "2025",
+   "ranked": false,
+   "starChip": true
+  },
+  "5280best": {
+   "cls": "plate r-5280best",
+   "mono": "5280",
+   "tag": "5280 MAG",
+   "name": "5280 Magazine's 25 Best Restaurants",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "eater38": {
+   "cls": "plate r-deneater",
+   "mono": "EAT",
+   "tag": "EATER",
+   "name": "Eater Denver's 38 Essential Restaurants",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  }
+ },
+ "blists": {
+  "5280bars": {
+   "cls": "b-5280bars",
+   "mono": "5280",
+   "tag": "5280 MAG",
+   "name": "5280 Magazine's 26 Best Bars",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "westword": {
+   "cls": "b-denwestword",
+   "mono": "WW",
+   "tag": "WESTWORD",
+   "name": "Westword's Best Denver Bars",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  }
+ }
+}
