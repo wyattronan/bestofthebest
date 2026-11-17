@@ -1325,11 +1325,16 @@
     [
      "ttnash",
      16
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "lu": 1
   },
   {
    "name": "Lou",
@@ -1748,6 +1753,97 @@
    "vb": "specialty",
    "dual": false,
    "to": 1
+  },
+  {
+   "name": "The Henry",
+   "hood": "Belmont",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 36.1221729,
+   "lng": -86.790554,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Urban Grub",
+   "hood": "Waverly",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 36.124974,
+   "lng": -86.789155,
+   "pr": 3,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Midtown Cafe",
+   "hood": "Midtown",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 36.1519883,
+   "lng": -86.7968835,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard",
+   "lu": 1
+  },
+  {
+   "name": "Sadie's",
+   "hood": "Edgehill",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 36.1430208,
+   "lng": -86.7917773,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Mesero",
+   "hood": "Belmont",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 36.1221729,
+   "lng": -86.790554,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco",
+   "lu": 1,
+   "to": 1
   }
  ],
  "bars": [
@@ -2159,6 +2255,15 @@
    "name": "North America's 50 Best Restaurants 2025",
    "year": "2025",
    "ranked": true,
+   "starChip": false
+  },
+  "infatlun": {
+   "cls": "plate r-infatlun",
+   "mono": "LUNCH",
+   "tag": "OPENTABLE",
+   "name": "OpenTable's Best Lunch in Nashville",
+   "year": "2025",
+   "ranked": false,
    "starChip": false
   }
  },

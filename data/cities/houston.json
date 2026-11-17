@@ -467,10 +467,15 @@
     [
      "jbhou",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Mimo",
@@ -848,6 +853,10 @@
     [
      "chron100",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "taco",
@@ -983,11 +992,16 @@
     [
      "chron100",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "bbq",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Fish & Chips",
@@ -2103,12 +2117,17 @@
     [
      "eater38hou",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Hidden Omakase",
@@ -2312,10 +2331,15 @@
     [
      "infathou",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Reggae Hut",
@@ -2329,10 +2353,15 @@
     [
      "infathou",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Hugo's",
@@ -2678,6 +2707,137 @@
    ],
    "vb": "global",
    "dual": false
+  },
+  {
+   "name": "Vuji Cafe",
+   "hood": "The Heights",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.8015501,
+   "lng": -95.4108497,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Late August",
+   "hood": "Midtown",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.7343379,
+   "lng": -95.3821192,
+   "pr": 3,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Thiên An Sandwiches",
+   "hood": "Midtown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7437292,
+   "lng": -95.3725167,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Stanton's City Bites",
+   "hood": "First Ward",
+   "type": "quick",
+   "typekind": "cui",
+   "lat": 29.7708882,
+   "lng": -95.372113,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "La Guadalupana",
+   "hood": "Montrose",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 29.7469016,
+   "lng": -95.4018496,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Shiv Sagar",
+   "hood": "Mahatma Gandhi District",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 29.7164909,
+   "lng": -95.5010105,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Thiên Thanh",
+   "hood": "Chinatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.7046037,
+   "lng": -95.5773332,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1,
+   "to": 1
   }
  ],
  "bars": [
@@ -4005,6 +4165,15 @@
    "year": "2026",
    "ranked": false,
    "starChip": true
+  },
+  "infatlun": {
+   "cls": "plate r-infatlun",
+   "mono": "LUNCH",
+   "tag": "INFAT LUNCH",
+   "name": "The Infatuation's Best Lunch in Houston",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
   }
  },
  "blists": {

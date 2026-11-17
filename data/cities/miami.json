@@ -637,10 +637,15 @@
     [
      "eater38mia",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Elcielo Miami",
@@ -702,12 +707,17 @@
     [
      "mnt50mia",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "tasting",
    "dual": false,
    "vg": 1,
-   "vn": 1
+   "vn": 1,
+   "lu": 1
   },
   {
    "name": "Los Félix",
@@ -2055,6 +2065,96 @@
    "vb": "tasting",
    "dual": false,
    "pr": 3
+  },
+  {
+   "name": "Dirty French Steakhouse",
+   "hood": "Brickell",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 25.7619992,
+   "lng": -80.1923449,
+   "pr": 4,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Le Zoo",
+   "hood": "Bal Harbour",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 25.8881556,
+   "lng": -80.1246237,
+   "pr": 3,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Mi'Talia Kitchen & Bar",
+   "hood": "South Miami",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 25.7029976,
+   "lng": -80.2907376,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian",
+   "lu": 1
+  },
+  {
+   "name": "Gianni's at The Villa",
+   "hood": "South Beach",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 25.7819545,
+   "lng": -80.130515,
+   "pr": 4,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Smith & Wollensky",
+   "hood": "South Pointe",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 25.76594,
+   "lng": -80.1338965,
+   "pr": 4,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
   }
  ],
  "bars": [
@@ -2806,6 +2906,15 @@
    "year": "2025",
    "ranked": false,
    "starChip": true
+  },
+  "infatlun": {
+   "cls": "plate r-infatlun",
+   "mono": "LUNCH",
+   "tag": "MIAMI GUIDE",
+   "name": "The Miami Guide's Hottest Lunch Spots",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
   }
  },
  "blists": {

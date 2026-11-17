@@ -334,10 +334,15 @@
     [
      "ajcatl",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "BoccaLupo",
@@ -436,11 +441,16 @@
     [
      "ajcatl",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "lu": 1
   },
   {
    "name": "Fawn Wine & Amaro",
@@ -601,10 +611,15 @@
     [
      "ajcatl",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Little Sparrow",
@@ -803,10 +818,15 @@
     [
      "atlmag75",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Ryokou",
@@ -998,10 +1018,15 @@
     [
      "eater38atl",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "The Deer and the Dove",
@@ -2805,10 +2830,15 @@
     [
      "nytatl",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Charm",
@@ -3150,6 +3180,135 @@
    ],
    "vb": "datenight",
    "dual": false
+  },
+  {
+   "name": "Casi Cielo",
+   "hood": "Sandy Springs",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 33.9223594,
+   "lng": -84.3788841,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Snap Thai Fish House",
+   "hood": "Buckhead",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 33.8496625,
+   "lng": -84.3745049,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Clark's Steakhouse",
+   "hood": "Buckhead",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 33.8321356,
+   "lng": -84.3844323,
+   "pr": 4,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Ray's On The River",
+   "hood": "Sandy Springs",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 33.900492,
+   "lng": -84.440802,
+   "pr": 4,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "C&S At Galleria On The Park",
+   "hood": "Vinings",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 33.8854195,
+   "lng": -84.4611599,
+   "pr": 4,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "White Oak Kitchen & Cocktails",
+   "hood": "Downtown",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 33.762044,
+   "lng": -84.3878038,
+   "pr": 3,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Alma Cocina",
+   "hood": "Downtown",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 33.7591744,
+   "lng": -84.3873848,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco",
+   "lu": 1,
+   "to": 1
   }
  ],
  "bars": [
@@ -4652,6 +4811,15 @@
    "year": "2026",
    "ranked": false,
    "starChip": true
+  },
+  "infatlun": {
+   "cls": "plate r-infatlun",
+   "mono": "LUNCH",
+   "tag": "INFAT LUNCH",
+   "name": "The Infatuation's Business Lunch in Atlanta",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
   }
  },
  "blists": {
