@@ -240,7 +240,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "P Thai's Khao Man Gai & Noodles",
@@ -1894,7 +1895,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "vg": 1
   },
   {
    "name": "Juniper",
