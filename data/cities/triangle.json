@@ -12,11 +12,16 @@
     [
      "indytri",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "lu": 1
   },
   {
    "name": "The Cortez Seafood + Cocktail",
@@ -1030,6 +1035,97 @@
    "vb": "quick",
    "dual": false,
    "to": 1
+  },
+  {
+   "name": "Irregardless",
+   "hood": "Raleigh",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 35.7811627,
+   "lng": -78.6559433,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard",
+   "lu": 1
+  },
+  {
+   "name": "Parkside Restaurant",
+   "hood": "Raleigh",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 35.7769785,
+   "lng": -78.6436997,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Omakase by Kai",
+   "hood": "Raleigh",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 35.7886253,
+   "lng": -78.6392912,
+   "pr": 3,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting",
+   "lu": 1
+  },
+  {
+   "name": "Napa Bistro & Wine Bar",
+   "hood": "Raleigh",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 35.8322095,
+   "lng": -78.6656438,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "STIR",
+   "hood": "Raleigh",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 35.8378012,
+   "lng": -78.6405309,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
   }
  ],
  "bars": [
@@ -1630,6 +1726,15 @@
    "year": "2026",
    "ranked": false,
    "starChip": true
+  },
+  "infatlun": {
+   "cls": "plate r-infatlun",
+   "mono": "LUNCH",
+   "tag": "OPENTABLE",
+   "name": "OpenTable's Best Lunch in Raleigh",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
   }
  },
  "blists": {

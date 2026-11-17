@@ -4932,6 +4932,97 @@
    "vb": "brunch",
    "dual": false,
    "to": 1
+  },
+  {
+   "name": "The Mission",
+   "hood": "Old Town Scottsdale",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 33.49184,
+   "lng": -111.9242954,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Arcadia Farms Café",
+   "hood": "Central Scottsdale",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 33.4937602,
+   "lng": -111.9295235,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "PYRO",
+   "hood": "Central Phoenix",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 33.5101537,
+   "lng": -111.9880243,
+   "pr": 3,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Sexy Roman",
+   "hood": "Central Scottsdale",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 33.5015834,
+   "lng": -111.9240234,
+   "pr": 4,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Society Swan",
+   "hood": "Old Town Scottsdale",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 33.5035064,
+   "lng": -111.9290708,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
   }
  ],
  "bars": [
@@ -5914,6 +6005,15 @@
    "year": "2025",
    "ranked": false,
    "starChip": true
+  },
+  "infatlun": {
+   "cls": "plate r-infatlun",
+   "mono": "LUNCH",
+   "tag": "OPENTABLE",
+   "name": "OpenTable's Best Lunch in Phoenix & Scottsdale",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
   }
  },
  "blists": {
