@@ -2193,6 +2193,10 @@
     [
      "eaterbmia",
      null
+    ],
+    [
+     "eatermia",
+     null
     ]
    ],
    "vb": "vibey",
@@ -2217,6 +2221,10 @@
     [
      "eaterbmia",
      null
+    ],
+    [
+     "bonappmia",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2237,6 +2245,10 @@
     [
      "tomia",
      17
+    ],
+    [
+     "eatermia",
+     null
     ]
    ],
    "vb": "dive",
@@ -2264,6 +2276,10 @@
     ],
     [
      "jbmia",
+     null
+    ],
+    [
+     "bonappmia",
      null
     ]
    ],
@@ -2397,6 +2413,10 @@
     [
      "eaterbmia",
      null
+    ],
+    [
+     "eatermia",
+     null
     ]
    ],
    "vb": "dive",
@@ -2517,6 +2537,14 @@
     [
      "eaterbmia",
      null
+    ],
+    [
+     "bonappmia",
+     null
+    ],
+    [
+     "eatermia",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2556,6 +2584,10 @@
     ],
     [
      "eaterbmia",
+     null
+    ],
+    [
+     "bonappmia",
      null
     ]
    ],
@@ -2692,6 +2724,10 @@
     ],
     [
      "eaterbmia",
+     null
+    ],
+    [
+     "bonappmia",
      null
     ]
    ],
@@ -2841,6 +2877,182 @@
    ],
    "vb": "mixo",
    "dual": false
+  },
+  {
+   "name": "Komodo",
+   "hood": "Brickell",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.765616,
+   "lng": -80.1900616,
+   "lists": [
+    [
+     "bonappmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Tea Room",
+   "hood": "Brickell",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.7666736,
+   "lng": -80.1927482,
+   "lists": [
+    [
+     "bonappmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Las' Lap",
+   "hood": "Miami Beach",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.7987034,
+   "lng": -80.1302601,
+   "lists": [
+    [
+     "bonappmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Anderson",
+   "hood": "MiMo",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.8480743,
+   "lng": -80.1822624,
+   "lists": [
+    [
+     "eatermia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Michael's Genuine Food & Drink",
+   "hood": "Design District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.8131931,
+   "lng": -80.1926556,
+   "lists": [
+    [
+     "eatermia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Matador Bar",
+   "hood": "Miami Beach",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.805542,
+   "lng": -80.1242772,
+   "lists": [
+    [
+     "eatermia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Broken Shaker",
+   "hood": "Miami Beach",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.8045952,
+   "lng": -80.1263867,
+   "lists": [
+    [
+     "eatermia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Beaker & Gray",
+   "hood": "Wynwood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.8023429,
+   "lng": -80.1948094,
+   "lists": [
+    [
+     "eatermia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Purdy Lounge",
+   "hood": "Miami Beach",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.7938889,
+   "lng": -80.1441667,
+   "lists": [
+    [
+     "eatermia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Better Days",
+   "hood": "Brickell",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.7684406,
+   "lng": -80.1911656,
+   "lists": [
+    [
+     "eatermia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Sugar at EAST",
+   "hood": "Brickell",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.7666353,
+   "lng": -80.1925061,
+   "lists": [
+    [
+     "eatermia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
   }
  ],
  "rlists": {
@@ -2953,6 +3165,24 @@
    "year": "2025",
    "ranked": false,
    "starChip": true
+  },
+  "bonappmia": {
+   "cls": "b-bonappmia",
+   "mono": "BA",
+   "tag": "BON APP",
+   "name": "Bon Appétit: The Best Bars in Miami Right Now",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "eatermia": {
+   "cls": "b-eatermia",
+   "mono": "EAT",
+   "tag": "EATER",
+   "name": "Eater Miami: Every Important Miami Bar, Mapped",
+   "year": "2018",
+   "ranked": false,
+   "starChip": false
   }
  }
 }

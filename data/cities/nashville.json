@@ -1858,6 +1858,10 @@
     [
      "infatbnash",
      null
+    ],
+    [
+     "barmagnash",
+     null
     ]
    ],
    "vb": "mixo",
@@ -1873,6 +1877,10 @@
    "lists": [
     [
      "infatbnash",
+     null
+    ],
+    [
+     "timeoutnash",
      null
     ]
    ],
@@ -1890,6 +1898,14 @@
     [
      "infatbnash",
      null
+    ],
+    [
+     "barmagnash",
+     null
+    ],
+    [
+     "timeoutnash",
+     null
     ]
    ],
    "vb": "vibey",
@@ -1906,6 +1922,14 @@
     [
      "infatbnash",
      null
+    ],
+    [
+     "timeoutnash",
+     null
+    ],
+    [
+     "foodnetnash",
+     null
     ]
    ],
    "vb": "livemusic",
@@ -1921,6 +1945,22 @@
    "lists": [
     [
      "infatbnash",
+     null
+    ],
+    [
+     "barmagnash",
+     null
+    ],
+    [
+     "timeoutnash",
+     null
+    ],
+    [
+     "rstonenash",
+     null
+    ],
+    [
+     "foodnetnash",
      null
     ]
    ],
@@ -1970,6 +2010,18 @@
     [
      "infatbnash",
      null
+    ],
+    [
+     "barmagnash",
+     null
+    ],
+    [
+     "timeoutnash",
+     null
+    ],
+    [
+     "foodnetnash",
+     null
     ]
    ],
    "vb": "vibey",
@@ -1986,6 +2038,22 @@
     [
      "infatbnash",
      null
+    ],
+    [
+     "barmagnash",
+     null
+    ],
+    [
+     "timeoutnash",
+     null
+    ],
+    [
+     "rstonenash",
+     null
+    ],
+    [
+     "foodnetnash",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2001,6 +2069,10 @@
    "lists": [
     [
      "infatbnash",
+     null
+    ],
+    [
+     "timeoutnash",
      null
     ]
    ],
@@ -2034,6 +2106,10 @@
     [
      "infatbnash",
      null
+    ],
+    [
+     "eaternash",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2049,6 +2125,10 @@
    "lists": [
     [
      "infatbnash",
+     null
+    ],
+    [
+     "barmagnash",
      null
     ]
    ],
@@ -2066,6 +2146,18 @@
     [
      "infatbnash",
      null
+    ],
+    [
+     "timeoutnash",
+     null
+    ],
+    [
+     "rstonenash",
+     null
+    ],
+    [
+     "thrillnlnash",
+     null
     ]
    ],
    "vb": "dive",
@@ -2081,6 +2173,10 @@
    "lists": [
     [
      "infatbnash",
+     null
+    ],
+    [
+     "eaternash",
      null
     ]
    ],
@@ -2114,6 +2210,14 @@
     [
      "infatbnash",
      null
+    ],
+    [
+     "timeoutnash",
+     null
+    ],
+    [
+     "eaternash",
+     null
     ]
    ],
    "vb": "vibey",
@@ -2146,6 +2250,10 @@
     [
      "infatbnash",
      null
+    ],
+    [
+     "barmagnash",
+     null
     ]
    ],
    "vb": "vibey",
@@ -2161,6 +2269,10 @@
    "lists": [
     [
      "infatbnash",
+     null
+    ],
+    [
+     "timeoutnash",
      null
     ]
    ],
@@ -2178,10 +2290,546 @@
     [
      "infatbnash",
      null
+    ],
+    [
+     "barmagnash",
+     null
     ]
    ],
    "vb": "mixo",
    "dual": false
+  },
+  {
+   "name": "White Limozeen",
+   "hood": "Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1514635,
+   "lng": -86.7997599,
+   "lists": [
+    [
+     "barmagnash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Eleven11",
+   "hood": "East Nashville",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1883458,
+   "lng": -86.7726965,
+   "lists": [
+    [
+     "barmagnash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Pearl Diver",
+   "hood": "East Nashville",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1890897,
+   "lng": -86.7463771,
+   "lists": [
+    [
+     "barmagnash",
+     null
+    ],
+    [
+     "foodnetnash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Coral Club",
+   "hood": "East Nashville",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1827483,
+   "lng": -86.7491161,
+   "lists": [
+    [
+     "barmagnash",
+     null
+    ],
+    [
+     "timeoutnash",
+     null
+    ],
+    [
+     "rstonenash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Tiger Bar",
+   "hood": "East Nashville",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.2030947,
+   "lng": -86.7390151,
+   "lists": [
+    [
+     "barmagnash",
+     null
+    ],
+    [
+     "timeoutnash",
+     null
+    ],
+    [
+     "eaternash",
+     null
+    ],
+    [
+     "rstonenash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "1865 Club",
+   "hood": "Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1594194,
+   "lng": -86.8068417,
+   "lists": [
+    [
+     "barmagnash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Green Hour",
+   "hood": "Germantown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1753466,
+   "lng": -86.7882764,
+   "lists": [
+    [
+     "barmagnash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Rosemary & Beauty Queen",
+   "hood": "East Nashville",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.178284,
+   "lng": -86.7495534,
+   "lists": [
+    [
+     "barmagnash",
+     null
+    ],
+    [
+     "thrillnlnash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Amsterdamian",
+   "hood": "East Nashville",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1877138,
+   "lng": -86.7462603,
+   "lists": [
+    [
+     "eaternash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Cherries",
+   "hood": "East Nashville",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1866465,
+   "lng": -86.7730117,
+   "lists": [
+    [
+     "eaternash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Sun Room at Drift Nashville",
+   "hood": "East Bank",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1721616,
+   "lng": -86.7699844,
+   "lists": [
+    [
+     "eaternash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Grandpa Bar - Coffee & Cocktails",
+   "hood": "Germantown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1660165,
+   "lng": -86.7986805,
+   "lists": [
+    [
+     "eaternash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Nelson's Green Brier Distillery",
+   "hood": "Marathon Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1635155,
+   "lng": -86.7982322,
+   "lists": [
+    [
+     "eaternash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bar Continental",
+   "hood": "The Gulch",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1581497,
+   "lng": -86.7844421,
+   "lists": [
+    [
+     "eaternash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Night We Met",
+   "hood": "Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1578159,
+   "lng": -86.7880907,
+   "lists": [
+    [
+     "eaternash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "The Late Great",
+   "hood": "Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1517317,
+   "lng": -86.7934446,
+   "lists": [
+    [
+     "eaternash",
+     null
+    ],
+    [
+     "rstonenash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Jar Cocktail Club",
+   "hood": "Hillsboro Village",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1372121,
+   "lng": -86.7992274,
+   "lists": [
+    [
+     "eaternash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Roze Pony",
+   "hood": "Belle Meade",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1036867,
+   "lng": -86.8691037,
+   "lists": [
+    [
+     "rstonenash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Red Door Saloon",
+   "hood": "Midtown",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 36.1506259,
+   "lng": -86.7957885,
+   "lists": [
+    [
+     "thrillnlnash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Play Dance Bar",
+   "hood": "Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.156803,
+   "lng": -86.793628,
+   "lists": [
+    [
+     "thrillnlnash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "The Basement East",
+   "hood": "East Nashville",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.175686,
+   "lng": -86.75559,
+   "lists": [
+    [
+     "thrillnlnash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Black Rabbit",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1649976,
+   "lng": -86.7778088,
+   "lists": [
+    [
+     "thrillnlnash",
+     null
+    ],
+    [
+     "foodnetnash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bastion",
+   "hood": "Wedgewood-Houston",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1429242,
+   "lng": -86.7665652,
+   "lists": [
+    [
+     "foodnetnash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Pinewood Social",
+   "hood": "SoBro",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1583903,
+   "lng": -86.7677835,
+   "lists": [
+    [
+     "foodnetnash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Downtown Sporting Club",
+   "hood": "Broadway",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1606579,
+   "lng": -86.7775904,
+   "lists": [
+    [
+     "foodnetnash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Walden",
+   "hood": "East Nashville",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 36.2031093,
+   "lng": -86.7391249,
+   "lists": [
+    [
+     "foodnetnash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Oak Bar in The Hermitage Hotel",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1637611,
+   "lng": -86.7823611,
+   "lists": [
+    [
+     "foodnetnash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The 404 Kitchen",
+   "hood": "The Gulch",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.151791,
+   "lng": -86.7847415,
+   "lists": [
+    [
+     "foodnetnash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Flamingo Cocktail Club & Coffee Bar",
+   "hood": "Wedgewood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1426809,
+   "lng": -86.7683267,
+   "lists": [
+    [
+     "foodnetnash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Skull's Rainbow Room",
+   "hood": "Printers Alley",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1645783,
+   "lng": -86.7788302,
+   "lists": [
+    [
+     "foodnetnash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Urban Cowboy Public House",
+   "hood": "East Nashville",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1773074,
+   "lng": -86.741657,
+   "lists": [
+    [
+     "foodnetnash",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
   }
  ],
  "rlists": {
@@ -2273,6 +2921,60 @@
    "mono": "IN",
    "tag": "INFAT",
    "name": "The Infatuation's Best Bars in Nashville",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "barmagnash": {
+   "cls": "b-barmagnash",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The 16 Best Bars in Nashville",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "timeoutnash": {
+   "cls": "b-timeoutnash",
+   "mono": "TO",
+   "tag": "TIME OUT",
+   "name": "Time Out: The Best Bars in Nashville",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "eaternash": {
+   "cls": "b-eaternash",
+   "mono": "EAT",
+   "tag": "EATER",
+   "name": "Eater Nashville: Where to Drink in Nashville Right Now",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false
+  },
+  "rstonenash": {
+   "cls": "b-rstonenash",
+   "mono": "RS",
+   "tag": "ROLLING STONE",
+   "name": "Rolling Stone: Sip Your Way Through Music City: 8 Must-Visit Nashville Bars, According to Locals",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false
+  },
+  "thrillnlnash": {
+   "cls": "b-thrillnlnash",
+   "mono": "TH",
+   "tag": "THRILLIST",
+   "name": "Thrillist: The Ultimate Guide to Nashville Nightlife",
+   "year": "2023",
+   "ranked": false,
+   "starChip": false
+  },
+  "foodnetnash": {
+   "cls": "b-foodnetnash",
+   "mono": "FN",
+   "tag": "FOOD NET",
+   "name": "Food Network: The Best Bars in Nashville",
    "year": "2026",
    "ranked": false,
    "starChip": false

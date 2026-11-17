@@ -556,6 +556,10 @@
     [
      "strib",
      null
+    ],
+    [
+     "barmagtc",
+     null
     ]
    ],
    "dual": false,
@@ -572,6 +576,10 @@
     [
      "exploremn",
      null
+    ],
+    [
+     "barmagtc",
+     null
     ]
    ],
    "dual": false,
@@ -587,6 +595,10 @@
    "lists": [
     [
      "exploremn",
+     null
+    ],
+    [
+     "barmagtc",
      null
     ]
    ],
@@ -764,6 +776,10 @@
     [
      "strib",
      null
+    ],
+    [
+     "barmagtc",
+     null
     ]
    ],
    "dual": false,
@@ -796,10 +812,158 @@
     [
      "strib",
      null
+    ],
+    [
+     "barmagtc",
+     null
     ]
    ],
    "dual": false,
    "vb": "mixo"
+  },
+  {
+   "name": "Bar Mara",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9817459,
+   "lng": -93.26944,
+   "lists": [
+    [
+     "barmagtc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Char Bar",
+   "hood": "North Loop",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.988359,
+   "lng": -93.2806285,
+   "lists": [
+    [
+     "barmagtc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Cobble Social House",
+   "hood": "North Loop",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9847645,
+   "lng": -93.2714895,
+   "lists": [
+    [
+     "barmagtc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Earl Giles",
+   "hood": "Northeast",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.001619,
+   "lng": -93.2504861,
+   "lists": [
+    [
+     "barmagtc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "L2 at Tii Cup",
+   "hood": "Uptown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9539761,
+   "lng": -93.2972227,
+   "lists": [
+    [
+     "barmagtc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Parlour",
+   "hood": "North Loop",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9889128,
+   "lng": -93.2782056,
+   "lists": [
+    [
+     "barmagtc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Pikok Lounge",
+   "hood": "Northeast",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.0011143,
+   "lng": -93.2633731,
+   "lists": [
+    [
+     "barmagtc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Small Hours",
+   "hood": "Northeast",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 45.0101926,
+   "lng": -93.2659603,
+   "lists": [
+    [
+     "barmagtc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Troubadour Wine Bar",
+   "hood": "Uptown",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 44.9510917,
+   "lng": -93.2980194,
+   "lists": [
+    [
+     "barmagtc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
   }
  ],
  "rlists": {
@@ -847,6 +1011,15 @@
    "tag": "STAR TRIBUNE",
    "name": "Star Tribune's Best Bars",
    "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "barmagtc": {
+   "cls": "b-barmagtc",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The 14 Best Bars in Minneapolis",
+   "year": "2026",
    "ranked": false,
    "starChip": false
   }

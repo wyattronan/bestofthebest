@@ -5274,6 +5274,10 @@
     [
      "belib",
      4
+    ],
+    [
+     "barmagla",
+     null
     ]
    ],
    "dual": false,
@@ -5305,6 +5309,10 @@
     [
      "belib",
      5
+    ],
+    [
+     "barmagla",
+     null
     ]
    ],
    "dual": false,
@@ -5338,6 +5346,14 @@
     [
      "belib",
      1
+    ],
+    [
+     "barmagla",
+     null
+    ],
+    [
+     "thrillla",
+     null
     ]
    ],
    "dual": false,
@@ -5375,6 +5391,18 @@
     [
      "na50bars",
      46
+    ],
+    [
+     "barmagla",
+     null
+    ],
+    [
+     "resyla",
+     null
+    ],
+    [
+     "thrillla",
+     null
     ]
    ],
    "dual": false,
@@ -5411,6 +5439,10 @@
     [
      "na50bars",
      8
+    ],
+    [
+     "barmagla",
+     null
     ]
    ],
    "dual": false,
@@ -5443,6 +5475,10 @@
     ],
     [
      "cnt25la",
+     null
+    ],
+    [
+     "barmagla",
      null
     ]
    ],
@@ -5496,6 +5532,10 @@
     [
      "cnt25la",
      null
+    ],
+    [
+     "barmagla",
+     null
     ]
    ],
    "dual": false,
@@ -5519,6 +5559,10 @@
     ],
     [
      "infatbla",
+     null
+    ],
+    [
+     "barmagla",
      null
     ]
    ],
@@ -5544,6 +5588,18 @@
     ],
     [
      "eatercla",
+     null
+    ],
+    [
+     "barmagla",
+     null
+    ],
+    [
+     "resyla",
+     null
+    ],
+    [
+     "thrillla",
      null
     ]
    ],
@@ -5587,6 +5643,10 @@
     ],
     [
      "infatbla",
+     null
+    ],
+    [
+     "barmagla",
      null
     ]
    ],
@@ -5707,6 +5767,10 @@
     [
      "cnt25la",
      null
+    ],
+    [
+     "barmagla",
+     null
     ]
    ],
    "dual": true,
@@ -5744,6 +5808,10 @@
     ],
     [
      "eatercla",
+     null
+    ],
+    [
+     "thrillla",
      null
     ]
    ],
@@ -5785,6 +5853,10 @@
     [
      "infatbla",
      null
+    ],
+    [
+     "resyla",
+     null
     ]
    ],
    "dual": false,
@@ -5823,6 +5895,14 @@
     [
      "cnwbla",
      68
+    ],
+    [
+     "latimesla",
+     null
+    ],
+    [
+     "barmagla",
+     null
     ]
    ],
    "dual": false,
@@ -6080,6 +6160,10 @@
     [
      "cnwbla",
      44
+    ],
+    [
+     "barmagla",
+     null
     ]
    ],
    "dual": false,
@@ -6469,6 +6553,10 @@
     [
      "eaterdla",
      null
+    ],
+    [
+     "thrillla",
+     null
     ]
    ],
    "dual": false,
@@ -6531,6 +6619,14 @@
    "lists": [
     [
      "infatbla",
+     null
+    ],
+    [
+     "latimesla",
+     null
+    ],
+    [
+     "barmagla",
      null
     ]
    ],
@@ -6755,6 +6851,10 @@
     [
      "punchla",
      null
+    ],
+    [
+     "barmagla",
+     null
     ]
    ],
    "dual": false,
@@ -6817,6 +6917,10 @@
    "lists": [
     [
      "punchla",
+     null
+    ],
+    [
+     "barmagla",
      null
     ]
    ],
@@ -6916,6 +7020,10 @@
     [
      "eaterdla",
      null
+    ],
+    [
+     "thrillla",
+     null
     ]
    ],
    "dual": false,
@@ -7002,6 +7110,538 @@
    ],
    "dual": false,
    "vb": "dive"
+  },
+  {
+   "name": "Bar Betsy",
+   "hood": "Altadena",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.1888112,
+   "lng": -118.1318104,
+   "lists": [
+    [
+     "latimesla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Bar Di Bello",
+   "hood": "Silver Lake",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0863784,
+   "lng": -118.275724,
+   "lists": [
+    [
+     "latimesla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Seven Grand",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0470275,
+   "lng": -118.2559336,
+   "lists": [
+    [
+     "barmagla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Damn, I Miss Paris",
+   "hood": "West Adams",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0323079,
+   "lng": -118.3546828,
+   "lists": [
+    [
+     "barmagla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Lucia",
+   "hood": "Fairfax",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.077667,
+   "lng": -118.3617438,
+   "lists": [
+    [
+     "barmagla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Not No Bar",
+   "hood": "Santa Monica",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0036817,
+   "lng": -118.4855511,
+   "lists": [
+    [
+     "barmagla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Friendship Bar",
+   "hood": "Santa Monica",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0283539,
+   "lng": -118.5188306,
+   "lists": [
+    [
+     "barmagla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Sampa Los Angeles",
+   "hood": "Arts District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0421879,
+   "lng": -118.2352644,
+   "lists": [
+    [
+     "resyla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Joyce",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.046269,
+   "lng": -118.2571646,
+   "lists": [
+    [
+     "resyla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Cafe Triste",
+   "hood": "Chinatown",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.0663681,
+   "lng": -118.2359281,
+   "lists": [
+    [
+     "resyla",
+     null
+    ],
+    [
+     "thrillla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "A TÍ",
+   "hood": "Echo Park",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0755321,
+   "lng": -118.2552733,
+   "lists": [
+    [
+     "resyla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Airliner",
+   "hood": "Lincoln Heights",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.073875,
+   "lng": -118.2162379,
+   "lists": [
+    [
+     "resyla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Amiguita",
+   "hood": "Silver Lake",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0888933,
+   "lng": -118.276942,
+   "lists": [
+    [
+     "resyla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Seco Silverlake",
+   "hood": "Silver Lake",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.0912267,
+   "lng": -118.279481,
+   "lists": [
+    [
+     "resyla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Jilli - Los Angeles",
+   "hood": "Koreatown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0637112,
+   "lng": -118.3081593,
+   "lists": [
+    [
+     "resyla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bar Etoile",
+   "hood": "East Hollywood",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.0828373,
+   "lng": -118.3088885,
+   "lists": [
+    [
+     "resyla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Highly Likely Highland Park",
+   "hood": "Highland Park",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.1081864,
+   "lng": -118.195161,
+   "lists": [
+    [
+     "resyla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Mother Wolf LA",
+   "hood": "Hollywood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0994241,
+   "lng": -118.3313098,
+   "lists": [
+    [
+     "resyla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Stir Crazy",
+   "hood": "Melrose",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.0835568,
+   "lng": -118.3418247,
+   "lists": [
+    [
+     "resyla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "The Benjamin Hollywood",
+   "hood": "Melrose",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0832817,
+   "lng": -118.346035,
+   "lists": [
+    [
+     "resyla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Chulita West Adams",
+   "hood": "West Adams",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0322253,
+   "lng": -118.3546649,
+   "lists": [
+    [
+     "resyla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Marvito",
+   "hood": "West Hollywood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0910945,
+   "lng": -118.3690624,
+   "lists": [
+    [
+     "resyla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Hamburger Mary's",
+   "hood": "West Hollywood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0905374,
+   "lng": -118.3701139,
+   "lists": [
+    [
+     "resyla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Galerie",
+   "hood": "West Hollywood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0974728,
+   "lng": -118.3682992,
+   "lists": [
+    [
+     "resyla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Coucou",
+   "hood": "Venice",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.997345,
+   "lng": -118.4787124,
+   "lists": [
+    [
+     "thrillla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Barra Santos",
+   "hood": "Cypress Park",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.0956641,
+   "lng": -118.228049,
+   "lists": [
+    [
+     "thrillla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Bar Envie",
+   "hood": "Long Beach",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.7823734,
+   "lng": -118.145503,
+   "lists": [
+    [
+     "thrillla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Saltie Girl Seafood Bar",
+   "hood": "West Hollywood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0926374,
+   "lng": -118.3795327,
+   "lists": [
+    [
+     "thrillla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Ruby Fruit",
+   "hood": "Silver Lake",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.0888679,
+   "lng": -118.2769866,
+   "lists": [
+    [
+     "thrillla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "The Den on Sunset",
+   "hood": "West Hollywood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0974828,
+   "lng": -118.3683032,
+   "lists": [
+    [
+     "thrillla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Chap",
+   "hood": "Hollywood",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 34.1000353,
+   "lng": -118.3297431,
+   "lists": [
+    [
+     "thrillla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Nossa Caipirinha Bar",
+   "hood": "Los Feliz",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.1072714,
+   "lng": -118.2872178,
+   "lists": [
+    [
+     "thrillla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "1010 Wine",
+   "hood": "Inglewood",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 33.976711,
+   "lng": -118.357244,
+   "lists": [
+    [
+     "thrillla",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
   }
  ],
  "rlists": {
@@ -7266,6 +7906,42 @@
    "name": "Beli's Top Bars in Los Angeles (2025)",
    "year": "2025",
    "ranked": true,
+   "starChip": false
+  },
+  "latimesla": {
+   "cls": "b-latimesla",
+   "mono": "LT",
+   "tag": "LA TIMES",
+   "name": "Los Angeles Times: The 5 Best Places to Drink in L.A. Right Now",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "barmagla": {
+   "cls": "b-barmagla",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The 21 Best Cocktail Bars in Los Angeles",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "resyla": {
+   "cls": "b-resyla",
+   "mono": "RE",
+   "tag": "RESY",
+   "name": "Resy: The Best Places to Drink in Los Angeles",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "thrillla": {
+   "cls": "b-thrillla",
+   "mono": "TH",
+   "tag": "THRILLIST",
+   "name": "Thrillist: The Best New Bars in Los Angeles Right Now",
+   "year": "2023",
+   "ranked": false,
    "starChip": false
   }
  }

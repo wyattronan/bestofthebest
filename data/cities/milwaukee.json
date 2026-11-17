@@ -481,6 +481,10 @@
     [
      "milbars",
      null
+    ],
+    [
+     "barmagmil",
+     null
     ]
    ],
    "dual": false,
@@ -496,6 +500,10 @@
    "lists": [
     [
      "milbars",
+     null
+    ],
+    [
+     "barmagmil",
      null
     ]
    ],
@@ -516,6 +524,10 @@
     ],
     [
      "jbbar",
+     null
+    ],
+    [
+     "barmagmil",
      null
     ]
    ],
@@ -853,6 +865,38 @@
    ],
    "dual": false,
    "vb": "wine"
+  },
+  {
+   "name": "PufferFish",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 43.0397474,
+   "lng": -87.9063182,
+   "lists": [
+    [
+     "barmagmil",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Mothership",
+   "hood": "Bay View",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 43.0027883,
+   "lng": -87.8969691,
+   "lists": [
+    [
+     "barmagmil",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
   }
  ],
  "rlists": {
@@ -918,6 +962,15 @@
    "tag": "USA TODAY",
    "name": "USA Today Best Bars (Milwaukee)",
    "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "barmagmil": {
+   "cls": "b-barmagmil",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The Best Bars in Milwaukee",
+   "year": "2026",
    "ranked": false,
    "starChip": false
   }

@@ -1337,6 +1337,10 @@
     [
      "infatbnola",
      null
+    ],
+    [
+     "bonappno",
+     null
     ]
    ],
    "vb": "vibey",
@@ -1357,6 +1361,18 @@
     [
      "tonola",
      16
+    ],
+    [
+     "barmagno",
+     null
+    ],
+    [
+     "thrillno",
+     null
+    ],
+    [
+     "nolamagno",
+     null
     ]
    ],
    "vb": "mixo",
@@ -1377,6 +1393,22 @@
     [
      "tonola",
      2
+    ],
+    [
+     "bonappno",
+     null
+    ],
+    [
+     "barmagno",
+     null
+    ],
+    [
+     "thrillno",
+     null
+    ],
+    [
+     "nolamagno",
+     null
     ]
    ],
    "vb": "mixo",
@@ -1397,6 +1429,14 @@
     [
      "tonola",
      10
+    ],
+    [
+     "thrillno",
+     null
+    ],
+    [
+     "nolamagno",
+     null
     ]
    ],
    "vb": "vibey",
@@ -1429,6 +1469,22 @@
     [
      "infatbnola",
      null
+    ],
+    [
+     "bonappno",
+     null
+    ],
+    [
+     "barmagno",
+     null
+    ],
+    [
+     "cosmono",
+     null
+    ],
+    [
+     "nolamagno",
+     null
     ]
    ],
    "vb": "mixo",
@@ -1449,6 +1505,26 @@
     [
      "tonola",
      1
+    ],
+    [
+     "bonappno",
+     null
+    ],
+    [
+     "barmagno",
+     null
+    ],
+    [
+     "thrillno",
+     null
+    ],
+    [
+     "cosmono",
+     null
+    ],
+    [
+     "nolamagno",
+     null
     ]
    ],
    "vb": "mixo",
@@ -1464,6 +1540,18 @@
    "lists": [
     [
      "infatbnola",
+     null
+    ],
+    [
+     "bonappno",
+     null
+    ],
+    [
+     "barmagno",
+     null
+    ],
+    [
+     "thrillno",
      null
     ]
    ],
@@ -1501,6 +1589,14 @@
     [
      "tonola",
      17
+    ],
+    [
+     "cosmono",
+     null
+    ],
+    [
+     "nolamagno",
+     null
     ]
    ],
    "vb": "livemusic",
@@ -1521,6 +1617,10 @@
     [
      "tonola",
      11
+    ],
+    [
+     "nolamagno",
+     null
     ]
    ],
    "vb": "vibey",
@@ -1536,6 +1636,18 @@
    "lists": [
     [
      "infatbnola",
+     null
+    ],
+    [
+     "thrillno",
+     null
+    ],
+    [
+     "cosmono",
+     null
+    ],
+    [
+     "nolamagno",
      null
     ]
    ],
@@ -1557,6 +1669,22 @@
     [
      "tonola",
      5
+    ],
+    [
+     "barmagno",
+     null
+    ],
+    [
+     "thrillno",
+     null
+    ],
+    [
+     "cosmono",
+     null
+    ],
+    [
+     "nolamagno",
+     null
     ]
    ],
    "vb": "vibey",
@@ -1572,6 +1700,10 @@
    "lists": [
     [
      "infatbnola",
+     null
+    ],
+    [
+     "nolamagno",
      null
     ]
    ],
@@ -1593,6 +1725,18 @@
     [
      "tonola",
      20
+    ],
+    [
+     "thrillno",
+     null
+    ],
+    [
+     "cosmono",
+     null
+    ],
+    [
+     "nolamagno",
+     null
     ]
    ],
    "vb": "vibey",
@@ -1629,6 +1773,18 @@
     [
      "tonola",
      14
+    ],
+    [
+     "thrillno",
+     null
+    ],
+    [
+     "cosmono",
+     null
+    ],
+    [
+     "nolamagno",
+     null
     ]
    ],
    "vb": "dive",
@@ -1649,6 +1805,18 @@
     [
      "tonola",
      13
+    ],
+    [
+     "thrillno",
+     null
+    ],
+    [
+     "cosmono",
+     null
+    ],
+    [
+     "nolamagno",
+     null
     ]
    ],
    "vb": "dive",
@@ -1664,6 +1832,10 @@
    "lists": [
     [
      "infatbnola",
+     null
+    ],
+    [
+     "nolamagno",
      null
     ]
    ],
@@ -1681,6 +1853,10 @@
     [
      "infatbnola",
      null
+    ],
+    [
+     "barmagno",
+     null
     ]
    ],
    "vb": "dive",
@@ -1696,6 +1872,14 @@
    "lists": [
     [
      "infatbnola",
+     null
+    ],
+    [
+     "bonappno",
+     null
+    ],
+    [
+     "nolamagno",
      null
     ]
    ],
@@ -1729,6 +1913,14 @@
     [
      "tonola",
      3
+    ],
+    [
+     "thrillno",
+     null
+    ],
+    [
+     "nolamagno",
+     null
     ]
    ],
    "vb": "dive",
@@ -1745,6 +1937,10 @@
     [
      "tonola",
      4
+    ],
+    [
+     "cosmono",
+     null
     ]
    ],
    "vb": "dive",
@@ -1761,6 +1957,14 @@
     [
      "tonola",
      6
+    ],
+    [
+     "thrillno",
+     null
+    ],
+    [
+     "nolamagno",
+     null
     ]
    ],
    "vb": "vibey",
@@ -1777,6 +1981,14 @@
     [
      "tonola",
      7
+    ],
+    [
+     "cosmono",
+     null
+    ],
+    [
+     "nolamagno",
+     null
     ]
    ],
    "vb": "dive",
@@ -1793,6 +2005,14 @@
     [
      "tonola",
      8
+    ],
+    [
+     "barmagno",
+     null
+    ],
+    [
+     "thrillno",
+     null
     ]
    ],
    "vb": "vibey",
@@ -1809,6 +2029,22 @@
     [
      "tonola",
      9
+    ],
+    [
+     "barmagno",
+     null
+    ],
+    [
+     "thrillno",
+     null
+    ],
+    [
+     "cosmono",
+     null
+    ],
+    [
+     "nolamagno",
+     null
     ]
    ],
    "vb": "vibey",
@@ -1825,6 +2061,18 @@
     [
      "tonola",
      12
+    ],
+    [
+     "barmagno",
+     null
+    ],
+    [
+     "thrillno",
+     null
+    ],
+    [
+     "nolamagno",
+     null
     ]
    ],
    "vb": "mixo",
@@ -1841,6 +2089,18 @@
     [
      "tonola",
      15
+    ],
+    [
+     "thrillno",
+     null
+    ],
+    [
+     "cosmono",
+     null
+    ],
+    [
+     "nolamagno",
+     null
     ]
    ],
    "vb": "wine",
@@ -1857,6 +2117,14 @@
     [
      "tonola",
      18
+    ],
+    [
+     "thrillno",
+     null
+    ],
+    [
+     "nolamagno",
+     null
     ]
    ],
    "vb": "vibey",
@@ -1873,10 +2141,1518 @@
     [
      "tonola",
      19
+    ],
+    [
+     "nolamagno",
+     null
     ]
    ],
    "vb": "dive",
    "dual": false
+  },
+  {
+   "name": "Beachbum Berry's Latitude 29",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.953715,
+   "lng": -90.0651341,
+   "lists": [
+    [
+     "bonappno",
+     null
+    ],
+    [
+     "barmagno",
+     null
+    ],
+    [
+     "thrillno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Baroness on Baronne",
+   "hood": "CBD",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.951443,
+   "lng": -90.0727991,
+   "lists": [
+    [
+     "bonappno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Charles & Julia",
+   "hood": "CBD",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.946163,
+   "lng": -90.0720124,
+   "lists": [
+    [
+     "bonappno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Compère Lapin",
+   "hood": "Warehouse District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9478867,
+   "lng": -90.0673474,
+   "lists": [
+    [
+     "barmagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Loa Bar",
+   "hood": "CBD",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.951241,
+   "lng": -90.068981,
+   "lists": [
+    [
+     "barmagno",
+     null
+    ],
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Revel Cafe & Bar",
+   "hood": "Mid-City",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.97537,
+   "lng": -90.100192,
+   "lists": [
+    [
+     "barmagno",
+     null
+    ],
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Junebug",
+   "hood": "Warehouse District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9460616,
+   "lng": -90.0700008,
+   "lists": [
+    [
+     "barmagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Roost Bar at Brennan's",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9561453,
+   "lng": -90.066646,
+   "lists": [
+    [
+     "barmagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bakery Bar",
+   "hood": "Lower Garden District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9389025,
+   "lng": -90.0686838,
+   "lists": [
+    [
+     "thrillno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Chloe",
+   "hood": "Uptown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.927027,
+   "lng": -90.0992435,
+   "lists": [
+    [
+     "thrillno",
+     null
+    ],
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Crown & Anchor",
+   "hood": "Algiers Point",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9514137,
+   "lng": -90.0541959,
+   "lists": [
+    [
+     "thrillno",
+     null
+    ],
+    [
+     "cosmono",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Erin Rose",
+   "hood": "French Quarter",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9565292,
+   "lng": -90.0679583,
+   "lists": [
+    [
+     "thrillno",
+     null
+    ],
+    [
+     "cosmono",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Out in the Cold",
+   "hood": "Irish Channel",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9221985,
+   "lng": -90.0812694,
+   "lists": [
+    [
+     "thrillno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Parasol's",
+   "hood": "Irish Channel",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9264484,
+   "lng": -90.0801434,
+   "lists": [
+    [
+     "thrillno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Peychaud's",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9576509,
+   "lng": -90.0660263,
+   "lists": [
+    [
+     "thrillno",
+     null
+    ],
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Saint-Germain",
+   "hood": "Bywater",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 29.9674855,
+   "lng": -90.0447111,
+   "lists": [
+    [
+     "thrillno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "The Will and the Way",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9575727,
+   "lng": -90.0658268,
+   "lists": [
+    [
+     "thrillno",
+     null
+    ],
+    [
+     "cosmono",
+     null
+    ],
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Spotted Cat Music Club",
+   "hood": "Marigny",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9640556,
+   "lng": -90.0576889,
+   "lists": [
+    [
+     "cosmono",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Snake & Jake's Christmas Club Lounge",
+   "hood": "Carrollton",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9441696,
+   "lng": -90.1260291,
+   "lists": [
+    [
+     "cosmono",
+     null
+    ],
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Maple Leaf Bar",
+   "hood": "Carrollton",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9489368,
+   "lng": -90.1320837,
+   "lists": [
+    [
+     "cosmono",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Le Bon Temps Roule",
+   "hood": "Uptown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9205341,
+   "lng": -90.1062461,
+   "lists": [
+    [
+     "cosmono",
+     null
+    ],
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "New Orleans Social House",
+   "hood": "Warehouse District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9450723,
+   "lng": -90.0672543,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Sidecar Patio & Oyster Bar",
+   "hood": "Lower Garden District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9405618,
+   "lng": -90.0692215,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Pluck",
+   "hood": "Warehouse District",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 29.9473256,
+   "lng": -90.0719191,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "The Double Dealer",
+   "hood": "CBD",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9544747,
+   "lng": -90.0728153,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Pool Club New Orleans at Virgin Hotel New Orleans",
+   "hood": "CBD",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.948945,
+   "lng": -90.0731349,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Above the Grid at NOPSI Hotel",
+   "hood": "CBD",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9520389,
+   "lng": -90.0727239,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "ALTO at The Ace Hotel",
+   "hood": "CBD",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9483317,
+   "lng": -90.0718664,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Ingenue at The Troubadour Hotel",
+   "hood": "CBD",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9532817,
+   "lng": -90.0743143,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Rosie's on the Roof at The Higgins Hotel",
+   "hood": "Warehouse District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9425708,
+   "lng": -90.0697495,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Observatory Eleven Bar at Westin New Orleans",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.951362,
+   "lng": -90.0646773,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Criollo – Hotel Monteleone",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9540056,
+   "lng": -90.0679528,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Good Friends Bar",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9599591,
+   "lng": -90.0657543,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Harry's Corner",
+   "hood": "French Quarter",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9591141,
+   "lng": -90.0622177,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "MRB",
+   "hood": "French Quarter",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9594664,
+   "lng": -90.060959,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Hermes Bar at Antoine's",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9567762,
+   "lng": -90.0665486,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Tujague's",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9550211,
+   "lng": -90.0645679,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Tropical Isle",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9591056,
+   "lng": -90.0652806,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Pat O'Brien's",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9582008,
+   "lng": -90.0652973,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Old Absinthe House",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9553573,
+   "lng": -90.0684439,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Napoleon House",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9558754,
+   "lng": -90.065056,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "R Bar",
+   "hood": "Marigny",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.964106,
+   "lng": -90.059509,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Apple Barrel Bar",
+   "hood": "Marigny",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9637857,
+   "lng": -90.0576903,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Three Muses",
+   "hood": "Marigny",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9632806,
+   "lng": -90.0578583,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "The AllWays Lounge & Cabaret",
+   "hood": "St. Claude",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9684939,
+   "lng": -90.0556146,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Brieux Carré Brewing Co.",
+   "hood": "Marigny",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9626495,
+   "lng": -90.0572362,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Hi-Ho Lounge",
+   "hood": "St. Claude",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9689113,
+   "lng": -90.0554249,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Pepp's Pub",
+   "hood": "Marigny",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9651456,
+   "lng": -90.0514501,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Emporium Arcade Bar",
+   "hood": "Marigny",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9689377,
+   "lng": -90.0557385,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Friendly Bar",
+   "hood": "Marigny",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9638196,
+   "lng": -90.0550235,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "New Orleans Art Bar",
+   "hood": "St. Claude",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9683943,
+   "lng": -90.0573564,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "J&J's Sports Lounge",
+   "hood": "Bywater",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9621822,
+   "lng": -90.0346325,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Bud Rip's",
+   "hood": "Bywater",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.964949,
+   "lng": -90.0423605,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Markey's Bar",
+   "hood": "Bywater",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9630516,
+   "lng": -90.0438454,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Country Club New Orleans",
+   "hood": "Bywater",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9629363,
+   "lng": -90.0439482,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bywater Brew Pub",
+   "hood": "Bywater",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9637807,
+   "lng": -90.047163,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Parleaux Beer Lab",
+   "hood": "Bywater",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9607332,
+   "lng": -90.0340019,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Junction",
+   "hood": "Marigny",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9629423,
+   "lng": -90.0575306,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Saturn Bar",
+   "hood": "Bywater",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9679433,
+   "lng": -90.0442073,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Bar Pomona",
+   "hood": "Bywater",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9685889,
+   "lng": -90.0528475,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Kermit's Treme Mother-in-Law Lounge",
+   "hood": "Treme",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9709269,
+   "lng": -90.0667597,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Candlelight Lounge",
+   "hood": "Treme",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9654663,
+   "lng": -90.0707194,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Bullet's Sports Lounge",
+   "hood": "7th Ward",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9820829,
+   "lng": -90.0671494,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "The Well",
+   "hood": "Treme",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9636016,
+   "lng": -90.0724238,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Treme Hideaway",
+   "hood": "Treme",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9686606,
+   "lng": -90.0687277,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Miel",
+   "hood": "Irish Channel",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.920587,
+   "lng": -90.08016,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Tracey's Original Irish Channel Bar",
+   "hood": "Irish Channel",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9269116,
+   "lng": -90.0808455,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Urban South Brewery",
+   "hood": "Lower Garden District",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9298825,
+   "lng": -90.0668215,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Rusty Nail",
+   "hood": "Warehouse District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9408276,
+   "lng": -90.0692515,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Courtyard Brewery",
+   "hood": "Lower Garden District",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9399083,
+   "lng": -90.0719712,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Tchoup Yard",
+   "hood": "Irish Channel",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9217977,
+   "lng": -90.0763478,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Bower Bar",
+   "hood": "Lower Garden District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9378966,
+   "lng": -90.0712854,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Zony Mash Beer Project",
+   "hood": "Mid-City",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9521144,
+   "lng": -90.0975763,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Wrong Iron on the Greenway",
+   "hood": "Mid-City",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9747664,
+   "lng": -90.0923648,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Second Line Brewing",
+   "hood": "Mid-City",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.982552,
+   "lng": -90.1052855,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Ciao Tapas Bar & Lounge",
+   "hood": "Mid-City",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9686363,
+   "lng": -90.1052403,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Vandal",
+   "hood": "Mid-City",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9678076,
+   "lng": -90.1031614,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Vessel NOLA",
+   "hood": "Mid-City",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.974172,
+   "lng": -90.097435,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Mick's Irish Pub",
+   "hood": "Mid-City",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9813733,
+   "lng": -90.1062377,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Holy Ground Irish Pub",
+   "hood": "Mid-City",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9696163,
+   "lng": -90.0939346,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Oak",
+   "hood": "Carrollton",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 29.9476555,
+   "lng": -90.1302724,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "The Delachaise Wine Bar",
+   "hood": "Uptown",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 29.9275388,
+   "lng": -90.0926069,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "St. Joe's Bar",
+   "hood": "Uptown",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.921323,
+   "lng": -90.116891,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Port Orleans Brewing Co.",
+   "hood": "Uptown",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9172267,
+   "lng": -90.0982894,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Dos Jefes Uptown Cigar Bar",
+   "hood": "Uptown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9165866,
+   "lng": -90.1181657,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "QiQi",
+   "hood": "Uptown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9318512,
+   "lng": -90.0951781,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Vintage NOLA",
+   "hood": "Uptown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9243554,
+   "lng": -90.0860477,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Boulingy Tavern",
+   "hood": "Uptown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.921894,
+   "lng": -90.0928728,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Ms. Mae's",
+   "hood": "Uptown",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9205853,
+   "lng": -90.1011776,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Henry's Uptown Bar",
+   "hood": "Uptown",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 29.9205433,
+   "lng": -90.1101843,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Mayfair Lounge",
+   "hood": "Uptown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9260859,
+   "lng": -90.094384,
+   "lists": [
+    [
+     "nolamagno",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
   }
  ],
  "rlists": {
@@ -1961,6 +3737,51 @@
    "name": "Time Out's Best Bars in New Orleans",
    "year": "2026",
    "ranked": true,
+   "starChip": false
+  },
+  "bonappno": {
+   "cls": "b-bonappno",
+   "mono": "BA",
+   "tag": "BON APP",
+   "name": "Bon Appétit: The 9 Best Bars in New Orleans Right Now",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "barmagno": {
+   "cls": "b-barmagno",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The 16 Best Cocktail Bars in New Orleans",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "thrillno": {
+   "cls": "b-thrillno",
+   "mono": "TH",
+   "tag": "THRILLIST",
+   "name": "Thrillist: Drink in History at the Absolute Best Bars in New Orleans",
+   "year": "2023",
+   "ranked": false,
+   "starChip": false
+  },
+  "cosmono": {
+   "cls": "b-cosmono",
+   "mono": "CO",
+   "tag": "COSMO",
+   "name": "Cosmopolitan: The 19 Best Bars in New Orleans That You Need to Drink at on Your Trip",
+   "year": "2023",
+   "ranked": false,
+   "starChip": false
+  },
+  "nolamagno": {
+   "cls": "b-nolamagno",
+   "mono": "NM",
+   "tag": "NOLA MAG",
+   "name": "New Orleans Magazine (MyNewOrleans.com): Best Bars: The Toasted of the Town",
+   "year": "2023",
+   "ranked": false,
    "starChip": false
   }
  }
