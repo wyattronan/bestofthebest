@@ -145,10 +145,15 @@
     [
      "jbnola",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Dooky Chase",
@@ -600,11 +605,16 @@
     [
      "eater38nola",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "specialty",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Bacchanal Fine Wine & Spirits",
@@ -1110,10 +1120,15 @@
     [
      "nytnola",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "The Kingsway",
@@ -1234,6 +1249,80 @@
    "vb": "datenight",
    "dual": false,
    "pr": 3
+  },
+  {
+   "name": "Cochon Butcher",
+   "hood": "Warehouse District",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 29.9422838,
+   "lng": -90.0672549,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Parkway Bakery and Tavern",
+   "hood": "Mid City",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 29.9736296,
+   "lng": -90.0902549,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Pêche Seafood Grill",
+   "hood": "Warehouse District",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 29.9452145,
+   "lng": -90.0691312,
+   "pr": 3,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Chi Chi's Chicken and Beer",
+   "hood": "Freret",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 29.9348536,
+   "lng": -90.1067656,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
   }
  ],
  "bars": [
@@ -1843,6 +1932,15 @@
    "name": "Food & Wine's Top 10 US Restaurants 2026",
    "year": "2026",
    "ranked": true,
+   "starChip": false
+  },
+  "infatlun": {
+   "cls": "plate r-infatlun",
+   "mono": "LUNCH",
+   "tag": "LUNCH",
+   "name": "Best Lunch Places in New Orleans",
+   "year": "2025",
+   "ranked": false,
    "starChip": false
   }
  },

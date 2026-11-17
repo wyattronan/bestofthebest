@@ -656,10 +656,15 @@
     [
      "eaterpdx",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Astera",
@@ -1027,10 +1032,15 @@
     [
      "pdxmo",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "oldguard",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Jacqueline",
@@ -1843,6 +1853,100 @@
    "dual": false,
    "to": 1,
    "lu": 1
+  },
+  {
+   "name": "Olympia Provisions NW",
+   "hood": "Northwest",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 45.535467,
+   "lng": -122.688461,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Big's Chicken",
+   "hood": "Northeast",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 45.5262796,
+   "lng": -122.6154381,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Shalom Y'All",
+   "hood": "Central Eastside",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 45.5152063,
+   "lng": -122.6643926,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "The House of Banh Mi",
+   "hood": "Northeast",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 45.5267628,
+   "lng": -122.5848779,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Giraffe Goods",
+   "hood": "Central Eastside",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 45.5159195,
+   "lng": -122.6651835,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick",
+   "lu": 1,
+   "to": 1
   }
  ],
  "bars": [
@@ -2098,6 +2202,15 @@
    "name": "Food & Wine's Top 10 US Restaurants 2026",
    "year": "2026",
    "ranked": true,
+   "starChip": false
+  },
+  "infatlun": {
+   "cls": "plate r-infatlun",
+   "mono": "LUNCH",
+   "tag": "PDX MONTHLY",
+   "name": "Portland Monthly's Best Lunches",
+   "year": "2025",
+   "ranked": false,
    "starChip": false
   }
  },

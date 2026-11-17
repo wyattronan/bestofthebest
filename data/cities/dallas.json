@@ -74,10 +74,15 @@
     [
      "nytdal",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Lucia",
@@ -107,10 +112,15 @@
     [
      "michbibdal",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Resident Taqueria",
@@ -166,10 +176,15 @@
     [
      "michbibdal",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Cattleack",
@@ -331,10 +346,15 @@
     [
      "dmagdal",
      18
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Pappas Bros. Steakhouse",
@@ -576,10 +596,15 @@
     [
      "eaterdal",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Gemma",
@@ -698,10 +723,15 @@
     [
      "dmagdal",
      30
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Ka-Tip Thai Street Food",
@@ -903,10 +933,15 @@
     [
      "dmagdal",
      23
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Meridian",
@@ -1083,10 +1118,15 @@
     [
      "eaterdal",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Bharat Bhavan",
@@ -1209,10 +1249,15 @@
     [
      "dmagdal",
      46
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Bilad Bakery",
@@ -1562,6 +1607,97 @@
    ],
    "vb": "datenight",
    "dual": false
+  },
+  {
+   "name": "Elia Greek Tavern",
+   "hood": "Bishop Arts",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 32.7466129,
+   "lng": -96.8285261,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Dakota's Steakhouse",
+   "hood": "Downtown",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 32.7850611,
+   "lng": -96.8006677,
+   "pr": 4,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Monarch",
+   "hood": "Downtown",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 32.7814389,
+   "lng": -96.8006905,
+   "pr": 4,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "CBD Provisions",
+   "hood": "Downtown",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 32.7805676,
+   "lng": -96.7985336,
+   "pr": 3,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Sister",
+   "hood": "Lower Greenville",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 32.8233578,
+   "lng": -96.7700051,
+   "pr": 3,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
   }
  ],
  "bars": [
@@ -2657,6 +2793,15 @@
    "year": "2026",
    "ranked": false,
    "starChip": true
+  },
+  "infatlun": {
+   "cls": "plate r-infatlun",
+   "mono": "LUNCH",
+   "tag": "INFAT LUNCH",
+   "name": "The Infatuation's Casual Lunch in Dallas",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
   }
  },
  "blists": {

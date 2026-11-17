@@ -176,11 +176,16 @@
     [
      "beli",
      16
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "asian",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "lu": 1
   },
   {
    "name": "Mawn",
@@ -218,10 +223,15 @@
     [
      "beli",
      6
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "lu": 1
   },
   {
    "name": "Her Place Supper Club",
@@ -773,11 +783,16 @@
     [
      "infatphl",
      25
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "lu": 1
   },
   {
    "name": "Honeysuckle",
@@ -1437,12 +1452,17 @@
     [
      "eater38phl",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "lu": 1
   },
   {
    "name": "Dante & Luigi's",
@@ -1615,6 +1635,10 @@
     [
      "eater38phl",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "datenight",
@@ -1738,11 +1762,16 @@
     [
      "eater38phl",
      null
+    ],
+    [
+     "infatlun",
+     null
     ]
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "lu": 1
   },
   {
    "name": "Emilia",
@@ -2361,6 +2390,209 @@
    ],
    "vb": "oldguard",
    "dual": false
+  },
+  {
+   "name": "Marina's Pizza",
+   "hood": "Fishtown",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 39.9729827,
+   "lng": -75.1338566,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "pizza",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Stargazy",
+   "hood": "East Passyunk",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 39.9267806,
+   "lng": -75.1673537,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Mama's Falafel",
+   "hood": "Center City",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 39.952696,
+   "lng": -75.1734857,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Vietnam Restaurant",
+   "hood": "Chinatown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 39.9563241,
+   "lng": -75.157202,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Suya Suya",
+   "hood": "Northern Liberties",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 39.9626245,
+   "lng": -75.1447937,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Pizza Richmond",
+   "hood": "Port Richmond",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 39.9824852,
+   "lng": -75.1028396,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "pizza",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Amy's Pastelillos",
+   "hood": "Fishtown",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 39.9775233,
+   "lng": -75.1284116,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Paesano's",
+   "hood": "Italian Market",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 39.9378231,
+   "lng": -75.1579933,
+   "pr": 1,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Dizengoff",
+   "hood": "Center City",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 39.9506895,
+   "lng": -75.1682688,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Parc",
+   "hood": "Rittenhouse",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 39.9491222,
+   "lng": -75.170749,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight",
+   "lu": 1
+  },
+  {
+   "name": "Liberty Kitchen",
+   "hood": "Fishtown",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 39.9720333,
+   "lng": -75.1354209,
+   "pr": 2,
+   "lists": [
+    [
+     "infatlun",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick",
+   "lu": 1,
+   "to": 1
   }
  ],
  "bars": [
@@ -3174,6 +3406,15 @@
    "name": "Beli's Top Restaurants in Philadelphia (2025)",
    "year": "2025",
    "ranked": true,
+   "starChip": false
+  },
+  "infatlun": {
+   "cls": "plate r-infatlun",
+   "mono": "LUNCH",
+   "tag": "INFAT LUNCH",
+   "name": "The Infatuation's Best Lunch in Philadelphia",
+   "year": "2025",
+   "ranked": false,
    "starChip": false
   }
  },
