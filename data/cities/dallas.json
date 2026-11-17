@@ -56,8 +56,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Olōyō",
@@ -78,8 +77,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Lucia",
@@ -112,8 +110,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Resident Taqueria",
@@ -138,8 +135,7 @@
     ]
    ],
    "vb": "taco",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Mot Hai Ba",
@@ -172,8 +168,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Cattleack",
@@ -231,8 +226,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Roots Southern Table",
@@ -418,8 +412,7 @@
     ]
    ],
    "vb": "taco",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Sushi Kozy",
@@ -582,8 +575,7 @@
     ]
    ],
    "vb": "italian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Gemma",
@@ -744,8 +736,7 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Momo Spot",
@@ -858,8 +849,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Encina",
@@ -893,8 +883,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Ateliê",
@@ -970,8 +959,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": true,
-   "vg": 1
+   "dual": true
   },
   {
    "name": "Zoli's Pizza",
@@ -1049,8 +1037,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Mirador",
@@ -1092,8 +1079,7 @@
     ]
    ],
    "vb": "global",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Bharat Bhavan",
@@ -1218,8 +1204,7 @@
     ]
    ],
    "vb": "italian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Bilad Bakery",
@@ -1297,8 +1282,7 @@
     ]
    ],
    "vb": "italian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Walloon's",
@@ -1332,8 +1316,7 @@
     ]
    ],
    "vb": "asian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Cenzo's Pizza & Deli",
@@ -1404,8 +1387,7 @@
     ]
    ],
    "vb": "taco",
-   "dual": true,
-   "vg": 1
+   "dual": true
   },
   {
    "name": "Restaurant Beatrice",
