@@ -170,8 +170,7 @@
     ]
    ],
    "vb": "asian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Aria",
@@ -370,8 +369,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Brasserie Margot",
@@ -405,8 +403,7 @@
     ]
    ],
    "vb": "asian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Casa Balam",
@@ -1344,8 +1341,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Hal's, the Steakhouse",
@@ -1400,8 +1396,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Madre Selva",
@@ -1554,8 +1549,7 @@
     ]
    ],
    "vb": "asian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Staplehouse",
@@ -1585,8 +1579,7 @@
    ],
    "vb": "tasting",
    "dual": false,
-   "vg": 1,
-   "vn": 1
+   "vg": 1
   },
   {
    "name": "The Colonnade",
@@ -2111,8 +2104,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "LanZhou Ramen",
@@ -2151,8 +2143,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Mirae",
@@ -2169,8 +2160,7 @@
     ]
    ],
    "vb": "asian",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Nakato",
@@ -2391,8 +2381,7 @@
     ]
    ],
    "vb": "lunch",
-   "dual": false,
-   "vg": 1
+   "dual": false
   },
   {
    "name": "Tum Pok Pok",
