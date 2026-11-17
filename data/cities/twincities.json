@@ -1,0 +1,854 @@
+{
+ "restos": [
+  {
+   "name": "112 Eatery",
+   "hood": "Warehouse District",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 44.9825481,
+   "lng": -93.2717776,
+   "pr": 3,
+   "lists": [
+    [
+     "mspHOF",
+     null
+    ],
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "The Lexington",
+   "hood": "Grand Ave (St. Paul)",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 44.9398043,
+   "lng": -93.1463622,
+   "pr": 3,
+   "lists": [
+    [
+     "mspHOF",
+     null
+    ],
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Kramarczuk's",
+   "hood": "Northeast",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 44.9878093,
+   "lng": -93.2572948,
+   "pr": 1,
+   "lists": [
+    [
+     "mspHOF",
+     null
+    ],
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Cecil's Deli",
+   "hood": "Highland Park (St. Paul)",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 44.9219144,
+   "lng": -93.1877248,
+   "pr": 1,
+   "lists": [
+    [
+     "mspHOF",
+     null
+    ],
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "World Street Kitchen",
+   "hood": "Lyn-Lake",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 44.9525511,
+   "lng": -93.2878528,
+   "pr": 1,
+   "lists": [
+    [
+     "mspHOF",
+     null
+    ],
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1,
+   "to": 1
+  },
+  {
+   "name": "Spoon and Stable",
+   "hood": "North Loop",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 44.9855244,
+   "lng": -93.2694875,
+   "pr": 4,
+   "lists": [
+    [
+     "jbeard",
+     null
+    ],
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "Demi",
+   "hood": "North Loop",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 44.9851187,
+   "lng": -93.2707188,
+   "pr": 4,
+   "lists": [
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Bucheron",
+   "hood": "Kingfield",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 44.9251922,
+   "lng": -93.2776856,
+   "pr": 4,
+   "lists": [
+    [
+     "jbeard",
+     null
+    ],
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Vinai",
+   "hood": "Northeast",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 45.001129,
+   "lng": -93.2664185,
+   "pr": 3,
+   "lists": [
+    [
+     "jbeard",
+     null
+    ],
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Khaluna",
+   "hood": "Lyn-Lake",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 44.9301684,
+   "lng": -93.2885723,
+   "pr": 3,
+   "lists": [
+    [
+     "jbeard",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Kado no Mise",
+   "hood": "North Loop",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 44.9846597,
+   "lng": -93.267522,
+   "pr": 4,
+   "lists": [
+    [
+     "jbeard",
+     null
+    ],
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Diane's Place",
+   "hood": "Northeast",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 45.0015128,
+   "lng": -93.2703618,
+   "pr": 3,
+   "lists": [
+    [
+     "jbeard",
+     null
+    ],
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global",
+   "lu": 1
+  },
+  {
+   "name": "Hyacinth",
+   "hood": "Grand Ave (St. Paul)",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 44.9397939,
+   "lng": -93.133467,
+   "pr": 3,
+   "lists": [
+    [
+     "jbeard",
+     null
+    ],
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Myriel",
+   "hood": "Mac-Groveland (St. Paul)",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 44.9274776,
+   "lng": -93.1871507,
+   "pr": 4,
+   "lists": [
+    [
+     "jbeard",
+     null
+    ],
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "tasting"
+  },
+  {
+   "name": "Bar Brava",
+   "hood": "North Loop",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 44.9986768,
+   "lng": -93.2814959,
+   "pr": 3,
+   "lists": [
+    [
+     "jbeard",
+     null
+    ],
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Mucci's Italian",
+   "hood": "West 7th (St. Paul)",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 44.9267041,
+   "lng": -93.1332858,
+   "pr": 2,
+   "lists": [
+    [
+     "jbeard",
+     null
+    ],
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "All Saints",
+   "hood": "Northeast",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 44.9877324,
+   "lng": -93.2566906,
+   "pr": 3,
+   "lists": [
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "Dario",
+   "hood": "North Loop",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 44.9840329,
+   "lng": -93.2746547,
+   "pr": 4,
+   "lists": [
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Gai Noi",
+   "hood": "Loring Park",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 44.9715939,
+   "lng": -93.2854583,
+   "pr": 2,
+   "lists": [
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian",
+   "lu": 1
+  },
+  {
+   "name": "Nightingale",
+   "hood": "Lyn-Lake",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 44.9557989,
+   "lng": -93.2877577,
+   "pr": 3,
+   "lists": [
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty"
+  },
+  {
+   "name": "Oro by Nixta",
+   "hood": "Northeast",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 45.0006201,
+   "lng": -93.2663604,
+   "pr": 3,
+   "lists": [
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "P.S. Steak",
+   "hood": "Loring Park",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 44.9672061,
+   "lng": -93.2873041,
+   "pr": 4,
+   "lists": [
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Pizzeria Lola",
+   "hood": "Southwest",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 44.9018155,
+   "lng": -93.31861,
+   "pr": 2,
+   "lists": [
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "specialty",
+   "lu": 1
+  },
+  {
+   "name": "Jax Cafe",
+   "hood": "Northeast",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 45.008369,
+   "lng": -93.2634162,
+   "pr": 3,
+   "lists": [
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Moscow on the Hill",
+   "hood": "Cathedral Hill (St. Paul)",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 44.9467726,
+   "lng": -93.115596,
+   "pr": 2,
+   "lists": [
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Rosalia",
+   "hood": "Linden Hills",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 44.9242529,
+   "lng": -93.3153307,
+   "pr": 2,
+   "lists": [
+    [
+     "msp50",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  }
+ ],
+ "bars": [
+  {
+   "name": "Flora Room",
+   "hood": "North Loop",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9856966,
+   "lng": -93.2689377,
+   "lists": [
+    [
+     "exploremn",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Hai Hai",
+   "hood": "Northeast",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.0098536,
+   "lng": -93.2628979,
+   "lists": [
+    [
+     "exploremn",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Little Tijuana",
+   "hood": "Whittier",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9553365,
+   "lng": -93.2771246,
+   "lists": [
+    [
+     "exploremn",
+     null
+    ],
+    [
+     "strib",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Meteor",
+   "hood": "North Minneapolis",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.0001309,
+   "lng": -93.2805087,
+   "lists": [
+    [
+     "exploremn",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Monte Carlo",
+   "hood": "Warehouse District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9847424,
+   "lng": -93.271741,
+   "lists": [
+    [
+     "exploremn",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Young Joni Back Bar",
+   "hood": "Northeast",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.0010473,
+   "lng": -93.266725,
+   "lists": [
+    [
+     "exploremn",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Emerald Lounge",
+   "hood": "West 7th (St. Paul)",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9382999,
+   "lng": -93.1115132,
+   "lists": [
+    [
+     "exploremn",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Mancini's Char House",
+   "hood": "West 7th (St. Paul)",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9368623,
+   "lng": -93.1137291,
+   "lists": [
+    [
+     "exploremn",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "W.A. Frost & Company",
+   "hood": "Cathedral Hill (St. Paul)",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9464222,
+   "lng": -93.1158388,
+   "lists": [
+    [
+     "exploremn",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Dampfwerk Distilling",
+   "hood": "St. Louis Park",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9332601,
+   "lng": -93.3605464,
+   "lists": [
+    [
+     "exploremn",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Skaalvenn Distillery",
+   "hood": "Brooklyn Park",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.0871127,
+   "lng": -93.3910216,
+   "lists": [
+    [
+     "exploremn",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Billy After Dark",
+   "hood": "North Loop",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9842253,
+   "lng": -93.2687536,
+   "lists": [
+    [
+     "strib",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Bronto Bar",
+   "hood": "Uptown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.946926,
+   "lng": -93.2989132,
+   "lists": [
+    [
+     "strib",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Fool Me Once",
+   "hood": "Lyn-Lake",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 44.9480097,
+   "lng": -93.2883981,
+   "lists": [
+    [
+     "strib",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "King Coil Spirits",
+   "hood": "Midway (St. Paul)",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.958227,
+   "lng": -93.1906935,
+   "lists": [
+    [
+     "strib",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Milly's Wine Bar",
+   "hood": "Downtown",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 44.9746979,
+   "lng": -93.2522088,
+   "lists": [
+    [
+     "strib",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Porzana",
+   "hood": "North Loop",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9855715,
+   "lng": -93.269024,
+   "lists": [
+    [
+     "strib",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Public Domain",
+   "hood": "North Loop",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9831445,
+   "lng": -93.2712525,
+   "lists": [
+    [
+     "strib",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  }
+ ],
+ "rlists": {
+  "mspHOF": {
+   "cls": "plate r-mspHOF",
+   "mono": "HOF",
+   "tag": "MSP MAG",
+   "name": "Mpls.St.Paul Magazine Restaurant Hall of Fame",
+   "year": "2026",
+   "ranked": false,
+   "starChip": true
+  },
+  "msp50": {
+   "cls": "plate r-msp50",
+   "mono": "MSP",
+   "tag": "MSP MAG",
+   "name": "Mpls.St.Paul Magazine's 50 Best Restaurants",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "jbeard": {
+   "cls": "plate r-tcjbeard",
+   "mono": "JB",
+   "tag": "BEARD",
+   "name": "James Beard Award Semifinalists — Twin Cities",
+   "year": "2025",
+   "ranked": false,
+   "starChip": true
+  }
+ },
+ "blists": {
+  "exploremn": {
+   "cls": "b-exploremn",
+   "mono": "EMN",
+   "tag": "EXPLORE MN",
+   "name": "Explore Minnesota's Best Cocktail Bars",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "strib": {
+   "cls": "b-strib",
+   "mono": "ST",
+   "tag": "STAR TRIBUNE",
+   "name": "Star Tribune's Best Bars",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  }
+ }
+}
