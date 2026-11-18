@@ -77,6 +77,10 @@
     [
      "beli",
      12
+    ],
+    [
+     "cntphl",
+     null
     ]
    ],
    "vb": "tasting",
@@ -123,6 +127,10 @@
     [
      "beli",
      3
+    ],
+    [
+     "cntphl",
+     null
     ]
    ],
    "vb": "datenight",
@@ -180,6 +188,10 @@
     [
      "infatlun",
      null
+    ],
+    [
+     "cntphl",
+     null
     ]
    ],
    "vb": "asian",
@@ -227,6 +239,10 @@
     [
      "infatlun",
      null
+    ],
+    [
+     "cntphl",
+     null
     ]
    ],
    "vb": "asian",
@@ -261,6 +277,10 @@
     [
      "beli",
      2
+    ],
+    [
+     "cntphl",
+     null
     ]
    ],
    "vb": "tasting",
@@ -325,6 +345,10 @@
     [
      "beli",
      11
+    ],
+    [
+     "cntphl",
+     null
     ]
    ],
    "vb": "oldguard",
@@ -625,6 +649,10 @@
     [
      "beli",
      24
+    ],
+    [
+     "cntphl",
+     null
     ]
    ],
    "vb": "cheesesteak",
@@ -822,6 +850,10 @@
     [
      "jbphl",
      null
+    ],
+    [
+     "cntphl",
+     null
     ]
    ],
    "vb": "global",
@@ -854,6 +886,10 @@
     ],
     [
      "nyt50phl",
+     null
+    ],
+    [
+     "cntphl",
      null
     ]
    ],
@@ -967,6 +1003,10 @@
     [
      "beli",
      23
+    ],
+    [
+     "cntphl",
+     null
     ]
    ],
    "vb": "global",
@@ -1058,6 +1098,10 @@
     ],
     [
      "nytphl",
+     null
+    ],
+    [
+     "cntphl",
      null
     ]
    ],
@@ -1593,6 +1637,10 @@
     [
      "eater38phl",
      null
+    ],
+    [
+     "cntphl",
+     null
     ]
    ],
    "vb": "global",
@@ -1741,6 +1789,10 @@
     [
      "beli",
      17
+    ],
+    [
+     "cntphl",
+     null
     ]
    ],
    "vb": "datenight",
@@ -1831,6 +1883,10 @@
     [
      "beli",
      19
+    ],
+    [
+     "cntphl",
+     null
     ]
    ],
    "vb": "italian",
@@ -1851,6 +1907,10 @@
     ],
     [
      "eater38phl",
+     null
+    ],
+    [
+     "cntphl",
      null
     ]
    ],
@@ -1874,6 +1934,10 @@
     [
      "beli",
      15
+    ],
+    [
+     "cntphl",
+     null
     ]
    ],
    "vb": "global",
@@ -1891,6 +1955,10 @@
    "lists": [
     [
      "nytphl",
+     null
+    ],
+    [
+     "cntphl",
      null
     ]
    ],
@@ -2020,6 +2088,10 @@
    "lists": [
     [
      "eater38phl",
+     null
+    ],
+    [
+     "cntphl",
      null
     ]
    ],
@@ -2189,6 +2261,10 @@
     [
      "pgsteakphl",
      2
+    ],
+    [
+     "cntphl",
+     null
     ]
    ],
    "vb": "cheesesteak",
@@ -2569,6 +2645,10 @@
     [
      "infatlun",
      null
+    ],
+    [
+     "cntphl",
+     null
     ]
    ],
    "dual": false,
@@ -2593,6 +2673,40 @@
    "vb": "quick",
    "lu": 1,
    "to": 1
+  },
+  {
+   "name": "Down North Pizza",
+   "hood": "Strawberry Mansion",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 39.9967524,
+   "lng": -75.1772174,
+   "pr": 2,
+   "lists": [
+    [
+     "cntphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "pizza"
+  },
+  {
+   "name": "Nam Phuong",
+   "hood": "South Philadelphia",
+   "type": "vietnamese",
+   "typekind": "cui",
+   "lat": 39.9365228,
+   "lng": -75.1618231,
+   "pr": 1,
+   "lists": [
+    [
+     "cntphl",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
   }
  ],
  "bars": [
@@ -3901,6 +4015,15 @@
    "mono": "LUNCH",
    "tag": "INFAT LUNCH",
    "name": "The Infatuation's Best Lunch in Philadelphia",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "cntphl": {
+   "cls": "plate r-cntphl",
+   "mono": "CN",
+   "tag": "CNTRAV",
+   "name": "Condé Nast Traveler: 22 Best Restaurants in Philadelphia",
    "year": "2025",
    "ranked": false,
    "starChip": false

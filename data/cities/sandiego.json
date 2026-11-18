@@ -20,6 +20,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "cntsd",
+     null
     ]
    ],
    "dual": false,
@@ -62,6 +66,10 @@
     [
      "michelin",
      null
+    ],
+    [
+     "cntsd",
+     null
     ]
    ],
    "dual": false,
@@ -90,6 +98,10 @@
     ],
     [
      "eatersd",
+     null
+    ],
+    [
+     "cntsd",
      null
     ]
    ],
@@ -183,6 +195,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "cntsd",
+     null
     ]
    ],
    "dual": false,
@@ -247,6 +263,10 @@
     [
      "bib",
      null
+    ],
+    [
+     "cntsd",
+     null
     ]
    ],
    "dual": false,
@@ -280,6 +300,10 @@
    "lists": [
     [
      "bib",
+     null
+    ],
+    [
+     "cntsd",
      null
     ]
    ],
@@ -360,6 +384,10 @@
     [
      "eatersd",
      null
+    ],
+    [
+     "cntsd",
+     null
     ]
    ],
    "dual": false,
@@ -376,6 +404,10 @@
    "lists": [
     [
      "sdmag",
+     null
+    ],
+    [
+     "cntsd",
      null
     ]
    ],
@@ -419,6 +451,10 @@
     [
      "eatersd",
      null
+    ],
+    [
+     "cntsd",
+     null
     ]
    ],
    "dual": false,
@@ -456,6 +492,10 @@
     ],
     [
      "eatersd",
+     null
+    ],
+    [
+     "cntsd",
      null
     ]
    ],
@@ -509,6 +549,10 @@
     [
      "sdmag",
      null
+    ],
+    [
+     "cntsd",
+     null
     ]
    ],
    "dual": false,
@@ -546,6 +590,10 @@
    "lists": [
     [
      "sdmag",
+     null
+    ],
+    [
+     "cntsd",
      null
     ]
    ],
@@ -606,6 +654,10 @@
    "lists": [
     [
      "infat",
+     null
+    ],
+    [
+     "cntsd",
      null
     ]
    ],
@@ -822,6 +874,10 @@
     [
      "eatersd",
      null
+    ],
+    [
+     "cntsd",
+     null
     ]
    ],
    "dual": false,
@@ -941,6 +997,10 @@
     [
      "eatersd",
      null
+    ],
+    [
+     "cntsd",
+     null
     ]
    ],
    "dual": false,
@@ -991,6 +1051,10 @@
    "lists": [
     [
      "eatersd",
+     null
+    ],
+    [
+     "cntsd",
      null
     ]
    ],
@@ -1076,6 +1140,10 @@
    "lists": [
     [
      "eatersd",
+     null
+    ],
+    [
+     "cntsd",
      null
     ]
    ],
@@ -1195,6 +1263,129 @@
    "lists": [
     [
      "eatersd",
+     null
+    ],
+    [
+     "cntsd",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Rare Society",
+   "hood": "University Heights",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 32.7531093,
+   "lng": -117.1466702,
+   "pr": 4,
+   "lists": [
+    [
+     "cntsd",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Campfire",
+   "hood": "Carlsbad",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 33.1620178,
+   "lng": -117.3510571,
+   "pr": 3,
+   "lists": [
+    [
+     "cntsd",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Shawarma Guys",
+   "hood": "South Park",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 32.7266453,
+   "lng": -117.1300386,
+   "pr": 2,
+   "lists": [
+    [
+     "cntsd",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Izakaya Masa",
+   "hood": "Mission Hills",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 32.7512024,
+   "lng": -117.1719435,
+   "pr": 2,
+   "lists": [
+    [
+     "cntsd",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Monello",
+   "hood": "Little Italy",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 32.7244439,
+   "lng": -117.1690971,
+   "pr": 2,
+   "lists": [
+    [
+     "cntsd",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Las Cuatros Milpas",
+   "hood": "Barrio Logan",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 32.6996341,
+   "lng": -117.1451038,
+   "pr": 1,
+   "lists": [
+    [
+     "cntsd",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Sushi Ota",
+   "hood": "Pacific Beach",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 32.8034896,
+   "lng": -117.2164306,
+   "pr": 3,
+   "lists": [
+    [
+     "cntsd",
      null
     ]
    ],
@@ -2116,6 +2307,15 @@
    "tag": "EATER 38",
    "name": "Eater San Diego's 38 Best Restaurants",
    "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "cntsd": {
+   "cls": "plate r-cntsd",
+   "mono": "CN",
+   "tag": "CNTRAV",
+   "name": "Condé Nast Traveler: The 25 Best Restaurants in San Diego",
+   "year": "2024",
    "ranked": false,
    "starChip": false
   }

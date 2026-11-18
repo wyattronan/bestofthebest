@@ -116,6 +116,10 @@
     [
      "infatlun",
      null
+    ],
+    [
+     "cntdal",
+     null
     ]
    ],
    "vb": "datenight",
@@ -179,6 +183,10 @@
     ],
     [
      "infatlun",
+     null
+    ],
+    [
+     "cntdal",
      null
     ]
    ],
@@ -959,6 +967,10 @@
     [
      "eaterdal",
      null
+    ],
+    [
+     "cntdal",
+     null
     ]
    ],
    "vb": "datenight",
@@ -1493,6 +1505,10 @@
     [
      "eaterdal",
      null
+    ],
+    [
+     "cntdal",
+     null
     ]
    ],
    "vb": "asian",
@@ -1656,6 +1672,10 @@
     [
      "infatlun",
      null
+    ],
+    [
+     "cntdal",
+     null
     ]
    ],
    "dual": false,
@@ -1698,6 +1718,227 @@
    "dual": false,
    "vb": "datenight",
    "lu": 1
+  },
+  {
+   "name": "Al Biernat's",
+   "hood": "Oak Lawn",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 32.8203061,
+   "lng": -96.8026735,
+   "pr": 4,
+   "lists": [
+    [
+     "cntdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Town Hearth",
+   "hood": "Design District",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 32.7923379,
+   "lng": -96.8221426,
+   "pr": 4,
+   "lists": [
+    [
+     "cntdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Uchi Dallas",
+   "hood": "Oak Lawn",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 32.7968652,
+   "lng": -96.8065259,
+   "pr": 4,
+   "lists": [
+    [
+     "cntdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Mia's Tex-Mex",
+   "hood": "Love Field",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 32.8179709,
+   "lng": -96.812025,
+   "pr": 2,
+   "lists": [
+    [
+     "cntdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Rise No. 1",
+   "hood": "Lovers Lane",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 32.8502004,
+   "lng": -96.8201974,
+   "pr": 2,
+   "lists": [
+    [
+     "cntdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Tei-An",
+   "hood": "Arts District",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 32.792057,
+   "lng": -96.7955047,
+   "pr": 4,
+   "lists": [
+    [
+     "cntdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Petra and the Beast",
+   "hood": "East Dallas",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 32.8129772,
+   "lng": -96.7519103,
+   "pr": 3,
+   "lists": [
+    [
+     "cntdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Neighborhood Services",
+   "hood": "Oak Lawn",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 32.8150283,
+   "lng": -96.8018189,
+   "pr": 2,
+   "lists": [
+    [
+     "cntdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Jimmy's Food Store",
+   "hood": "East Dallas",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 32.8040037,
+   "lng": -96.7735891,
+   "pr": 2,
+   "lists": [
+    [
+     "cntdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Fearing's",
+   "hood": "Uptown",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 32.792157,
+   "lng": -96.803528,
+   "pr": 4,
+   "lists": [
+    [
+     "cntdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Âme",
+   "hood": "Bishop Arts",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 32.7488472,
+   "lng": -96.8281841,
+   "pr": 3,
+   "lists": [
+    [
+     "cntdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Pecan Lodge",
+   "hood": "Deep Ellum",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 32.7836494,
+   "lng": -96.7838379,
+   "pr": 2,
+   "lists": [
+    [
+     "cntdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "bbq"
+  },
+  {
+   "name": "Desert Racer",
+   "hood": "Lowest Greenville",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 32.8098349,
+   "lng": -96.7699631,
+   "pr": 2,
+   "lists": [
+    [
+     "cntdal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
   }
  ],
  "bars": [
@@ -3556,6 +3797,15 @@
    "tag": "INFAT LUNCH",
    "name": "The Infatuation's Casual Lunch in Dallas",
    "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "cntdal": {
+   "cls": "plate r-cntdal",
+   "mono": "CN",
+   "tag": "CNTRAV",
+   "name": "Condé Nast Traveler: 20 Best Restaurants in Dallas",
+   "year": "2021",
    "ranked": false,
    "starChip": false
   }

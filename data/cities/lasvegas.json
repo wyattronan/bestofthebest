@@ -16,6 +16,10 @@
     [
      "eaterlv",
      null
+    ],
+    [
+     "cntlv",
+     null
     ]
    ],
    "dual": false,
@@ -65,6 +69,10 @@
     ],
     [
      "infat",
+     null
+    ],
+    [
+     "cntlv",
      null
     ]
    ],
@@ -191,6 +199,10 @@
     [
      "rj100",
      null
+    ],
+    [
+     "cntlv",
+     null
     ]
    ],
    "dual": false,
@@ -234,6 +246,10 @@
     [
      "eaterlv",
      null
+    ],
+    [
+     "cntlv",
+     null
     ]
    ],
    "dual": false,
@@ -271,6 +287,10 @@
     ],
     [
      "eaterlv",
+     null
+    ],
+    [
+     "cntlv",
      null
     ]
    ],
@@ -526,6 +546,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "cntlv",
+     null
     ]
    ],
    "dual": false,
@@ -559,6 +583,10 @@
    "lists": [
     [
      "infat",
+     null
+    ],
+    [
+     "cntlv",
      null
     ]
    ],
@@ -666,6 +694,10 @@
     [
      "eaterlv",
      null
+    ],
+    [
+     "cntlv",
+     null
     ]
    ],
    "dual": false,
@@ -717,6 +749,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "cntlv",
+     null
     ]
    ],
    "dual": false,
@@ -733,6 +769,10 @@
    "lists": [
     [
      "infat",
+     null
+    ],
+    [
+     "cntlv",
      null
     ]
    ],
@@ -772,6 +812,10 @@
     [
      "eaterlv",
      null
+    ],
+    [
+     "cntlv",
+     null
     ]
    ],
    "dual": false,
@@ -805,6 +849,10 @@
    "lists": [
     [
      "infat",
+     null
+    ],
+    [
+     "cntlv",
      null
     ]
    ],
@@ -857,6 +905,10 @@
     [
      "eaterlv",
      null
+    ],
+    [
+     "cntlv",
+     null
     ]
    ],
    "dual": false,
@@ -873,6 +925,10 @@
    "lists": [
     [
      "eaterlv",
+     null
+    ],
+    [
+     "cntlv",
      null
     ]
    ],
@@ -908,6 +964,10 @@
     [
      "eaterlv",
      null
+    ],
+    [
+     "cntlv",
+     null
     ]
    ],
    "dual": false,
@@ -924,6 +984,10 @@
    "lists": [
     [
      "eaterlv",
+     null
+    ],
+    [
+     "cntlv",
      null
     ]
    ],
@@ -1129,6 +1193,10 @@
     [
      "eaterlv",
      null
+    ],
+    [
+     "cntlv",
+     null
     ]
    ],
    "dual": false,
@@ -1214,6 +1282,10 @@
     [
      "eaterlv",
      null
+    ],
+    [
+     "cntlv",
+     null
     ]
    ],
    "dual": false,
@@ -1248,6 +1320,10 @@
     [
      "eaterlv",
      null
+    ],
+    [
+     "cntlv",
+     null
     ]
    ],
    "dual": false,
@@ -1264,6 +1340,10 @@
    "lists": [
     [
      "eaterlv",
+     null
+    ],
+    [
+     "cntlv",
      null
     ]
    ],
@@ -1316,6 +1396,10 @@
     [
      "eaterlv",
      null
+    ],
+    [
+     "cntlv",
+     null
     ]
    ],
    "dual": false,
@@ -1337,6 +1421,125 @@
    ],
    "dual": false,
    "vb": "specialty"
+  },
+  {
+   "name": "Cote Vegas",
+   "hood": "The Strip",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 36.1234771,
+   "lng": -115.1691178,
+   "pr": 4,
+   "lists": [
+    [
+     "cntlv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Barry's Downtown Prime",
+   "hood": "Downtown",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 36.171837,
+   "lng": -115.1458384,
+   "pr": 4,
+   "lists": [
+    [
+     "cntlv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Mizumi",
+   "hood": "The Strip",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 36.1268688,
+   "lng": -115.1673791,
+   "pr": 4,
+   "lists": [
+    [
+     "cntlv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Cipriani Las Vegas",
+   "hood": "The Strip",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 36.1280209,
+   "lng": -115.1670598,
+   "pr": 4,
+   "lists": [
+    [
+     "cntlv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Mott 32 Las Vegas",
+   "hood": "The Strip",
+   "type": "chinese",
+   "typekind": "cui",
+   "lat": 36.1248147,
+   "lng": -115.1679724,
+   "pr": 4,
+   "lists": [
+    [
+     "cntlv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Kabuto",
+   "hood": "Chinatown",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 36.1265528,
+   "lng": -115.2099389,
+   "pr": 4,
+   "lists": [
+    [
+     "cntlv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Estiatorio Milos",
+   "hood": "The Strip",
+   "type": "greek",
+   "typekind": "cui",
+   "lat": 36.1228765,
+   "lng": -115.168923,
+   "pr": 4,
+   "lists": [
+    [
+     "cntlv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
   }
  ],
  "bars": [
@@ -1992,6 +2195,15 @@
    "mono": "E38",
    "tag": "EATER 38",
    "name": "Eater Las Vegas's 38 Best Restaurants",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "cntlv": {
+   "cls": "plate r-cntlv",
+   "mono": "CN",
+   "tag": "CNTRAV",
+   "name": "Condé Nast Traveler: Las Vegas' Food Scene Is All Grown Up—Here Are Its 29 Best Restaurants",
    "year": "2026",
    "ranked": false,
    "starChip": false

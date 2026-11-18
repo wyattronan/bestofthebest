@@ -289,6 +289,10 @@
     [
      "michaus",
      null
+    ],
+    [
+     "cntaus",
+     null
     ]
    ],
    "vb": "datenight",
@@ -424,6 +428,10 @@
     [
      "nytaus",
      null
+    ],
+    [
+     "cntaus",
+     null
     ]
    ],
    "vb": "datenight",
@@ -456,6 +464,10 @@
     ],
     [
      "nytaus",
+     null
+    ],
+    [
+     "cntaus",
      null
     ]
    ],
@@ -506,6 +518,10 @@
     [
      "austinmo",
      9
+    ],
+    [
+     "cntaus",
+     null
     ]
    ],
    "vb": "bbq",
@@ -595,6 +611,10 @@
     [
      "fwgt",
      3
+    ],
+    [
+     "cntaus",
+     null
     ]
    ],
    "vb": "global",
@@ -702,6 +722,10 @@
     [
      "austinmo",
      1
+    ],
+    [
+     "cntaus",
+     null
     ]
    ],
    "vb": "datenight",
@@ -718,6 +742,10 @@
    "lists": [
     [
      "eater38aus",
+     null
+    ],
+    [
+     "cntaus",
      null
     ]
    ],
@@ -898,6 +926,10 @@
     [
      "infataus",
      null
+    ],
+    [
+     "cntaus",
+     null
     ]
    ],
    "vb": "asian",
@@ -986,6 +1018,10 @@
     ],
     [
      "nytaus",
+     null
+    ],
+    [
+     "cntaus",
      null
     ]
    ],
@@ -1093,6 +1129,10 @@
     ],
     [
      "nytaus",
+     null
+    ],
+    [
+     "cntaus",
      null
     ]
    ],
@@ -1451,6 +1491,10 @@
     [
      "austinmo",
      12
+    ],
+    [
+     "cntaus",
+     null
     ]
    ],
    "vb": "tasting",
@@ -1843,6 +1887,10 @@
     [
      "austinmo",
      11
+    ],
+    [
+     "cntaus",
+     null
     ]
    ],
    "vb": "datenight",
@@ -1877,6 +1925,10 @@
     [
      "austinmo",
      14
+    ],
+    [
+     "cntaus",
+     null
     ]
    ],
    "vb": "datenight",
@@ -1915,6 +1967,10 @@
     ],
     [
      "nytaus",
+     null
+    ],
+    [
+     "cntaus",
      null
     ]
    ],
@@ -2029,6 +2085,10 @@
     [
      "nytaus",
      null
+    ],
+    [
+     "cntaus",
+     null
     ]
    ],
    "vb": "datenight",
@@ -2135,6 +2195,10 @@
    "lists": [
     [
      "infatlun",
+     null
+    ],
+    [
+     "cntaus",
      null
     ]
    ],
@@ -2327,6 +2391,108 @@
    "dual": false,
    "vb": "brunch",
    "lu": 1
+  },
+  {
+   "name": "Bureau de Poste",
+   "hood": "Hyde Park",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 30.3068506,
+   "lng": -97.7301113,
+   "pr": 2,
+   "lists": [
+    [
+     "cntaus",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Clark's Oyster Bar",
+   "hood": "Clarksville",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 30.2729938,
+   "lng": -97.7571715,
+   "pr": 3,
+   "lists": [
+    [
+     "cntaus",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Elizabeth Street Café",
+   "hood": "Bouldin Creek",
+   "type": "vietnamese",
+   "typekind": "cui",
+   "lat": 30.2498048,
+   "lng": -97.7546787,
+   "pr": 2,
+   "lists": [
+    [
+     "cntaus",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Guero's Taco Bar",
+   "hood": "South Congress",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 30.2491468,
+   "lng": -97.7502857,
+   "pr": 2,
+   "lists": [
+    [
+     "cntaus",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Lenoir",
+   "hood": "Bouldin Creek",
+   "type": "wine",
+   "typekind": "cui",
+   "lat": 30.2469938,
+   "lng": -97.7558701,
+   "pr": 3,
+   "lists": [
+    [
+     "cntaus",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Comedor",
+   "hood": "Downtown",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 30.2675993,
+   "lng": -97.744164,
+   "pr": 3,
+   "lists": [
+    [
+     "cntaus",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
   }
  ],
  "bars": [
@@ -3916,6 +4082,15 @@
    "mono": "LUNCH",
    "tag": "OPENTABLE",
    "name": "OpenTable's Best Lunch in Austin",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "cntaus": {
+   "cls": "plate r-cntaus",
+   "mono": "CN",
+   "tag": "CNTRAV",
+   "name": "Condé Nast Traveler: The 22 Best Restaurants in Austin",
    "year": "2025",
    "ranked": false,
    "starChip": false

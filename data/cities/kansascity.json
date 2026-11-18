@@ -16,6 +16,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "eaterkc",
+     null
     ]
    ],
    "dual": false,
@@ -59,6 +63,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "eaterkc",
+     null
     ]
    ],
    "dual": false,
@@ -101,6 +109,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "eaterkc",
+     null
     ]
    ],
    "dual": false,
@@ -122,6 +134,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "eaterkc",
+     null
     ]
    ],
    "dual": false,
@@ -142,6 +158,10 @@
     ],
     [
      "infat",
+     null
+    ],
+    [
+     "eaterkc",
      null
     ]
    ],
@@ -186,6 +206,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "eaterkc",
+     null
     ]
    ],
    "dual": false,
@@ -207,6 +231,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "eaterkc",
+     null
     ]
    ],
    "dual": false,
@@ -227,6 +255,10 @@
     ],
     [
      "infat",
+     null
+    ],
+    [
+     "eaterkc",
      null
     ]
    ],
@@ -284,6 +316,10 @@
     [
      "kcmag30",
      null
+    ],
+    [
+     "eaterkc",
+     null
     ]
    ],
    "dual": false,
@@ -300,6 +336,10 @@
    "lists": [
     [
      "kcmag30",
+     null
+    ],
+    [
+     "eaterkc",
      null
     ]
    ],
@@ -319,6 +359,10 @@
    "lists": [
     [
      "kcmag30",
+     null
+    ],
+    [
+     "eaterkc",
      null
     ]
    ],
@@ -513,6 +557,329 @@
    ],
    "dual": false,
    "vb": "italian"
+  },
+  {
+   "name": "The Italian Sausage Company",
+   "hood": "River Market",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 39.1080733,
+   "lng": -94.580485,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "In-A-Tub",
+   "hood": "Northland",
+   "type": "quick",
+   "typekind": "cui",
+   "lat": 39.1670799,
+   "lng": -94.5770285,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "El Pollo Guasave",
+   "hood": "Kansas City KS",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 39.1054006,
+   "lng": -94.64723,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Golden Ox",
+   "hood": "West Bottoms",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 39.0942494,
+   "lng": -94.6050562,
+   "pr": 3,
+   "lists": [
+    [
+     "eaterkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Mildred's",
+   "hood": "Crossroads",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 39.0908134,
+   "lng": -94.5858474,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Corvino Supper Club",
+   "hood": "Crossroads",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 39.0906005,
+   "lng": -94.5828221,
+   "pr": 3,
+   "lists": [
+    [
+     "eaterkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Novel",
+   "hood": "Crossroads",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 39.089123,
+   "lng": -94.579935,
+   "pr": 3,
+   "lists": [
+    [
+     "eaterkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Town Topic",
+   "hood": "Crossroads",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 39.0884514,
+   "lng": -94.5888061,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Carniceria y Tortilleria San Antonio",
+   "hood": "Kansas City KS",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 39.0875576,
+   "lng": -94.6311939,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Kitty's Cafe",
+   "hood": "Midtown",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 39.0707596,
+   "lng": -94.5747704,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "deli"
+  },
+  {
+   "name": "M & M Bakery & Delicatessen",
+   "hood": "Midtown",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 39.070034,
+   "lng": -94.562247,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "deli"
+  },
+  {
+   "name": "The Russell",
+   "hood": "Midtown",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 39.069346,
+   "lng": -94.5850409,
+   "pr": 2,
+   "lists": [
+    [
+     "eaterkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Gates Bar-B-Q",
+   "hood": "East KC",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 39.0984413,
+   "lng": -94.5557784,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "bbq"
+  },
+  {
+   "name": "Joe's Kansas City Bar-B-Que",
+   "hood": "Kansas City KS",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 39.0444482,
+   "lng": -94.6207405,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "bbq"
+  },
+  {
+   "name": "The Peanut",
+   "hood": "Downtown",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 39.1038889,
+   "lng": -94.5891667,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "High Hopes Ice Cream",
+   "hood": "Troost",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 39.025808,
+   "lng": -94.5741201,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Baba's Pantry",
+   "hood": "63rd Street",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 39.0130562,
+   "lng": -94.5751378,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Harp Barbecue",
+   "hood": "Overland Park",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 38.8841956,
+   "lng": -94.7251494,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "bbq"
+  },
+  {
+   "name": "Buck Tui BBQ",
+   "hood": "Overland Park",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 38.9924906,
+   "lng": -94.6640608,
+   "pr": 2,
+   "lists": [
+    [
+     "eaterkc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "bbq"
   }
  ],
  "bars": [
@@ -1220,6 +1587,15 @@
    "mono": "IN",
    "tag": "INFAT",
    "name": "The Infatuation's Best Restaurants in Kansas City",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "eaterkc": {
+   "cls": "plate r-eaterkc",
+   "mono": "EAT",
+   "tag": "EATER",
+   "name": "Eater: The 33 Best Restaurants in Kansas City",
    "year": "2025",
    "ranked": false,
    "starChip": false

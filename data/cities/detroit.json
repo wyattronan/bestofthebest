@@ -46,6 +46,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "eaterdet",
+     null
     ]
    ],
    "dual": false,
@@ -118,6 +122,10 @@
     [
      "tastingtable",
      null
+    ],
+    [
+     "eaterdet",
+     null
     ]
    ],
    "dual": false,
@@ -138,6 +146,10 @@
     ],
     [
      "tastingtable",
+     null
+    ],
+    [
+     "eaterdet",
      null
     ]
    ],
@@ -172,6 +184,10 @@
    "lists": [
     [
      "infat",
+     null
+    ],
+    [
+     "eaterdet",
      null
     ]
    ],
@@ -224,6 +240,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "eaterdet",
+     null
     ]
    ],
    "dual": false,
@@ -241,6 +261,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "eaterdet",
+     null
     ]
    ],
    "dual": false,
@@ -257,6 +281,10 @@
    "lists": [
     [
      "infat",
+     null
+    ],
+    [
+     "eaterdet",
      null
     ]
    ],
@@ -279,6 +307,10 @@
     [
      "tastingtable",
      null
+    ],
+    [
+     "eaterdet",
+     null
     ]
    ],
    "dual": false,
@@ -299,6 +331,10 @@
     ],
     [
      "tastingtable",
+     null
+    ],
+    [
+     "eaterdet",
      null
     ]
    ],
@@ -334,6 +370,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "eaterdet",
+     null
     ]
    ],
    "dual": false,
@@ -368,6 +408,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "eaterdet",
+     null
     ]
    ],
    "dual": false,
@@ -384,6 +428,10 @@
    "lists": [
     [
      "infat",
+     null
+    ],
+    [
+     "eaterdet",
      null
     ]
    ],
@@ -418,6 +466,10 @@
    "lists": [
     [
      "infat",
+     null
+    ],
+    [
+     "eaterdet",
      null
     ]
    ],
@@ -504,6 +556,10 @@
     [
      "tastingtable",
      null
+    ],
+    [
+     "eaterdet",
+     null
     ]
    ],
    "dual": false,
@@ -576,6 +632,397 @@
    ],
    "dual": false,
    "vb": "datenight"
+  },
+  {
+   "name": "Sweet Potato Sensations",
+   "hood": "Old Redford",
+   "type": "soul",
+   "typekind": "cui",
+   "lat": 42.417207,
+   "lng": -83.2580109,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Casa Amado Taqueria",
+   "hood": "Berkley",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 42.497104,
+   "lng": -83.1839584,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Dearborn Meat Market",
+   "hood": "Dearborn",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 42.3488385,
+   "lng": -83.1773579,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Hamido",
+   "hood": "Dearborn",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 42.343823,
+   "lng": -83.174239,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Forest Bakery",
+   "hood": "Oak Park",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 42.460392,
+   "lng": -83.154475,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Noble Fish",
+   "hood": "Clawson",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 42.5337804,
+   "lng": -83.1451855,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Good Cakes and Bakes",
+   "hood": "Avenue of Fashion",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 42.4345017,
+   "lng": -83.141837,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "The Balkan House",
+   "hood": "Hamtramck",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 42.4001832,
+   "lng": -83.0582238,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "El Barzon",
+   "hood": "Southwest Detroit",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 42.3307288,
+   "lng": -83.1108566,
+   "pr": 2,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Puma Detroit",
+   "hood": "Core City",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 42.3475163,
+   "lng": -83.0887204,
+   "pr": 2,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Takoi",
+   "hood": "Corktown",
+   "type": "thai",
+   "typekind": "cui",
+   "lat": 42.3316844,
+   "lng": -83.0808338,
+   "pr": 2,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Tamaleria Nuevo Leon",
+   "hood": "Mexicantown",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 42.3263276,
+   "lng": -83.0799939,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Alba",
+   "hood": "Corktown",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 42.3316117,
+   "lng": -83.0757531,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Shangri-La",
+   "hood": "Midtown",
+   "type": "chinese",
+   "typekind": "cui",
+   "lat": 42.354101,
+   "lng": -83.065292,
+   "pr": 2,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Alpino",
+   "hood": "Corktown",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 42.3299411,
+   "lng": -83.06511,
+   "pr": 2,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Mudgie's Deli and Bar",
+   "hood": "Corktown",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 42.3291584,
+   "lng": -83.0621777,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "deli"
+  },
+  {
+   "name": "Warda Pâtisserie",
+   "hood": "Midtown",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 42.3502485,
+   "lng": -83.061426,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Leña",
+   "hood": "Brush Park",
+   "type": "spanish",
+   "typekind": "cui",
+   "lat": 42.3444925,
+   "lng": -83.0502179,
+   "pr": 3,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "The Hudson Cafe",
+   "hood": "Downtown",
+   "type": "brunch",
+   "typekind": "cui",
+   "lat": 42.333418,
+   "lng": -83.0485035,
+   "pr": 2,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Paradise Street Eats - Food Truck",
+   "hood": "Downtown",
+   "type": "indian",
+   "typekind": "cui",
+   "lat": 42.3342069,
+   "lng": -83.0446663,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Mitsos Greek Food & Coffee",
+   "hood": "Eastern Market",
+   "type": "greek",
+   "typekind": "cui",
+   "lat": 42.3473905,
+   "lng": -83.0389486,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Louisiana Creole Gumbo",
+   "hood": "Eastern Market",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 42.3545888,
+   "lng": -83.0302939,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Coriander Kitchen and Farm",
+   "hood": "Jefferson-Chalmers",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 42.3596112,
+   "lng": -82.9322367,
+   "pr": 2,
+   "lists": [
+    [
+     "eaterdet",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
   }
  ],
  "bars": [
@@ -1352,6 +1799,15 @@
    "tag": "TASTING TABLE",
    "name": "Tasting Table's Best Restaurants in Metro Detroit",
    "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "eaterdet": {
+   "cls": "plate r-eaterdet",
+   "mono": "EAT",
+   "tag": "EATER",
+   "name": "Eater Detroit: The 38 Best Restaurants in Detroit (Summer 2025)",
+   "year": "2025",
    "ranked": false,
    "starChip": false
   }

@@ -104,6 +104,10 @@
     [
      "msp50",
      null
+    ],
+    [
+     "eatertc",
+     null
     ]
    ],
    "dual": false,
@@ -126,6 +130,14 @@
     ],
     [
      "msp50",
+     null
+    ],
+    [
+     "eatertc",
+     null
+    ],
+    [
+     "infattc",
      null
     ]
    ],
@@ -165,6 +177,10 @@
     [
      "msp50",
      null
+    ],
+    [
+     "eatertc",
+     null
     ]
    ],
    "dual": false,
@@ -186,6 +202,10 @@
     [
      "msp50",
      null
+    ],
+    [
+     "eatertc",
+     null
     ]
    ],
    "dual": false,
@@ -202,6 +222,10 @@
    "lists": [
     [
      "jbeard",
+     null
+    ],
+    [
+     "infattc",
      null
     ]
    ],
@@ -224,6 +248,10 @@
     [
      "msp50",
      null
+    ],
+    [
+     "eatertc",
+     null
     ]
    ],
    "dual": false,
@@ -244,6 +272,10 @@
     ],
     [
      "msp50",
+     null
+    ],
+    [
+     "eatertc",
      null
     ]
    ],
@@ -288,6 +320,10 @@
     [
      "msp50",
      null
+    ],
+    [
+     "eatertc",
+     null
     ]
    ],
    "dual": false,
@@ -330,6 +366,10 @@
     [
      "msp50",
      null
+    ],
+    [
+     "eatertc",
+     null
     ]
    ],
    "dual": false,
@@ -346,6 +386,10 @@
    "lists": [
     [
      "msp50",
+     null
+    ],
+    [
+     "eatertc",
      null
     ]
    ],
@@ -364,6 +408,10 @@
     [
      "msp50",
      null
+    ],
+    [
+     "infattc",
+     null
     ]
    ],
    "dual": false,
@@ -380,6 +428,10 @@
    "lists": [
     [
      "msp50",
+     null
+    ],
+    [
+     "eatertc",
      null
     ]
    ],
@@ -415,6 +467,14 @@
    "lists": [
     [
      "msp50",
+     null
+    ],
+    [
+     "eatertc",
+     null
+    ],
+    [
+     "infattc",
      null
     ]
    ],
@@ -506,6 +566,625 @@
    ],
    "dual": false,
    "vb": "italian"
+  },
+  {
+   "name": "Martina",
+   "hood": "Linden Hills",
+   "type": "argentinian",
+   "typekind": "cui",
+   "lat": 44.9241805,
+   "lng": -93.3149508,
+   "pr": 2,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ],
+    [
+     "infattc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Wendy's House of Soul",
+   "hood": "North Minneapolis",
+   "type": "soul",
+   "typekind": "cui",
+   "lat": 45.0357179,
+   "lng": -93.2980105,
+   "pr": 1,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Boludo",
+   "hood": "Downtown",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 44.9767162,
+   "lng": -93.262064,
+   "pr": 2,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "pizza"
+  },
+  {
+   "name": "Animales Barbeque Co.",
+   "hood": "North Loop",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 44.9796198,
+   "lng": -93.2961219,
+   "pr": 2,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "bbq"
+  },
+  {
+   "name": "Baba's Hummus House & Mana'eesh Bakery",
+   "hood": "Uptown",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 44.9602587,
+   "lng": -93.288418,
+   "pr": 1,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Quang Restaurant",
+   "hood": "Whittier",
+   "type": "vietnamese",
+   "typekind": "cui",
+   "lat": 44.9530649,
+   "lng": -93.2776908,
+   "pr": 1,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Manny's Steakhouse",
+   "hood": "Downtown",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 44.9743953,
+   "lng": -93.2720011,
+   "pr": 4,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ],
+    [
+     "infattc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Mama Safia's",
+   "hood": "Midtown",
+   "type": "african",
+   "typekind": "cui",
+   "lat": 44.9486338,
+   "lng": -93.2636293,
+   "pr": 1,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Marty's Deli",
+   "hood": "Northeast",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 45.0130498,
+   "lng": -93.2614198,
+   "pr": 1,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ],
+    [
+     "infattc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "deli"
+  },
+  {
+   "name": "Maria's Cafe",
+   "hood": "Ventura Village",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 44.9625934,
+   "lng": -93.2576648,
+   "pr": 1,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Kramarczuk Sausage Company",
+   "hood": "Northeast",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 44.9878093,
+   "lng": -93.2572948,
+   "pr": 1,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "deli"
+  },
+  {
+   "name": "Reverie Cafe + Bar",
+   "hood": "Powderhorn",
+   "type": "vegan",
+   "typekind": "cui",
+   "lat": 44.9393788,
+   "lng": -93.2526769,
+   "pr": 2,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "healthy"
+  },
+  {
+   "name": "Restaurant Alma",
+   "hood": "Marcy-Holmes",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 44.983884,
+   "lng": -93.248088,
+   "pr": 4,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ],
+    [
+     "infattc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Matt's Bar",
+   "hood": "Corcoran",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 44.9394256,
+   "lng": -93.2476485,
+   "pr": 1,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ],
+    [
+     "infattc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Chimborazo",
+   "hood": "Northeast",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 45.0202676,
+   "lng": -93.247114,
+   "pr": 2,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Al's Breakfast",
+   "hood": "Dinkytown",
+   "type": "brunch",
+   "typekind": "cui",
+   "lat": 44.9810593,
+   "lng": -93.2356508,
+   "pr": 1,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ],
+    [
+     "infattc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Estelle",
+   "hood": "Macalester-Groveland",
+   "type": "spanish",
+   "typekind": "cui",
+   "lat": 44.9341422,
+   "lng": -93.1767928,
+   "pr": 2,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "On's Kitchen",
+   "hood": "Union Park",
+   "type": "thai",
+   "typekind": "cui",
+   "lat": 44.9559,
+   "lng": -93.1684528,
+   "pr": 2,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Bole Ethiopian Cuisine",
+   "hood": "Hamline-Midway",
+   "type": "african",
+   "typekind": "cui",
+   "lat": 44.9817106,
+   "lng": -93.1620804,
+   "pr": 2,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Homi Restaurant",
+   "hood": "Frogtown",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 44.9555585,
+   "lng": -93.1367938,
+   "pr": 1,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Razava Bread Co.",
+   "hood": "Summit Hill",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 44.9400542,
+   "lng": -93.1289199,
+   "pr": 1,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Marc Heu Patisserie Paris",
+   "hood": "Cathedral Hill",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 44.9461579,
+   "lng": -93.1259438,
+   "pr": 2,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Cheng Heng Restaurant",
+   "hood": "Frogtown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 44.9555695,
+   "lng": -93.119343,
+   "pr": 1,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Cossetta",
+   "hood": "Downtown St Paul",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 44.9437566,
+   "lng": -93.1041582,
+   "pr": 1,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Meritage",
+   "hood": "Downtown St Paul",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 44.9463889,
+   "lng": -93.0966667,
+   "pr": 4,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "El Burrito Mercado",
+   "hood": "West Side",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 44.9298711,
+   "lng": -93.077473,
+   "pr": 1,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Owamni",
+   "hood": "Downtown",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 44.9781271,
+   "lng": -93.2559727,
+   "pr": 3,
+   "lists": [
+    [
+     "infattc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Tenant",
+   "hood": "Lynnhurst",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 44.9248967,
+   "lng": -93.2910222,
+   "pr": 4,
+   "lists": [
+    [
+     "infattc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Petite León",
+   "hood": "Kingfield",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 44.9339549,
+   "lng": -93.2782073,
+   "pr": 2,
+   "lists": [
+    [
+     "infattc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Zen Box Izakaya",
+   "hood": "Downtown",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 44.9783798,
+   "lng": -93.2596044,
+   "pr": 2,
+   "lists": [
+    [
+     "infattc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Pimento Jamaican Kitchen",
+   "hood": "Whittier",
+   "type": "caribbean",
+   "typekind": "cui",
+   "lat": 44.9564277,
+   "lng": -93.2781079,
+   "pr": 1,
+   "lists": [
+    [
+     "infattc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "The Bungalow Club",
+   "hood": "Longfellow",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 44.948605,
+   "lng": -93.211278,
+   "pr": 2,
+   "lists": [
+    [
+     "infattc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Afro Deli",
+   "hood": "Stadium Village",
+   "type": "african",
+   "typekind": "cui",
+   "lat": 44.9734748,
+   "lng": -93.2275565,
+   "pr": 1,
+   "lists": [
+    [
+     "infattc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Sebastian Joe's Ice Cream Cafe",
+   "hood": "Lowry Hill",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 44.9625584,
+   "lng": -93.2920818,
+   "pr": 1,
+   "lists": [
+    [
+     "infattc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Bebe Zito Ice Cream & Burgers",
+   "hood": "Uptown",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 44.9610366,
+   "lng": -93.2884531,
+   "pr": 2,
+   "lists": [
+    [
+     "infattc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
   }
  ],
  "bars": [
@@ -993,6 +1672,24 @@
    "year": "2025",
    "ranked": false,
    "starChip": true
+  },
+  "eatertc": {
+   "cls": "plate r-eatertc",
+   "mono": "EAT",
+   "tag": "EATER",
+   "name": "Eater Twin Cities: 38 Best Restaurants in Minneapolis and St. Paul",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "infattc": {
+   "cls": "plate r-infattc",
+   "mono": "IN",
+   "tag": "INFAT",
+   "name": "The Infatuation: The Best Restaurants In Minneapolis",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false
   }
  },
  "blists": {

@@ -20,6 +20,10 @@
     [
      "jbphx",
      null
+    ],
+    [
+     "cntphx",
+     null
     ]
    ],
    "vb": "datenight",
@@ -85,6 +89,10 @@
     [
      "azc100phx",
      null
+    ],
+    [
+     "cntphx",
+     null
     ]
    ],
    "vb": "specialty",
@@ -118,6 +126,10 @@
     ],
     [
      "azc100phx",
+     null
+    ],
+    [
+     "cntphx",
      null
     ]
    ],
@@ -237,6 +249,10 @@
     [
      "azc100phx",
      null
+    ],
+    [
+     "cntphx",
+     null
     ]
    ],
    "vb": "bbq",
@@ -328,6 +344,10 @@
     [
      "jbphx",
      null
+    ],
+    [
+     "cntphx",
+     null
     ]
    ],
    "vb": "datenight",
@@ -373,6 +393,10 @@
     ],
     [
      "jbphx",
+     null
+    ],
+    [
+     "cntphx",
      null
     ]
    ],
@@ -995,6 +1019,10 @@
     ],
     [
      "azc100phx",
+     null
+    ],
+    [
+     "cntphx",
      null
     ]
    ],
@@ -2340,6 +2368,10 @@
     [
      "jbphx",
      null
+    ],
+    [
+     "cntphx",
+     null
     ]
    ],
    "vb": "tasting",
@@ -3640,6 +3672,10 @@
     [
      "azc100phx",
      null
+    ],
+    [
+     "cntphx",
+     null
     ]
    ],
    "vb": "tasting",
@@ -3719,6 +3755,10 @@
     ],
     [
      "azc100phx",
+     null
+    ],
+    [
+     "cntphx",
      null
     ]
    ],
@@ -6487,6 +6527,15 @@
    "mono": "LUNCH",
    "tag": "OPENTABLE",
    "name": "OpenTable's Best Lunch in Phoenix & Scottsdale",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "cntphx": {
+   "cls": "plate r-cntphx",
+   "mono": "CN",
+   "tag": "CNTRAV",
+   "name": "Condé Nast Traveler: 10 Best Restaurants in Phoenix and Scottsdale",
    "year": "2025",
    "ranked": false,
    "starChip": false

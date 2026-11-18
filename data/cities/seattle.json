@@ -175,6 +175,10 @@
     [
      "beli",
      9
+    ],
+    [
+     "cntsea",
+     null
     ]
    ],
    "vb": "datenight",
@@ -301,6 +305,10 @@
     [
      "beli",
      22
+    ],
+    [
+     "cntsea",
+     null
     ]
    ],
    "vb": "asian",
@@ -384,6 +392,10 @@
     [
      "nytsea",
      null
+    ],
+    [
+     "cntsea",
+     null
     ]
    ],
    "vb": "datenight",
@@ -433,6 +445,10 @@
     ],
     [
      "nytsea",
+     null
+    ],
+    [
+     "cntsea",
      null
     ]
    ],
@@ -502,6 +518,10 @@
     [
      "infatsea",
      2
+    ],
+    [
+     "cntsea",
+     null
     ]
    ],
    "vb": "datenight",
@@ -686,6 +706,10 @@
     [
      "infatsea",
      5
+    ],
+    [
+     "cntsea",
+     null
     ]
    ],
    "vb": "asian",
@@ -1006,6 +1030,10 @@
     [
      "nytsea",
      null
+    ],
+    [
+     "cntsea",
+     null
     ]
    ],
    "vb": "datenight",
@@ -1101,6 +1129,10 @@
     ],
     [
      "nytsea",
+     null
+    ],
+    [
+     "cntsea",
      null
     ]
    ],
@@ -1215,6 +1247,10 @@
     [
      "beli",
      8
+    ],
+    [
+     "cntsea",
+     null
     ]
    ],
    "vb": "datenight",
@@ -1276,6 +1312,10 @@
    "lists": [
     [
      "seamet",
+     null
+    ],
+    [
+     "cntsea",
      null
     ]
    ],
@@ -1346,6 +1386,10 @@
     [
      "seamet",
      null
+    ],
+    [
+     "cntsea",
+     null
     ]
    ],
    "vb": "global",
@@ -1414,6 +1458,10 @@
     [
      "beli",
      7
+    ],
+    [
+     "cntsea",
+     null
     ]
    ],
    "vb": "global",
@@ -1449,6 +1497,10 @@
     [
      "seamet",
      null
+    ],
+    [
+     "cntsea",
+     null
     ]
    ],
    "vb": "specialty",
@@ -1466,6 +1518,10 @@
    "lists": [
     [
      "seamet",
+     null
+    ],
+    [
+     "cntsea",
      null
     ]
    ],
@@ -1588,6 +1644,10 @@
    "lists": [
     [
      "seamet",
+     null
+    ],
+    [
+     "cntsea",
      null
     ]
    ],
@@ -2337,6 +2397,74 @@
    "dual": false,
    "vb": "global",
    "lu": 1
+  },
+  {
+   "name": "Sushi Kappo Tamura",
+   "hood": "Eastlake",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 47.6485901,
+   "lng": -122.3232874,
+   "pr": 4,
+   "lists": [
+    [
+     "cntsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Lil Red Takeout and Catering",
+   "hood": "Columbia City",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 47.56485,
+   "lng": -122.288838,
+   "pr": 2,
+   "lists": [
+    [
+     "cntsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "bbq"
+  },
+  {
+   "name": "Reckless Noodle House and Cocktails",
+   "hood": "Central District",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 47.599105,
+   "lng": -122.299091,
+   "pr": 2,
+   "lists": [
+    [
+     "cntsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Carmelo's Tacos",
+   "hood": "Central District",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 47.6076753,
+   "lng": -122.3165692,
+   "pr": 1,
+   "lists": [
+    [
+     "cntsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
   }
  ],
  "bars": [
@@ -4119,6 +4247,15 @@
    "tag": "INFAT LUNCH",
    "name": "The Infatuation's Best Lunch in Seattle",
    "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "cntsea": {
+   "cls": "plate r-cntsea",
+   "mono": "CN",
+   "tag": "CNTRAV",
+   "name": "Condé Nast Traveler: 20 Best Restaurants in Seattle",
+   "year": "2024",
    "ranked": false,
    "starChip": false
   }

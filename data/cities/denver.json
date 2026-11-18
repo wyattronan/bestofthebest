@@ -20,6 +20,10 @@
     [
      "eater38",
      null
+    ],
+    [
+     "infatden",
+     null
     ]
    ],
    "dual": false,
@@ -36,6 +40,14 @@
    "lists": [
     [
      "michelin",
+     null
+    ],
+    [
+     "cntden",
+     null
+    ],
+    [
+     "infatden",
      null
     ]
    ],
@@ -57,6 +69,10 @@
     ],
     [
      "eater38",
+     null
+    ],
+    [
+     "cntden",
      null
     ]
    ],
@@ -101,6 +117,10 @@
     [
      "eater38",
      null
+    ],
+    [
+     "cntden",
+     null
     ]
    ],
    "dual": false,
@@ -121,6 +141,14 @@
     ],
     [
      "eater38",
+     null
+    ],
+    [
+     "cntden",
+     null
+    ],
+    [
+     "infatden",
      null
     ]
    ],
@@ -177,6 +205,10 @@
     [
      "michelin",
      null
+    ],
+    [
+     "infatden",
+     null
     ]
    ],
    "dual": false,
@@ -193,6 +225,10 @@
    "lists": [
     [
      "michelin",
+     null
+    ],
+    [
+     "cntden",
      null
     ]
    ],
@@ -215,6 +251,10 @@
     [
      "eater38",
      null
+    ],
+    [
+     "cntden",
+     null
     ]
    ],
    "dual": false,
@@ -232,6 +272,10 @@
    "lists": [
     [
      "5280best",
+     null
+    ],
+    [
+     "infatden",
      null
     ]
    ],
@@ -266,6 +310,10 @@
    "lists": [
     [
      "5280best",
+     null
+    ],
+    [
+     "infatden",
      null
     ]
    ],
@@ -384,6 +432,14 @@
     [
      "eater38",
      null
+    ],
+    [
+     "cntden",
+     null
+    ],
+    [
+     "infatden",
+     null
     ]
    ],
    "dual": false,
@@ -400,6 +456,10 @@
    "lists": [
     [
      "5280best",
+     null
+    ],
+    [
+     "infatden",
      null
     ]
    ],
@@ -422,6 +482,10 @@
     [
      "eater38",
      null
+    ],
+    [
+     "infatden",
+     null
     ]
    ],
    "dual": false,
@@ -443,6 +507,10 @@
     [
      "eater38",
      null
+    ],
+    [
+     "cntden",
+     null
     ]
    ],
    "dual": false,
@@ -463,6 +531,10 @@
     ],
     [
      "eater38",
+     null
+    ],
+    [
+     "cntden",
      null
     ]
    ],
@@ -522,6 +594,10 @@
     ],
     [
      "eater38",
+     null
+    ],
+    [
+     "infatden",
      null
     ]
    ],
@@ -604,6 +680,14 @@
     [
      "eater38",
      null
+    ],
+    [
+     "cntden",
+     null
+    ],
+    [
+     "infatden",
+     null
     ]
    ],
    "dual": false,
@@ -638,6 +722,10 @@
     [
      "eater38",
      null
+    ],
+    [
+     "infatden",
+     null
     ]
    ],
    "dual": false,
@@ -654,6 +742,14 @@
    "lists": [
     [
      "eater38",
+     null
+    ],
+    [
+     "cntden",
+     null
+    ],
+    [
+     "infatden",
      null
     ]
    ],
@@ -722,6 +818,10 @@
    "lists": [
     [
      "eater38",
+     null
+    ],
+    [
+     "infatden",
      null
     ]
    ],
@@ -859,6 +959,10 @@
     [
      "eater38",
      null
+    ],
+    [
+     "cntden",
+     null
     ]
    ],
    "dual": false,
@@ -931,6 +1035,472 @@
    ],
    "dual": false,
    "vb": "global"
+  },
+  {
+   "name": "Brasserie Brixton",
+   "hood": "RiNo",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 39.7683046,
+   "lng": -104.966309,
+   "pr": 3,
+   "lists": [
+    [
+     "cntden",
+     null
+    ],
+    [
+     "infatden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "El Taco de Mexico",
+   "hood": "Lincoln Park",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 39.7276381,
+   "lng": -104.9982842,
+   "pr": 1,
+   "lists": [
+    [
+     "cntden",
+     null
+    ],
+    [
+     "infatden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Biker Jim's Gourmet Dogs",
+   "hood": "Sunnyside",
+   "type": "hotdog",
+   "typekind": "cui",
+   "lat": 39.7622645,
+   "lng": -105.0061299,
+   "pr": 1,
+   "lists": [
+    [
+     "cntden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Noisette",
+   "hood": "LoHi",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 39.7631069,
+   "lng": -105.0038845,
+   "pr": 3,
+   "lists": [
+    [
+     "cntden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Farmhouse Thai Eatery",
+   "hood": "Lakewood",
+   "type": "thai",
+   "typekind": "cui",
+   "lat": 39.7168111,
+   "lng": -105.0798753,
+   "pr": 2,
+   "lists": [
+    [
+     "cntden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "El Five",
+   "hood": "LoHi",
+   "type": "spanish",
+   "typekind": "cui",
+   "lat": 39.7591116,
+   "lng": -105.0115013,
+   "pr": 3,
+   "lists": [
+    [
+     "cntden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "House of Bread",
+   "hood": "Hampden",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 39.6796044,
+   "lng": -104.8757911,
+   "pr": 1,
+   "lists": [
+    [
+     "cntden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Uchi Denver",
+   "hood": "RiNo",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 39.7569264,
+   "lng": -104.9852614,
+   "pr": 4,
+   "lists": [
+    [
+     "cntden",
+     null
+    ],
+    [
+     "infatden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Tavernetta",
+   "hood": "Union Station",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 39.7530169,
+   "lng": -105.0019674,
+   "pr": 3,
+   "lists": [
+    [
+     "cntden",
+     null
+    ],
+    [
+     "infatden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Fortune Wok to Table",
+   "hood": "Cherry Creek",
+   "type": "chinese",
+   "typekind": "cui",
+   "lat": 39.7211454,
+   "lng": -104.955136,
+   "pr": 2,
+   "lists": [
+    [
+     "cntden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "A5 Steakhouse",
+   "hood": "LoDo",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 39.7502674,
+   "lng": -105.001548,
+   "pr": 4,
+   "lists": [
+    [
+     "cntden",
+     null
+    ],
+    [
+     "infatden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Safta",
+   "hood": "RiNo",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 39.76882,
+   "lng": -104.98024,
+   "pr": 2,
+   "lists": [
+    [
+     "cntden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Fruition",
+   "hood": "Country Club",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 39.7256961,
+   "lng": -104.9714044,
+   "pr": 4,
+   "lists": [
+    [
+     "cntden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Lucina Eatery & Bar",
+   "hood": "Park Hill",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 39.7502175,
+   "lng": -104.9177564,
+   "pr": 2,
+   "lists": [
+    [
+     "cntden",
+     null
+    ],
+    [
+     "infatden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Roaming Buffalo Bar-B-Que",
+   "hood": "Platt Park",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 39.6733222,
+   "lng": -104.9737028,
+   "pr": 1,
+   "lists": [
+    [
+     "cntden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "bbq"
+  },
+  {
+   "name": "Work & Class",
+   "hood": "RiNo",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 39.757652,
+   "lng": -104.9862239,
+   "pr": 2,
+   "lists": [
+    [
+     "cntden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Coperta",
+   "hood": "Five Points",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 39.7474144,
+   "lng": -104.9821166,
+   "pr": 2,
+   "lists": [
+    [
+     "cntden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Woody's Wings & Things",
+   "hood": "Westminster",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 39.8205185,
+   "lng": -105.0351181,
+   "pr": 1,
+   "lists": [
+    [
+     "cntden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Rioja",
+   "hood": "Larimer Square",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 39.7479417,
+   "lng": -104.9994667,
+   "pr": 3,
+   "lists": [
+    [
+     "cntden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "La Diabla Pozole y Mezcal",
+   "hood": "RiNo",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 39.7554631,
+   "lng": -104.9897484,
+   "pr": 2,
+   "lists": [
+    [
+     "cntden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Ultreia",
+   "hood": "Union Station",
+   "type": "spanish",
+   "typekind": "cui",
+   "lat": 39.7532211,
+   "lng": -104.9998482,
+   "pr": 2,
+   "lists": [
+    [
+     "cntden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Glo Noodle House",
+   "hood": "West Highland",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 39.7691064,
+   "lng": -105.0447628,
+   "pr": 2,
+   "lists": [
+    [
+     "infatden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Alteño",
+   "hood": "Cherry Creek",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 39.7203868,
+   "lng": -104.9559977,
+   "pr": 4,
+   "lists": [
+    [
+     "infatden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Cart-Driver",
+   "hood": "RiNo",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 39.7575444,
+   "lng": -104.986175,
+   "pr": 2,
+   "lists": [
+    [
+     "infatden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "pizza"
+  },
+  {
+   "name": "Uchiko",
+   "hood": "Cherry Creek",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 39.7207326,
+   "lng": -104.9536253,
+   "pr": 4,
+   "lists": [
+    [
+     "infatden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Temaki Den",
+   "hood": "RiNo",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 39.7685843,
+   "lng": -104.9794484,
+   "pr": 3,
+   "lists": [
+    [
+     "infatden",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
   }
  ],
  "bars": [
@@ -2690,6 +3260,24 @@
    "mono": "E38",
    "tag": "EATER 38",
    "name": "Eater Denver's 38 Best Restaurants",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "cntden": {
+   "cls": "plate r-cntden",
+   "mono": "CN",
+   "tag": "CNTRAV",
+   "name": "Condé Nast Traveler: 33 Best Restaurants in Denver",
+   "year": "2023",
+   "ranked": false,
+   "starChip": false
+  },
+  "infatden": {
+   "cls": "plate r-infatden",
+   "mono": "IN",
+   "tag": "INFAT",
+   "name": "The Infatuation: The Best Restaurants In Denver",
    "year": "2026",
    "ranked": false,
    "starChip": false

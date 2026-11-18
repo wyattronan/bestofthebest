@@ -181,6 +181,10 @@
     [
      "baltmag",
      null
+    ],
+    [
+     "cntbal",
+     null
     ]
    ],
    "dual": false,
@@ -218,6 +222,10 @@
     ],
     [
      "infat",
+     null
+    ],
+    [
+     "cntbal",
      null
     ]
    ],
@@ -294,6 +302,10 @@
     ],
     [
      "infat",
+     null
+    ],
+    [
+     "cntbal",
      null
     ]
    ],
@@ -388,6 +400,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "cntbal",
+     null
     ]
    ],
    "dual": false,
@@ -480,6 +496,10 @@
     ],
     [
      "infat",
+     null
+    ],
+    [
+     "cntbal",
      null
     ]
    ],
@@ -662,6 +682,10 @@
     ],
     [
      "infat",
+     null
+    ],
+    [
+     "cntbal",
      null
     ]
    ],
@@ -905,6 +929,57 @@
    ],
    "dual": false,
    "vb": "global"
+  },
+  {
+   "name": "The Urban Oyster",
+   "hood": "Hampden",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 39.3312724,
+   "lng": -76.6323296,
+   "pr": 3,
+   "lists": [
+    [
+     "cntbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "La Maison by Café Dear Leon",
+   "hood": "Charles Village",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 39.3194639,
+   "lng": -76.6203091,
+   "pr": 2,
+   "lists": [
+    [
+     "cntbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Neopol Smokery",
+   "hood": "Hollins Market",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 39.2877567,
+   "lng": -76.6315549,
+   "pr": 1,
+   "lists": [
+    [
+     "cntbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
   }
  ],
  "bars": [
@@ -1824,6 +1899,15 @@
    "mono": "IN",
    "tag": "INFAT",
    "name": "The Infatuation's Best Restaurants in Baltimore",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "cntbal": {
+   "cls": "plate r-cntbal",
+   "mono": "CN",
+   "tag": "CNTRAV",
+   "name": "Condé Nast Traveler: 9 Best Restaurants in Baltimore for Seafood and Beyond",
    "year": "2025",
    "ranked": false,
    "starChip": false

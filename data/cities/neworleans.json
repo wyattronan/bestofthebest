@@ -51,6 +51,10 @@
     [
      "fwgt",
      5
+    ],
+    [
+     "cntnola",
+     null
     ]
    ],
    "vb": "oldguard",
@@ -71,6 +75,10 @@
     ],
     [
      "eater38nola",
+     null
+    ],
+    [
+     "cntnola",
      null
     ]
    ],
@@ -175,6 +183,10 @@
     [
      "nytnola",
      null
+    ],
+    [
+     "cntnola",
+     null
     ]
    ],
    "vb": "oldguard",
@@ -235,6 +247,10 @@
     [
      "na50",
      6
+    ],
+    [
+     "cntnola",
+     null
     ]
    ],
    "vb": "tasting",
@@ -255,6 +271,10 @@
     ],
     [
      "nytnola",
+     null
+    ],
+    [
+     "cntnola",
      null
     ]
    ],
@@ -847,6 +867,10 @@
     [
      "nytnola",
      null
+    ],
+    [
+     "cntnola",
+     null
     ]
    ],
    "vb": "oldguard",
@@ -918,6 +942,10 @@
     [
      "eater38nola",
      null
+    ],
+    [
+     "cntnola",
+     null
     ]
    ],
    "vb": "datenight",
@@ -934,6 +962,10 @@
    "lists": [
     [
      "eater38nola",
+     null
+    ],
+    [
+     "cntnola",
      null
     ]
    ],
@@ -1103,6 +1135,10 @@
     [
      "jbnola",
      null
+    ],
+    [
+     "cntnola",
+     null
     ]
    ],
    "vb": "specialty",
@@ -1141,6 +1177,10 @@
    "lists": [
     [
      "nytnola",
+     null
+    ],
+    [
+     "cntnola",
      null
     ]
    ],
@@ -1300,6 +1340,10 @@
     [
      "infatlun",
      null
+    ],
+    [
+     "cntnola",
+     null
     ]
    ],
    "dual": false,
@@ -1323,6 +1367,295 @@
    "dual": false,
    "vb": "global",
    "lu": 1
+  },
+  {
+   "name": "Palm&Pine",
+   "hood": "French Quarter",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 29.9574597,
+   "lng": -90.0707713,
+   "pr": 2,
+   "lists": [
+    [
+     "cntnola",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Ayu Bakehouse",
+   "hood": "Marigny",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 29.9656621,
+   "lng": -90.0577997,
+   "pr": 1,
+   "lists": [
+    [
+     "cntnola",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Delacroix",
+   "hood": "CBD",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 29.9494561,
+   "lng": -90.0627743,
+   "pr": 2,
+   "lists": [
+    [
+     "cntnola",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Luvi Restaurant",
+   "hood": "Uptown",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 29.9163156,
+   "lng": -90.1121792,
+   "pr": 2,
+   "lists": [
+    [
+     "cntnola",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "La Petite Grocery",
+   "hood": "Uptown",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 29.9207891,
+   "lng": -90.1001219,
+   "pr": 3,
+   "lists": [
+    [
+     "cntnola",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "King Brasserie + Bar",
+   "hood": "CBD",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 29.9482437,
+   "lng": -90.0674144,
+   "pr": 3,
+   "lists": [
+    [
+     "cntnola",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Dian Xin",
+   "hood": "French Quarter",
+   "type": "chinese",
+   "typekind": "cui",
+   "lat": 29.9609665,
+   "lng": -90.0588569,
+   "pr": 2,
+   "lists": [
+    [
+     "cntnola",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Molly's Rise and Shine",
+   "hood": "Lower Garden District",
+   "type": "brunch",
+   "typekind": "cui",
+   "lat": 29.9279293,
+   "lng": -90.0789655,
+   "pr": 1,
+   "lists": [
+    [
+     "cntnola",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Toups' Meatery",
+   "hood": "Mid-City",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 29.9807003,
+   "lng": -90.0945133,
+   "pr": 2,
+   "lists": [
+    [
+     "cntnola",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Margot's",
+   "hood": "Marigny",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 29.9704095,
+   "lng": -90.0580955,
+   "pr": 2,
+   "lists": [
+    [
+     "cntnola",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "pizza"
+  },
+  {
+   "name": "Chemin à la Mer",
+   "hood": "CBD",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 29.9491051,
+   "lng": -90.0635146,
+   "pr": 4,
+   "lists": [
+    [
+     "cntnola",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Doris Metropolitan",
+   "hood": "French Quarter",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 29.957013,
+   "lng": -90.0640163,
+   "pr": 4,
+   "lists": [
+    [
+     "cntnola",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Tan Dinh",
+   "hood": "Gretna",
+   "type": "vietnamese",
+   "typekind": "cui",
+   "lat": 29.9069657,
+   "lng": -90.0537683,
+   "pr": 1,
+   "lists": [
+    [
+     "cntnola",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Costera",
+   "hood": "Uptown",
+   "type": "spanish",
+   "typekind": "cui",
+   "lat": 29.9243947,
+   "lng": -90.1088116,
+   "pr": 4,
+   "lists": [
+    [
+     "cntnola",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Jamaican Jerk House",
+   "hood": "Bywater",
+   "type": "caribbean",
+   "typekind": "cui",
+   "lat": 29.9658549,
+   "lng": -90.0348387,
+   "pr": 2,
+   "lists": [
+    [
+     "cntnola",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Alma Cafe",
+   "hood": "Bywater",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 29.9641701,
+   "lng": -90.0435766,
+   "pr": 2,
+   "lists": [
+    [
+     "cntnola",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Restaurant R'evolution",
+   "hood": "French Quarter",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 29.955435,
+   "lng": -90.068135,
+   "pr": 4,
+   "lists": [
+    [
+     "cntnola",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
   }
  ],
  "bars": [
@@ -3716,6 +4049,15 @@
    "tag": "LUNCH",
    "name": "Best Lunch Places in New Orleans",
    "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "cntnola": {
+   "cls": "plate r-cntnola",
+   "mono": "CN",
+   "tag": "CNTRAV",
+   "name": "Condé Nast Traveler: 29 Best Restaurants in New Orleans, According to Our Local Expert",
+   "year": "2026",
    "ranked": false,
    "starChip": false
   }

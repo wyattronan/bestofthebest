@@ -12,6 +12,10 @@
     [
      "milmag25",
      1
+    ],
+    [
+     "eatermke",
+     null
     ]
    ],
    "dual": false,
@@ -68,6 +72,10 @@
     [
      "jbeard",
      null
+    ],
+    [
+     "eatermke",
+     null
     ]
    ],
    "dual": false,
@@ -85,6 +93,10 @@
     [
      "milmag25",
      5
+    ],
+    [
+     "eatermke",
+     null
     ]
    ],
    "dual": false,
@@ -102,6 +114,10 @@
     [
      "milmag25",
      6
+    ],
+    [
+     "cntmke",
+     null
     ]
    ],
    "dual": false,
@@ -153,6 +169,10 @@
     [
      "milmag25",
      9
+    ],
+    [
+     "eatermke",
+     null
     ]
    ],
    "dual": false,
@@ -174,6 +194,10 @@
     [
      "jbeard",
      null
+    ],
+    [
+     "eatermke",
+     null
     ]
    ],
    "dual": false,
@@ -191,6 +215,10 @@
     [
      "milmag25",
      11
+    ],
+    [
+     "eatermke",
+     null
     ]
    ],
    "dual": false,
@@ -277,6 +305,10 @@
     [
      "milmag25",
      16
+    ],
+    [
+     "eatermke",
+     null
     ]
    ],
    "dual": false,
@@ -301,6 +333,10 @@
     ],
     [
      "yelp",
+     null
+    ],
+    [
+     "eatermke",
      null
     ]
    ],
@@ -337,6 +373,14 @@
     [
      "milmag25",
      19
+    ],
+    [
+     "eatermke",
+     null
+    ],
+    [
+     "infatmke",
+     null
     ]
    ],
    "dual": false,
@@ -410,6 +454,10 @@
     [
      "yelp",
      null
+    ],
+    [
+     "cntmke",
+     null
     ]
    ],
    "dual": false,
@@ -444,6 +492,10 @@
     [
      "jbeard",
      null
+    ],
+    [
+     "eatermke",
+     null
     ]
    ],
    "dual": false,
@@ -467,6 +519,537 @@
    "vb": "specialty",
    "lu": 1,
    "to": 1
+  },
+  {
+   "name": "1033 Omakase",
+   "hood": "Walker's Point",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 43.0203089,
+   "lng": -87.911445,
+   "pr": 4,
+   "lists": [
+    [
+     "cntmke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Allie Boy's Bagelry & Luncheonette",
+   "hood": "Walker's Point",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 43.02307,
+   "lng": -87.9100927,
+   "pr": 1,
+   "lists": [
+    [
+     "cntmke",
+     null
+    ],
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Las Gardenias",
+   "hood": "Downtown",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 43.0338589,
+   "lng": -87.9120629,
+   "pr": 2,
+   "lists": [
+    [
+     "cntmke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Purslane",
+   "hood": "East Side",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 43.0539589,
+   "lng": -87.8915718,
+   "pr": 3,
+   "lists": [
+    [
+     "cntmke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Uncle Wolfie's Downtown & The Wolf",
+   "hood": "Brewers Hill",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 43.054022,
+   "lng": -87.908597,
+   "pr": 2,
+   "lists": [
+    [
+     "cntmke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Kopp's Frozen Custard",
+   "hood": "Glendale",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 43.1146779,
+   "lng": -87.9173067,
+   "pr": 1,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Zaffiro's Pizza & Bar",
+   "hood": "East Side",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 43.053383,
+   "lng": -87.891745,
+   "pr": 1,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "pizza"
+  },
+  {
+   "name": "Glorioso's Italian Market",
+   "hood": "Brady Street",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 43.052796,
+   "lng": -87.8999303,
+   "pr": 2,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "deli"
+  },
+  {
+   "name": "Wy'east Pizza",
+   "hood": "Washington Heights",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 43.0493167,
+   "lng": -87.983434,
+   "pr": 1,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "pizza"
+  },
+  {
+   "name": "Buckley's Restaurant & Bar",
+   "hood": "Lower East Side",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 43.0416411,
+   "lng": -87.9020259,
+   "pr": 2,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "San Giorgio Pizzeria Napoletana",
+   "hood": "Downtown",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 43.0410647,
+   "lng": -87.9143106,
+   "pr": 2,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Zarletti",
+   "hood": "Downtown",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 43.03976,
+   "lng": -87.9070079,
+   "pr": 3,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Alem Ethiopian Village",
+   "hood": "Downtown",
+   "type": "african",
+   "typekind": "cui",
+   "lat": 43.0385682,
+   "lng": -87.9073928,
+   "pr": 2,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Third Street Market Hall",
+   "hood": "Downtown",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 43.038435,
+   "lng": -87.9145237,
+   "pr": 1,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Third Space Brewing",
+   "hood": "Menomonee Valley",
+   "type": "gastropub",
+   "typekind": "cui",
+   "lat": 43.0345331,
+   "lng": -87.9325444,
+   "pr": 2,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Camino",
+   "hood": "Walker's Point",
+   "type": "gastropub",
+   "typekind": "cui",
+   "lat": 43.0265022,
+   "lng": -87.9123333,
+   "pr": 2,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "La Merenda",
+   "hood": "Walker's Point",
+   "type": "spanish",
+   "typekind": "cui",
+   "lat": 43.0230951,
+   "lng": -87.9104075,
+   "pr": 2,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Taqueria la Guelaguetza",
+   "hood": "Walker's Point",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 43.023031,
+   "lng": -87.925144,
+   "pr": 1,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Guadalajara Restaurant",
+   "hood": "Walker's Point",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 43.0220299,
+   "lng": -87.9241562,
+   "pr": 1,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Vientiane Noodle Shop",
+   "hood": "Silver City",
+   "type": "thai",
+   "typekind": "cui",
+   "lat": 43.0217969,
+   "lng": -87.9572388,
+   "pr": 1,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Momo Mee",
+   "hood": "Walker's Point",
+   "type": "chinese",
+   "typekind": "cui",
+   "lat": 43.0171855,
+   "lng": -87.9108539,
+   "pr": 2,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Flour Girl & Flame",
+   "hood": "West Allis",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 43.0103979,
+   "lng": -88.013797,
+   "pr": 2,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "pizza"
+  },
+  {
+   "name": "Three Brothers",
+   "hood": "Bay View",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 43.0002576,
+   "lng": -87.8931765,
+   "pr": 2,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Club Garibaldi",
+   "hood": "Bay View",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 42.9990477,
+   "lng": -87.8897062,
+   "pr": 1,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "The Vanguard",
+   "hood": "Bay View",
+   "type": "gastropub",
+   "typekind": "cui",
+   "lat": 42.9964817,
+   "lng": -87.8980503,
+   "pr": 2,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Sze Chuan Restaurant",
+   "hood": "West Allis",
+   "type": "chinese",
+   "typekind": "cui",
+   "lat": 42.992095,
+   "lng": -88.051269,
+   "pr": 1,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Wioletta's Polish Market",
+   "hood": "South Side",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 42.972539,
+   "lng": -87.909967,
+   "pr": 2,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "deli"
+  },
+  {
+   "name": "Taqwa's Bakery",
+   "hood": "Greenfield",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 42.9603751,
+   "lng": -87.9499074,
+   "pr": 2,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "El Tsunami",
+   "hood": "South Side",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 43.004046,
+   "lng": -87.9280021,
+   "pr": 1,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Mader's Restaurant",
+   "hood": "Downtown",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 43.0438238,
+   "lng": -87.9146164,
+   "pr": 2,
+   "lists": [
+    [
+     "infatmke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Dan Dan",
+   "hood": "Third Ward",
+   "type": "chinese",
+   "typekind": "cui",
+   "lat": 43.0300342,
+   "lng": -87.9053339,
+   "pr": 3,
+   "lists": [
+    [
+     "infatmke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
   }
  ],
  "bars": [
@@ -933,6 +1516,33 @@
    "tag": "YELP",
    "name": "Yelp's Top Restaurants (Milwaukee picks)",
    "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "cntmke": {
+   "cls": "plate r-cntmke",
+   "mono": "CN",
+   "tag": "CNTRAV",
+   "name": "Condé Nast Traveler: The Best Restaurants in Milwaukee for Midwestern Hospitality and Fantastic Flavors",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "eatermke": {
+   "cls": "plate r-eatermke",
+   "mono": "EAT",
+   "tag": "EATER",
+   "name": "Eater: The 38 Best Restaurants in Milwaukee, Wisconsin",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "infatmke": {
+   "cls": "plate r-infatmke",
+   "mono": "IN",
+   "tag": "INFAT",
+   "name": "The Infatuation: The Best Restaurants In Milwaukee",
+   "year": "2026",
    "ranked": false,
    "starChip": false
   }

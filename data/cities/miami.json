@@ -20,6 +20,10 @@
     [
      "nytmia",
      null
+    ],
+    [
+     "cntmia",
+     null
     ]
    ],
    "vb": "datenight",
@@ -161,6 +165,10 @@
     [
      "eater38mia",
      null
+    ],
+    [
+     "cntmia",
+     null
     ]
    ],
    "vb": "datenight",
@@ -189,6 +197,10 @@
     ],
     [
      "eater38mia",
+     null
+    ],
+    [
+     "cntmia",
      null
     ]
    ],
@@ -320,6 +332,10 @@
     [
      "nytmia",
      null
+    ],
+    [
+     "cntmia",
+     null
     ]
    ],
    "vb": "global",
@@ -388,6 +404,10 @@
     ],
     [
      "mnt50mia",
+     null
+    ],
+    [
+     "cntmia",
      null
     ]
    ],
@@ -610,6 +630,10 @@
     [
      "mnt50mia",
      null
+    ],
+    [
+     "cntmia",
+     null
     ]
    ],
    "vb": "tasting",
@@ -640,6 +664,10 @@
     ],
     [
      "infatlun",
+     null
+    ],
+    [
+     "cntmia",
      null
     ]
    ],
@@ -829,6 +857,10 @@
     [
      "eater38mia",
      null
+    ],
+    [
+     "cntmia",
+     null
     ]
    ],
    "vb": "tasting",
@@ -874,6 +906,10 @@
     ],
     [
      "eater38mia",
+     null
+    ],
+    [
+     "cntmia",
      null
     ]
    ],
@@ -957,6 +993,10 @@
     ],
     [
      "nytmia",
+     null
+    ],
+    [
+     "cntmia",
      null
     ]
    ],
@@ -1073,6 +1113,10 @@
     ],
     [
      "nytmia",
+     null
+    ],
+    [
+     "cntmia",
      null
     ]
    ],
@@ -1245,6 +1289,10 @@
     [
      "mnt50mia",
      null
+    ],
+    [
+     "cntmia",
+     null
     ]
    ],
    "vb": "datenight",
@@ -1280,6 +1328,10 @@
    "lists": [
     [
      "mnt50mia",
+     null
+    ],
+    [
+     "cntmia",
      null
     ]
    ],
@@ -1426,6 +1478,10 @@
    "lists": [
     [
      "mnt50mia",
+     null
+    ],
+    [
+     "cntmia",
      null
     ]
    ],
@@ -1611,6 +1667,10 @@
    "lists": [
     [
      "eater38mia",
+     null
+    ],
+    [
+     "cntmia",
      null
     ]
    ],
@@ -2155,6 +2215,210 @@
    "dual": false,
    "vb": "datenight",
    "lu": 1
+  },
+  {
+   "name": "Sérêvène by Chef Pawan Pinisetti",
+   "hood": "South Beach",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 25.7956064,
+   "lng": -80.1295347,
+   "pr": 4,
+   "lists": [
+    [
+     "cntmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Aviv",
+   "hood": "South Beach",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 25.7998576,
+   "lng": -80.127084,
+   "pr": 4,
+   "lists": [
+    [
+     "cntmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "LPM Restaurant & Bar",
+   "hood": "Brickell",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 25.7605686,
+   "lng": -80.1900512,
+   "pr": 4,
+   "lists": [
+    [
+     "cntmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Lido",
+   "hood": "Belle Isle",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 25.7927696,
+   "lng": -80.14934,
+   "pr": 4,
+   "lists": [
+    [
+     "cntmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Abbalé Modern Mediterranean Kitchen",
+   "hood": "South Beach",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 25.7688647,
+   "lng": -80.1366033,
+   "pr": 3,
+   "lists": [
+    [
+     "cntmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Doya",
+   "hood": "Wynwood",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 25.800236,
+   "lng": -80.201449,
+   "pr": 3,
+   "lists": [
+    [
+     "cntmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Quinto La Huella",
+   "hood": "Brickell",
+   "type": "latin",
+   "typekind": "cui",
+   "lat": 25.7666736,
+   "lng": -80.1927482,
+   "pr": 4,
+   "lists": [
+    [
+     "cntmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Los Fuegos by Francis Mallmann",
+   "hood": "Mid-Beach",
+   "type": "argentinian",
+   "typekind": "cui",
+   "lat": 25.8073814,
+   "lng": -80.1234296,
+   "pr": 4,
+   "lists": [
+    [
+     "cntmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Zak the Baker",
+   "hood": "Wynwood",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 25.8016024,
+   "lng": -80.2009603,
+   "pr": 2,
+   "lists": [
+    [
+     "cntmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Zuma",
+   "hood": "Downtown",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 25.7704336,
+   "lng": -80.1892854,
+   "pr": 4,
+   "lists": [
+    [
+     "cntmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "KYU",
+   "hood": "Wynwood",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 25.800891,
+   "lng": -80.200212,
+   "pr": 4,
+   "lists": [
+    [
+     "cntmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Mignonette",
+   "hood": "Edgewater",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 25.7933949,
+   "lng": -80.1906172,
+   "pr": 2,
+   "lists": [
+    [
+     "cntmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
   }
  ],
  "bars": [
@@ -3125,6 +3389,15 @@
    "tag": "MIAMI GUIDE",
    "name": "The Miami Guide's Hottest Lunch Spots",
    "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "cntmia": {
+   "cls": "plate r-cntmia",
+   "mono": "CN",
+   "tag": "CNTRAV",
+   "name": "Condé Nast Traveler: The Most Exciting Places to Eat in Miami Right Now",
+   "year": "2026",
    "ranked": false,
    "starChip": false
   }

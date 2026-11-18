@@ -56,6 +56,10 @@
     [
      "axistri",
      null
+    ],
+    [
+     "eatertri",
+     null
     ]
    ],
    "vb": "datenight",
@@ -188,6 +192,10 @@
     [
      "jbtri",
      null
+    ],
+    [
+     "eatertri",
+     null
     ]
    ],
    "vb": "oldguard",
@@ -216,6 +224,10 @@
     ],
     [
      "jbtri",
+     null
+    ],
+    [
+     "infattri",
      null
     ]
    ],
@@ -376,6 +388,10 @@
     [
      "axistri",
      null
+    ],
+    [
+     "eatertri",
+     null
     ]
    ],
    "vb": "italian",
@@ -453,6 +469,10 @@
     [
      "axistri",
      null
+    ],
+    [
+     "eatertri",
+     null
     ]
    ],
    "vb": "datenight",
@@ -503,6 +523,10 @@
    "lists": [
     [
      "axistri",
+     null
+    ],
+    [
+     "eatertri",
      null
     ]
    ],
@@ -575,6 +599,10 @@
    "lists": [
     [
      "axistri",
+     null
+    ],
+    [
+     "eatertri",
      null
     ]
    ],
@@ -650,6 +678,10 @@
     [
      "indybot",
      null
+    ],
+    [
+     "infattri",
+     null
     ]
    ],
    "vb": "tasting",
@@ -684,6 +716,10 @@
     [
      "axistri",
      null
+    ],
+    [
+     "eatertri",
+     null
     ]
    ],
    "vb": "datenight",
@@ -701,6 +737,10 @@
    "lists": [
     [
      "axistri",
+     null
+    ],
+    [
+     "eatertri",
      null
     ]
    ],
@@ -847,6 +887,10 @@
    "lists": [
     [
      "indybot",
+     null
+    ],
+    [
+     "infattri",
      null
     ]
    ],
@@ -1126,6 +1170,261 @@
    "dual": false,
    "vb": "datenight",
    "lu": 1
+  },
+  {
+   "name": "Sola Coffee Cafe",
+   "hood": "North Raleigh",
+   "type": "brunch",
+   "typekind": "cui",
+   "lat": 35.8853193,
+   "lng": -78.6601449,
+   "pr": 1,
+   "lists": [
+    [
+     "eatertri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Jose and Sons",
+   "hood": "Raleigh",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 35.8604316,
+   "lng": -78.7050137,
+   "pr": 2,
+   "lists": [
+    [
+     "eatertri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "taco"
+  },
+  {
+   "name": "Seoul Garden",
+   "hood": "Cary",
+   "type": "korean",
+   "typekind": "cui",
+   "lat": 35.7800395,
+   "lng": -78.7954273,
+   "pr": 2,
+   "lists": [
+    [
+     "eatertri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Hummingbird",
+   "hood": "Mordecai",
+   "type": "brunch",
+   "typekind": "cui",
+   "lat": 35.8079024,
+   "lng": -78.6213991,
+   "pr": 2,
+   "lists": [
+    [
+     "eatertri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Hayes Barton Cafe & Dessertery",
+   "hood": "Five Points",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 35.804571,
+   "lng": -78.646401,
+   "pr": 2,
+   "lists": [
+    [
+     "eatertri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Longleaf Swine",
+   "hood": "Downtown Raleigh",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 35.7808501,
+   "lng": -78.6344111,
+   "pr": 2,
+   "lists": [
+    [
+     "eatertri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "bbq"
+  },
+  {
+   "name": "Jack's Seafood & Soul Food Restaurant",
+   "hood": "Raleigh",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 35.779764,
+   "lng": -78.6161492,
+   "pr": 1,
+   "lists": [
+    [
+     "eatertri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "A Place At The Table",
+   "hood": "Downtown Raleigh",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 35.7785506,
+   "lng": -78.6442317,
+   "pr": 1,
+   "lists": [
+    [
+     "eatertri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "deli"
+  },
+  {
+   "name": "Heirloom Brewshop",
+   "hood": "Downtown Raleigh",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 35.7775962,
+   "lng": -78.6459648,
+   "pr": 1,
+   "lists": [
+    [
+     "eatertri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Ideal's Sandwich Shop",
+   "hood": "Durham",
+   "type": "deli",
+   "typekind": "cui",
+   "lat": 35.9817398,
+   "lng": -78.8774552,
+   "pr": 1,
+   "lists": [
+    [
+     "infattri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "deli"
+  },
+  {
+   "name": "Durham Food Hall",
+   "hood": "Downtown Durham",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 36.0013101,
+   "lng": -78.9013355,
+   "pr": 1,
+   "lists": [
+    [
+     "infattri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Chicken Hut",
+   "hood": "Durham",
+   "type": "soul",
+   "typekind": "cui",
+   "lat": 35.9631975,
+   "lng": -78.9073647,
+   "pr": 1,
+   "lists": [
+    [
+     "infattri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Picnic",
+   "hood": "Durham",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 36.0404007,
+   "lng": -78.957717,
+   "pr": 1,
+   "lists": [
+    [
+     "infattri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "bbq"
+  },
+  {
+   "name": "Dame's Chicken & Waffles",
+   "hood": "Durham",
+   "type": "soul",
+   "typekind": "cui",
+   "lat": 35.9803746,
+   "lng": -78.8787277,
+   "pr": 2,
+   "lists": [
+    [
+     "infattri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Parizade",
+   "hood": "Durham",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 36.0080543,
+   "lng": -78.9257429,
+   "pr": 2,
+   "lists": [
+    [
+     "infattri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
   }
  ],
  "bars": [
@@ -2105,6 +2404,24 @@
    "tag": "OPENTABLE",
    "name": "OpenTable's Best Lunch in Raleigh",
    "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "eatertri": {
+   "cls": "plate r-eatertri",
+   "mono": "EAT",
+   "tag": "EATER",
+   "name": "Eater Carolinas: 18 Essential Restaurants in Raleigh, North Carolina",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "infattri": {
+   "cls": "plate r-infattri",
+   "mono": "IN",
+   "tag": "INFAT",
+   "name": "The Infatuation: Where To Eat In Durham, North Carolina",
+   "year": "2022",
    "ranked": false,
    "starChip": false
   }

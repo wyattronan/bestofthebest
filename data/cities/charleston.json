@@ -75,6 +75,10 @@
     [
      "resy",
      null
+    ],
+    [
+     "infatchs",
+     null
     ]
    ],
    "dual": false,
@@ -113,6 +117,14 @@
     [
      "pc",
      null
+    ],
+    [
+     "cntchs",
+     null
+    ],
+    [
+     "infatchs",
+     null
     ]
    ],
    "dual": false,
@@ -147,6 +159,14 @@
     [
      "dish",
      null
+    ],
+    [
+     "cntchs",
+     null
+    ],
+    [
+     "infatchs",
+     null
     ]
    ],
    "dual": false,
@@ -171,6 +191,14 @@
     ],
     [
      "resy",
+     null
+    ],
+    [
+     "cntchs",
+     null
+    ],
+    [
+     "infatchs",
      null
     ]
    ],
@@ -210,6 +238,10 @@
     [
      "resy",
      null
+    ],
+    [
+     "infatchs",
+     null
     ]
    ],
    "dual": false,
@@ -248,6 +280,10 @@
     [
      "resy",
      null
+    ],
+    [
+     "cntchs",
+     null
     ]
    ],
    "dual": false,
@@ -282,6 +318,10 @@
     [
      "dish",
      null
+    ],
+    [
+     "cntchs",
+     null
     ]
    ],
    "dual": false,
@@ -303,6 +343,14 @@
     [
      "pc",
      null
+    ],
+    [
+     "cntchs",
+     null
+    ],
+    [
+     "infatchs",
+     null
     ]
    ],
    "dual": false,
@@ -319,6 +367,10 @@
    "lists": [
     [
      "dish",
+     null
+    ],
+    [
+     "cntchs",
      null
     ]
    ],
@@ -354,6 +406,14 @@
     [
      "dish",
      null
+    ],
+    [
+     "cntchs",
+     null
+    ],
+    [
+     "infatchs",
+     null
     ]
    ],
    "dual": false,
@@ -375,6 +435,14 @@
     [
      "resy",
      null
+    ],
+    [
+     "cntchs",
+     null
+    ],
+    [
+     "infatchs",
+     null
     ]
    ],
    "dual": false,
@@ -391,6 +459,10 @@
    "lists": [
     [
      "dish",
+     null
+    ],
+    [
+     "infatchs",
      null
     ]
    ],
@@ -429,6 +501,14 @@
     ],
     [
      "chliving",
+     null
+    ],
+    [
+     "cntchs",
+     null
+    ],
+    [
+     "infatchs",
      null
     ]
    ],
@@ -493,6 +573,10 @@
     [
      "chliving",
      null
+    ],
+    [
+     "infatchs",
+     null
     ]
    ],
    "dual": false,
@@ -531,6 +615,14 @@
     [
      "chstoday",
      null
+    ],
+    [
+     "cntchs",
+     null
+    ],
+    [
+     "infatchs",
+     null
     ]
    ],
    "dual": false,
@@ -552,6 +644,14 @@
     [
      "chstoday",
      null
+    ],
+    [
+     "cntchs",
+     null
+    ],
+    [
+     "infatchs",
+     null
     ]
    ],
    "dual": false,
@@ -568,6 +668,14 @@
    "lists": [
     [
      "dish",
+     null
+    ],
+    [
+     "cntchs",
+     null
+    ],
+    [
+     "infatchs",
      null
     ]
    ],
@@ -589,6 +697,14 @@
     ],
     [
      "pc",
+     null
+    ],
+    [
+     "cntchs",
+     null
+    ],
+    [
+     "infatchs",
      null
     ]
    ],
@@ -627,6 +743,10 @@
    "lists": [
     [
      "dish",
+     null
+    ],
+    [
+     "infatchs",
      null
     ]
    ],
@@ -755,6 +875,10 @@
     [
      "resy",
      null
+    ],
+    [
+     "cntchs",
+     null
     ]
    ],
    "dual": false,
@@ -814,6 +938,10 @@
     [
      "resy",
      null
+    ],
+    [
+     "cntchs",
+     null
     ]
    ],
    "dual": false,
@@ -830,6 +958,14 @@
    "lists": [
     [
      "dish",
+     null
+    ],
+    [
+     "cntchs",
+     null
+    ],
+    [
+     "infatchs",
      null
     ]
    ],
@@ -873,6 +1009,14 @@
     [
      "resy",
      null
+    ],
+    [
+     "cntchs",
+     null
+    ],
+    [
+     "infatchs",
+     null
     ]
    ],
    "dual": false,
@@ -893,6 +1037,10 @@
     ],
     [
      "pc",
+     null
+    ],
+    [
+     "cntchs",
      null
     ]
    ],
@@ -915,6 +1063,10 @@
     [
      "chstoday",
      null
+    ],
+    [
+     "cntchs",
+     null
     ]
    ],
    "dual": false,
@@ -931,6 +1083,10 @@
    "lists": [
     [
      "dish",
+     null
+    ],
+    [
+     "cntchs",
      null
     ]
    ],
@@ -949,6 +1105,14 @@
     [
      "dish",
      null
+    ],
+    [
+     "cntchs",
+     null
+    ],
+    [
+     "infatchs",
+     null
     ]
    ],
    "dual": false,
@@ -966,6 +1130,14 @@
     [
      "pc",
      null
+    ],
+    [
+     "cntchs",
+     null
+    ],
+    [
+     "infatchs",
+     null
     ]
    ],
    "dual": false,
@@ -982,6 +1154,10 @@
    "lists": [
     [
      "pc",
+     null
+    ],
+    [
+     "infatchs",
      null
     ]
    ],
@@ -1003,6 +1179,14 @@
     ],
     [
      "resy",
+     null
+    ],
+    [
+     "cntchs",
+     null
+    ],
+    [
+     "infatchs",
      null
     ]
    ],
@@ -1063,6 +1247,10 @@
     [
      "pc",
      null
+    ],
+    [
+     "cntchs",
+     null
     ]
    ],
    "dual": false,
@@ -1097,6 +1285,10 @@
     [
      "pc",
      null
+    ],
+    [
+     "cntchs",
+     null
     ]
    ],
    "dual": false,
@@ -1118,6 +1310,14 @@
     [
      "resy",
      null
+    ],
+    [
+     "cntchs",
+     null
+    ],
+    [
+     "infatchs",
+     null
     ]
    ],
    "dual": false,
@@ -1135,6 +1335,10 @@
     [
      "pc",
      null
+    ],
+    [
+     "cntchs",
+     null
     ]
    ],
    "dual": false,
@@ -1151,6 +1355,10 @@
    "lists": [
     [
      "pc",
+     null
+    ],
+    [
+     "cntchs",
      null
     ]
    ],
@@ -1173,6 +1381,10 @@
     [
      "resy",
      null
+    ],
+    [
+     "cntchs",
+     null
     ]
    ],
    "dual": false,
@@ -1190,6 +1402,10 @@
     [
      "pc",
      null
+    ],
+    [
+     "cntchs",
+     null
     ]
    ],
    "dual": false,
@@ -1206,6 +1422,10 @@
    "lists": [
     [
      "resy",
+     null
+    ],
+    [
+     "cntchs",
      null
     ]
    ],
@@ -1279,6 +1499,218 @@
    ],
    "dual": false,
    "vb": "global"
+  },
+  {
+   "name": "Lola Rose",
+   "hood": "Mount Pleasant",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 32.8841772,
+   "lng": -79.7692124,
+   "pr": 2,
+   "lists": [
+    [
+     "cntchs",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Sushi Bar",
+   "hood": "Downtown",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 32.7798542,
+   "lng": -79.9293412,
+   "pr": 4,
+   "lists": [
+    [
+     "cntchs",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Edmund's Original",
+   "hood": "NoMo",
+   "type": "gastropub",
+   "typekind": "cui",
+   "lat": 32.8099183,
+   "lng": -79.9473679,
+   "pr": 3,
+   "lists": [
+    [
+     "cntchs",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Tutti Pizza",
+   "hood": "Upper King",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 32.7984814,
+   "lng": -79.946228,
+   "pr": 2,
+   "lists": [
+    [
+     "cntchs",
+     null
+    ],
+    [
+     "infatchs",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "pizza"
+  },
+  {
+   "name": "Welton's Tiny Bakeshop",
+   "hood": "Upper King",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 32.7977019,
+   "lng": -79.945305,
+   "pr": 1,
+   "lists": [
+    [
+     "cntchs",
+     null
+    ],
+    [
+     "infatchs",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Indaco",
+   "hood": "Upper King",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 32.79158,
+   "lng": -79.939881,
+   "pr": 3,
+   "lists": [
+    [
+     "cntchs",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
+  },
+  {
+   "name": "Babas on Cannon",
+   "hood": "Cannonborough",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 32.7916281,
+   "lng": -79.9412724,
+   "pr": 1,
+   "lists": [
+    [
+     "cntchs",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brunch"
+  },
+  {
+   "name": "Maison",
+   "hood": "Upper King",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 32.7987406,
+   "lng": -79.9465428,
+   "pr": 3,
+   "lists": [
+    [
+     "cntchs",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Circa 1886",
+   "hood": "Harleston Village",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 32.7798671,
+   "lng": -79.939901,
+   "pr": 4,
+   "lists": [
+    [
+     "cntchs",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "The Glass Onion",
+   "hood": "West Ashley",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 32.7838671,
+   "lng": -79.9981106,
+   "pr": 2,
+   "lists": [
+    [
+     "cntchs",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Bowens Island Restaurant",
+   "hood": "James Island",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 32.6753683,
+   "lng": -79.9646388,
+   "pr": 2,
+   "lists": [
+    [
+     "cntchs",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "da Toscano Porchetta Shop",
+   "hood": "Harleston Village",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 32.7874996,
+   "lng": -79.950615,
+   "pr": 2,
+   "lists": [
+    [
+     "cntchs",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
   }
  ],
  "bars": [
@@ -2490,6 +2922,24 @@
    "tag": "CHSTODAY",
    "name": "CHStoday's Best Readers' Choice",
    "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "cntchs": {
+   "cls": "plate r-cntchs",
+   "mono": "CN",
+   "tag": "CNTRAV",
+   "name": "Condé Nast Traveler: 44 Best Restaurants in Charleston, From Raw Bars to Barbecue Joints",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "infatchs": {
+   "cls": "plate r-infatchs",
+   "mono": "IN",
+   "tag": "INFAT",
+   "name": "The Infatuation: The Best Restaurants In Charleston",
+   "year": "2026",
    "ranked": false,
    "starChip": false
   }

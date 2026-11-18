@@ -566,6 +566,10 @@
     [
      "bibhou",
      null
+    ],
+    [
+     "cnthou",
+     null
     ]
    ],
    "vb": "datenight",
@@ -712,6 +716,10 @@
     [
      "michhou",
      null
+    ],
+    [
+     "cnthou",
+     null
     ]
    ],
    "vb": "datenight",
@@ -783,6 +791,10 @@
    "lists": [
     [
      "chron100",
+     null
+    ],
+    [
+     "cnthou",
      null
     ]
    ],
@@ -875,6 +887,10 @@
    "lists": [
     [
      "chron100",
+     null
+    ],
+    [
+     "cnthou",
      null
     ]
    ],
@@ -1359,6 +1375,10 @@
     [
      "michhou",
      null
+    ],
+    [
+     "cnthou",
+     null
     ]
    ],
    "vb": "tasting",
@@ -1517,6 +1537,10 @@
     [
      "chron100",
      null
+    ],
+    [
+     "cnthou",
+     null
     ]
    ],
    "vb": "oldguard",
@@ -1590,6 +1614,10 @@
    "lists": [
     [
      "chron100",
+     null
+    ],
+    [
+     "cnthou",
      null
     ]
    ],
@@ -2256,6 +2284,10 @@
     [
      "bibhou",
      null
+    ],
+    [
+     "cnthou",
+     null
     ]
    ],
    "vb": "global",
@@ -2378,6 +2410,10 @@
     ],
     [
      "jbhou",
+     null
+    ],
+    [
+     "cnthou",
      null
     ]
    ],
@@ -2685,6 +2721,10 @@
     [
      "jbhou",
      null
+    ],
+    [
+     "cnthou",
+     null
     ]
    ],
    "vb": "datenight",
@@ -2838,6 +2878,193 @@
    "vb": "asian",
    "lu": 1,
    "to": 1
+  },
+  {
+   "name": "JOEY Uptown",
+   "hood": "Uptown",
+   "type": "gastropub",
+   "typekind": "cui",
+   "lat": 29.7401723,
+   "lng": -95.4629128,
+   "pr": 3,
+   "lists": [
+    [
+     "cnthou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Killen's Barbecue",
+   "hood": "Pearland",
+   "type": "bbq",
+   "typekind": "cui",
+   "lat": 29.5641107,
+   "lng": -95.282265,
+   "pr": 2,
+   "lists": [
+    [
+     "cnthou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "bbq"
+  },
+  {
+   "name": "Georgia James Tavern",
+   "hood": "Montrose",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 29.7570028,
+   "lng": -95.4029058,
+   "pr": 4,
+   "lists": [
+    [
+     "cnthou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Uchi",
+   "hood": "Montrose",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 29.7448938,
+   "lng": -95.3907229,
+   "pr": 4,
+   "lists": [
+    [
+     "cnthou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "MAD River Oaks",
+   "hood": "River Oaks",
+   "type": "spanish",
+   "typekind": "cui",
+   "lat": 29.7437372,
+   "lng": -95.4532191,
+   "pr": 4,
+   "lists": [
+    [
+     "cnthou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Riel",
+   "hood": "Montrose",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 29.7445531,
+   "lng": -95.4049369,
+   "pr": 3,
+   "lists": [
+    [
+     "cnthou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "State of Grace",
+   "hood": "River Oaks",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 29.7425,
+   "lng": -95.4252778,
+   "pr": 4,
+   "lists": [
+    [
+     "cnthou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "La Table",
+   "hood": "Uptown",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 29.747372,
+   "lng": -95.4617338,
+   "pr": 3,
+   "lists": [
+    [
+     "cnthou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Lankford's Grocery & Market",
+   "hood": "Midtown",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 29.7500189,
+   "lng": -95.3838701,
+   "pr": 1,
+   "lists": [
+    [
+     "cnthou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Blue Nile Authentic Ethiopian Restaurant",
+   "hood": "Upper Kirby",
+   "type": "african",
+   "typekind": "cui",
+   "lat": 29.737587,
+   "lng": -95.4265229,
+   "pr": 2,
+   "lists": [
+    [
+     "cnthou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Crawfish & Noodles",
+   "hood": "Asiatown",
+   "type": "vietnamese",
+   "typekind": "cui",
+   "lat": 29.7041593,
+   "lng": -95.5798665,
+   "pr": 2,
+   "lists": [
+    [
+     "cnthou",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
   }
  ],
  "bars": [
@@ -4972,6 +5199,15 @@
    "tag": "INFAT LUNCH",
    "name": "The Infatuation's Best Lunch in Houston",
    "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "cnthou": {
+   "cls": "plate r-cnthou",
+   "mono": "CN",
+   "tag": "CNTRAV",
+   "name": "Condé Nast Traveler: The 24 Best Restaurants in Houston",
+   "year": "2022",
    "ranked": false,
    "starChip": false
   }

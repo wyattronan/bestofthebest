@@ -28,6 +28,10 @@
     [
      "jbpdx",
      null
+    ],
+    [
+     "cntpdx",
+     null
     ]
    ],
    "vb": "tasting",
@@ -110,6 +114,10 @@
     [
      "eaterpdx",
      null
+    ],
+    [
+     "cntpdx",
+     null
     ]
    ],
    "vb": "datenight",
@@ -138,6 +146,10 @@
     ],
     [
      "eaterpdx",
+     null
+    ],
+    [
+     "cntpdx",
      null
     ]
    ],
@@ -197,6 +209,10 @@
     [
      "jbpdx",
      null
+    ],
+    [
+     "cntpdx",
+     null
     ]
    ],
    "vb": "datenight",
@@ -238,6 +254,10 @@
     [
      "fwgt",
      9
+    ],
+    [
+     "cntpdx",
+     null
     ]
    ],
    "vb": "datenight",
@@ -271,6 +291,10 @@
     ],
     [
      "eaterpdx",
+     null
+    ],
+    [
+     "cntpdx",
      null
     ]
    ],
@@ -306,6 +330,10 @@
     ],
     [
      "eaterpdx",
+     null
+    ],
+    [
+     "cntpdx",
      null
     ]
    ],
@@ -485,6 +513,10 @@
     [
      "nytpdx",
      null
+    ],
+    [
+     "cntpdx",
+     null
     ]
    ],
    "vb": "datenight",
@@ -563,6 +595,10 @@
     [
      "jbpdx",
      null
+    ],
+    [
+     "cntpdx",
+     null
     ]
    ],
    "vb": "datenight",
@@ -604,6 +640,10 @@
     ],
     [
      "pdxmo",
+     null
+    ],
+    [
+     "cntpdx",
      null
     ]
    ],
@@ -682,6 +722,10 @@
     [
      "pdxmo",
      null
+    ],
+    [
+     "cntpdx",
+     null
     ]
    ],
    "vb": "tasting",
@@ -731,6 +775,10 @@
     ],
     [
      "pdxmo",
+     null
+    ],
+    [
+     "cntpdx",
      null
     ]
    ],
@@ -975,6 +1023,10 @@
     [
      "pdxmo",
      null
+    ],
+    [
+     "cntpdx",
+     null
     ]
    ],
    "vb": "datenight",
@@ -1035,6 +1087,10 @@
     ],
     [
      "infatlun",
+     null
+    ],
+    [
+     "cntpdx",
      null
     ]
    ],
@@ -1164,6 +1220,10 @@
     [
      "eaterpdx",
      null
+    ],
+    [
+     "cntpdx",
+     null
     ]
    ],
    "vb": "tasting",
@@ -1180,6 +1240,10 @@
    "lists": [
     [
      "pdxmo",
+     null
+    ],
+    [
+     "cntpdx",
      null
     ]
    ],
@@ -1216,6 +1280,10 @@
    "lists": [
     [
      "pdxmo",
+     null
+    ],
+    [
+     "cntpdx",
      null
     ]
    ],
@@ -1371,6 +1439,10 @@
     [
      "toutpdx",
      5
+    ],
+    [
+     "cntpdx",
+     null
     ]
    ],
    "vb": "datenight",
@@ -1947,6 +2019,91 @@
    "vb": "quick",
    "lu": 1,
    "to": 1
+  },
+  {
+   "name": "Andina",
+   "hood": "Pearl District",
+   "type": "peruvian",
+   "typekind": "cui",
+   "lat": 45.526334,
+   "lng": -122.684603,
+   "pr": 2,
+   "lists": [
+    [
+     "cntpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Bluto's",
+   "hood": "SE Belmont",
+   "type": "greek",
+   "typekind": "cui",
+   "lat": 45.5162723,
+   "lng": -122.6363288,
+   "pr": 2,
+   "lists": [
+    [
+     "cntpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "82 Acres",
+   "hood": "SE Clinton",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 45.5032661,
+   "lng": -122.6448806,
+   "pr": 3,
+   "lists": [
+    [
+     "cntpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Normandie",
+   "hood": "Buckman",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 45.5223033,
+   "lng": -122.6554372,
+   "pr": 2,
+   "lists": [
+    [
+     "cntpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Maglia Rosa",
+   "hood": "SE Division",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 45.5046167,
+   "lng": -122.6343861,
+   "pr": 2,
+   "lists": [
+    [
+     "cntpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "italian"
   }
  ],
  "bars": [
@@ -2445,6 +2602,15 @@
    "mono": "LUNCH",
    "tag": "PDX MONTHLY",
    "name": "Portland Monthly's Best Lunches",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "cntpdx": {
+   "cls": "plate r-cntpdx",
+   "mono": "CN",
+   "tag": "CNTRAV",
+   "name": "Condé Nast Traveler: The 23 Best Restaurants in Portland, Oregon",
    "year": "2025",
    "ranked": false,
    "starChip": false
