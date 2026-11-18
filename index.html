@@ -1904,9 +1904,6 @@ const CUI_COL={"tasting": "#6b3f8f", "newam": "#2f6aa3", "med": "#12806a", "lati
 const TYPE2KEY={"tasting": "tasting", "newam": "newam", "med": "med", "latin": "latin", "asian": "asian", "japanese": "japanese", "french": "french", "italian": "italian", "pizza": "pizza", "seafood": "seafood", "steak": "steak", "mexican": "mexican", "bbq": "bbq", "global": "global", "indian": "indian", "classics": "classics", "bakery": "bakery", "gastropub": "gastropub", "sandwich": "sandwich", "quick": "quick", "american": "american", "spanish": "spanish", "brunch": "brunch", "caribbean": "caribbean", "african": "african", "greek": "greek", "cocktails": "cocktails", "beer": "beer", "wine": "wine", "m": "cocktails", "b": "beer", "w": "wine", "chinese": "asian", "korean": "asian", "vietnamese": "asian", "thai": "asian", "filipino": "asian", "ramen": "japanese", "steakhouse": "steak", "deli": "sandwich", "hotdog": "quick", "cafe": "bakery", "mediterranean": "med", "lebanese": "med", "moroccan": "med", "pakistani": "indian", "afghan": "indian", "peruvian": "latin", "argentinian": "latin", "liberian": "african", "british": "gastropub", "basque": "spanish", "vegan": "newam"};
 function cardColor(v){var k=TYPE2KEY[v.type];return CUI_COL[k]||(state.kind==='resto'?'#4b4fa8':'#2ee6ff');}
 function coinSvg(on,c){var col=on?c:'var(--rule-bold)';return '<svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5" fill="'+(on?'color-mix(in srgb,'+c+' 18%,transparent)':'none')+'" stroke="'+col+'" stroke-width="2"></circle><path d="M12 7.5v9M14.5 9.5c-.6-.8-1.5-1.2-2.5-1.2-1.4 0-2.5.8-2.5 1.9 0 2.6 5 1.4 5 4 0 1.1-1.1 1.9-2.5 1.9-1 0-1.9-.4-2.5-1.2" fill="none" stroke="'+col+'" stroke-width="2"></path></svg>';}
-function starSvg(){return '<svg width="12" height="12" viewBox="0 0 24 24" fill="var(--gold)" aria-hidden="true"><path d="M12 2l3 7 7 .6-5.3 4.7 1.6 7.2L12 17.8 5.7 21.5l1.6-7.2L2 9.6 9 9z"></path></svg>';}
-function michelinStars(v){var L=lists();for(var j=0;j<v.lists.length;j++){var d=L[v.lists[j][0]];if(d&&d.starChip&&d.mono==="★")return v.lists[j][1]||1;}return 0;}
-function cityHasMichelin(){var L=lists();return Object.keys(L).some(function(k){return L[k].starChip&&L[k].mono==="\u2605";});}
 function bestRank(v){var L=lists(),best=null;v.lists.forEach(function(p){var d=L[p[0]];if(!d||d.starChip||p[1]==null)return;if(!best||p[1]<best.r)best={r:p[1],m:d.mono};});return best;}
 function menuCard(v,noLabel,totalLists){
   const c=cardColor(v), resto=state.kind==='resto', dash='<span class="mc-dash">—</span>';
@@ -1915,12 +1912,10 @@ function menuCard(v,noLabel,totalLists){
   if(resto){
     const pr=v.pr||0, coins=[1,2,3,4].map(n=>coinSvg(n<=pr,c)).join('');
     f1=fact(pr?coins:dash, pr?PRICE_SYM[pr]:'—', 'Price');
-    if(cityHasMichelin()){const st=michelinStars(v); f2=fact(st?starSvg().repeat(st):dash, st?(st+(st>1?' stars':' star')):'None', 'Michelin');}
-    else {const br=bestRank(v); f2=fact(br?`<span class="mc-num">#${br.r}</span>`:dash, br?br.m:'Unranked', 'Best rank');}
   } else {
     f1=fact(dash.replace('—','·'), v.vb?vibeLabel(v.vb):typeName(v), 'Section');
-    const br=bestRank(v); f2=fact(br?`<span class="mc-num">#${br.r}</span>`:dash, br?br.m:'Unranked', 'Best rank');
   }
+  const br=bestRank(v); f2=fact(br?`<span class="mc-num">#${br.r}</span>`:dash, br?br.m:'Unranked', 'Best rank');
   const f3=fact(`<span class="mc-num">${v.lists.length}</span>`, `of ${totalLists}`, 'Lists');
   const nm=v.name||'', pr=v.pr?PRICE_SYM[v.pr]:'';
   return `<article class="mcard ${v.cl?'closed':''}" style="--c:${c}" data-name="${encodeURIComponent(v.name)}">
