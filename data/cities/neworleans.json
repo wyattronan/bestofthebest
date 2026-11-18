@@ -423,7 +423,8 @@
    "vb": "quick",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Thai"
   },
   {
    "name": "Mamou",
@@ -470,7 +471,8 @@
    ],
    "vb": "datenight",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Pan-Asian"
   },
   {
    "name": "Saffron",
@@ -512,7 +514,8 @@
    "dual": false,
    "vg": 1,
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "St. Pizza",
@@ -716,7 +719,8 @@
    "dual": false,
    "vg": 1,
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "Cane & Table",
@@ -841,7 +845,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Chinese"
   },
   {
    "name": "Chicken's Kitchen",
@@ -942,7 +947,8 @@
    "vb": "quick",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Thai"
   },
   {
    "name": "Munch Factory",
@@ -1452,7 +1458,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Pan-Asian"
   },
   {
    "name": "La Petite Grocery",
@@ -1491,7 +1498,7 @@
   {
    "name": "Dian Xin",
    "hood": "French Quarter",
-   "type": "chinese",
+   "type": "asian",
    "typekind": "cui",
    "lat": 29.9609665,
    "lng": -90.0588569,
@@ -1503,7 +1510,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Dim Sum"
   },
   {
    "name": "Molly's Rise and Shine",
@@ -1593,7 +1601,7 @@
   {
    "name": "Tan Dinh",
    "hood": "Gretna",
-   "type": "vietnamese",
+   "type": "asian",
    "typekind": "cui",
    "lat": 29.9069657,
    "lng": -90.0537683,
@@ -1605,7 +1613,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Vietnamese"
   },
   {
    "name": "Costera",

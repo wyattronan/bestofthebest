@@ -45,7 +45,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "lu": 1
+   "lu": 1,
+   "sub": "Sushi"
   },
   {
    "name": "The Restaurant at 1900",
@@ -141,7 +142,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Taiwanese"
   },
   {
    "name": "Earl's Premier",
@@ -302,7 +304,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "sub": "Sushi"
   },
   {
    "name": "Waldo Thai",
@@ -323,7 +326,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Thai"
   },
   {
    "name": "Yoli Tortilleria",
@@ -454,7 +458,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Modern Japanese"
   },
   {
    "name": "Stock Hill",

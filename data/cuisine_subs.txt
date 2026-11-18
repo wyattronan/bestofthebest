@@ -1,0 +1,625 @@
+atlanta|Mujō|J|Sushi
+atlanta|Omakase Table|J|Sushi
+atlanta|Brush Sushi|J|Sushi
+atlanta|Hayakawa|J|Sushi
+atlanta|Talat Market|A|Thai
+atlanta|Nan Thai Buckhead|A|Thai
+atlanta|Snackboxe Bistro|A|Laotian
+atlanta|Du Bu Gong Bang|A|Korean
+atlanta|Kamayan ATL|A|Filipino
+atlanta|LanZhou Ramen|A|Lanzhou Noodles
+atlanta|Mirae|A|Korean
+atlanta|Nam Phuong|A|Vietnamese
+atlanta|Northern China Eatery|A|Northern Chinese
+atlanta|Pink Lotus|A|Thai
+atlanta|Tum Pok Pok|A|Laotian
+atlanta|Tipsy Thaiger|A|Thai
+atlanta|Snap Thai Fish House|A|Thai
+austin|Himalaya Kosheli Nepali & Indian|indian|Nepali
+austin|Pho Phong Luu|A|Vietnamese
+austin|House of Three Gorges|A|Szechuan
+austin|Uchiko|J|Modern Japanese
+austin|Tsuke Edomae|J|Sushi
+austin|Ramen Del Barrio|J|Ramen
+austin|P Thai's Khao Man Gai|A|Thai
+austin|Kemuri Tatsu-Ya|J|Izakaya
+austin|Craft Omakase|J|Sushi
+austin|Musashino Sushi Dokoro|J|Sushi
+austin|Sushi Roku – Austin|J|Sushi
+austin|Kappo Kappo|J|Kappo
+austin|Uchi|J|Modern Japanese
+austin|Thai Kun|A|Thai
+austin|Oseyo|A|Korean
+austin|Wu Chow|A|Dim Sum
+austin|Elizabeth Street Café|A|Vietnamese
+baltimore|The Dara|A|Thai
+baltimore|Ekiben|A|Pan-Asian
+baltimore|NiHao|A|Chinese
+baltimore|Red Pepper Sichuan Bistro|A|Szechuan
+baltimore|Toki Underground|J|Ramen
+baltimore|Chiyo Sushi|J|Sushi
+baltimore|Thai Street|A|Thai
+baltimore|Ramen Utsuke|J|Ramen
+boston|Mahaniyom|A|Thai
+boston|311 Omakase|J|Sushi
+boston|Lê Madeline|A|Vietnamese
+boston|O Ya|J|Sushi
+boston|Sumiao Hunan Kitchen|A|Hunan
+boston|Banh Mi Ba Le|A|Vietnamese
+boston|Somaek|A|Korean
+boston|Yume Ga Arukara|J|Udon
+boston|Ganko Ittetsu Ramen|J|Ramen
+boston|Iru|A|Korean
+boston|Mountain House|A|Szechuan
+boston|No Relation|J|Sushi
+boston|Pagu|J|Japanese-Spanish
+boston|Pho Le|A|Vietnamese
+boston|Pho Pasteur|A|Vietnamese
+boston|Qiao Lin Hotpot|A|Hot Pot
+boston|Rubato|A|Hong Kong
+boston|Shojo|A|Pan-Asian
+boston|Sugidama Soba & Izakaya|J|Soba
+boston|Sushi at Temple Records|J|Sushi
+boston|Taiwan Cafe|A|Taiwanese
+boston|Uni|J|Sushi
+boston|Wa Shin|J|Sushi
+boston|Wusong Road|A|Chinese-American
+boston|Yoshida Omakase|J|Sushi
+boston|Yume Wo Katare|J|Ramen
+boston|Gene's Chinese Flatbread Cafe|A|Xi'an
+boston|Xi'an Rougamo|A|Xi'an
+boston|The Koji Club|J|Sake Bar
+charleston|Chef Loong Dim Sum|A|Dim Sum
+charleston|Jackrabbit Filly|A|Chinese-American
+charleston|Kultura|A|Filipino
+charleston|Kwei Fei|A|Szechuan
+charleston|Pink Bellies|A|Vietnamese
+charleston|SHIKI|J|Sushi
+charleston|Sushi-Wa|J|Sushi
+charleston|XO Brasserie|A|Cantonese
+charleston|Bareo|A|Filipino
+charleston|Xiao Bao Biscuit|A|Pan-Asian
+charleston|Bar Weems|J|Ramen
+charleston|Sushi Bar|J|Sushi
+chicago|Kasama|A|Filipino
+chicago|HaiSous|A|Vietnamese
+chicago|Akahoshi Ramen|J|Ramen
+chicago|Kyoten Next Door|J|Sushi
+chicago|Sushi by Scratch|J|Sushi
+chicago|Mott St|A|Asian-American
+chicago|Chef's Special Cocktail Bar|A|Chinese-American
+chicago|Hermosa|A|Cambodian
+chicago|NoodleBird|A|Macanese
+chicago|Sun Wah BBQ|A|Cantonese
+chicago|Sushi-san|J|Sushi
+chicago|JM Seafood|A|Cantonese
+chicago|SHO|J|Sushi
+chicago|Jeong|A|Korean
+chicago|Crying Tiger|A|Southeast Asian
+chicago|YooYee|A|Szechuan
+chicago|Shanghai Terrace|A|Cantonese
+chicago|Boonie's|A|Filipino
+chicago|Sochi Saigonese Kitchen|A|Vietnamese
+chicago|Ghin Khao|A|Thai
+chicago|Mako|J|Sushi
+chicago|Torizen|J|Yakitori
+chicago|New Village Gastro Pub|A|Korean
+chicago|Noodles Party|A|Thai
+chicago|Go 4 Food|A|Chinese
+chicago|Lao Peng You|A|Dumplings
+chicago|Omakase Box|J|Sushi
+chicago|Nhu Lan Bakery|A|Vietnamese
+chicago|Lao Hu Tong|A|Chinese
+chicago|Bayan Ko Diner|A|Filipino-Cuban
+chicago|Rendang Republic|A|Indonesian
+chicago|Ca Phe Da|A|Vietnamese
+chicago|Ba Le|A|Vietnamese
+chicago|MingHin Cuisine|A|Dim Sum
+chicago|Le Colonial|A|Vietnamese
+dallas|Tatsu|J|Sushi
+dallas|Mot Hai Ba|A|Vietnamese
+dallas|Mābo|J|Yakitori
+dallas|Sushi Kozy|J|Sushi
+dallas|Ka-Tip Thai Street Food|A|Thai
+dallas|Cosmo's|A|Vietnamese
+dallas|Namo|J|Sushi
+dallas|Lua Kitchen|A|Vietnamese
+dallas|Ebesu|J|Robata
+dallas|Ngon Vietnamese Kitchen|A|Vietnamese
+dallas|Ari Korean BBQ|A|Korean BBQ
+dallas|Bushi Bushi|J|Ramen
+dallas|Uchiko Plano|J|Modern Japanese
+dallas|Royal China|A|Chinese
+dallas|Uchi Dallas|J|Modern Japanese
+dallas|Tei-An|J|Soba
+denver|Dan Da|A|Vietnamese
+denver|Kizaki|J|Sushi
+denver|Hey Kiddo|A|Pan-Asian
+denver|Kawa Ni|J|Izakaya
+denver|Magna Kainan|A|Filipino
+denver|MAKfam|A|Chinese
+denver|Sap Sua|A|Vietnamese
+denver|Sushi Den|J|Sushi
+denver|Yuan Wonton|A|Chinese
+denver|Hop Alley|A|Chinese
+denver|Pig and Tiger|A|Taiwanese
+denver|Tofu Story|A|Korean
+denver|Com Nha|A|Vietnamese
+denver|Farmhouse Thai Eatery|A|Thai
+denver|Uchi Denver|J|Modern Japanese
+denver|Fortune Wok to Table|A|Cantonese
+denver|Woody's Wings & Things|A|Laotian
+denver|Glo Noodle House|J|Ramen
+denver|Uchiko|J|Modern Japanese
+denver|Temaki Den|J|Sushi
+detroit|Noori Pocha|A|Korean
+detroit|Ima Izakaya|J|Izakaya
+detroit|Flowers of Vietnam|A|Vietnamese
+detroit|Noble Fish|J|Sushi
+detroit|Takoi|A|Thai
+detroit|Shangri-La|A|Dim Sum
+houston|Baso|spanish|Basque
+houston|Katami|J|Sushi
+houston|Jūn|A|Asian-American
+houston|Banh Somtum|A|Laotian
+houston|Hong Kong Food Street|A|Hong Kong
+houston|Kira|J|Sushi
+houston|Nam Giao|A|Vietnamese
+houston|Pho Sapa|A|Vietnamese
+houston|Silk Road|A|Dim Sum
+houston|Soto|J|Sushi
+houston|Street to Kitchen|A|Thai
+houston|Turan Uyghur Kitchen|A|Uyghur
+houston|Xeo Yum|A|Vietnamese
+houston|Brisket & Rice|A|Viet-Texan BBQ
+houston|Phat Eatery|A|Malaysian
+houston|Mala Sichuan Bistro|A|Szechuan
+houston|Huynh Restaurant|A|Vietnamese
+houston|Hidden Omakase|J|Sushi
+houston|Kata Robata|J|Robata
+houston|Bodard Bistro|A|Vietnamese
+houston|Fung's Kitchen|A|Dim Sum
+houston|Sao Lao Thai Cafe|A|Laotian
+houston|Oru|J|Sushi
+houston|Di An Pho|A|Vietnamese
+houston|Vuji Cafe|A|Pan-Asian
+houston|Thiên An Sandwiches|A|Vietnamese
+houston|Thiên Thanh|A|Vietnamese
+houston|Uchi|J|Modern Japanese
+houston|Crawfish & Noodles|A|Viet-Cajun
+kansascity|Kata Nori|J|Sushi
+kansascity|Chewology|A|Taiwanese
+kansascity|Sushi Kodawari|J|Sushi
+kansascity|Waldo Thai|A|Thai
+kansascity|Noka|J|Modern Japanese
+lasvegas|YEN Viet Kitchen|A|Vietnamese
+lasvegas|Nobu|J|Modern Japanese
+lasvegas|Lotus of Siam|A|Thai
+lasvegas|Wakuda|J|Modern Japanese
+lasvegas|Morimoto|J|Modern Japanese
+lasvegas|Wing Lei|A|Cantonese
+lasvegas|Kaiseki Yuzu|J|Kaiseki
+lasvegas|ShangHai Taste|A|Shanghainese
+lasvegas|Other Mama|J|Izakaya
+lasvegas|Kame Omakase|J|Sushi
+lasvegas|Raku|J|Robata
+lasvegas|The Black Sheep|A|Vietnamese
+lasvegas|Momofuku|A|Korean-American
+lasvegas|Jasmine|A|Cantonese
+lasvegas|Chyna Club|A|Cantonese
+lasvegas|Washing Potato|A|Chinese
+lasvegas|Mizumi|J|Modern Japanese
+lasvegas|Mott 32 Las Vegas|A|Cantonese
+lasvegas|Kabuto|J|Sushi
+losangeles|Anajak Thai|A|Thai
+losangeles|Hayato|J|Kappo
+losangeles|Mori Nozomi|J|Sushi
+losangeles|Yang's Kitchen|A|Chinese
+losangeles|Bistro Na's|A|Imperial Chinese
+losangeles|Jitlada|A|Thai
+losangeles|Morihiro|J|Sushi
+losangeles|Sushi Kaneyoshi|J|Sushi
+losangeles|Chengdu Taste|A|Szechuan
+losangeles|Cobi's|A|Southeast Asian
+losangeles|Luv2Eat Thai Bistro|A|Thai
+losangeles|Perilla LA|A|Korean
+losangeles|Pine & Crane|A|Taiwanese
+losangeles|Roasted Duck by Pa Ord|A|Thai
+losangeles|Soban|A|Korean
+losangeles|Sushi Sonagi|J|Sushi
+losangeles|715|J|Sushi
+losangeles|88 Club|A|Chinese
+losangeles|Boris Gogae|A|Korean
+losangeles|China|A|Chinese
+losangeles|Dai Ho|A|Taiwanese
+losangeles|Dha Rae Oak|A|Korean
+losangeles|Genwa Korean BBQ|A|Korean BBQ
+losangeles|Hayama by WATAMI|J|Japanese
+losangeles|Henry's Cuisine|A|Cantonese
+losangeles|Holy Basil Market|A|Thai
+losangeles|Ipoh Kopitiam|A|Malaysian
+losangeles|Joy|A|Taiwanese
+losangeles|Jun Won Dak|A|Korean
+losangeles|KOJIMA|J|Japanese
+losangeles|KTEAM BBQ|A|Korean BBQ
+losangeles|Kuya Lord|A|Filipino
+losangeles|LaoXi Noodle House|A|Shanxi
+losangeles|Liu's Cafe|A|Taiwanese
+losangeles|Longo Seafood|A|Cantonese
+losangeles|Lunasia|A|Dim Sum
+losangeles|Luscious Dumplings|A|Dumplings
+losangeles|Mae Malai|A|Thai
+losangeles|MDK Noodles|A|Korean
+losangeles|Miura|J|Japanese
+losangeles|Nong Lá Cafe|A|Vietnamese
+losangeles|Nozawa Bar|J|Sushi
+losangeles|Ototo|J|Sake Bar
+losangeles|Park's BBQ|A|Korean BBQ
+losangeles|Pho Ngoon|A|Vietnamese
+losangeles|Pikunico|J|Karaage
+losangeles|RasaRumah|A|Malaysian
+losangeles|Sea Harbour|A|Dim Sum
+losangeles|Shin Sushi|J|Sushi
+losangeles|Sichuan Impression|A|Szechuan
+losangeles|Soowon Galbi|A|Korean BBQ
+losangeles|Sushi Gen|J|Sushi
+losangeles|Sushi Inaba|J|Sushi
+losangeles|Tsubaki|J|Izakaya
+losangeles|Padi|A|Indonesian
+losangeles|Naisho Omakase|J|Sushi
+losangeles|N/Soto|J|Izakaya
+losangeles|Kogi BBQ|A|Korean-Mexican
+miami|Zitz Sum|A|Dim Sum
+miami|Cotoa|latin|Ecuadorian
+miami|Hiyakawa|J|Sushi
+miami|Double Luck|A|Chinese-American
+miami|Naoe|J|Sushi
+miami|Long Gong|A|Chinese
+miami|Hiden|J|Sushi
+miami|Ogawa|J|Sushi
+miami|Shingo|J|Sushi
+miami|Phuc Yea|A|Vietnamese
+miami|Kaori Miami|A|Pan-Asian
+miami|Shiso|A|Pan-Asian
+miami|Lung Yai Thai Tapas|A|Thai
+miami|Tropical Chinese Restaurant|A|Dim Sum
+miami|Makoto|J|Modern Japanese
+miami|Mottai|J|Japanese
+miami|Tokyo Tuna|J|Sushi
+miami|Ricky Thai Bistro|A|Thai
+miami|Tin Tin|latin|Cuban
+miami|Itamae AO|J|Nikkei
+miami|Zuma|J|Izakaya
+miami|KYU|A|Pan-Asian
+milwaukee|Room Service|A|Thai
+milwaukee|1033 Omakase|J|Sushi
+milwaukee|Vientiane Noodle Shop|A|Laotian
+milwaukee|Momo Mee|A|Pan-Asian
+milwaukee|Sze Chuan Restaurant|A|Szechuan
+milwaukee|Dan Dan|A|Chinese
+milwaukee|Nakama|J|Sushi
+nashville|Kisser|J|Japanese
+nashville|Kase x Noko|J|Sushi
+nashville|Present Tense|J|Izakaya
+nashville|Noko|A|Pan-Asian
+nashville|International Market|A|Thai
+nashville|Xiao Bao|A|Pan-Asian
+nashville|S.S. Gai|A|Thai
+nashville|Kien Giang|A|Vietnamese
+nashville|East Side Banh Mi|A|Vietnamese
+nashville|VN Pho & Deli|A|Vietnamese
+nashville|Hai Woon Dai|A|Korean
+nashville|Otaku Ramen|J|Ramen
+nashville|Bad Idea|A|Laotian
+neworleans|Budsi's Authentic Thai|A|Thai
+neworleans|Luvi|A|Pan-Asian
+neworleans|Ba Mien|A|Vietnamese
+neworleans|Tân Định|A|Vietnamese
+neworleans|Lufu Nola|A|Chinese
+neworleans|Chada|A|Thai
+neworleans|Luvi Restaurant|A|Pan-Asian
+neworleans|Dian Xin|A|Dim Sum
+neworleans|Tan Dinh|A|Vietnamese
+newyork|Ramen by Ra|J|Ramen
+newyork|Sushi Sho|J|Sushi
+newyork|Banh Anh Em|A|Vietnamese
+newyork|Bong|A|Cambodian
+newyork|Che Li|A|Shanghainese
+newyork|Cho Dang Gol|A|Korean
+newyork|Mắm|A|Vietnamese
+newyork|Saranrom Thai|A|Thai
+newyork|Thai Diner|A|Thai
+newyork|Win Son|A|Taiwanese
+newyork|Yamada|J|Kaiseki
+newyork|Yoshino|J|Sushi
+newyork|Zaab Zaab|A|Thai
+newyork|8282|A|Korean
+newyork|Alley 41|A|Szechuan
+newyork|Atoboy|A|Korean
+newyork|Ayada|A|Thai
+newyork|Bar Miller|J|Sushi
+newyork|Bayon|A|Cambodian
+newyork|Bonnie's|A|Cantonese
+newyork|C as in Charlie|A|Korean
+newyork|Chalong|A|Thai
+newyork|Chuan Tian Xia|A|Szechuan
+newyork|Coqodaq|A|Korean
+newyork|Dim Sum Go Go|A|Dim Sum
+newyork|Ha's Snack Bar|A|Vietnamese
+newyork|Haenyeo|A|Korean
+newyork|HanGawi|A|Korean
+newyork|Hupo|A|Yunnan
+newyork|icca|J|Sushi
+newyork|ITO|J|Sushi
+newyork|Jeju Noodle Bar|A|Korean
+newyork|Jiang Nan|A|Chinese
+newyork|Joji|J|Sushi
+newyork|Kappo Sono|J|Kappo
+newyork|Khao Kang|A|Thai
+newyork|Kisa|A|Korean
+newyork|Kono|J|Yakitori
+newyork|Kosaka|J|Sushi
+newyork|Kung Fu Little Steamed Buns|A|Dumplings
+newyork|La Dong|A|Vietnamese
+newyork|Legend of Taste|A|Szechuan
+newyork|Lei|A|Chinese
+newyork|Little Alley|A|Shanghainese
+newyork|Little Myanmar|A|Burmese
+newyork|MaLa Project|A|Szechuan
+newyork|Mama Lee|A|Taiwanese
+newyork|Mari|A|Korean
+newyork|Masa|J|Sushi
+newyork|Momofuku Noodle Bar|A|Asian-American
+newyork|Muku|J|Kaiseki
+newyork|Nami Nori|J|Sushi
+newyork|Noda|J|Sushi
+newyork|Noreetuh|A|Hawaiian
+newyork|Noz 17|J|Sushi
+newyork|Noz Market|J|Sushi
+newyork|Nyonya|A|Malaysian
+newyork|Odo|J|Kaiseki
+newyork|Oiji Mi|A|Korean
+newyork|Peppercorn Station|A|Szechuan
+newyork|Phayul|A|Tibetan
+newyork|Pinch Chinese|A|Dumplings
+newyork|Potluck Club|A|Cantonese
+newyork|Pranakhon|A|Thai
+newyork|Raku|J|Udon
+newyork|Sal Tang's|A|Chinese-American
+newyork|Shalom Japan|J|Jewish-Japanese
+newyork|Shota|J|Sushi
+newyork|Shu Jiao Fu Zhou Cuisine|A|Fuzhounese
+newyork|Sky Pavilion|A|Szechuan
+newyork|Sobaya|J|Soba
+newyork|Sunn's|A|Chinese
+newyork|Sushi Nakazawa|J|Sushi
+newyork|Sushi Noz|J|Sushi
+newyork|Tempura Matsui|J|Tempura
+newyork|Tha Phraya|A|Thai
+newyork|Tolo|A|Chinese
+newyork|Tonchin|J|Ramen
+newyork|Tong Sam Gyup Goo Yi|A|Korean BBQ
+newyork|Torien|J|Yakitori
+newyork|Tsukimi|J|Kaiseki
+newyork|Tuome|A|Asian-American
+newyork|Untable|A|Thai
+newyork|Warung Selasa at IndoJava|A|Indonesian
+newyork|Yingtao|A|Chinese
+newyork|Ho Foods|A|Taiwanese
+newyork|Chongqing Lao Zao|A|Hot Pot
+newyork|Bangkok Supper Club|A|Thai
+newyork|Kaew Jao Jorm Thai Restaurant|A|Thai
+newyork|Xu Chu|A|Szechuan
+newyork|New Asha Sri Lanka Restaurant|indian|Sri Lankan
+newyork|Ambrosia Garden|greek|Greek
+newyork|Thái Sơn|A|Vietnamese
+newyork|Don Udon|J|Udon
+newyork|Taku Sando|J|Sando
+newyork|Beef Up Noodle|A|Taiwanese
+newyork|Her Name Is Han|A|Korean
+newyork|Birds of a Feather|A|Szechuan
+newyork|Maxi's Noodle|A|Cantonese
+newyork|Mission Chinese Food|A|Szechuan
+newyork|Momofuku Ssäm Bar|A|Korean-American
+philadelphia|Royal Sushi & Izakaya|J|Sushi
+philadelphia|Kalaya|A|Thai
+philadelphia|Mawn|A|Cambodian
+philadelphia|Càphê Roasters|A|Vietnamese
+philadelphia|Sao|A|Cambodian
+philadelphia|Sang Kee Peking Duck House|A|Cantonese
+philadelphia|Ogawa|J|Sushi
+philadelphia|Cafe Nhan|A|Vietnamese
+philadelphia|Vietnam Cafe|A|Vietnamese
+philadelphia|Nan Zhou Hand Drawn Noodle House|A|Lanzhou Noodles
+philadelphia|Vientiane Cafe|A|Laotian
+philadelphia|Kim's|A|Korean BBQ
+philadelphia|Dim Sum Garden|A|Dim Sum
+philadelphia|Sakana Omakase Sushi|J|Sushi
+philadelphia|Vietnam Restaurant|A|Vietnamese
+philadelphia|Nam Phuong|A|Vietnamese
+phoenix|Lom Wong|A|Thai
+phoenix|Da Vang|A|Vietnamese
+phoenix|Hana Japanese Eatery|J|Sushi
+phoenix|Glai Baan|A|Thai
+phoenix|ShinBay|J|Sushi
+phoenix|Nobuo at Teeter House|J|Modern Japanese
+portland|Langbaan|A|Thai
+portland|Hà VL|A|Vietnamese
+portland|Murata|J|Kaiseki
+portland|Kaede|J|Japanese
+portland|Han Oak|A|Korean
+portland|Nimblefish|J|Sushi
+portland|Eem|A|Thai
+portland|Xiao Ye|A|Taiwanese
+portland|Yaowarat|A|Thai
+portland|Oma's Hideaway|A|Malaysian
+portland|Jeju|A|Korean
+portland|Nong's Khao Man Gai|A|Thai
+portland|Gado Gado|A|Indonesian
+portland|OK Chicken and Khao Soi|A|Thai
+portland|The Paper Bridge|A|Vietnamese
+portland|Pasar|A|Indonesian
+portland|Excellent Cuisine|A|Dim Sum
+portland|Kau Kau|A|Cantonese
+portland|Nodoguro|J|Kaiseki
+portland|Obon Shokudo|J|Japanese
+portland|Rangoon Bistro|A|Burmese
+portland|Wajan|A|Indonesian
+portland|Annam VL|A|Vietnamese
+portland|Paadee|A|Thai
+portland|Duck House|A|Szechuan
+portland|Khao Moo Dang|A|Thai
+portland|Mémoire Cà Phê|A|Vietnamese
+portland|Masu Sushi|J|Sushi
+portland|Rose VL|A|Vietnamese
+portland|Kita Steak & Ribs|A|Vietnamese
+portland|Bun Bo Hue|A|Vietnamese
+portland|Double Dragon|A|Asian-American
+portland|The House of Banh Mi|A|Vietnamese
+portland|Giraffe Goods|J|Japanese Deli
+portland|Pok Pok|A|Thai
+sandiego|Soichi|J|Sushi
+sandiego|Dija Mara|A|Indonesian
+sandiego|Animae|A|Pan-Asian
+sandiego|Kingfisher|A|Vietnamese
+sandiego|Yakitori Tsuta|J|Yakitori
+sandiego|Shan Xi Magic Kitchen|A|Shanxi
+sandiego|Mom Kitchen|A|Hong Kong
+sandiego|Sushi Ichifuji|J|Sushi
+sandiego|Kinme|J|Sushi
+sandiego|Meet Dumpling|A|Dumplings
+sandiego|Sovereign Modern Thai|A|Thai
+sandiego|Izakaya Masa|J|Izakaya
+sandiego|Sushi Ota|J|Sushi
+sanfrancisco|Nari|A|Thai
+sanfrancisco|San Ho Won|A|Korean BBQ
+sanfrancisco|Four Kings|A|Cantonese
+sanfrancisco|Mister Jiu's|A|Cantonese
+sanfrancisco|Rintaro|J|Izakaya
+sanfrancisco|Kin Khao|A|Thai
+sanfrancisco|Azalina's|A|Malaysian
+sanfrancisco|Good Good Culture Club|A|Southeast Asian
+sanfrancisco|Lunette|A|Cambodian
+sanfrancisco|Mandalay|A|Burmese
+sanfrancisco|Soba Ichi|J|Soba
+sanfrancisco|Thanh Long|A|Vietnamese
+sanfrancisco|Yuanbao Jiaozi|A|Dumplings
+sanfrancisco|Abaca|A|Filipino
+sanfrancisco|Bansang|A|Korean
+sanfrancisco|Bodega SF|A|Vietnamese
+sanfrancisco|Crustacean San Francisco|A|Vietnamese
+sanfrancisco|Daeho|A|Korean
+sanfrancisco|Dumpling Home|A|Dumplings
+sanfrancisco|FOB Kitchen|A|Filipino
+sanfrancisco|Good Mong Kok|A|Dim Sum
+sanfrancisco|Great China|A|Chinese
+sanfrancisco|Ippuku|J|Yakitori
+sanfrancisco|Jo's Modern Thai|A|Thai
+sanfrancisco|Joodooboo|A|Korean
+sanfrancisco|KEN|J|Sushi
+sanfrancisco|Khao Tiew|A|Thai
+sanfrancisco|Mamahuhu|A|Chinese-American
+sanfrancisco|Marufuku Ramen|J|Ramen
+sanfrancisco|New Dumpling|A|Dumplings
+sanfrancisco|Nope Fish|J|Japanese
+sanfrancisco|Okane|J|Izakaya
+sanfrancisco|Old Mandarin Islamic|A|Halal Chinese
+sanfrancisco|Ox & Tiger|J|Filipino-Japanese
+sanfrancisco|Palette Tea House|A|Dim Sum
+sanfrancisco|Piglet & Co|A|Taiwanese
+sanfrancisco|Ramen Shop|J|Ramen
+sanfrancisco|Saigon Sandwich|A|Vietnamese
+sanfrancisco|Showa|J|Tonkatsu
+sanfrancisco|Sohn|A|Korean
+sanfrancisco|Taishan Cuisine|A|Taishanese
+sanfrancisco|Teni East Kitchen|A|Burmese
+sanfrancisco|The Thonglor|A|Thai
+sanfrancisco|Village Sake|J|Izakaya
+sanfrancisco|Wakuriya|J|Kaiseki
+sanfrancisco|Yank Sing|A|Dim Sum
+sanfrancisco|Z&Y|A|Szechuan
+sanfrancisco|Z&Y Peking Duck|A|Peking Duck
+sanfrancisco|Noodle in a Haystack|J|Ramen
+sanfrancisco|KUSAKABE|J|Sushi
+sanfrancisco|Hwa Mi Won|A|Korean
+sanfrancisco|Anh Hong|A|Vietnamese
+sanfrancisco|Harborview|A|Dim Sum
+sanfrancisco|Mission Chinese Food|A|Szechuan
+seattle|Billiard Hoang|A|Vietnamese
+seattle|Musang|A|Filipino
+seattle|E-Jae Pak Mor|A|Thai
+seattle|Dim Sum King|A|Dim Sum
+seattle|The Boat|A|Vietnamese
+seattle|Oriental Mart|A|Filipino
+seattle|Ramie|A|Vietnamese
+seattle|Taurus Ox|A|Laotian
+seattle|Joule|A|Korean
+seattle|Kamonegi|J|Soba
+seattle|Archipelago|A|Filipino
+seattle|Chicken Supply|A|Filipino
+seattle|Iconiq|J|French-Japanese
+seattle|Kin Len Thai Night Bites|A|Thai
+seattle|Maneki|J|Izakaya
+seattle|Marination Ma Kai|A|Hawaiian-Korean
+seattle|Paju|A|Korean
+seattle|Pho Bac Súp Shop|A|Vietnamese
+seattle|Secret Congee|A|Congee
+seattle|Sophon|A|Cambodian
+seattle|Taneda Sushi in Kaiseki|J|Sushi
+seattle|Xi'an Noodles|A|Xi'an
+seattle|Sushi Kashiba|J|Sushi
+seattle|Shomon Kappo Sushi|J|Sushi
+seattle|Aroy Mak|A|Thai
+seattle|Miss Pho|A|Vietnamese
+seattle|Ba Bar|A|Vietnamese
+seattle|Kilig|A|Filipino
+seattle|Bé Mi|A|Vietnamese
+seattle|Buddha Ruksa|A|Thai
+seattle|Onibaba|J|Onigiri
+seattle|Sushi Kappo Tamura|J|Sushi
+seattle|Reckless Noodle House and Cocktails|A|Vietnamese
+triangle|Bida Manda|A|Laotian
+triangle|Garland|indian|Indian-Asian
+triangle|Lantern|A|Pan-Asian
+triangle|G.58|A|Chinese
+triangle|Brewery Bhavana|A|Dim Sum
+triangle|M Sushi|J|Sushi
+triangle|Jade Palace|A|Chinese
+triangle|Chirba Chirba|A|Dumplings
+triangle|Thai Cafe|A|Thai
+triangle|Omakase by Kai|J|Sushi
+triangle|Seoul Garden|A|Korean
+triangle|Heirloom Brewshop|A|Pan-Asian
+twincities|Vinai|A|Hmong
+twincities|Khaluna|A|Laotian
+twincities|Kado no Mise|J|Sushi
+twincities|Gai Noi|A|Laotian
+twincities|Quang Restaurant|A|Vietnamese
+twincities|On's Kitchen|A|Thai
+twincities|Cheng Heng Restaurant|A|Cambodian
+twincities|Zen Box Izakaya|J|Izakaya
+twincities|Khue's Kitchen|A|Vietnamese
+washington|Moon Rabbit|A|Vietnamese
+washington|Omakase @ Barracks Row|J|Sushi
+washington|Baan Mae|A|Thai
+washington|Maketto|A|Cambodian-Taiwanese
+washington|Perry's|J|Japanese
+washington|Mama Chang|A|Chinese
+washington|Sushi Nakazawa|J|Sushi
+washington|Menya Hosaki|J|Ramen
+washington|Astoria DC|A|Szechuan
+washington|Thip Khao|A|Laotian
+washington|Baan Siam|A|Thai
+washington|Kuya Ja's Lechon Belly|A|Filipino
+washington|Laos in Town|A|Laotian
+washington|PhoXotic|A|Vietnamese
+washington|Queen's English|A|Hong Kong
+washington|Toki Underground|J|Ramen
+washington|SURA|A|Thai
+washington|Nasime|J|Kaiseki
+washington|Lucky Danger|A|Chinese-American
+washington|Sushi Taro|J|Sushi
+washington|Purple Patch|A|Filipino
+washington|Anju|A|Korean
+washington|KYOJIN|J|Japanese
+washington|Bantam King|J|Ramen

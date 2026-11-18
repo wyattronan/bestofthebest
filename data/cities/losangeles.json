@@ -271,7 +271,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Thai"
   },
   {
    "name": "Baroo",
@@ -595,7 +596,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Kappo"
   },
   {
    "name": "Mori Nozomi",
@@ -624,7 +626,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "Quarter Sheets",
@@ -769,7 +772,8 @@
    ],
    "dual": false,
    "vb": "healthy",
-   "to": 1
+   "to": 1,
+   "sub": "Chinese"
   },
   {
    "name": "Antico Nuovo",
@@ -830,7 +834,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Imperial Chinese"
   },
   {
    "name": "Camélia",
@@ -920,7 +925,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Thai"
   },
   {
    "name": "Moo's Craft BBQ",
@@ -971,7 +977,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "Mélisse",
@@ -1187,7 +1194,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "Two Hommés",
@@ -1289,7 +1297,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Szechuan"
   },
   {
    "name": "Cobi's",
@@ -1312,7 +1321,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Southeast Asian"
   },
   {
    "name": "Destroyer",
@@ -1563,7 +1573,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Thai"
   },
   {
    "name": "Orsa & Winston",
@@ -1638,7 +1649,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Korean"
   },
   {
    "name": "Petit Trois",
@@ -1691,7 +1703,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "lu": 1
+   "lu": 1,
+   "sub": "Taiwanese"
   },
   {
    "name": "Roasted Duck by Pa Ord",
@@ -1712,7 +1725,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Thai"
   },
   {
    "name": "Soban",
@@ -1733,7 +1747,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Korean"
   },
   {
    "name": "Sonoratown",
@@ -1781,7 +1796,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "Tacos Los Cholos",
@@ -1835,7 +1851,7 @@
   {
    "name": "715",
    "hood": "Los Angeles",
-   "type": "asian",
+   "type": "japanese",
    "typekind": "cui",
    "note": "Location unverified — not pinned on the map",
    "pr": 2,
@@ -1846,7 +1862,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Sushi"
   },
   {
    "name": "88 Club",
@@ -1864,7 +1881,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Chinese"
   },
   {
    "name": "A&J Seafood Shack",
@@ -2164,7 +2182,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Korean"
   },
   {
    "name": "Brent's Deli",
@@ -2355,7 +2374,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Chinese"
   },
   {
    "name": "Citrin",
@@ -2522,7 +2542,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Taiwanese"
   },
   {
    "name": "Dha Rae Oak",
@@ -2538,7 +2559,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Korean"
   },
   {
    "name": "Donna's",
@@ -2670,7 +2692,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Korean BBQ"
   },
   {
    "name": "Gjelina",
@@ -2785,7 +2808,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Japanese"
   },
   {
    "name": "Henry's Cuisine",
@@ -2804,7 +2828,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Cantonese"
   },
   {
    "name": "Hermon's",
@@ -2880,7 +2905,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Thai"
   },
   {
    "name": "HomeState",
@@ -2935,7 +2961,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Malaysian"
   },
   {
    "name": "Jones Hollywood",
@@ -2988,7 +3015,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Taiwanese"
   },
   {
    "name": "Jun Won Dak",
@@ -3006,7 +3034,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Korean"
   },
   {
    "name": "Kali",
@@ -3068,7 +3097,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Japanese"
   },
   {
    "name": "KTEAM BBQ",
@@ -3085,7 +3115,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Korean BBQ"
   },
   {
    "name": "Kuya Lord",
@@ -3107,7 +3138,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Filipino"
   },
   {
    "name": "Lalibela",
@@ -3144,7 +3176,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Shanxi"
   },
   {
    "name": "Lapaba",
@@ -3215,7 +3248,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "sub": "Taiwanese"
   },
   {
    "name": "Longo Seafood",
@@ -3233,7 +3267,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Cantonese"
   },
   {
    "name": "Lucia",
@@ -3273,7 +3308,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Dim Sum"
   },
   {
    "name": "Luscious Dumplings",
@@ -3290,7 +3326,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Dumplings"
   },
   {
    "name": "Lynx",
@@ -3368,7 +3405,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Thai"
   },
   {
    "name": "Mariscos Jalisco",
@@ -3442,7 +3480,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Korean"
   },
   {
    "name": "Mercado La Paloma",
@@ -3536,7 +3575,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Japanese"
   },
   {
    "name": "Mother Wolf",
@@ -3591,7 +3631,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "sub": "Vietnamese"
   },
   {
    "name": "Nozawa Bar",
@@ -3608,7 +3649,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "Ototo",
@@ -3626,7 +3668,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sake Bar"
   },
   {
    "name": "Pann's",
@@ -3662,7 +3705,8 @@
    ],
    "dual": false,
    "vb": "specialty",
-   "to": 1
+   "to": 1,
+   "sub": "Korean BBQ"
   },
   {
    "name": "Pasjoli",
@@ -3700,7 +3744,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Vietnamese"
   },
   {
    "name": "Pika Palace",
@@ -3734,7 +3779,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Karaage"
   },
   {
    "name": "Pizzana",
@@ -3833,7 +3879,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Malaysian"
   },
   {
    "name": "Redbird",
@@ -3964,7 +4011,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Dim Sum"
   },
   {
    "name": "Seedy",
@@ -3997,7 +4045,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "Sichuan Impression",
@@ -4015,7 +4064,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Szechuan"
   },
   {
    "name": "Soowon Galbi",
@@ -4032,7 +4082,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Korean BBQ"
   },
   {
    "name": "Sqirl",
@@ -4092,7 +4143,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "Sushi Inaba",
@@ -4113,7 +4165,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "Taqueria Frontera",
@@ -4249,7 +4302,8 @@
    ],
    "dual": false,
    "vb": "quick",
-   "to": 1
+   "to": 1,
+   "sub": "Izakaya"
   },
   {
    "name": "Union",
@@ -5099,7 +5153,8 @@
    "dual": false,
    "vb": "asian",
    "lu": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Indonesian"
   },
   {
    "name": "Doto",
@@ -5323,7 +5378,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "sub": "Sushi"
   },
   {
    "name": "Strong Water",
@@ -5377,7 +5433,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "sub": "Izakaya"
   },
   {
    "name": "Kogi BBQ",
@@ -5395,7 +5452,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "sub": "Korean-Mexican"
   },
   {
    "name": "Taco María",

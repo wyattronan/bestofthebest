@@ -461,7 +461,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Thai"
   },
   {
    "name": "Brisa do Mar",
@@ -535,7 +536,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "Allie Boy's Bagelry & Luncheonette",
@@ -850,7 +852,7 @@
   {
    "name": "Vientiane Noodle Shop",
    "hood": "Silver City",
-   "type": "thai",
+   "type": "asian",
    "typekind": "cui",
    "lat": 43.0217969,
    "lng": -87.9572388,
@@ -862,12 +864,13 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Laotian"
   },
   {
    "name": "Momo Mee",
    "hood": "Walker's Point",
-   "type": "chinese",
+   "type": "asian",
    "typekind": "cui",
    "lat": 43.0171855,
    "lng": -87.9108539,
@@ -879,7 +882,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Pan-Asian"
   },
   {
    "name": "Flour Girl & Flame",
@@ -956,7 +960,7 @@
   {
    "name": "Sze Chuan Restaurant",
    "hood": "West Allis",
-   "type": "chinese",
+   "type": "asian",
    "typekind": "cui",
    "lat": 42.992095,
    "lng": -88.051269,
@@ -968,7 +972,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Szechuan"
   },
   {
    "name": "Wioletta's Polish Market",
@@ -1041,7 +1046,7 @@
   {
    "name": "Dan Dan",
    "hood": "Third Ward",
-   "type": "chinese",
+   "type": "asian",
    "typekind": "cui",
    "lat": 43.0300342,
    "lng": -87.9053339,
@@ -1053,7 +1058,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Chinese"
   },
   {
    "name": "Nakama",
@@ -1069,7 +1075,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "sub": "Sushi"
   }
  ],
  "bars": [

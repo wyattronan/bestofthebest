@@ -213,7 +213,7 @@
   {
    "name": "The Dara",
    "hood": "Fells Point",
-   "type": "thai",
+   "type": "asian",
    "typekind": "cui",
    "lat": 39.2816441,
    "lng": -76.5899191,
@@ -225,7 +225,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Thai"
   },
   {
    "name": "The Duchess",
@@ -296,7 +297,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Pan-Asian"
   },
   {
    "name": "Faidley's Seafood",
@@ -586,7 +588,7 @@
   {
    "name": "NiHao",
    "hood": "Canton",
-   "type": "chinese",
+   "type": "asian",
    "typekind": "cui",
    "lat": 39.282911,
    "lng": -76.5838725,
@@ -606,7 +608,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Chinese"
   },
   {
    "name": "Oleum",
@@ -725,7 +728,7 @@
   {
    "name": "Red Pepper Sichuan Bistro",
    "hood": "Towson",
-   "type": "chinese",
+   "type": "asian",
    "typekind": "cui",
    "lat": 39.4015249,
    "lng": -76.6031555,
@@ -737,7 +740,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Szechuan"
   },
   {
    "name": "Rooted Rotisserie",
@@ -932,7 +936,7 @@
   {
    "name": "Toki Underground",
    "hood": "Waverly",
-   "type": "ramen",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 39.3216106,
    "lng": -76.6092741,
@@ -944,7 +948,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Ramen"
   },
   {
    "name": "Blacksauce Kitchen",
@@ -1130,7 +1135,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "Maggie's Farm",
@@ -1254,7 +1260,7 @@
   {
    "name": "Thai Street",
    "hood": "Fells Point",
-   "type": "thai",
+   "type": "asian",
    "typekind": "cui",
    "lat": 39.2840506,
    "lng": -76.5934443,
@@ -1266,7 +1272,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Thai"
   },
   {
    "name": "Ramen Utsuke",
@@ -1283,7 +1290,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Ramen"
   },
   {
    "name": "SoBo Cafe",

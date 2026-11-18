@@ -21,7 +21,8 @@
    "vb": "global",
    "dual": false,
    "vg": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Laotian"
   },
   {
    "name": "The Cortez Seafood + Cocktail",
@@ -68,7 +69,7 @@
   {
    "name": "Garland",
    "hood": "Raleigh",
-   "type": "asian",
+   "type": "indian",
    "typekind": "cui",
    "lat": 35.77843,
    "lng": -78.643,
@@ -85,7 +86,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Indian-Asian"
   },
   {
    "name": "Gocciolina",
@@ -128,7 +130,8 @@
    ],
    "vb": "datenight",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Pan-Asian"
   },
   {
    "name": "Mandolin",
@@ -305,7 +308,8 @@
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Chinese"
   },
   {
    "name": "Tamasha",
@@ -436,7 +440,8 @@
    ],
    "vb": "datenight",
    "dual": true,
-   "vg": 1
+   "vg": 1,
+   "sub": "Dim Sum"
   },
   {
    "name": "Pizzeria Mercato",
@@ -685,7 +690,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "sub": "Sushi"
   },
   {
    "name": "Brodeto",
@@ -874,7 +880,8 @@
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Chinese"
   },
   {
    "name": "Cocoa Cinnamon",
@@ -933,7 +940,8 @@
    "vb": "quick",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Dumplings"
   },
   {
    "name": "Vimala's Curryblossom Cafe",
@@ -1060,7 +1068,8 @@
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Thai"
   },
   {
    "name": "Heavenly Buffaloes",
@@ -1133,7 +1142,8 @@
    ],
    "dual": false,
    "vb": "tasting",
-   "lu": 1
+   "lu": 1,
+   "sub": "Sushi"
   },
   {
    "name": "Napa Bistro & Wine Bar",
@@ -1208,7 +1218,7 @@
   {
    "name": "Seoul Garden",
    "hood": "Cary",
-   "type": "korean",
+   "type": "asian",
    "typekind": "cui",
    "lat": 35.7800395,
    "lng": -78.7954273,
@@ -1220,7 +1230,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Korean"
   },
   {
    "name": "Hummingbird",
@@ -1322,7 +1333,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Pan-Asian"
   },
   {
    "name": "Ideal's Sandwich Shop",

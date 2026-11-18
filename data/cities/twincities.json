@@ -209,7 +209,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Hmong"
   },
   {
    "name": "Khaluna",
@@ -230,7 +231,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Laotian"
   },
   {
    "name": "Kado no Mise",
@@ -255,7 +257,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "sub": "Sushi"
   },
   {
    "name": "Diane's Place",
@@ -437,7 +440,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "lu": 1
+   "lu": 1,
+   "sub": "Laotian"
   },
   {
    "name": "Nightingale",
@@ -659,7 +663,7 @@
   {
    "name": "Quang Restaurant",
    "hood": "Whittier",
-   "type": "vietnamese",
+   "type": "asian",
    "typekind": "cui",
    "lat": 44.9530649,
    "lng": -93.2776908,
@@ -671,7 +675,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Vietnamese"
   },
   {
    "name": "Manny's Steakhouse",
@@ -883,7 +888,7 @@
   {
    "name": "On's Kitchen",
    "hood": "Union Park",
-   "type": "thai",
+   "type": "asian",
    "typekind": "cui",
    "lat": 44.9559,
    "lng": -93.1684528,
@@ -895,7 +900,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Thai"
   },
   {
    "name": "Bole Ethiopian Cuisine",
@@ -980,7 +986,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Cambodian"
   },
   {
    "name": "Cossetta",
@@ -1103,7 +1110,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Izakaya"
   },
   {
    "name": "Pimento Jamaican Kitchen",
@@ -1204,7 +1212,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "sub": "Vietnamese"
   }
  ],
  "bars": [

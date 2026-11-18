@@ -356,7 +356,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Dim Sum"
   },
   {
    "name": "Madroño",
@@ -383,7 +384,7 @@
   {
    "name": "Cotoa",
    "hood": "Coconut Grove",
-   "type": "asian",
+   "type": "latin",
    "typekind": "cui",
    "lat": 25.73538,
    "lng": -80.24162,
@@ -403,7 +404,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Ecuadorian"
   },
   {
    "name": "Hiyakawa",
@@ -428,7 +430,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "sub": "Sushi"
   },
   {
    "name": "Double Luck",
@@ -454,7 +457,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Chinese-American"
   },
   {
    "name": "Naoe",
@@ -471,7 +475,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "sub": "Sushi"
   },
   {
    "name": "Edan Bistro",
@@ -585,7 +590,8 @@
    "dual": false,
    "vg": 1,
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Chinese"
   },
   {
    "name": "B & M Market and Roti Shop",
@@ -733,7 +739,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "sub": "Sushi"
   },
   {
    "name": "Le Jardinier Miami",
@@ -826,7 +833,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "sub": "Sushi"
   },
   {
    "name": "Shingo",
@@ -851,7 +859,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "sub": "Sushi"
   },
   {
    "name": "Stubborn Seed",
@@ -1154,7 +1163,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Vietnamese"
   },
   {
    "name": "Sanguich de Miami",
@@ -1331,7 +1341,8 @@
    "vb": "tasting",
    "dual": false,
    "vg": 1,
-   "vn": 1
+   "vn": 1,
+   "sub": "Pan-Asian"
   },
   {
    "name": "Red Rooster Overtown",
@@ -1357,7 +1368,7 @@
   {
    "name": "Shiso",
    "hood": "Brickell",
-   "type": "japanese",
+   "type": "asian",
    "typekind": "cui",
    "lat": 25.75604,
    "lng": -80.1886,
@@ -1369,7 +1380,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "sub": "Pan-Asian"
   },
   {
    "name": "Blue Collar",
@@ -1504,7 +1516,8 @@
    "vb": "quick",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Thai"
   },
   {
    "name": "Rusty Pelican",
@@ -1670,7 +1683,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Dim Sum"
   },
   {
    "name": "Makoto",
@@ -1691,7 +1705,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "sub": "Modern Japanese"
   },
   {
    "name": "Fooq's",
@@ -1922,7 +1937,8 @@
    ],
    "vb": "tasting",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Japanese"
   },
   {
    "name": "Rice Mediterranean Kitchen",
@@ -1959,7 +1975,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "sub": "Sushi"
   },
   {
    "name": "Apocalypse BBQ",
@@ -2086,12 +2103,13 @@
    "vb": "quick",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Thai"
   },
   {
    "name": "Tin Tin",
    "hood": "Downtown",
-   "type": "asian",
+   "type": "latin",
    "typekind": "cui",
    "lat": 25.7822,
    "lng": -80.18626,
@@ -2104,7 +2122,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Cuban"
   },
   {
    "name": "Vice City Pizza",
@@ -2140,7 +2159,8 @@
    ],
    "vb": "tasting",
    "dual": false,
-   "pr": 3
+   "pr": 3,
+   "sub": "Nikkei"
   },
   {
    "name": "Dirty French Steakhouse",
@@ -2400,7 +2420,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Izakaya"
   },
   {
    "name": "KYU",
@@ -2417,7 +2438,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Pan-Asian"
   },
   {
    "name": "Mignonette",

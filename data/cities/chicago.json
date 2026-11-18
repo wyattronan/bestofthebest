@@ -108,7 +108,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "sub": "Filipino"
   },
   {
    "name": "Oriole",
@@ -581,7 +582,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Vietnamese"
   },
   {
    "name": "Daisies",
@@ -649,7 +651,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Ramen"
   },
   {
    "name": "Asador Bastian",
@@ -796,7 +799,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "sub": "Sushi"
   },
   {
    "name": "Sanders BBQ Supply Co.",
@@ -1378,7 +1382,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "sub": "Sushi"
   },
   {
    "name": "El Che Steakhouse & Bar",
@@ -1709,7 +1714,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Asian-American"
   },
   {
    "name": "Chef's Special Cocktail Bar",
@@ -1731,7 +1737,8 @@
     ]
    ],
    "dual": true,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Chinese-American"
   },
   {
    "name": "Superkhana International",
@@ -1895,7 +1902,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Cambodian"
   },
   {
    "name": "Chubby Boys",
@@ -2066,7 +2074,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Macanese"
   },
   {
    "name": "Atsumeru",
@@ -2194,7 +2203,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Cantonese"
   },
   {
    "name": "Osteria Langhe",
@@ -2267,7 +2277,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "The Loyalist",
@@ -2359,7 +2370,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Cantonese"
   },
   {
    "name": "Daisy's Po' Boy and Tavern",
@@ -2451,7 +2463,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "sub": "Sushi"
   },
   {
    "name": "Loaf Lounge",
@@ -2503,7 +2516,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Korean"
   },
   {
    "name": "Crying Tiger",
@@ -2520,7 +2534,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Southeast Asian"
   },
   {
    "name": "YooYee",
@@ -2538,7 +2553,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Szechuan"
   },
   {
    "name": "Al Bawadi Grill",
@@ -2615,7 +2631,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Cantonese"
   },
   {
    "name": "Thattu",
@@ -2788,7 +2805,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "lu": 1
+   "lu": 1,
+   "sub": "Filipino"
   },
   {
    "name": "Munno Pizzeria & Bistro",
@@ -2825,7 +2843,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Vietnamese"
   },
   {
    "name": "Ghin Khao",
@@ -2844,7 +2863,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Thai"
   },
   {
    "name": "Chilam Balam",
@@ -2917,7 +2937,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "sub": "Sushi"
   },
   {
    "name": "Moody Tongue",
@@ -3026,7 +3047,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "sub": "Yakitori"
   },
   {
    "name": "Creepies",
@@ -3076,7 +3098,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Korean"
   },
   {
    "name": "Noodles Party",
@@ -3095,7 +3118,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Thai"
   },
   {
    "name": "Tre Dita",
@@ -3130,7 +3154,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Chinese"
   },
   {
    "name": "S.K.Y.",
@@ -3172,7 +3197,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Dumplings"
   },
   {
    "name": "RL Restaurant",
@@ -3234,7 +3260,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "sub": "Sushi"
   },
   {
    "name": "Gibsons Bar & Steakhouse",
@@ -3269,7 +3296,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "sub": "Vietnamese"
   },
   {
    "name": "Bonyeon",
@@ -3305,7 +3333,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Chinese"
   },
   {
    "name": "Bayan Ko Diner",
@@ -3324,7 +3353,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "sub": "Filipino-Cuban"
   },
   {
    "name": "Mazor",
@@ -3434,7 +3464,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Indonesian"
   },
   {
    "name": "Ca Phe Da",
@@ -3453,7 +3484,8 @@
    "dual": false,
    "vb": "quick",
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "Taqueria Chingón",
@@ -3495,7 +3527,8 @@
    "dual": false,
    "vb": "quick",
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "Alla Vita",
@@ -3550,7 +3583,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Dim Sum"
   },
   {
    "name": "Gibsons Italia",
@@ -3604,7 +3638,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "North Pond",

@@ -103,7 +103,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "lu": 1
+   "lu": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "Annette",
@@ -182,7 +183,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "sub": "Sushi"
   },
   {
    "name": "Margot",
@@ -309,7 +311,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "sub": "Pan-Asian"
   },
   {
    "name": "Kawa Ni",
@@ -330,7 +333,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Izakaya"
   },
   {
    "name": "Luchador",
@@ -368,7 +372,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Filipino"
   },
   {
    "name": "Major Tom",
@@ -407,7 +412,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "lu": 1
+   "lu": 1,
+   "sub": "Chinese"
   },
   {
    "name": "Mama Jo's Biscuits & BBQ",
@@ -501,7 +507,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Vietnamese"
   },
   {
    "name": "Somebody People",
@@ -568,7 +575,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Sushi"
   },
   {
    "name": "Xiquita",
@@ -615,7 +623,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "lu": 1
+   "lu": 1,
+   "sub": "Chinese"
   },
   {
    "name": "Nocturne",
@@ -749,7 +758,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Chinese"
   },
   {
    "name": "Odell's Bagel",
@@ -855,7 +865,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Taiwanese"
   },
   {
    "name": "The Porchetta House",
@@ -978,7 +989,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Korean"
   },
   {
    "name": "Com Nha",
@@ -995,7 +1007,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Vietnamese"
   },
   {
    "name": "Ochag",
@@ -1110,7 +1123,7 @@
   {
    "name": "Farmhouse Thai Eatery",
    "hood": "Lakewood",
-   "type": "thai",
+   "type": "asian",
    "typekind": "cui",
    "lat": 39.7168111,
    "lng": -105.0798753,
@@ -1122,7 +1135,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Thai"
   },
   {
    "name": "El Five",
@@ -1177,7 +1191,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Modern Japanese"
   },
   {
    "name": "Tavernetta",
@@ -1203,7 +1218,7 @@
   {
    "name": "Fortune Wok to Table",
    "hood": "Cherry Creek",
-   "type": "chinese",
+   "type": "asian",
    "typekind": "cui",
    "lat": 39.7211454,
    "lng": -104.955136,
@@ -1215,7 +1230,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Cantonese"
   },
   {
    "name": "A5 Steakhouse",
@@ -1363,7 +1379,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Laotian"
   },
   {
    "name": "Rioja",
@@ -1431,7 +1448,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Ramen"
   },
   {
    "name": "Alteño",
@@ -1486,7 +1504,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Modern Japanese"
   },
   {
    "name": "Temaki Den",
@@ -1503,7 +1522,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "Florence Supper Club",

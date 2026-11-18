@@ -402,7 +402,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Thai"
   },
   {
    "name": "The Stockyards",
@@ -959,7 +960,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Vietnamese"
   },
   {
    "name": "The Dhaba",
@@ -1052,7 +1054,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Sushi"
   },
   {
    "name": "Lon's at the Hermosa",
@@ -1970,7 +1973,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Thai"
   },
   {
    "name": "Haru Sushi & Grill",
@@ -2335,7 +2339,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "sub": "Sushi"
   },
   {
    "name": "Confluence",
@@ -2402,7 +2407,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "sub": "Modern Japanese"
   },
   {
    "name": "Atlas Bistro",

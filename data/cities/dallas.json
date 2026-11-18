@@ -35,7 +35,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "sub": "Sushi"
   },
   {
    "name": "Purépecha",
@@ -196,7 +197,8 @@
    ],
    "vb": "datenight",
    "dual": false,
-   "lu": 1
+   "lu": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "Cattleack",
@@ -305,7 +307,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "sub": "Yakitori"
   },
   {
    "name": "Mamani",
@@ -477,7 +480,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "sub": "Sushi"
   },
   {
    "name": "Quarter Acre",
@@ -773,7 +777,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Thai"
   },
   {
    "name": "Las Palmas",
@@ -1103,7 +1108,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Vietnamese"
   },
   {
    "name": "Mirador",
@@ -1129,7 +1135,7 @@
   {
    "name": "Namo",
    "hood": "Deep Ellum",
-   "type": "asian",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 32.78339,
    "lng": -96.77914,
@@ -1150,7 +1156,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "lu": 1
+   "lu": 1,
+   "sub": "Sushi"
   },
   {
    "name": "Bharat Bhavan",
@@ -1221,7 +1228,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "The Heritage Table",
@@ -1259,7 +1267,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "sub": "Robata"
   },
   {
    "name": "Il Bracco",
@@ -1325,7 +1334,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "The Chumley House",
@@ -1394,7 +1404,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "sub": "Korean BBQ"
   },
   {
    "name": "Cenzo's Pizza & Deli",
@@ -1418,7 +1429,7 @@
   {
    "name": "Bushi Bushi",
    "hood": "Deep Ellum",
-   "type": "asian",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 32.77793,
    "lng": -96.77961,
@@ -1432,7 +1443,8 @@
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Ramen"
   },
   {
    "name": "Uchiko Plano",
@@ -1450,7 +1462,8 @@
    ],
    "vb": "tasting",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Modern Japanese"
   },
   {
    "name": "Taco y Vino",
@@ -1526,7 +1539,8 @@
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Chinese"
   },
   {
    "name": "Starship Bagel",
@@ -1780,7 +1794,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Modern Japanese"
   },
   {
    "name": "Mia's Tex-Mex",
@@ -1831,7 +1846,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Soba"
   },
   {
    "name": "Petra and the Beast",

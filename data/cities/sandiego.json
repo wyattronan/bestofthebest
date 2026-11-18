@@ -214,7 +214,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "sub": "Sushi"
   },
   {
    "name": "Atelier Manna",
@@ -378,7 +379,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Indonesian"
   },
   {
    "name": "Animae",
@@ -407,7 +409,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Pan-Asian"
   },
   {
    "name": "Juniper and Ivy",
@@ -474,7 +477,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Vietnamese"
   },
   {
    "name": "Marisi",
@@ -758,7 +762,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Yakitori"
   },
   {
    "name": "Aqui Es Texcoco",
@@ -800,7 +805,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Shanxi"
   },
   {
    "name": "Trust",
@@ -838,7 +844,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Hong Kong"
   },
   {
    "name": "Tribute Pizza",
@@ -1100,7 +1107,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Sushi"
   },
   {
    "name": "Bosforo",
@@ -1189,7 +1197,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "sub": "Sushi"
   },
   {
    "name": "Artifact at Mingei",
@@ -1240,7 +1249,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Dumplings"
   },
   {
    "name": "Izola Bakery",
@@ -1274,7 +1284,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Thai"
   },
   {
    "name": "Serea Coastal Cuisine",
@@ -1363,7 +1374,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Izakaya"
   },
   {
    "name": "Monello",
@@ -1414,7 +1426,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   }
  ],
  "bars": [

@@ -41,7 +41,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Thai"
   },
   {
    "name": "Mooncusser",
@@ -316,7 +317,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "Bar Vlaha",
@@ -439,7 +441,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "O Ya",
@@ -468,7 +471,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "Celeste",
@@ -578,7 +582,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Hunan"
   },
   {
    "name": "Banh Mi Ba Le",
@@ -602,7 +607,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "Fox & The Knife",
@@ -849,7 +855,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Korean"
   },
   {
    "name": "Spoke Wine Bar",
@@ -1034,7 +1041,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Udon"
   },
   {
    "name": "Zurito",
@@ -1406,7 +1414,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Ramen"
   },
   {
    "name": "Gustazo Cuban Kitchen & Bar",
@@ -1463,7 +1472,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Korean"
   },
   {
    "name": "James Hook & Co",
@@ -1655,7 +1665,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Szechuan"
   },
   {
    "name": "Moëca",
@@ -1707,7 +1718,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "Ostra",
@@ -1729,7 +1741,7 @@
   {
    "name": "Pagu",
    "hood": "Central Square",
-   "type": "asian",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 42.3629,
    "lng": -71.0972,
@@ -1743,7 +1755,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Japanese-Spanish"
   },
   {
    "name": "Pammy's",
@@ -1787,7 +1800,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Vietnamese"
   },
   {
    "name": "Pho Pasteur",
@@ -1805,7 +1819,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Vietnamese"
   },
   {
    "name": "Qiao Lin Hotpot",
@@ -1823,7 +1838,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Hot Pot"
   },
   {
    "name": "Rubato",
@@ -1842,7 +1858,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Hong Kong"
   },
   {
    "name": "Shojo",
@@ -1860,7 +1877,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Pan-Asian"
   },
   {
    "name": "Si Cara",
@@ -1932,7 +1950,8 @@
    "pr": 3,
    "lists": [],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Soba"
   },
   {
    "name": "Sushi at Temple Records",
@@ -1950,7 +1969,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "Suya Joint",
@@ -2006,7 +2026,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "sub": "Taiwanese"
   },
   {
    "name": "Talulla",
@@ -2061,7 +2082,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "Wa Shin",
@@ -2079,7 +2101,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "Wusong Road",
@@ -2102,7 +2125,8 @@
     ]
    ],
    "dual": true,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Chinese-American"
   },
   {
    "name": "Yoshida Omakase",
@@ -2119,7 +2143,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "Yume Wo Katare",
@@ -2137,7 +2162,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Ramen"
   },
   {
    "name": "Gene's Chinese Flatbread Cafe",
@@ -2156,7 +2182,8 @@
    "dual": false,
    "vb": "asian",
    "lu": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Xi'an"
   },
   {
    "name": "Xi'an Rougamo",
@@ -2175,7 +2202,8 @@
    "dual": false,
    "vb": "asian",
    "lu": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Xi'an"
   },
   {
    "name": "Wheelhouse",
@@ -2285,7 +2313,8 @@
     ]
    ],
    "dual": true,
-   "_natadd": 1
+   "_natadd": 1,
+   "sub": "Sake Bar"
   }
  ],
  "bars": [

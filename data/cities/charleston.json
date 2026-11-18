@@ -133,7 +133,7 @@
   {
    "name": "Chef Loong Dim Sum",
    "hood": "Savannah Hwy West Ashley",
-   "type": "chinese",
+   "type": "asian",
    "typekind": "cui",
    "lat": 32.7876801,
    "lng": -80.0159984,
@@ -145,7 +145,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Dim Sum"
   },
   {
    "name": "Chez Nous",
@@ -429,12 +430,13 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Chinese-American"
   },
   {
    "name": "Kultura",
    "hood": "Elliotborough",
-   "type": "filipino",
+   "type": "asian",
    "typekind": "cui",
    "lat": 32.7925992,
    "lng": -79.9486125,
@@ -458,12 +460,13 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Filipino"
   },
   {
    "name": "Kwei Fei",
    "hood": "James Island",
-   "type": "chinese",
+   "type": "asian",
    "typekind": "cui",
    "lat": 32.7621494,
    "lng": -79.9870715,
@@ -479,7 +482,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Szechuan"
   },
   {
    "name": "Laura",
@@ -747,7 +751,7 @@
   {
    "name": "Pink Bellies",
    "hood": "Upper King",
-   "type": "vietnamese",
+   "type": "asian",
    "typekind": "cui",
    "lat": 32.7932779,
    "lng": -79.9416599,
@@ -763,7 +767,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Vietnamese"
   },
   {
    "name": "Post House",
@@ -869,7 +874,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Sushi"
   },
   {
    "name": "Sorelle",
@@ -982,7 +988,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Sushi"
   },
   {
    "name": "The James",
@@ -1087,7 +1094,7 @@
   {
    "name": "XO Brasserie",
    "hood": "NoMo",
-   "type": "chinese",
+   "type": "asian",
    "typekind": "cui",
    "lat": 32.8103976,
    "lng": -79.9473512,
@@ -1103,7 +1110,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Cantonese"
   },
   {
    "name": "The Restaurant at Zero George",
@@ -1275,7 +1283,7 @@
   {
    "name": "Bareo",
    "hood": "Cannonborough",
-   "type": "filipino",
+   "type": "asian",
    "typekind": "cui",
    "lat": 32.791441,
    "lng": -79.9444259,
@@ -1287,7 +1295,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Filipino"
   },
   {
    "name": "Bertha's Kitchen",
@@ -1429,7 +1438,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Pan-Asian"
   },
   {
    "name": "La Cave",
@@ -1472,7 +1482,7 @@
   {
    "name": "Bar Weems",
    "hood": "North Charleston",
-   "type": "ramen",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 32.8563748,
    "lng": -79.9710125,
@@ -1484,7 +1494,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Ramen"
   },
   {
    "name": "The Codfather",
@@ -1552,7 +1563,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "Edmund's Original",

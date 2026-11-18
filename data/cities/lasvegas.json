@@ -164,7 +164,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "lu": 1
+   "lu": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "Nobu",
@@ -181,7 +182,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Modern Japanese"
   },
   {
    "name": "Lotus of Siam",
@@ -207,7 +209,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "lu": 1
+   "lu": 1,
+   "sub": "Thai"
   },
   {
    "name": "Bar Boheme",
@@ -295,7 +298,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Modern Japanese"
   },
   {
    "name": "Edge Steakhouse",
@@ -363,7 +367,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Modern Japanese"
   },
   {
    "name": "Sparrow + Wolf",
@@ -591,7 +596,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Cantonese"
   },
   {
    "name": "Amador Cocina Fina",
@@ -642,7 +648,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Kaiseki"
   },
   {
    "name": "ShangHai Taste",
@@ -659,7 +666,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Shanghainese"
   },
   {
    "name": "Piero's Italian Cuisine",
@@ -718,7 +726,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Izakaya"
   },
   {
    "name": "La Strega",
@@ -756,7 +765,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Sushi"
   },
   {
    "name": "Raku",
@@ -777,7 +787,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Robata"
   },
   {
    "name": "Michael Mina",
@@ -836,7 +847,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Vietnamese"
   },
   {
    "name": "Bazaar Meat by Jose Andres",
@@ -1009,7 +1021,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Korean-American"
   },
   {
    "name": "Alexxa's",
@@ -1077,7 +1090,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Cantonese"
   },
   {
    "name": "Mon Ami Gabi",
@@ -1365,7 +1379,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Cantonese"
   },
   {
    "name": "Washing Potato",
@@ -1382,7 +1397,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Chinese"
   },
   {
    "name": "Maroon",
@@ -1471,7 +1487,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Modern Japanese"
   },
   {
    "name": "Cipriani Las Vegas",
@@ -1493,7 +1510,7 @@
   {
    "name": "Mott 32 Las Vegas",
    "hood": "The Strip",
-   "type": "chinese",
+   "type": "asian",
    "typekind": "cui",
    "lat": 36.1248147,
    "lng": -115.1679724,
@@ -1505,7 +1522,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Cantonese"
   },
   {
    "name": "Kabuto",
@@ -1522,7 +1540,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "Estiatorio Milos",

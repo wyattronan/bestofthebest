@@ -3,7 +3,7 @@
   {
    "name": "Himalaya Kosheli Nepali & Indian",
    "hood": "",
-   "type": "asian",
+   "type": "indian",
    "typekind": "cui",
    "lat": 30.243,
    "lng": -97.7646,
@@ -17,7 +17,8 @@
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Nepali"
   },
   {
    "name": "Pho Phong Luu",
@@ -40,7 +41,8 @@
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "Usta Kababgy",
@@ -80,7 +82,8 @@
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Szechuan"
   },
   {
    "name": "Korea House",
@@ -248,7 +251,8 @@
    ],
    "vb": "tasting",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Modern Japanese"
   },
   {
    "name": "Fabrik",
@@ -868,7 +872,7 @@
   {
    "name": "Tsuke Edomae",
    "hood": "",
-   "type": "asian",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 30.258,
    "lng": -97.746,
@@ -885,12 +889,13 @@
    ],
    "vb": "asian",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "sub": "Sushi"
   },
   {
    "name": "Ramen Del Barrio",
    "hood": "",
-   "type": "asian",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 30.2725,
    "lng": -97.737,
@@ -907,7 +912,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "sub": "Ramen"
   },
   {
    "name": "P Thai's Khao Man Gai",
@@ -934,7 +940,8 @@
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Thai"
   },
   {
    "name": "Parish Barbecue",
@@ -1090,7 +1097,7 @@
   {
    "name": "Kemuri Tatsu-Ya",
    "hood": "East Austin",
-   "type": "asian",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 30.287,
    "lng": -97.761,
@@ -1120,7 +1127,8 @@
    "vb": "asian",
    "dual": false,
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Izakaya"
   },
   {
    "name": "Sangam Chettinad",
@@ -1227,7 +1235,7 @@
   {
    "name": "Craft Omakase",
    "hood": "",
-   "type": "asian",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 30.242,
    "lng": -97.764,
@@ -1248,7 +1256,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "sub": "Sushi"
   },
   {
    "name": "VanHorn's",
@@ -1372,7 +1381,7 @@
   {
    "name": "Musashino Sushi Dokoro",
    "hood": "",
-   "type": "asian",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 30.264,
    "lng": -97.7292,
@@ -1385,7 +1394,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "sub": "Sushi"
   },
   {
    "name": "Kiin Di",
@@ -1441,7 +1451,7 @@
   {
    "name": "Sushi Roku – Austin",
    "hood": "",
-   "type": "asian",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 30.2825,
    "lng": -97.7586,
@@ -1454,7 +1464,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "sub": "Sushi"
   },
   {
    "name": "Hestia",
@@ -1486,7 +1497,7 @@
   {
    "name": "Kappo Kappo",
    "hood": "",
-   "type": "asian",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 30.289,
    "lng": -97.7712,
@@ -1499,7 +1510,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "sub": "Kappo"
   },
   {
    "name": "InterStellar BBQ",
@@ -1948,7 +1960,8 @@
    ],
    "vb": "tasting",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Modern Japanese"
   },
   {
    "name": "Juniper",
@@ -2011,7 +2024,8 @@
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Thai"
   },
   {
    "name": "Comadre Panadería",
@@ -2199,7 +2213,8 @@
    "dual": false,
    "vb": "asian",
    "lu": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Korean"
   },
   {
    "name": "ATX Cocina",
@@ -2274,7 +2289,8 @@
    "dual": false,
    "vb": "asian",
    "lu": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Dim Sum"
   },
   {
    "name": "La Condesa",
@@ -2405,7 +2421,7 @@
   {
    "name": "Elizabeth Street Café",
    "hood": "Bouldin Creek",
-   "type": "vietnamese",
+   "type": "asian",
    "typekind": "cui",
    "lat": 30.2498048,
    "lng": -97.7546787,
@@ -2417,7 +2433,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Vietnamese"
   },
   {
    "name": "Guero's Taco Bar",

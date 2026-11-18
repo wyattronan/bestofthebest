@@ -165,7 +165,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "sub": "Japanese"
   },
   {
    "name": "Iggy's",
@@ -215,7 +216,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "sub": "Sushi"
   },
   {
    "name": "Alebrije",
@@ -332,7 +334,8 @@
    "vb": "tasting",
    "dual": false,
    "vg": 1,
-   "vn": 1
+   "vn": 1,
+   "sub": "Izakaya"
   },
   {
    "name": "Red's 615",
@@ -468,7 +471,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "sub": "Pan-Asian"
   },
   {
    "name": "International Market",
@@ -502,7 +506,8 @@
    ],
    "vb": "oldguard",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Thai"
   },
   {
    "name": "Arnold's Country Kitchen",
@@ -625,7 +630,8 @@
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Pan-Asian"
   },
   {
    "name": "St. Vito Focacceria",
@@ -682,7 +688,8 @@
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Thai"
   },
   {
    "name": "Kien Giang",
@@ -701,7 +708,8 @@
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "Bolton's Famous Hot Chicken",
@@ -914,7 +922,8 @@
    "vb": "quick",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "FatBelly Pretzel",
@@ -1151,7 +1160,8 @@
    "vb": "quick",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "The Butter Milk Ranch",
@@ -1241,7 +1251,8 @@
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Korean"
   },
   {
    "name": "Audrey & June",
@@ -1651,7 +1662,7 @@
   {
    "name": "Otaku Ramen",
    "hood": "The Gulch",
-   "type": "asian",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 36.15191,
    "lng": -86.78553,
@@ -1664,7 +1675,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "sub": "Ramen"
   },
   {
    "name": "Prince's Hot Chicken Shack",
@@ -1885,7 +1897,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "sub": "Laotian"
   },
   {
    "name": "Cauponor",

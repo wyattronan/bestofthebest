@@ -373,7 +373,7 @@
   {
    "name": "Noori Pocha",
    "hood": "Clawson",
-   "type": "korean",
+   "type": "asian",
    "typekind": "cui",
    "lat": 42.5332697,
    "lng": -83.1458621,
@@ -389,7 +389,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Korean"
   },
   {
    "name": "Polish Village Cafe",
@@ -486,7 +487,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Izakaya"
   },
   {
    "name": "Detroit 75",
@@ -614,7 +616,7 @@
   {
    "name": "Flowers of Vietnam",
    "hood": "Southwest Detroit",
-   "type": "vietnamese",
+   "type": "asian",
    "typekind": "cui",
    "lat": 42.320256,
    "lng": -83.0965483,
@@ -626,7 +628,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Vietnamese"
   },
   {
    "name": "Chartreuse",
@@ -745,7 +748,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Sushi"
   },
   {
    "name": "Good Cakes and Bakes",
@@ -818,7 +822,7 @@
   {
    "name": "Takoi",
    "hood": "Corktown",
-   "type": "thai",
+   "type": "asian",
    "typekind": "cui",
    "lat": 42.3316844,
    "lng": -83.0808338,
@@ -830,7 +834,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Thai"
   },
   {
    "name": "Tamaleria Nuevo Leon",
@@ -869,7 +874,7 @@
   {
    "name": "Shangri-La",
    "hood": "Midtown",
-   "type": "chinese",
+   "type": "asian",
    "typekind": "cui",
    "lat": 42.354101,
    "lng": -83.065292,
@@ -881,7 +886,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Dim Sum"
   },
   {
    "name": "Alpino",

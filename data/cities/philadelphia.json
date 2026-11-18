@@ -93,7 +93,8 @@
    ],
    "vb": "tasting",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Sushi"
   },
   {
    "name": "Friday Saturday Sunday",
@@ -209,7 +210,8 @@
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Thai"
   },
   {
    "name": "Mawn",
@@ -263,7 +265,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "lu": 1
+   "lu": 1,
+   "sub": "Cambodian"
   },
   {
    "name": "Her Place Supper Club",
@@ -651,7 +654,8 @@
    ],
    "vb": "brunch",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "Angelo's Pizzeria",
@@ -722,7 +726,8 @@
     ]
    ],
    "vb": "asian",
-   "dual": false
+   "dual": false,
+   "sub": "Cambodian"
   },
   {
    "name": "Pizzeria Beddia",
@@ -772,7 +777,8 @@
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Cantonese"
   },
   {
    "name": "El Chingón",
@@ -1092,7 +1098,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "sub": "Sushi"
   },
   {
    "name": "La Jefa",
@@ -1546,7 +1553,8 @@
    "dual": false,
    "vg": 1,
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "Dante & Luigi's",
@@ -1636,7 +1644,8 @@
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "Nan Zhou Hand Drawn Noodle House",
@@ -1655,7 +1664,8 @@
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Lanzhou Noodles"
   },
   {
    "name": "South Philly Barbacoa",
@@ -1772,7 +1782,8 @@
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Laotian"
   },
   {
    "name": "Ekta Indian Cuisine",
@@ -2038,7 +2049,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "sub": "Korean BBQ"
   },
   {
    "name": "Sulimay's",
@@ -2110,7 +2122,8 @@
    "vb": "asian",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Dim Sum"
   },
   {
    "name": "Banshee",
@@ -2500,7 +2513,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "sub": "Sushi"
   },
   {
    "name": "Alpen Rose",
@@ -2591,7 +2605,8 @@
    "dual": false,
    "vb": "asian",
    "lu": 1,
-   "to": 1
+   "to": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "Suya Suya",
@@ -2746,7 +2761,7 @@
   {
    "name": "Nam Phuong",
    "hood": "South Philadelphia",
-   "type": "vietnamese",
+   "type": "asian",
    "typekind": "cui",
    "lat": 39.9365228,
    "lng": -75.1618231,
@@ -2758,7 +2773,8 @@
     ]
    ],
    "dual": false,
-   "vb": "asian"
+   "vb": "asian",
+   "sub": "Vietnamese"
   },
   {
    "name": "Poison Heart",
