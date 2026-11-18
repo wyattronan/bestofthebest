@@ -1412,6 +1412,42 @@ body.theme-bars .usa-h{font-family:'AccentSans','Bebas Neue',sans-serif;font-wei
 .usa-polled li{margin:0 0 5px;break-inside:avoid;}
 .usa-note{max-width:760px;margin:14px auto 0;font-size:12px;color:var(--faint);text-align:center;}
 @media(max-width:720px){.usa-tbl .t-tagcol{display:none;}.usa-polled ul{columns:1;}}
+
+/* --- USA toolbar: view toggle + tools --- */
+.usa-tog{display:flex;flex-wrap:wrap;align-items:center;gap:10px 14px;margin:14px 0 6px;}
+.usa-tools{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-left:auto;}
+.usa-tool-btn{height:30px;padding:0 13px;}
+#usaview button .sic{margin-right:5px;}
+/* --- USA card grid --- */
+.usa-cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px;margin-top:6px;}
+.usa-card{display:flex;align-items:flex-start;gap:12px;padding:13px 14px;border:1px solid var(--rule);border-radius:4px;background:var(--bg2);}
+.usa-card.closed{opacity:.62;}
+.usa-card .uc-rank{font-family:'DisplaySerif','Playfair Display',Georgia,serif;font-size:26px;line-height:1;color:var(--accent);min-width:34px;}
+.usa-card .uc-body{flex:1;min-width:0;}
+.usa-card .uc-name{font-family:'DisplaySerif','Playfair Display',Georgia,serif;font-size:18px;line-height:1.1;}
+.usa-card .uc-name a{color:var(--ink);text-decoration:none;}
+.usa-card .uc-name a:hover{text-decoration:underline;}
+.usa-card .uc-city{font-size:11.5px;color:var(--ink-soft);margin-top:3px;}
+.usa-card .uc-city a{color:var(--ink-soft);}
+.usa-card .uc-tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:8px;}
+.usa-card .uc-metric{display:flex;flex-direction:column;align-items:flex-end;text-align:right;min-width:52px;}
+.usa-card .uc-big{font-family:'DisplaySerif','Playfair Display',Georgia,serif;font-size:22px;line-height:1;}
+.usa-card .uc-lbl{font-size:9.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-soft);margin-top:3px;}
+/* clickable venue links in the table */
+.usa-vlink{color:var(--ink);text-decoration:none;border-bottom:1px dotted var(--rule);cursor:pointer;}
+.usa-vlink:hover{border-bottom-color:var(--ink);}
+.usa-closed{font-size:10px;color:var(--accent);}
+/* USA report-card / about panels (in the shared modal) */
+.usa-panel{max-width:560px;}
+.usa-panel h3{font-family:'DisplaySerif','Playfair Display',Georgia,serif;font-size:24px;margin:0 0 10px;}
+.usa-panel .usa-dek{font-size:13px;color:var(--ink-soft);line-height:1.5;margin:0 0 14px;}
+.usa-rc-tbl{max-height:none;}
+.usa-rc-tbl .rc-c{text-align:center;width:1%;white-space:nowrap;}
+.rc-grade{font-family:'DisplaySerif','Playfair Display',Georgia,serif;font-weight:700;color:var(--accent);}
+.rc-yr{font-size:10px;color:var(--ink-soft);}
+.usa-about-list{margin:0 0 14px;padding-left:18px;font-size:13px;line-height:1.6;color:var(--ink);}
+.usa-about-list li{margin-bottom:7px;}
+.usa-about-list b{font-weight:700;}
 </style><style>
 #about{display:none;} #about.show{display:block;}
 .ab-wrap{max-width:780px;margin:0 auto;padding:6px 0 48px;}
@@ -1651,7 +1687,7 @@ function listTags(v){
 function mapsURL(v){ var base="https://www.google.com/maps/search/?api=1&query="; var q=v.name+(v.hood?(" "+v.hood):"")+" "+state.cityName; if(v.pid) return base+encodeURIComponent(q)+"&query_place_id="+encodeURIComponent(v.pid); return base+encodeURIComponent(q); }
 function bookURL(v){ return "https://www.google.com/search?q="+encodeURIComponent(v.name+" "+state.cityName+" reserve a table"); }
 
-function markKey(v){return state.city+"|"+state.kind+"|"+v.name;}
+function markKey(v){return ((v&&v._city)||state.city)+"|"+((v&&v._kind)||state.kind)+"|"+v.name;}
 function allMarks(){try{return JSON.parse(localStorage.getItem("bob:marks")||"{}");}catch(e){return {};}}
 function getMark(v){return allMarks()[markKey(v)]||{m:null,r:0};}
 function setMark(v,patch){try{const a=allMarks(),k=markKey(v),cur=a[k]||{m:null,r:0},nw=Object.assign({},cur,patch);if(!nw.m&&!nw.r)delete a[k];else a[k]=nw;localStorage.setItem("bob:marks",JSON.stringify(a));if(window.BOB_syncPush)window.BOB_syncPush();}catch(e){}}
@@ -2212,56 +2248,142 @@ function renderUSA(){
   var el=document.getElementById("usa"); if(!el) return;
   var isR=state.kind==="resto", U=USA_DATA[usaKind()];
   if(!U){ el.innerHTML='<div class="usa-wrap"><p class="usa-dek">The national rankings haven’t been built yet.</p></div>'; return; }
-  var noun=isR?"restaurants":"bars", Noun=isR?"Restaurants":"Bars";
-  var tog='<div class="usa-tog"><div class="seg-ctl" id="usaseg"><button data-mode="count" class="'+(state.usaMode==="count"?"on":"")+'"><span class="sic">☰</span>Most National Lists</button><button data-mode="share" class="'+(state.usaMode==="share"?"on":"")+'"><span class="sic">%</span>Top 25 · Share of City Lists</button><button data-mode="total" class="'+(state.usaMode==="total"?"on":"")+'"><span class="sic">Σ</span>Most Lists · National + City</button><button data-mode="cities" class="'+(state.usaMode==="cities"?"on":"")+'"><span class="sic">⚑</span>Most Prominent Cities</button></div></div>';
-  var body, dek;
+  if(!state.usaView) state.usaView="table";
+  var noun=isR?"restaurants":"bars", Noun=isR?"Restaurants":"Bars", kindTok=isR?"restaurants":"bars";
+  function esc(x){return usaEsc(x);}
+  function closedTag(it){return it.cl?' <span class="usa-closed">✕ closed</span>':'';}
+  function venueName(it){ return it.ck?'<a class="usa-vlink" href="#/'+it.ck+'/'+kindTok+'" data-usacard data-ck="'+esc(it.ck)+'" data-nm="'+encodeURIComponent(it.name)+'">'+esc(it.name)+'</a>':esc(it.name); }
+  function cityNameLink(it){ return it.ck?'<a href="#/'+it.ck+'/'+kindTok+'">'+esc(it.name)+'</a>':esc(it.name); }
+  function cityCol(it){ return it.ck?'<a href="#/'+it.ck+'/'+kindTok+'">'+esc(it.cityLabel)+'</a>':esc(it.cityLabel); }
+
+  /* ---- normalize each mode into items[] + a spec ---- */
+  var items=[], dek="", spec={}, total=0, lim=0, moreNoun=noun, polled="";
   if(state.usaMode==="count"){
-    var rows=U.count, maxC=rows.length?rows[0].k.length:1, lim=state.usaAll?rows.length:Math.min(50,rows.length);
-    var rank=0, prev=-1;
-    var tr=rows.map(function(r,i){ var n=r.k.length; if(n!==prev){rank=i+1;prev=n;} if(i>=lim) return "";
-      var tags=r.k.map(function(x){var d=U.lists[x[0]]||{}; return '<button class="ltag" title="'+usaEsc(d.name+(d.year?" ("+d.year+")":""))+'">'+(x[1]!=null?'<span class="rk">#'+x[1]+'</span> ':'')+usaEsc(d.mono||"?")+'</button>';}).join("");
-      var city=r.ck?'<a href="#/'+r.ck+'/'+(isR?"restaurants":"bars")+'">'+usaEsc(usaCity(r))+'</a>':usaEsc(usaCity(r));
-      return '<tr class="'+(r.cl?"closed":"")+'"><td class="t-no">'+rank+'</td><td class="t-name">'+usaEsc(r.n)+(r.cl?' <span style="font-size:10px;color:var(--accent)">✕ closed</span>':'')+'</td><td class="t-city">'+city+'</td><td class="t-num"><span class="minibar" style="width:'+Math.round(n/maxC*90)+'px"></span><span class="t-count">'+n+'</span></td><td class="t-tagcol"><div class="t-tags">'+tags+'</div></td></tr>';
-    }).join("");
+    var rows=U.count, maxC=rows.length?rows[0].k.length:1, rank=0, prev=-1; total=rows.length; lim=state.usaAll?total:Math.min(50,total);
+    spec={nameHead:"Name",cityCol:true,tags:true,share:false,metricHead:"# of National Lists",unit:"national lists"};
+    for(var i=0;i<lim;i++){ var r=rows[i], n=r.k.length; if(n!==prev){rank=i+1;prev=n;}
+      var tags=r.k.map(function(x){var d=U.lists[x[0]]||{};return '<button class="ltag" title="'+esc(d.name+(d.year?" ("+d.year+")":""))+'">'+(x[1]!=null?'<span class="rk">#'+x[1]+'</span> ':'')+esc(d.mono||"?")+'</button>';}).join("");
+      items.push({rank:rank,name:r.n,ck:r.ck,cityLabel:usaCity(r),cl:r.cl,bar:n/maxC,big:n,sub:"national lists",tags:tags,venue:true});
+    }
     dek='Every national, continental and world list we track, pooled. The more of those lists a place lands on, the higher it ranks. Ties share a number.';
-    body='<table class="reg usa-tbl"><thead><tr><th>No.</th><th>Name</th><th>City</th><th># of National Lists</th><th class="t-tagcol">Lists</th></tr></thead><tbody>'+tr+'</tbody></table>'+
-      (rows.length>lim?'<button class="ptog usa-more" id="usaMore">Show all '+rows.length+' '+noun+'</button>':(state.usaAll&&rows.length>50?'<button class="ptog usa-more" id="usaLess">Show top 50</button>':''));
     var pol=Object.keys(U.lists).map(function(k){var d=U.lists[k];return [d.name,d.year,d.partial];}).sort(function(a,b){return a[0].localeCompare(b[0]);});
-    body+='<details class="usa-polled"><summary>The '+pol.length+' national lists polled</summary><ul>'+pol.map(function(p){return '<li>'+usaEsc(p[0])+(p[2]?' <em>(city-tab entries only)</em>':'')+'</li>';}).join("")+'</ul></details>';
+    polled='<details class="usa-polled"><summary>The '+pol.length+' national lists polled</summary><ul>'+pol.map(function(p){return '<li>'+esc(p[0])+(p[2]?' <em>(city-tab entries only)</em>':'')+'</li>';}).join("")+'</ul></details>';
   } else if(state.usaMode==="total"){
-    var rowsT=U.total||[], maxT=rowsT.length?rowsT[0].tot:1, limT=state.usaAll?rowsT.length:Math.min(50,rowsT.length);
-    var rankT=0, prevT=-1;
-    var trT=rowsT.map(function(r,i){ var n=r.tot; if(n!==prevT){rankT=i+1;prevT=n;} if(i>=limT) return "";
-      var city=r.ck?'<a href="#/'+r.ck+'/'+(isR?"restaurants":"bars")+'">'+usaEsc(usaCity(r))+'</a>':usaEsc(usaCity(r));
-      var sub=r.nat?'<span class="t-of">'+r.nat+' national</span>':'<span class="t-of">city lists only</span>';
-      return '<tr class="'+(r.cl?"closed":"")+'"><td class="t-no">'+rankT+'</td><td class="t-name">'+usaEsc(r.n)+(r.cl?' <span style="font-size:10px;color:var(--accent)">✕ closed</span>':'')+'</td><td class="t-city">'+city+'</td><td class="t-num"><span class="minibar" style="width:'+Math.round(n/maxT*90)+'px"></span><span class="t-count">'+n+'</span>'+sub+'</td></tr>';
-    }).join("");
+    var rowsT=U.total||[], maxT=rowsT.length?rowsT[0].tot:1, rankT=0, prevT=-1; total=rowsT.length; lim=state.usaAll?total:Math.min(50,total);
+    spec={nameHead:"Name",cityCol:true,tags:false,share:false,metricHead:"Total Lists",unit:"total lists"};
+    for(var t=0;t<lim;t++){ var rt=rowsT[t], nt=rt.tot; if(nt!==prevT){rankT=t+1;prevT=nt;}
+      items.push({rank:rankT,name:rt.n,ck:rt.ck,cityLabel:usaCity(rt),cl:rt.cl,bar:nt/maxT,big:nt,sub:"lists",subInline:(rt.nat?rt.nat+" national":"city lists only"),venue:true});
+    }
     dek='Every published list we track, national and local, pooled per venue — the total number of “best of” lists each '+(isR?"restaurant":"bar")+' lands on across its own city tab and our national rankings. Ties share a number; Wyatt’s personal picks aren’t counted.';
-    body='<table class="reg usa-tbl"><thead><tr><th>No.</th><th>Name</th><th>City</th><th>Total Lists</th></tr></thead><tbody>'+trT+'</tbody></table>'+
-      (rowsT.length>limT?'<button class="ptog usa-more" id="usaMore">Show all '+rowsT.length+' '+noun+'</button>':(state.usaAll&&rowsT.length>50?'<button class="ptog usa-more" id="usaLess">Show top 50</button>':''));
   } else if(state.usaMode==="cities"){
-    var rowsC=U.citytop||[], maxC2=rowsC.length?rowsC[0].n:1, limC=state.usaAll?rowsC.length:Math.min(50,rowsC.length);
-    var rankC=0, prevC=-1;
-    var trC=rowsC.map(function(r,i){ var n=r.n; if(n!==prevC){rankC=i+1;prevC=n;} if(i>=limC) return "";
-      var nm=r.ck?(NAME[r.ck]||r.ck):(r.name||"—");
-      var city=r.ck?'<a href="#/'+r.ck+'/'+(isR?"restaurants":"bars")+'">'+usaEsc(nm)+'</a>':usaEsc(nm);
-      return '<tr><td class="t-no">'+rankC+'</td><td class="t-name">'+city+'</td><td class="t-num"><span class="minibar" style="width:'+Math.round(n/maxC2*90)+'px"></span><span class="t-count">'+n+'</span></td></tr>';
-    }).join("");
+    var rowsC=U.citytop||[], maxC2=rowsC.length?rowsC[0].n:1, rankC=0, prevC=-1; total=rowsC.length; lim=state.usaAll?total:Math.min(50,total); moreNoun="cities";
+    spec={nameHead:"City",cityCol:false,tags:false,share:false,metricHead:Noun+" on National Lists",unit:Noun.toLowerCase(),cityMode:true};
+    for(var c=0;c<lim;c++){ var rc=rowsC[c], nc=rc.n; if(nc!==prevC){rankC=c+1;prevC=nc;}
+      items.push({rank:rankC,name:(rc.ck?(NAME[rc.ck]||rc.ck):(rc.name||"—")),ck:rc.ck,cl:0,bar:nc/maxC2,big:nc,sub:Noun.toLowerCase(),venue:false});
+    }
     dek='The cities with the most '+noun+' on our national, continental and world lists — each '+(isR?"restaurant":"bar")+' counted once, however many national lists it lands on.';
-    body='<table class="reg usa-tbl"><thead><tr><th>No.</th><th>City</th><th>'+Noun+' on National Lists</th></tr></thead><tbody>'+trC+'</tbody></table>'+
-      (rowsC.length>limC?'<button class="ptog usa-more" id="usaMore">Show all '+rowsC.length+' cities</button>':(state.usaAll&&rowsC.length>50?'<button class="ptog usa-more" id="usaLess">Show top 50</button>':''));
   } else {
-    var S=U.share, maxP=S.length?S[0].pct:100, rk=0, pv=-1;
-    var tr2=S.map(function(r,i){ if(r.pct!==pv){rk=i+1;pv=r.pct;}
-      return '<tr class="'+(r.cl?"closed":"")+'"><td class="t-no">'+rk+'</td><td class="t-name">'+usaEsc(r.n)+(r.cl?' <span style="font-size:10px;color:var(--accent)">✕ closed</span>':'')+'</td><td class="t-city"><a href="#/'+r.ck+'/'+(isR?"restaurants":"bars")+'">'+usaEsc(usaCity(r))+'</a></td><td class="t-share"><span class="minibar" style="width:'+Math.round(r.pct/maxP*90)+'px"></span><span class="t-pct">'+Math.round(r.pct)+'%</span><span class="t-of">'+r.hits+' of '+r.tot+' lists</span></td></tr>';
-    }).join("");
+    var S=U.share, maxP=S.length?S[0].pct:100, rk=0, pv=-1; total=S.length; lim=total;
+    spec={nameHead:"Name",cityCol:true,tags:false,share:true,metricHead:"Share of City Lists",unit:"share"};
+    for(var sI=0;sI<S.length;sI++){ var rs=S[sI]; if(rs.pct!==pv){rk=sI+1;pv=rs.pct;}
+      items.push({rank:rk,name:rs.n,ck:rs.ck,cityLabel:usaCity(rs),cl:rs.cl,bar:rs.pct/maxP,big:Math.round(rs.pct),sub:rs.hits+" of "+rs.tot+" lists",venue:true});
+    }
     dek='The '+noun+' that show up on the biggest share of their own city’s lists, measured against every published list in that city’s tab. Cities need at least '+U.minPool+' lists to qualify; Wyatt’s personal picks aren’t counted.';
-    body='<table class="reg usa-tbl"><thead><tr><th>No.</th><th>Name</th><th>City</th><th>Share of City Lists</th></tr></thead><tbody>'+tr2+'</tbody></table>';
   }
+
+  /* ---- renderers ---- */
+  function metricCell(it){ return spec.share
+      ? '<td class="t-share"><span class="minibar" style="width:'+Math.round(it.bar*90)+'px"></span><span class="t-pct">'+it.big+'%</span><span class="t-of">'+esc(it.sub)+'</span></td>'
+      : '<td class="t-num"><span class="minibar" style="width:'+Math.round(it.bar*90)+'px"></span><span class="t-count">'+it.big+'</span>'+(it.subInline?'<span class="t-of">'+esc(it.subInline)+'</span>':'')+'</td>'; }
+  function tableHTML(){
+    var head='<tr><th>No.</th><th>'+esc(spec.nameHead)+'</th>'+(spec.cityCol?'<th>City</th>':'')+'<th'+(spec.share?' class="t-share"':'')+'>'+esc(spec.metricHead)+'</th>'+(spec.tags?'<th class="t-tagcol">Lists</th>':'')+'</tr>';
+    var b=items.map(function(it){
+      var nameCell=spec.cityMode?('<td class="t-name">'+cityNameLink(it)+'</td>'):('<td class="t-name">'+venueName(it)+closedTag(it)+'</td>');
+      return '<tr class="'+(it.cl?"closed":"")+'"><td class="t-no">'+it.rank+'</td>'+nameCell+(spec.cityCol?'<td class="t-city">'+cityCol(it)+'</td>':'')+metricCell(it)+(spec.tags?'<td class="t-tagcol"><div class="t-tags">'+(it.tags||"")+'</div></td>':'')+'</tr>';
+    }).join("");
+    return '<table class="reg usa-tbl"><thead>'+head+'</thead><tbody>'+b+'</tbody></table>';
+  }
+  function cardsHTML(){
+    return '<div class="usa-cards">'+items.map(function(it){
+      var nm=spec.cityMode?cityNameLink(it):venueName(it);
+      var cityLine=spec.cityCol?'<div class="uc-city">'+cityCol(it)+'</div>':'';
+      var metric=spec.share?'<span class="uc-big">'+it.big+'%</span><span class="uc-lbl">'+esc(it.sub)+'</span>'
+                           :'<span class="uc-big">'+it.big+'</span><span class="uc-lbl">'+esc(it.subInline||it.sub||"")+'</span>';
+      var tags=(spec.tags&&it.tags)?'<div class="uc-tags">'+it.tags+'</div>':'';
+      return '<div class="usa-card'+(it.cl?" closed":"")+'"><div class="uc-rank">'+it.rank+'</div><div class="uc-body"><div class="uc-name">'+nm+closedTag(it)+'</div>'+cityLine+tags+'</div><div class="uc-metric">'+metric+'</div></div>';
+    }).join("")+'</div>';
+  }
+
+  var tog='<div class="usa-tog"><div class="seg-ctl" id="usaseg">'+
+    '<button data-mode="count" class="'+(state.usaMode==="count"?"on":"")+'"><span class="sic">☰</span>Most National Lists</button>'+
+    '<button data-mode="share" class="'+(state.usaMode==="share"?"on":"")+'"><span class="sic">%</span>Top 25 · Share of City Lists</button>'+
+    '<button data-mode="total" class="'+(state.usaMode==="total"?"on":"")+'"><span class="sic">Σ</span>Most Lists · National + City</button>'+
+    '<button data-mode="cities" class="'+(state.usaMode==="cities"?"on":"")+'"><span class="sic">⚑</span>Most Prominent Cities</button>'+
+    '</div><div class="usa-tools">'+
+    '<div class="seg-ctl" id="usaview"><button data-uv="table" class="'+(state.usaView==="table"?"on":"")+'"><span class="sic">☷</span>Table</button><button data-uv="cards" class="'+(state.usaView==="cards"?"on":"")+'"><span class="sic">▢</span>Cards</button></div>'+
+    '<button class="ptog usa-tool-btn" id="usaReport">Report Card</button>'+
+    '<button class="ptog usa-tool-btn" id="usaAbout">About</button>'+
+    '</div></div>';
+
+  var body=(state.usaView==="cards"?cardsHTML():tableHTML())+
+    (total>lim?'<button class="ptog usa-more" id="usaMore">Show all '+total+' '+moreNoun+'</button>':(state.usaAll&&total>50?'<button class="ptog usa-more" id="usaLess">Show top 50</button>':''))+polled;
+
   el.innerHTML='<div class="usa-wrap"><div class="usa-kicker">The National Desk</div><h2 class="usa-h">The Best '+Noun+' in the U.S.</h2><p class="usa-dek">'+dek+'</p>'+tog+body+'</div>';
   el.querySelectorAll("#usaseg button").forEach(function(b){b.onclick=function(){state.usaMode=b.dataset.mode;state.usaAll=false;renderUSA();};});
+  el.querySelectorAll("#usaview button").forEach(function(b){b.onclick=function(){state.usaView=b.dataset.uv;renderUSA();};});
+  el.querySelectorAll("[data-usacard]").forEach(function(a){a.onclick=function(e){e.preventDefault();openUsaVenueCard(a.dataset.ck,usaKind(),decodeURIComponent(a.dataset.nm));};});
+  var rcb=document.getElementById("usaReport"); if(rcb) rcb.onclick=openUsaReport;
+  var abb=document.getElementById("usaAbout"); if(abb) abb.onclick=openUsaAbout;
   var m=document.getElementById("usaMore"); if(m) m.onclick=function(){state.usaAll=true;renderUSA();};
   var l=document.getElementById("usaLess"); if(l) l.onclick=function(){state.usaAll=false;renderUSA();el.scrollIntoView();};
+}
+function usaModal(html){ var pop=document.getElementById("pop"); if(!pop) return null; pop.innerHTML='<button class="modal-x" aria-label="Close">×</button>'+html; var x=pop.querySelector(".modal-x"); if(x) x.onclick=closeModal; var b=document.getElementById("modalback"); if(b){ b.onclick=closeModal; b.classList.add("show"); } pop.classList.add("show"); return pop; }
+function openUsaVenueCard(ck,kind,name){
+  var kindTok=kind==="bars"?"bars":"restaurants";
+  var d=(typeof CITIES_DATA!=="undefined")?CITIES_DATA[ck]:null;
+  if(!d){ location.hash="#/"+ck+"/"+kindTok; return; }
+  var pool=kind==="bars"?"bars":"restos", lkey=kind==="bars"?"blists":"rlists", arr=d[pool]||[], L=d[lkey]||{};
+  var v=null;
+  for(var i=0;i<arr.length;i++){ if(arr[i].name===name){ v=arr[i]; break; } }
+  if(!v){ var ln=(name||"").toLowerCase().trim(); for(var j=0;j<arr.length;j++){ if((arr[j].name||"").toLowerCase().trim()===ln){ v=arr[j]; break; } } }
+  if(!v){ location.hash="#/"+ck+"/"+kindTok; return; }
+  var vv=Object.assign({_city:ck,_kind:kind},v), cn=NAME[ck]||ck;
+  var rows=v.lists.map(function(p){var def=L[p[0]];if(!def)return"";var rk=p[1];var r=rk!=null?(def.starChip?("★".repeat(Math.min(rk,3))):("#"+rk)):"—";return '<div class="pop-list-row"><span class="plname">'+usaEsc(def.name)+'</span><span class="plrank">'+r+'</span></div>';}).join("");
+  var q=encodeURIComponent(v.name+" "+(v.hood||"")+" "+cn);
+  var pop=usaModal(
+    '<div class="pop-head"><div class="pop-name">'+usaEsc(v.name)+'</div><div class="pop-meta">'+usaEsc(v.hood||"")+' · '+usaEsc(typeName(v))+(v.pr?' · '+PRICE_SYM[v.pr]:"")+(v.cl?' · <span style="color:var(--accent)">Closed</span>':"")+'</div></div>'+
+    (v.note?'<div class="pop-note">'+usaEsc(v.note)+'</div>':"")+
+    '<div class="pop-lists"><div class="pop-lists-h">On '+v.lists.length+' '+(v.lists.length===1?"list":"lists")+' in '+usaEsc(cn)+'</div>'+rows+'</div>'+
+    markRow(vv)+
+    '<div class="pop-foot"><a class="maplink" href="https://www.google.com/maps/search/?api=1&query='+q+'" target="_blank" rel="noopener">View on map ↗</a><span style="flex:1"></span><a class="maplink" href="#/'+ck+'/'+kindTok+'" id="usaGoCity">Open in '+usaEsc(cn)+' →</a></div>'
+  );
+  if(!pop) return;
+  pop.querySelectorAll(".vmark .mk[data-mk]").forEach(function(btn){ btn.onclick=function(e){ e.stopPropagation(); var cur=getMark(vv).m, val=btn.dataset.mk; setMark(vv,{m:cur===val?null:val}); openUsaVenueCard(ck,kind,name); }; });
+  pop.querySelectorAll(".vmark .star[data-star]").forEach(function(st){ st.onclick=function(e){ e.stopPropagation(); var nR=+st.dataset.star, cur=getMark(vv).r; setMark(vv,{r:cur===nR?0:nR}); openUsaVenueCard(ck,kind,name); }; });
+  var go=document.getElementById("usaGoCity"); if(go) go.onclick=function(){ closeModal(); };
+}
+function openUsaReport(){
+  var U=USA_DATA[usaKind()]; if(!U) return; var isR=state.kind==="resto";
+  var stat={}; Object.keys(U.lists).forEach(function(k){ stat[k]={c:0,m:0}; });
+  U.count.forEach(function(r){ var multi=r.k.length>=2; r.k.forEach(function(x){ var k=x[0]; if(stat[k]){ stat[k].c++; if(multi) stat[k].m++; } }); });
+  var rows=Object.keys(U.lists).map(function(k){ var d=U.lists[k], c=stat[k].c, rate=c?stat[k].m/c:0; return {name:d.name,year:d.year,c:c,rate:rate}; });
+  rows.sort(function(a,b){ return b.c-a.c || b.rate-a.rate; });
+  function grade(x){ return x>=.75?"A":x>=.6?"A−":x>=.45?"B":x>=.3?"B−":x>=.15?"C":"C−"; }
+  var tr=rows.map(function(r){ return '<tr><td class="t-name">'+usaEsc(r.name)+(r.year?' <span class="rc-yr">'+r.year+'</span>':"")+'</td><td class="rc-c">'+r.c+'</td><td class="rc-c">'+Math.round(r.rate*100)+'%</td><td class="rc-c"><span class="rc-grade">'+grade(r.rate)+'</span></td></tr>'; }).join("");
+  usaModal('<div class="usa-panel"><h3>National Desk — Report Card</h3><p class="usa-dek">How much each national '+(isR?"restaurant":"bar")+' list moves with the field. “Consensus” is the share of a list’s picks that also land on at least one other national list — a quick read on how safe (high) or contrarian (low) a list plays it.</p><table class="reg usa-tbl usa-rc-tbl"><thead><tr><th>List</th><th class="rc-c"># Named</th><th class="rc-c">Consensus</th><th class="rc-c">Grade</th></tr></thead><tbody>'+tr+'</tbody></table></div>');
+}
+function openUsaAbout(){
+  var U=USA_DATA[usaKind()], isR=state.kind==="resto", noun=isR?"restaurants":"bars";
+  var nL=U?Object.keys(U.lists).length:0, nC=U?U.cities:0;
+  usaModal('<div class="usa-panel"><h3>About the National Desk</h3>'+
+    '<p class="usa-dek">The National Desk pools the big cross-country “best of” lists — '+nL+' national, continental and world '+noun+' lists in all — and lines them up against the city guides (currently '+nC+' cities) so you can see who the critics agree on nationwide.</p>'+
+    '<ul class="usa-about-list">'+
+    '<li><b>Most National Lists</b> ranks every '+(isR?"restaurant":"bar")+' by how many of those national lists it lands on. Pure cross-country clout.</li>'+
+    '<li><b>Share of City Lists</b> finds the places that dominate their own town — the highest share of their city’s published lists (cities need at least '+(U?U.minPool:5)+' lists to qualify).</li>'+
+    '<li><b>Most Lists · National + City</b> adds it all up: every published list a venue appears on, national and local combined.</li>'+
+    '<li><b>Most Prominent Cities</b> ranks cities by how many of their '+noun+' crack the national lists — each place counted once.</li>'+
+    '</ul>'+
+    '<p class="usa-dek">Ties share a rank. Closed venues stay listed but are flagged. Wyatt’s personal picks are left out of the share and combined counts. Switch any ranking between <b>Table</b> and <b>Cards</b>, and tap any '+(isR?"restaurant":"bar")+' to open its card.</p></div>');
 }
 function navHash(city,kind){location.hash="#/"+city+"/"+(kind==="bars"?"bars":"restaurants");}
 function applyRoute(city,kindTok){var kind=kindTok==="bars"?"bars":"resto",prev=state.kind;state.kind=kind;setCity(city);if(prev!=="bars"&&kind==="bars"){try{powerOnBars();}catch(e){}}}
