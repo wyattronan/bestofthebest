@@ -1584,7 +1584,7 @@ let DATA=CITIES_DATA.chicago;
 <script>
 const PRICE_FULL={1:"$30 or less",2:"$30–50",3:"$50–100",4:"$100+"};
 const PRICE_SYM={1:"$",2:"$$",3:"$$$",4:"$$$$"};
-const CUISINES={tasting:"Tasting",newam:"New American",med:"Mediterranean",latin:"Latin",asian:"Asian",
+const CUISINES={tasting:"Tasting",newam:"New American",med:"Mediterranean",latin:"Latin American",asian:"Asian",
  japanese:"Japanese",french:"French",italian:"Italian",pizza:"Pizza",seafood:"Seafood",steak:"Steak",
  mexican:"Mexican",bbq:"BBQ & Southern",global:"Global",indian:"Indian",classics:"Classics",
  bakery:"Bakery",gastropub:"Gastropub",sandwich:"Sandwiches",
@@ -1609,11 +1609,29 @@ function venues(){ return state.kind==="resto"?DATA.restos:DATA.bars; }
 function lists(){ return state.kind==="resto"?DATA.rlists:DATA.blists; }
 function typeName(v){ return v.sub||(state.kind==="resto"?(CUISINES[v.type]||v.type):(DRINKS[v.type]||v.type)); }
 /* Cuisine filter keys: "s:<label>" for a specific sub-cuisine, "g:<type>" for a whole family (all Japanese, all other Asian), else the raw type */
-function cuiKey(v){ return v.sub?"s:"+v.sub:v.type; }
-const CUI_GROUPS_R={japanese:"All Japanese",asian:"All other Asian"}, CUI_GROUPS_B={b:"All beer bars & taverns"};
-function cuiGroups(){ return state.kind==="resto"?CUI_GROUPS_R:CUI_GROUPS_B; }
-function vtypeMatch(v,k){ return k.slice(0,2)==="g:"?v.type===k.slice(2):cuiKey(v)===k; }
-function vtypeLabel(k){ if(k.slice(0,2)==="s:")return k.slice(2); if(k.slice(0,2)==="g:")return cuiGroups()[k.slice(2)]||k.slice(2); return (state.kind==="resto"?CUISINES:DRINKS)[k]||k; }
+/* Dropdown buckets: cards show the specific label (v.sub); the filter groups related labels under one parent. */
+const _set=a=>new Set(a);
+const B_FUSION=_set(["Asian-American","Asian-Californian","Filipino-Cuban","Hawaiian-Korean","Hmong-American","Korean-American","Korean-Mexican","Viet-Cajun","Viet-Texan BBQ","Vietnamese-Californian","Chinese-Mexican-Salvadoran","Mediterranean-Southeast Asian","Indian-American","Indian-Asian","Indian-Mexican","Italian-Southern","Korean-Italian","French-Japanese","Japanese-Mediterranean","Japanese-Spanish","Jewish-Japanese","Nikkei","Chinese-Cuban"]);
+const B_PANASIAN=_set(["Pan-Asian","Southeast Asian","Taiwanese-Thai","Laotian-Taiwanese","Cambodian-Taiwanese","Shanghainese-Japanese","Filipino-Japanese","Congee","Asian Food Hall"]);
+const B_CHINESE=_set(["Cantonese","Chinese","Chinese-American","Dim Sum","Dumplings","Fuzhounese","Halal Chinese","Hong Kong","Hot Pot","Hunan","Imperial Chinese","Lanzhou Noodles","Macanese","Northern Chinese","Northwest Chinese","Peking Duck","Shaanxi","Shanghainese","Shanxi","Szechuan","Taishanese","Xi'an","Yunnan"]);
+const B_SUB={"Korean BBQ":"Korean","Uyghur":"Central Asian","Uzbek":"Central Asian","Indian Street Food":"Indian","Indian Sweets":"Indian","Modern Indian":"Indian","Middle Eastern Bakery":"Middle Eastern","Food Hall":"Global","Buffet":"Global","Jamaican Soul Food":"Jamaican","Afro-Caribbean Steakhouse":"Afro-Caribbean","British Pies":"British",
+ "Tavern":"Tavern","Dive Bar":"Tavern","Beer Bar":"Tavern","Honky-Tonk":"Tavern","Zero-Proof Bar":"Tavern","Beer Garden":"Beer Garden","Beer Hall":"Beer Garden","Brewery":"Beer Garden","Cidery":"Beer Garden","Meadery":"Beer Garden","Icehouse":"Beer Garden"};
+const B_TYPE={latin:"Latin American",peruvian:"Latin American",argentinian:"Latin American",japanese:"Japanese",steakhouse:"Steak",basque:"Spanish",hotdog:"Quick Bites",mediterranean:"Mediterranean"};
+const B_COLLAPSE=_set(["italian","spanish","mexican","seafood","bakery","newam","quick","sandwich","bbq","pizza","steak"]);
+function cuiBucket(v){
+  const s=v.sub||"", t=v.type;
+  if(state.kind!=="resto") return B_SUB[s]||DRINKS[t]||t;
+  if(B_FUSION.has(s)) return "Fusion";
+  if(B_PANASIAN.has(s)) return "Pan-Asian";
+  if(B_TYPE[t]) return B_TYPE[t];
+  if(B_CHINESE.has(s)) return "Chinese";
+  if(B_SUB[s]) return B_SUB[s];
+  if(B_COLLAPSE.has(t)) return CUISINES[t]||t;
+  return s||CUISINES[t]||t;
+}
+function cuiKey(v){ return "c:"+cuiBucket(v); }
+function vtypeMatch(v,k){ return cuiKey(v)===k; }
+function vtypeLabel(k){ return k.slice(0,2)==="c:"?k.slice(2):((state.kind==="resto"?CUISINES:DRINKS)[k]||k); }
 
 function filtered(){
   let vs=venues().slice();
@@ -1688,8 +1706,7 @@ function renderControls(){
   const typeWord=isResto?"cuisines":"types";
   const _opt=(k,n)=>`<option value="${k}" ${state.vtype===k?"selected":""}>${n}</option>`;
   const _vs=venues(), _keys=[...new Set(_vs.map(cuiKey))].map(k=>[k,vtypeLabel(k)]).sort((a,b)=>a[1].localeCompare(b[1]));
-  const _G=cuiGroups(), _grp=Object.keys(_G).filter(g=>new Set(_vs.filter(v=>v.type===g).map(cuiKey)).size>1).map(g=>_opt("g:"+g,_G[g])).join("");
-  const typeOpts=`<option value="">All ${typeWord}</option>`+(_grp?`<optgroup label="Groups">${_grp}</optgroup><optgroup label="Cuisines">`:"")+_keys.map(([k,n])=>_opt(k,n)).join("")+(_grp?"</optgroup>":"");
+  const typeOpts=`<option value="">All ${typeWord}</option>`+_keys.map(([k,n])=>_opt(k,n)).join("");
   const hoodOpts=`<option value="">All neighborhoods</option>`+[...new Set(venues().map(v=>v.hood).filter(Boolean))].sort().map(h=>`<option value="${h}" ${state.nbhd===h?"selected":""}>${h}</option>`).join("");
   const listOpts=`<option value="">All lists</option>`+Object.keys(L0).sort((a,b)=>L0[a].name.localeCompare(L0[b].name)).map(k=>`<option value="${k}" ${state.pub===k?"selected":""}>${L0[k].name}</option>`).join("");
   const sic=g=>`<span class="sic">${g}</span>`;
