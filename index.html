@@ -2199,7 +2199,7 @@ var USA_SKY="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABdwAAAFYCAYAAABJWz65A
 function setUSA(){
   state.city="usa"; state.cityName="United States"; state.usaAll=false;
   var isR=state.kind==="resto"; var np=document.querySelector(".nameplate"); np.innerHTML = isR ? '<img class="np-img np-usa" src="'+USA_WORDMARK+'" alt="United States">' : '<span class="np-word">United States</span>';
-  var sky=document.querySelector(".skyline"); if(sky){ if(isR){ sky.style.display=""; sky.style.backgroundImage='url("'+USA_SKY+'")'; sky.style.width="min(1040px,96vw)"; sky.style.height="226px"; sky.style.bottom="-1px"; sky.style.animation="none"; void sky.offsetWidth; sky.style.animation=""; } else { sky.style.display="none"; sky.style.backgroundImage="none"; } }
+  var sky=document.querySelector(".skyline"); if(sky){ if(isR){ sky.style.display=""; sky.style.backgroundImage='url("'+USA_SKY+'")'; sky.style.width="min(720px,92vw)"; sky.style.height="156px"; sky.style.bottom="-1px"; sky.style.animation="none"; void sky.offsetWidth; sky.style.animation=""; } else { sky.style.display="none"; sky.style.backgroundImage="none"; } }
   var old=document.querySelector(".nameplate-wrap .nite-sign"); if(old) old.remove();
   var rep=document.getElementById("report"); if(rep) rep.classList.remove("show");
   var ab=document.getElementById("about"); if(ab) ab.classList.remove("show");
