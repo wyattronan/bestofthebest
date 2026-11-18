@@ -1375,7 +1375,7 @@ body.home > #homepage{order:0;}
   <div id="mapwrap" class="mapwrap" style="display:none"></div>
 </main>
 
-<section class="wrap" id="report"></section><section class="wrap" id="about"></section><section class="wrap" id="usa"></section><style id="usaCSS">
+<section class="wrap" id="report"></section><section class="wrap" id="about"></section><section class="wrap" id="usa"></section><section class="wrap" id="mine"></section><style id="usaCSS">
 body.city-usa.theme-resto{--bg:#f3eee3;--bg2:#e9e2d2;--panel:#faf6ec;--panel2:#f0e9db;--ink:#14182a;--ink-soft:#3f4458;--faint:#7f8296;--accent:#b3202a;--accent2:#1f3a7a;--rule:#d6cdb8;--rule-bold:#b3a888;--plate-bd:#b3a888;--leaf:#3f7d4e;--gold:#a8771f;--chip:#e8e0cd;--shadow:rgba(30,30,50,.15);}
 body.city-usa.theme-bars{--bg:#070912;--bg2:#0c1020;--panel:#11162a;--panel2:#181f38;--ink:#eef2ff;--ink-soft:#b9c2e0;--faint:#5f6886;--accent:#ff3b4e;--accent2:#3d8bff;--rule:#1d2440;--rule-bold:#2c365c;--plate-bd:#2c365c;--leaf:#45e0a0;--gold:#ffd23f;--chip:#141a33;--shadow:rgba(0,0,0,.55);}
 #usa{display:none;}
@@ -1452,6 +1452,43 @@ body.theme-bars .usa-navbtn:hover{color:var(--accent2);}
 .usa-about-list{margin:0 0 14px;padding-left:18px;font-size:13px;line-height:1.6;color:var(--ink);}
 .usa-about-list li{margin-bottom:7px;}
 .usa-about-list b{font-weight:700;}
+
+/* ===== My Places page ===== */
+#mine{display:none;}
+body.show-mine #mine{display:block !important;}
+body.show-mine #main,body.show-mine #ribbon,body.show-mine #usa,body.show-mine #about,body.show-mine #report,body.show-mine #tiers{display:none !important;}
+body.show-mine .topnav .uttab,body.show-mine .usa-navbtn{display:none !important;}
+.mine-wrap{max-width:860px;margin:0 auto;padding:18px 0 60px;}
+.mine-top{display:flex;align-items:center;gap:14px;margin-bottom:4px;}
+.mine-back{font-family:'AccentSans','Space Grotesk',sans-serif;font-size:11px;letter-spacing:.08em;text-transform:uppercase;background:none;border:1px solid var(--rule-bold);border-radius:3px;color:var(--ink);padding:5px 11px;cursor:pointer;}
+.mine-back:hover{background:var(--ink);color:var(--bg);}
+.mine-h{margin:2px 0 4px;}
+.mine-controls{display:flex;flex-wrap:wrap;gap:14px 20px;align-items:center;margin:16px 0 10px;}
+.mine-cg{display:flex;align-items:center;gap:8px;}
+.mine-cg .ctl-label{font-family:'AccentSans','Space Grotesk',sans-serif;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft);}
+.mine-gcmp{display:flex;align-items:center;gap:7px;font-family:'AccentSans','Space Grotesk',sans-serif;font-size:12px;color:var(--ink-soft);cursor:pointer;}
+.mine-gcmp input{accent-color:var(--accent);width:15px;height:15px;cursor:pointer;}
+.mine-gnote{font-size:12px;color:var(--ink-soft);background:color-mix(in srgb,var(--ink) 6%,transparent);border:1px solid var(--rule);border-radius:4px;padding:9px 12px;margin:4px 0 8px;}
+.mine-list{margin-top:6px;}
+.mine-row{display:flex;align-items:center;gap:14px;padding:12px 6px;border-top:1px solid var(--rule);cursor:pointer;}
+.mine-row:hover{background:color-mix(in srgb,var(--ink) 6%,transparent);}
+.mine-row .mr-no{font-family:'DisplaySerif','Playfair Display',Georgia,serif;font-size:19px;color:var(--ink-soft);min-width:26px;text-align:right;}
+.mine-row .mr-main{flex:1;min-width:0;}
+.mine-row .mr-name{font-family:'DisplaySerif','Playfair Display',Georgia,serif;font-size:17px;line-height:1.15;}
+.mine-row .mr-meta{font-size:11.5px;color:var(--ink-soft);margin-top:2px;}
+.mine-row .mr-tag{border:1px solid var(--rule);border-radius:2px;padding:0 5px;font-size:9.5px;letter-spacing:.06em;text-transform:uppercase;}
+.mine-row .mr-rates{display:flex;gap:16px;align-items:center;flex:0 0 auto;}
+.mr-rate{display:flex;flex-direction:column;align-items:center;gap:2px;min-width:82px;}
+.mr-rate .mr-dstars{white-space:nowrap;}
+.mr-rate .mr-num{font-family:'DisplaySerif','Playfair Display',Georgia,serif;font-size:14px;}
+.mr-rate .mr-rlabel{font-size:8.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);}
+.mr-rate.mr-goog .mr-num{color:var(--ink-soft);}
+.dstar{position:relative;color:var(--rule-bold);font-size:15px;line-height:1;}
+.dstar.f{color:var(--gold);}
+.dstar.half::before{content:"\2605";position:absolute;left:0;top:0;width:50%;overflow:hidden;color:var(--gold);}
+.mine-empty{padding:34px 6px;text-align:center;color:var(--ink-soft);font-size:14px;}
+.mine-foot{margin-top:14px;font-size:11px;color:var(--ink-soft);text-align:center;}
+@media(max-width:620px){.mine-row{flex-wrap:wrap;}.mine-row .mr-rates{width:100%;justify-content:flex-start;padding-left:40px;margin-top:4px;}}
 </style><style>
 #about{display:none;} #about.show{display:block;}
 .ab-wrap{max-width:780px;margin:0 auto;padding:6px 0 48px;}
@@ -1500,7 +1537,7 @@ body.theme-bars .usa-navbtn:hover{color:var(--accent2);}
 .mappop .mk.on{background:#b4291e;color:#fff;border-color:#b4291e;}
 .mappop .star{color:#d0d0d0;}
 .mappop .star.f{color:#d2a017;}
-  #pop .vmark .star.half::before{color:#d2a017;}
+  .mappop .star.half::before{color:#d2a017;}
 </style>
 
 
@@ -2389,6 +2426,84 @@ function openUsaAbout(){
     '</ul>'+
     '<p class="usa-dek">Ties share a rank. Closed venues stay listed but are flagged. Wyatt’s personal picks are left out of the share and combined counts. Switch any ranking between <b>Table</b> and <b>Cards</b>, and tap any '+(isR?"restaurant":"bar")+' to open its card.</p></div>');
 }
+/* ===== My Places — full page (own view, not a popup) ===== */
+var MINE={cat:"rated",kind:"both",sort:"rating",google:false};
+function mineNonPersonal(d,lk){ var c=0; for(var k in (d[lk]||{})){ if((""+k).indexOf("wyatt")!==0) c++; } return c; }
+function mineInfo(city,kind,name){
+  var d=(typeof CITIES_DATA!=="undefined")?CITIES_DATA[city]:null; if(!d) return {n:0,pct:0,hood:"",v:null,cl:0};
+  var pool=kind==="bars"?"bars":"restos", lk=kind==="bars"?"blists":"rlists", arr=d[pool]||[];
+  var v=null; for(var i=0;i<arr.length;i++){ if(arr[i].name===name){v=arr[i];break;} }
+  if(!v){ var ln=(name||"").toLowerCase().trim(); for(var j=0;j<arr.length;j++){ if((arr[j].name||"").toLowerCase().trim()===ln){v=arr[j];break;} } }
+  if(!v) return {n:0,pct:0,hood:"",v:null,cl:0};
+  var tot=mineNonPersonal(d,lk), npub=0;
+  v.lists.forEach(function(p){ if((""+p[0]).indexOf("wyatt")!==0) npub++; });
+  return {n:v.lists.length, pct: tot?Math.round(npub/tot*100):0, hood:v.hood||"", v:v, cl:v.cl?1:0};
+}
+function dstars(r){ var o=""; for(var i=1;i<=5;i++){ o+='<span class="dstar '+(r>=i?"f":(r>=i-0.5?"half":""))+'">★</span>'; } return o; }
+function rateBlock(num,cls,label){
+  return '<span class="mr-rate '+(cls||"")+'"><span class="mr-dstars">'+dstars(num||0)+'</span><span class="mr-num">'+(num?Number(num).toFixed(1):"—")+'</span>'+(label?'<span class="mr-rlabel">'+label+'</span>':"")+'</span>';
+}
+function openMyPlaces(cat){ if(cat) MINE.cat=cat; var sec=document.getElementById("mine"); if(!sec) return; document.body.classList.add("show-mine"); closeModal(); drawMine(); window.scrollTo({top:0,behavior:"smooth"}); }
+function closeMyPlaces(){ document.body.classList.remove("show-mine"); }
+function drawMine(){
+  var sec=document.getElementById("mine"); if(!sec) return;
+  var marks={}; try{ marks=JSON.parse(localStorage.getItem("bob:marks")||"{}"); }catch(e){}
+  function esc(x){return usaEsc(x);}
+  var items=[], anyGoogle=false;
+  for(var k in marks){ var mk=marks[k], parts=k.split("|"), city=parts[0], kind=parts[1], name=parts.slice(2).join("|");
+    var inCat = MINE.cat==="want"?(mk.m==="want") : MINE.cat==="been"?(mk.m==="been") : (mk.r>0);
+    if(!inCat) continue;
+    if(MINE.kind==="resto" && kind!=="resto") continue;
+    if(MINE.kind==="bars"  && kind!=="bars")  continue;
+    var info=mineInfo(city,kind,name);
+    var g=(info.v&&(info.v.gr||info.v.g))||0; if(g) anyGoogle=true;
+    items.push({city:city,kind:kind,name:name,r:mk.r||0,n:info.n,pct:info.pct,cl:info.cl,g:g});
+  }
+  if(MINE.sort==="rating") items.sort(function(a,b){return (b.r-a.r)||(b.n-a.n)||a.name.localeCompare(b.name);});
+  else if(MINE.sort==="lists") items.sort(function(a,b){return (b.n-a.n)||(b.r-a.r)||a.name.localeCompare(b.name);});
+  else items.sort(function(a,b){return (b.pct-a.pct)||(b.n-a.n)||a.name.localeCompare(b.name);});
+
+  var catSeg='<div class="seg-ctl" id="mineCat">'+['want','been','rated'].map(function(t){var lab={want:"◎ Want",been:"✓ Been",rated:"★ Rated"}[t];return '<button data-mc="'+t+'" class="'+(MINE.cat===t?"on":"")+'">'+lab+'</button>';}).join("")+'</div>';
+  var kindSeg='<div class="seg-ctl" id="mineKind">'+[['resto','Restaurants'],['bars','Bars'],['both','Combined']].map(function(p){return '<button data-mk="'+p[0]+'" class="'+(MINE.kind===p[0]?"on":"")+'">'+p[1]+'</button>';}).join("")+'</div>';
+  var sortSeg='<div class="seg-ctl" id="mineSort">'+[['rating','★ My rating'],['lists','☰ Most lists'],['pct','% of city lists']].map(function(p){return '<button data-ms="'+p[0]+'" class="'+(MINE.sort===p[0]?"on":"")+'">'+p[1]+'</button>';}).join("")+'</div>';
+  var gToggle='<label class="mine-gcmp"><input type="checkbox" id="mineGoogle"'+(MINE.google?" checked":"")+'> Compare to Google rating</label>';
+
+  var title={want:"Want to try",been:"Been there",rated:"My ratings"}[MINE.cat];
+  var rows=items.length? items.map(function(it,i){
+    var badge=it.kind==="bars"?"Bar":"Restaurant";
+    var yours=rateBlock(it.r,"mr-you","you");
+    var goog = MINE.google ? rateBlock(it.g,"mr-goog","Google") : "";
+    return '<div class="mine-row" data-city="'+esc(it.city)+'" data-kind="'+esc(it.kind)+'">'+
+      '<div class="mr-no">'+(i+1)+'</div>'+
+      '<div class="mr-main"><div class="mr-name">'+esc(it.name)+(it.cl?' <span class="usa-closed">✕ closed</span>':"")+'</div>'+
+      '<div class="mr-meta">'+esc(NAME[it.city]||it.city)+' · <span class="mr-tag">'+badge+'</span> · '+it.n+' lists · '+it.pct+'% of city</div></div>'+
+      '<div class="mr-rates">'+yours+goog+'</div></div>';
+  }).join("") : '<div class="mine-empty">Nothing here yet. Mark places as '+esc((title||"").toLowerCase())+' from any guide and they’ll gather here.</div>';
+
+  var gNote = (MINE.google && !anyGoogle && items.length) ? '<div class="mine-gnote">Google ratings aren’t connected yet — they’ll fill in here once set up.</div>' : "";
+
+  sec.innerHTML='<div class="mine-wrap">'+
+    '<div class="mine-top"><button class="mine-back" id="mineBack">← Back</button><div class="usa-kicker">Your Collection</div></div>'+
+    '<h2 class="usa-h mine-h">My Places</h2>'+
+    '<p class="usa-dek">Everywhere you’ve marked — your '+(MINE.cat==="rated"?"rated spots":MINE.cat==="want"?"want list":"been list")+', sortable by your own rating or by how many lists a place lands on.</p>'+
+    '<div class="mine-controls"><div class="mine-cg"><span class="ctl-label">Show</span>'+catSeg+'</div>'+
+      '<div class="mine-cg"><span class="ctl-label">Type</span>'+kindSeg+'</div>'+
+      '<div class="mine-cg"><span class="ctl-label">Sort</span>'+sortSeg+'</div>'+
+      '<div class="mine-cg">'+gToggle+'</div></div>'+
+    gNote+
+    '<div class="mine-list">'+rows+'</div>'+
+    '<div class="mine-foot">'+items.length+' '+(items.length===1?"place":"places")+'</div></div>';
+
+  sec.querySelectorAll("#mineCat button").forEach(function(b){ b.onclick=function(){ MINE.cat=b.dataset.mc; drawMine(); }; });
+  sec.querySelectorAll("#mineKind button").forEach(function(b){ b.onclick=function(){ MINE.kind=b.dataset.mk; drawMine(); }; });
+  sec.querySelectorAll("#mineSort button").forEach(function(b){ b.onclick=function(){ MINE.sort=b.dataset.ms; drawMine(); }; });
+  var gc=document.getElementById("mineGoogle"); if(gc) gc.onchange=function(){ MINE.google=gc.checked; drawMine(); };
+  var bk=document.getElementById("mineBack"); if(bk) bk.onclick=function(){ closeMyPlaces(); };
+  sec.querySelectorAll(".mine-row").forEach(function(row){ row.onclick=function(){ var c=row.dataset.city, kd=row.dataset.kind; closeMyPlaces(); location.hash="#/"+c+"/"+(kd==="bars"?"bars":"restaurants"); window.scrollTo({top:0,behavior:"smooth"}); }; });
+}
+window.openMyPlaces=openMyPlaces;
+window.addEventListener("hashchange",function(){ closeMyPlaces(); });
+
 function navHash(city,kind){location.hash="#/"+city+"/"+(kind==="bars"?"bars":"restaurants");}
 function applyRoute(city,kindTok){var kind=kindTok==="bars"?"bars":"resto",prev=state.kind;state.kind=kind;setCity(city);if(prev!=="bars"&&kind==="bars"){try{powerOnBars();}catch(e){}}}
 function route(){var h=(location.hash||"").replace(/^#\/?/,"");var parts=h.split("/").filter(Boolean);
@@ -2604,7 +2719,7 @@ body.theme-bars .acct-chip{box-shadow:0 0 10px rgba(42,224,255,.18);}
     var w=226; menuEl.style.left=Math.max(8,Math.min(r.right-w, window.innerWidth-w-8))+"px"; menuEl.style.minWidth=w+"px";
     menuEl.querySelectorAll("button").forEach(function(b){
       b.onclick=function(e){ e.stopPropagation(); var a=b.dataset.act; closeMenu();
-        if(a==="out"){ doSignOut(); } else { openMine(a); } };
+        if(a==="out"){ doSignOut(); } else if(window.openMyPlaces){ window.openMyPlaces(a); } else { openMine(a); } };
     });
     setTimeout(function(){ document.addEventListener("click",closeMenu); },0);
   }
