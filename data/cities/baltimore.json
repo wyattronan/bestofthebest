@@ -16,6 +16,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "eaterbal",
+     null
     ]
    ],
    "dual": false,
@@ -74,6 +78,10 @@
     ],
     [
      "infat",
+     null
+    ],
+    [
+     "eaterbal",
      null
     ]
    ],
@@ -147,6 +155,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "eaterbal",
+     null
     ]
    ],
    "dual": false,
@@ -163,6 +175,10 @@
    "lists": [
     [
      "baltmag",
+     null
+    ],
+    [
+     "eaterbal",
      null
     ]
    ],
@@ -184,6 +200,10 @@
     ],
     [
      "cntbal",
+     null
+    ],
+    [
+     "eaterbal",
      null
     ]
    ],
@@ -248,6 +268,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "eaterbal",
+     null
     ]
    ],
    "dual": false,
@@ -265,6 +289,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "eaterbal",
+     null
     ]
    ],
    "dual": false,
@@ -281,6 +309,10 @@
    "lists": [
     [
      "infat",
+     null
+    ],
+    [
+     "eaterbal",
      null
     ]
    ],
@@ -306,6 +338,10 @@
     ],
     [
      "cntbal",
+     null
+    ],
+    [
+     "eaterbal",
      null
     ]
    ],
@@ -345,6 +381,10 @@
     [
      "baltmag",
      null
+    ],
+    [
+     "eaterbal",
+     null
     ]
    ],
    "dual": false,
@@ -362,6 +402,10 @@
     [
      "baltmag",
      null
+    ],
+    [
+     "eaterbal",
+     null
     ]
    ],
    "dual": false,
@@ -378,6 +422,10 @@
    "lists": [
     [
      "baltmag",
+     null
+    ],
+    [
+     "eaterbal",
      null
     ]
    ],
@@ -403,6 +451,10 @@
     ],
     [
      "cntbal",
+     null
+    ],
+    [
+     "eaterbal",
      null
     ]
    ],
@@ -442,6 +494,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "eaterbal",
+     null
     ]
    ],
    "dual": false,
@@ -475,6 +531,10 @@
    "lists": [
     [
      "baltmag",
+     null
+    ],
+    [
+     "eaterbal",
      null
     ]
    ],
@@ -539,6 +599,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "eaterbal",
+     null
     ]
    ],
    "dual": false,
@@ -590,6 +654,10 @@
     [
      "baltmag",
      null
+    ],
+    [
+     "eaterbal",
+     null
     ]
    ],
    "dual": false,
@@ -610,6 +678,10 @@
     ],
     [
      "infat",
+     null
+    ],
+    [
+     "eaterbal",
      null
     ]
    ],
@@ -755,6 +827,10 @@
     [
      "baltmag",
      null
+    ],
+    [
+     "eaterbal",
+     null
     ]
    ],
    "dual": false,
@@ -771,6 +847,10 @@
    "lists": [
     [
      "baltmag",
+     null
+    ],
+    [
+     "eaterbal",
      null
     ]
    ],
@@ -805,6 +885,10 @@
    "lists": [
     [
      "baltmag",
+     null
+    ],
+    [
+     "eaterbal",
      null
     ]
    ],
@@ -874,6 +958,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "eaterbal",
+     null
     ]
    ],
    "dual": false,
@@ -890,6 +978,10 @@
    "lists": [
     [
      "infat",
+     null
+    ],
+    [
+     "eaterbal",
      null
     ]
    ],
@@ -942,6 +1034,10 @@
     [
      "cntbal",
      null
+    ],
+    [
+     "eaterbal",
+     null
     ]
    ],
    "dual": false,
@@ -958,6 +1054,10 @@
    "lists": [
     [
      "cntbal",
+     null
+    ],
+    [
+     "eaterbal",
      null
     ]
    ],
@@ -980,6 +1080,227 @@
    ],
    "dual": false,
    "vb": "datenight"
+  },
+  {
+   "name": "The Corner Pantry",
+   "hood": "Lake Falls Village",
+   "type": "british",
+   "typekind": "cui",
+   "lat": 39.373218,
+   "lng": -76.650556,
+   "pr": 2,
+   "lists": [
+    [
+     "eaterbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Ethel's Creole Kitchen",
+   "hood": "Mt. Washington",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 39.3670242,
+   "lng": -76.6524334,
+   "pr": 2,
+   "lists": [
+    [
+     "eaterbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "oldguard"
+  },
+  {
+   "name": "Chiyo Sushi",
+   "hood": "Mt. Washington",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 39.3668732,
+   "lng": -76.6525434,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Maggie's Farm",
+   "hood": "Lauraville",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 39.3394572,
+   "lng": -76.5724949,
+   "pr": 2,
+   "lists": [
+    [
+     "eaterbal",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "datenight"
+  },
+  {
+   "name": "The Local Fry",
+   "hood": "The Rotunda",
+   "type": "quick",
+   "typekind": "cui",
+   "lat": 39.3359522,
+   "lng": -76.6298227,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "The Food Market",
+   "hood": "Hampden",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 39.3308889,
+   "lng": -76.6332417,
+   "pr": 2,
+   "lists": [
+    [
+     "eaterbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "Chachi's",
+   "hood": "Charles Village",
+   "type": "quick",
+   "typekind": "cui",
+   "lat": 39.3151306,
+   "lng": -76.617774,
+   "pr": 2,
+   "lists": [
+    [
+     "eaterbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "quick"
+  },
+  {
+   "name": "Mera Kitchen Collective",
+   "hood": "Mt. Vernon",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 39.3047206,
+   "lng": -76.6131782,
+   "pr": 2,
+   "lists": [
+    [
+     "eaterbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Restaurante Tio Pepe",
+   "hood": "Mt. Vernon",
+   "type": "spanish",
+   "typekind": "cui",
+   "lat": 39.2952778,
+   "lng": -76.615,
+   "pr": 3,
+   "lists": [
+    [
+     "eaterbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
+  },
+  {
+   "name": "Johnny Rad's",
+   "hood": "Upper Fells Point",
+   "type": "pizza",
+   "typekind": "cui",
+   "lat": 39.2860452,
+   "lng": -76.5865575,
+   "pr": 2,
+   "lists": [
+    [
+     "eaterbal",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "pizza"
+  },
+  {
+   "name": "Thai Street",
+   "hood": "Fells Point",
+   "type": "thai",
+   "typekind": "cui",
+   "lat": 39.2840506,
+   "lng": -76.5934443,
+   "pr": 2,
+   "lists": [
+    [
+     "eaterbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "asian"
+  },
+  {
+   "name": "Ramen Utsuke",
+   "hood": "Inner Harbor",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 39.2835533,
+   "lng": -76.6135371,
+   "pr": 1,
+   "lists": [
+    [
+     "eaterbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "datenight"
+  },
+  {
+   "name": "SoBo Cafe",
+   "hood": "Federal Hill",
+   "type": "american",
+   "typekind": "cui",
+   "lat": 39.2769108,
+   "lng": -76.6148933,
+   "pr": 2,
+   "lists": [
+    [
+     "eaterbal",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "global"
   }
  ],
  "bars": [
@@ -1640,7 +1961,7 @@
      null
     ]
    ],
-   "dual": false,
+   "dual": true,
    "vb": "mixo"
   },
   {
@@ -1832,7 +2153,7 @@
      null
     ]
    ],
-   "dual": false,
+   "dual": true,
    "vb": "wine"
   },
   {
@@ -1925,6 +2246,15 @@
    "mono": "CN",
    "tag": "CNTRAV",
    "name": "Condé Nast Traveler: 9 Best Restaurants in Baltimore for Seafood and Beyond",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "eaterbal": {
+   "cls": "plate r-eaterbal",
+   "mono": "EAT",
+   "tag": "EATER",
+   "name": "Eater: Baltimore's 38 Essential Restaurants",
    "year": "2025",
    "ranked": false,
    "starChip": false
