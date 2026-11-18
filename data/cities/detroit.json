@@ -15,7 +15,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "Rose's",
@@ -36,7 +37,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "ml": "brld"
   },
   {
    "name": "Loui's Pizza",
@@ -57,7 +59,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "ld"
   },
   {
    "name": "Bar Chenin",
@@ -74,7 +77,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Tacos Wuey",
@@ -95,7 +99,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Vecino",
@@ -112,7 +117,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "d"
   },
   {
    "name": "Ladder 4 Wine Bar",
@@ -137,7 +143,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Selden Standard",
@@ -162,7 +169,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Little Liberia",
@@ -179,7 +187,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "The Congregation",
@@ -200,7 +209,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "ml": "brl"
   },
   {
    "name": "Bar Gabi",
@@ -217,7 +227,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "d"
   },
   {
    "name": "Al Ameer",
@@ -234,7 +245,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Norm's Diner",
@@ -255,7 +267,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "ml": "brl"
   },
   {
    "name": "Duly's Place",
@@ -276,7 +289,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "ld"
   },
   {
    "name": "Tall Trees Cafe",
@@ -297,7 +311,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "ml": "l"
   },
   {
    "name": "Marrow",
@@ -322,7 +337,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Mabel Gray",
@@ -351,7 +367,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Freya",
@@ -368,7 +385,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Noori Pocha",
@@ -390,7 +408,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Korean"
+   "sub": "Korean",
+   "ml": "ld"
   },
   {
    "name": "Polish Village Cafe",
@@ -407,7 +426,8 @@
     ]
    ],
    "dual": false,
-   "vb": "oldguard"
+   "vb": "oldguard",
+   "ml": "ld"
   },
   {
    "name": "Baobab Fare",
@@ -428,7 +448,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "La Palapa Del Parian",
@@ -449,7 +470,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Scotty Simpson's Fish & Chips",
@@ -466,7 +488,8 @@
     ]
    ],
    "dual": false,
-   "vb": "oldguard"
+   "vb": "oldguard",
+   "ml": "ld"
   },
   {
    "name": "Ima Izakaya",
@@ -488,7 +511,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Izakaya"
+   "sub": "Izakaya",
+   "ml": "ld"
   },
   {
    "name": "Detroit 75",
@@ -505,7 +529,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "ml": "l"
   },
   {
    "name": "The Whitney",
@@ -522,7 +547,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Voyager",
@@ -539,7 +565,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "d"
   },
   {
    "name": "Barda",
@@ -556,7 +583,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "d"
   },
   {
    "name": "Oak & Reel",
@@ -577,7 +605,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "SheWolf Pastificio",
@@ -594,7 +623,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "Saffron De Twah",
@@ -611,7 +641,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Flowers of Vietnam",
@@ -629,7 +660,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Vietnamese"
+   "sub": "Vietnamese",
+   "ml": "ld"
   },
   {
    "name": "Chartreuse",
@@ -646,7 +678,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Sweet Potato Sensations",
@@ -663,7 +696,8 @@
     ]
    ],
    "dual": false,
-   "vb": "oldguard"
+   "vb": "oldguard",
+   "ml": "ld"
   },
   {
    "name": "Casa Amado Taqueria",
@@ -680,7 +714,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taco"
+   "vb": "taco",
+   "ml": "ld"
   },
   {
    "name": "Dearborn Meat Market",
@@ -697,7 +732,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Hamido",
@@ -714,7 +750,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Forest Bakery",
@@ -731,7 +768,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "ml": "brl"
   },
   {
    "name": "Noble Fish",
@@ -749,7 +787,8 @@
    ],
    "dual": false,
    "vb": "datenight",
-   "sub": "Sushi"
+   "sub": "Sushi",
+   "ml": "d"
   },
   {
    "name": "Good Cakes and Bakes",
@@ -766,7 +805,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "ml": "brl"
   },
   {
    "name": "The Balkan House",
@@ -783,7 +823,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "El Barzon",
@@ -800,7 +841,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "Puma Detroit",
@@ -817,7 +859,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Takoi",
@@ -835,7 +878,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Thai"
+   "sub": "Thai",
+   "ml": "ld"
   },
   {
    "name": "Tamaleria Nuevo Leon",
@@ -852,7 +896,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taco"
+   "vb": "taco",
+   "ml": "ld"
   },
   {
    "name": "Alba",
@@ -869,7 +914,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "ml": "brl"
   },
   {
    "name": "Shangri-La",
@@ -887,7 +933,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Dim Sum"
+   "sub": "Dim Sum",
+   "ml": "ld"
   },
   {
    "name": "Alpino",
@@ -904,7 +951,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "Mudgie's Deli and Bar",
@@ -921,7 +969,8 @@
     ]
    ],
    "dual": false,
-   "vb": "deli"
+   "vb": "deli",
+   "ml": "bl"
   },
   {
    "name": "Warda Pâtisserie",
@@ -938,7 +987,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "ml": "brl"
   },
   {
    "name": "Leña",
@@ -955,7 +1005,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "d"
   },
   {
    "name": "The Hudson Cafe",
@@ -972,7 +1023,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "ml": "brl"
   },
   {
    "name": "Paradise Street Eats - Food Truck",
@@ -989,7 +1041,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Mitsos Greek Food & Coffee",
@@ -1006,7 +1059,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Louisiana Creole Gumbo",
@@ -1023,7 +1077,8 @@
     ]
    ],
    "dual": false,
-   "vb": "oldguard"
+   "vb": "oldguard",
+   "ml": "ld"
   },
   {
    "name": "Coriander Kitchen and Farm",
@@ -1040,7 +1095,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Sister Pie",
@@ -1058,7 +1114,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "ml": "bl"
   }
  ],
  "bars": [

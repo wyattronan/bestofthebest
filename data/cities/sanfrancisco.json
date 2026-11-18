@@ -45,7 +45,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Lazy Bear",
@@ -88,7 +89,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Nari",
@@ -132,7 +134,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Thai"
+   "sub": "Thai",
+   "ml": "d"
   },
   {
    "name": "Restaurant Naides",
@@ -166,7 +169,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "San Ho Won",
@@ -209,7 +213,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Korean BBQ"
+   "sub": "Korean BBQ",
+   "ml": "d"
   },
   {
    "name": "Zuni Café",
@@ -249,7 +254,8 @@
    ],
    "dual": false,
    "vb": "oldguard",
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "Beit Rima",
@@ -280,7 +286,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Californios",
@@ -322,7 +329,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Four Kings",
@@ -359,7 +367,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Cantonese"
+   "sub": "Cantonese",
+   "ml": "ld"
   },
   {
    "name": "Mijoté",
@@ -393,7 +402,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Mister Jiu's",
@@ -432,7 +442,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Cantonese"
+   "sub": "Cantonese",
+   "ml": "d"
   },
   {
    "name": "Rintaro",
@@ -472,7 +483,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "sub": "Izakaya"
+   "sub": "Izakaya",
+   "ml": "ld"
   },
   {
    "name": "Sun Moon Studio",
@@ -506,7 +518,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "The Progress",
@@ -544,7 +557,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Verjus",
@@ -579,7 +593,8 @@
     ]
    ],
    "dual": true,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "7 Adams",
@@ -605,7 +620,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Atelier Crenn",
@@ -645,7 +661,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Benu",
@@ -679,7 +696,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Breadbelly",
@@ -710,7 +728,8 @@
    ],
    "dual": false,
    "vb": "brunch",
-   "to": 1
+   "to": 1,
+   "ml": "brl"
   },
   {
    "name": "Copra",
@@ -745,7 +764,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Cotogna",
@@ -780,7 +800,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "Jules",
@@ -811,7 +832,8 @@
    ],
    "dual": false,
    "vb": "quick",
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Kiln",
@@ -833,7 +855,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Kin Khao",
@@ -870,7 +893,8 @@
    "dual": false,
    "vb": "asian",
    "lu": 1,
-   "sub": "Thai"
+   "sub": "Thai",
+   "ml": "ld"
   },
   {
    "name": "Minnie Bell's Soul Movement",
@@ -899,7 +923,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Saison",
@@ -937,7 +962,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Sons & Daughters",
@@ -967,7 +993,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "The Morris",
@@ -994,7 +1021,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Anchor Oyster Bar",
@@ -1016,7 +1044,8 @@
    ],
    "dual": false,
    "vb": "specialty",
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Angler",
@@ -1043,7 +1072,8 @@
    ],
    "dual": false,
    "vb": "datenight",
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "Azalina's",
@@ -1072,7 +1102,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Malaysian"
+   "sub": "Malaysian",
+   "ml": "ld"
   },
   {
    "name": "Aziza",
@@ -1103,7 +1134,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Birdsong",
@@ -1121,7 +1153,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Bombera",
@@ -1150,7 +1183,8 @@
    "dual": false,
    "vb": "taco",
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "Dalida",
@@ -1180,7 +1214,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Delfina",
@@ -1206,7 +1241,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Flour + Water",
@@ -1232,7 +1268,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Good Good Culture Club",
@@ -1257,7 +1294,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Southeast Asian"
+   "sub": "Southeast Asian",
+   "ml": "ld"
   },
   {
    "name": "La Taqueria",
@@ -1283,7 +1321,8 @@
    ],
    "dual": false,
    "vb": "taqueria",
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Lunette",
@@ -1312,7 +1351,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Cambodian"
+   "sub": "Cambodian",
+   "ml": "ld"
   },
   {
    "name": "Mandalay",
@@ -1337,7 +1377,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Burmese"
+   "sub": "Burmese",
+   "ml": "ld"
   },
   {
    "name": "Niku Steakhouse",
@@ -1358,7 +1399,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Nisei",
@@ -1380,7 +1422,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Outerlands",
@@ -1402,7 +1445,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Outta Sight Pizza",
@@ -1425,7 +1469,8 @@
    ],
    "dual": false,
    "vb": "quick",
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Pearl 6101",
@@ -1447,7 +1492,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Prubechu",
@@ -1475,7 +1521,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "sub": "Chamorro"
+   "sub": "Chamorro",
+   "ml": "ld"
   },
   {
    "name": "Snail Bar",
@@ -1498,7 +1545,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Soba Ichi",
@@ -1524,7 +1572,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "sub": "Soba"
+   "sub": "Soba",
+   "ml": "ld"
   },
   {
    "name": "State Bird Provisions",
@@ -1550,7 +1599,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Tacos Oscar",
@@ -1577,7 +1627,8 @@
    ],
    "dual": false,
    "vb": "taqueria",
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Thanh Long",
@@ -1602,7 +1653,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Vietnamese"
+   "sub": "Vietnamese",
+   "ml": "ld"
   },
   {
    "name": "Via Aurelia",
@@ -1622,7 +1674,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Yuanbao Jiaozi",
@@ -1647,7 +1700,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Dumplings"
+   "sub": "Dumplings",
+   "ml": "ld"
   },
   {
    "name": "3rd Cousin",
@@ -1660,7 +1714,8 @@
    "pr": 3,
    "lists": [],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "A16",
@@ -1678,7 +1733,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Abaca",
@@ -1699,7 +1755,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Filipino"
+   "sub": "Filipino",
+   "ml": "ld"
   },
   {
    "name": "Acquerello",
@@ -1720,7 +1777,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Bansang",
@@ -1738,7 +1796,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Korean"
+   "sub": "Korean",
+   "ml": "ld"
   },
   {
    "name": "Bar Maritime",
@@ -1754,7 +1813,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Besharam",
@@ -1773,7 +1833,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Bix",
@@ -1791,7 +1852,8 @@
     ]
    ],
    "dual": true,
-   "vb": "oldguard"
+   "vb": "oldguard",
+   "ml": "ld"
   },
   {
    "name": "Bodega SF",
@@ -1812,7 +1874,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Vietnamese"
+   "sub": "Vietnamese",
+   "ml": "ld"
   },
   {
    "name": "Bon Delire",
@@ -1828,7 +1891,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Burdell",
@@ -1850,7 +1914,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Butter & Crumble",
@@ -1862,7 +1927,8 @@
    "lists": [],
    "dual": false,
    "vb": "brunch",
-   "to": 1
+   "to": 1,
+   "ml": "brl"
   },
   {
    "name": "Caché",
@@ -1878,7 +1944,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Cinderella Bakery & Cafe",
@@ -1897,7 +1964,8 @@
    ],
    "dual": false,
    "vb": "brunch",
-   "to": 1
+   "to": 1,
+   "ml": "brl"
   },
   {
    "name": "Colibri",
@@ -1916,7 +1984,8 @@
    ],
    "dual": false,
    "vb": "quick",
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Comal",
@@ -1935,7 +2004,8 @@
    ],
    "dual": false,
    "vb": "quick",
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Commis",
@@ -1954,7 +2024,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Crustacean San Francisco",
@@ -1975,7 +2046,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Vietnamese"
+   "sub": "Vietnamese",
+   "ml": "ld"
   },
   {
    "name": "Daeho",
@@ -1995,7 +2067,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Korean"
+   "sub": "Korean",
+   "ml": "ld"
   },
   {
    "name": "Dingles Public House",
@@ -2011,7 +2084,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Dumpling Home",
@@ -2031,7 +2105,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Dumplings"
+   "sub": "Dumplings",
+   "ml": "ld"
   },
   {
    "name": "El Buen Comer",
@@ -2050,7 +2125,8 @@
    ],
    "dual": false,
    "vb": "quick",
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "El Mil Amores",
@@ -2067,7 +2143,8 @@
    ],
    "dual": false,
    "vb": "quick",
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Fikscue Thrive City",
@@ -2090,7 +2167,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "FOB Kitchen",
@@ -2110,7 +2188,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Filipino"
+   "sub": "Filipino",
+   "ml": "ld"
   },
   {
    "name": "Fog Harbor Fish House",
@@ -2127,7 +2206,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Golden Boy Pizza",
@@ -2147,7 +2227,8 @@
    ],
    "dual": false,
    "vb": "specialty",
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Good Mong Kok",
@@ -2167,7 +2248,8 @@
    "dual": false,
    "vb": "specialty",
    "to": 1,
-   "sub": "Dim Sum"
+   "sub": "Dim Sum",
+   "ml": "ld"
   },
   {
    "name": "Great China",
@@ -2187,7 +2269,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Chinese"
+   "sub": "Chinese",
+   "ml": "ld"
   },
   {
    "name": "Hilda and Jesse",
@@ -2209,7 +2292,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Horn BBQ",
@@ -2227,7 +2311,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "House of Prime Rib",
@@ -2252,7 +2337,8 @@
     ]
    ],
    "dual": false,
-   "vb": "oldguard"
+   "vb": "oldguard",
+   "ml": "d"
   },
   {
    "name": "Insalata's",
@@ -2270,7 +2356,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Ippuku",
@@ -2293,7 +2380,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "sub": "Yakitori"
+   "sub": "Yakitori",
+   "ml": "ld"
   },
   {
    "name": "Jo's Modern Thai",
@@ -2314,7 +2402,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Thai"
+   "sub": "Thai",
+   "ml": "ld"
   },
   {
    "name": "Joodooboo",
@@ -2339,7 +2428,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Korean"
+   "sub": "Korean",
+   "ml": "ld"
   },
   {
    "name": "JouJou",
@@ -2355,7 +2445,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "KEN",
@@ -2374,7 +2465,8 @@
    ],
    "dual": false,
    "vb": "datenight",
-   "sub": "Sushi"
+   "sub": "Sushi",
+   "ml": "d"
   },
   {
    "name": "Khao Tiew",
@@ -2395,7 +2487,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Thai"
+   "sub": "Thai",
+   "ml": "ld"
   },
   {
    "name": "Kitchen Istanbul",
@@ -2417,7 +2510,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Liholiho Yacht Club",
@@ -2440,7 +2534,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "sub": "Hawaiian"
+   "sub": "Hawaiian",
+   "ml": "ld"
   },
   {
    "name": "Lolinda",
@@ -2460,7 +2555,8 @@
    ],
    "dual": false,
    "vb": "quick",
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Loltun",
@@ -2477,7 +2573,8 @@
    ],
    "dual": false,
    "vb": "quick",
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Madcap",
@@ -2500,7 +2597,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "MAMA Oakland",
@@ -2518,7 +2616,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Mamahuhu",
@@ -2538,7 +2637,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Chinese-American"
+   "sub": "Chinese-American",
+   "ml": "ld"
   },
   {
    "name": "Maria Isabel",
@@ -2559,7 +2659,8 @@
    ],
    "dual": false,
    "vb": "quick",
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Marufuku Ramen",
@@ -2577,7 +2678,8 @@
    ],
    "dual": false,
    "vb": "datenight",
-   "sub": "Ramen"
+   "sub": "Ramen",
+   "ml": "d"
   },
   {
    "name": "New Dumpling",
@@ -2595,7 +2697,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Dumplings"
+   "sub": "Dumplings",
+   "ml": "ld"
   },
   {
    "name": "Nope Fish",
@@ -2612,7 +2715,8 @@
    ],
    "dual": false,
    "vb": "datenight",
-   "sub": "Japanese"
+   "sub": "Japanese",
+   "ml": "d"
   },
   {
    "name": "Ocean Subs",
@@ -2630,7 +2734,8 @@
    "dual": false,
    "vb": "oldguard",
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "Octavia",
@@ -2648,7 +2753,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Okane",
@@ -2666,7 +2772,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "sub": "Izakaya"
+   "sub": "Izakaya",
+   "ml": "ld"
   },
   {
    "name": "Old Mandarin Islamic",
@@ -2686,7 +2793,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Halal Chinese"
+   "sub": "Halal Chinese",
+   "ml": "ld"
   },
   {
    "name": "Osso Steakhouse",
@@ -2703,7 +2811,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Ox & Tiger",
@@ -2722,7 +2831,8 @@
    ],
    "dual": false,
    "vb": "datenight",
-   "sub": "Filipino-Japanese"
+   "sub": "Filipino-Japanese",
+   "ml": "d"
   },
   {
    "name": "Palette Tea House",
@@ -2743,7 +2853,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Dim Sum"
+   "sub": "Dim Sum",
+   "ml": "ld"
   },
   {
    "name": "Pausa",
@@ -2761,7 +2872,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Piccolo Forno",
@@ -2779,7 +2891,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Piglet & Co",
@@ -2799,7 +2912,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Taiwanese"
+   "sub": "Taiwanese",
+   "ml": "ld"
   },
   {
    "name": "Playa",
@@ -2817,7 +2931,8 @@
    ],
    "dual": false,
    "vb": "quick",
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Popoca",
@@ -2842,7 +2957,8 @@
    "dual": false,
    "vb": "global",
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "Rad Radish",
@@ -2861,7 +2977,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Ramen Shop",
@@ -2881,7 +2998,8 @@
    ],
    "dual": false,
    "vb": "datenight",
-   "sub": "Ramen"
+   "sub": "Ramen",
+   "ml": "d"
   },
   {
    "name": "Rich Table",
@@ -2907,7 +3025,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Rose Pizzeria",
@@ -2930,7 +3049,8 @@
    ],
    "dual": false,
    "vb": "quick",
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Saigon Sandwich",
@@ -2952,7 +3072,8 @@
    "vb": "asian",
    "to": 1,
    "lu": 1,
-   "sub": "Vietnamese"
+   "sub": "Vietnamese",
+   "ml": "ld"
   },
   {
    "name": "Sam's Grill",
@@ -2970,7 +3091,8 @@
     ]
    ],
    "dual": false,
-   "vb": "oldguard"
+   "vb": "oldguard",
+   "ml": "ld"
   },
   {
    "name": "Sandy's",
@@ -2990,7 +3112,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Seven Hills",
@@ -3008,7 +3131,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Showa",
@@ -3027,7 +3151,8 @@
    ],
    "dual": false,
    "vb": "datenight",
-   "sub": "Tonkatsu"
+   "sub": "Tonkatsu",
+   "ml": "d"
   },
   {
    "name": "Shuggies",
@@ -3047,7 +3172,8 @@
    ],
    "dual": false,
    "vb": "quick",
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Side A",
@@ -3067,7 +3193,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "SingleThread",
@@ -3090,7 +3217,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Sohn",
@@ -3104,7 +3232,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Korean"
+   "sub": "Korean",
+   "ml": "ld"
   },
   {
    "name": "Sorrel",
@@ -3122,7 +3251,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Spinning Bones",
@@ -3141,7 +3271,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "sub": "Rotisserie"
+   "sub": "Rotisserie",
+   "ml": "ld"
   },
   {
    "name": "Ssal",
@@ -3160,7 +3291,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Superprime Steakhouse",
@@ -3176,7 +3308,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Tacos Mama Cuca",
@@ -3193,7 +3326,8 @@
    ],
    "dual": false,
    "vb": "taqueria",
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Taishan Cuisine",
@@ -3215,7 +3349,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Taishanese"
+   "sub": "Taishanese",
+   "ml": "ld"
   },
   {
    "name": "Taqueria Cancun",
@@ -3234,7 +3369,8 @@
    ],
    "dual": false,
    "vb": "taqueria",
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Taqueria El Farolito",
@@ -3253,7 +3389,8 @@
    ],
    "dual": false,
    "vb": "taqueria",
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Teni East Kitchen",
@@ -3274,7 +3411,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Burmese"
+   "sub": "Burmese",
+   "ml": "ld"
   },
   {
    "name": "The Post Room",
@@ -3290,7 +3428,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "The Thonglor",
@@ -3308,7 +3447,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Thai"
+   "sub": "Thai",
+   "ml": "ld"
   },
   {
    "name": "Tiya",
@@ -3328,7 +3468,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Top Hatter's Kitchen",
@@ -3347,7 +3488,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "sub": "Vietnamese-Californian"
+   "sub": "Vietnamese-Californian",
+   "ml": "ld"
   },
   {
    "name": "Trestle",
@@ -3365,7 +3507,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Trick Dog",
@@ -3384,7 +3527,8 @@
     ]
    ],
    "dual": true,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "True Laurel",
@@ -3407,7 +3551,8 @@
     ]
    ],
    "dual": true,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Village Sake",
@@ -3426,7 +3571,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "sub": "Izakaya"
+   "sub": "Izakaya",
+   "ml": "ld"
   },
   {
    "name": "Wah Jee Wah",
@@ -3442,7 +3588,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Wakuriya",
@@ -3461,7 +3608,8 @@
    ],
    "dual": false,
    "vb": "datenight",
-   "sub": "Kaiseki"
+   "sub": "Kaiseki",
+   "ml": "d"
   },
   {
    "name": "Wayfare Tavern",
@@ -3479,7 +3627,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Wildseed",
@@ -3498,7 +3647,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Wolfsbane",
@@ -3520,7 +3670,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Yank Sing",
@@ -3541,7 +3692,8 @@
    "dual": false,
    "vb": "specialty",
    "to": 1,
-   "sub": "Dim Sum"
+   "sub": "Dim Sum",
+   "ml": "ld"
   },
   {
    "name": "Z&Y",
@@ -3561,7 +3713,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Szechuan"
+   "sub": "Szechuan",
+   "ml": "ld"
   },
   {
    "name": "Z&Y Peking Duck",
@@ -3581,7 +3734,8 @@
    "dual": false,
    "vb": "asian",
    "to": 1,
-   "sub": "Peking Duck"
+   "sub": "Peking Duck",
+   "ml": "ld"
   },
   {
    "name": "Fù Huì Huá",
@@ -3598,7 +3752,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Friends Only",
@@ -3619,7 +3774,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Mägo",
@@ -3636,7 +3792,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Ok's Deli",
@@ -3655,7 +3812,8 @@
    "vb": "quick",
    "dual": false,
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "ml": "bld"
   },
   {
    "name": "La Vaca Birria",
@@ -3673,7 +3831,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Bo Ne Phu Yen",
@@ -3690,7 +3849,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Lily",
@@ -3707,7 +3867,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "LeYou Ethiopian",
@@ -3725,7 +3886,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "sub": "Ethiopian"
+   "sub": "Ethiopian",
+   "ml": "ld"
   },
   {
    "name": "Tanzie's",
@@ -3742,7 +3904,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Yeobo, Darling",
@@ -3759,7 +3922,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "3 Bottled Fish",
@@ -3776,7 +3940,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Valley",
@@ -3793,7 +3958,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Cultured Pickle Shop",
@@ -3811,7 +3977,8 @@
    ],
    "vb": "brunch",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "ml": "brl"
   },
   {
    "name": "Lou's Takeaway",
@@ -3828,7 +3995,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "The Happy Crane",
@@ -3849,7 +4017,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Vik's Chaat",
@@ -3868,7 +4037,8 @@
    "vb": "quick",
    "dual": false,
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "Peña's Bakery",
@@ -3886,7 +4056,8 @@
    ],
    "vb": "brunch",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "ml": "brl"
   },
   {
    "name": "Spicy Joi",
@@ -3903,7 +4074,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Kunjip",
@@ -3920,7 +4092,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Cyrus",
@@ -3937,7 +4110,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": true
+   "dual": true,
+   "ml": "d"
   },
   {
    "name": "Psychic Pie",
@@ -3954,7 +4128,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Eylan",
@@ -3971,7 +4146,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Itria",
@@ -3988,7 +4164,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Sirene",
@@ -4005,7 +4182,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Table Culture Provisions",
@@ -4022,7 +4200,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Spread Kitchen",
@@ -4039,7 +4218,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Mustards Grill",
@@ -4056,7 +4236,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Scoma's",
@@ -4073,7 +4254,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Jubba",
@@ -4090,7 +4272,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Smish Smash",
@@ -4108,7 +4291,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Reem's",
@@ -4129,7 +4313,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Cafe Colucci",
@@ -4147,7 +4332,8 @@
    ],
    "vb": "brunch",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "ml": "brl"
   },
   {
    "name": "Enclos",
@@ -4164,7 +4350,8 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "The Laundromat",
@@ -4181,7 +4368,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "The Charter Oak",
@@ -4198,7 +4386,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Goodtime Bar",
@@ -4215,7 +4404,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Ernest",
@@ -4232,7 +4422,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Alem's Coffee",
@@ -4250,7 +4441,8 @@
    ],
    "vb": "brunch",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "ml": "brl"
   },
   {
    "name": "Keeku da Dhaba",
@@ -4267,7 +4459,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "El Molino Central",
@@ -4284,7 +4477,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Mrs Khan Uyghur Cuisine",
@@ -4302,7 +4496,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "sub": "Uyghur"
+   "sub": "Uyghur",
+   "ml": "ld"
   },
   {
    "name": "Mashaallah Halal Pakistani Food",
@@ -4320,7 +4515,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "sub": "Pakistani"
+   "sub": "Pakistani",
+   "ml": "ld"
   },
   {
    "name": "Patio Filipino",
@@ -4338,7 +4534,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "sub": "Filipino"
+   "sub": "Filipino",
+   "ml": "ld"
   },
   {
    "name": "Capital",
@@ -4355,7 +4552,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Yo También Cantina",
@@ -4376,7 +4574,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Shizen",
@@ -4393,7 +4592,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Noodle in a Haystack",
@@ -4411,7 +4611,8 @@
    ],
    "vb": "datenight",
    "dual": false,
-   "sub": "Ramen"
+   "sub": "Ramen",
+   "ml": "d"
   },
   {
    "name": "KUSAKABE",
@@ -4429,7 +4630,8 @@
    ],
    "vb": "datenight",
    "dual": false,
-   "sub": "Sushi"
+   "sub": "Sushi",
+   "ml": "d"
   },
   {
    "name": "Hwa Mi Won",
@@ -4448,7 +4650,8 @@
    "vb": "asian",
    "dual": false,
    "to": 1,
-   "sub": "Korean"
+   "sub": "Korean",
+   "ml": "ld"
   },
   {
    "name": "Mr. Pollo",
@@ -4466,7 +4669,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Kokkari Estiatorio",
@@ -4492,7 +4696,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "Anh Hong",
@@ -4511,7 +4716,8 @@
    "vb": "asian",
    "dual": false,
    "to": 1,
-   "sub": "Vietnamese"
+   "sub": "Vietnamese",
+   "ml": "ld"
   },
   {
    "name": "El Gallo Giro",
@@ -4529,7 +4735,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Tadich Grill",
@@ -4547,7 +4754,8 @@
    ],
    "dual": false,
    "vb": "oldguard",
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "Harborview",
@@ -4567,7 +4775,8 @@
    "vb": "asian",
    "lu": 1,
    "to": 1,
-   "sub": "Dim Sum"
+   "sub": "Dim Sum",
+   "ml": "ld"
   },
   {
    "name": "La Mar",
@@ -4585,7 +4794,8 @@
    ],
    "dual": false,
    "vb": "datenight",
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "Piccino",
@@ -4604,7 +4814,8 @@
    "dual": false,
    "vb": "pizza",
    "lu": 1,
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Waterbar",
@@ -4622,7 +4833,8 @@
    ],
    "dual": false,
    "vb": "datenight",
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "Absinthe Brasserie & Bar",
@@ -4640,7 +4852,8 @@
    ],
    "dual": false,
    "vb": "datenight",
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "The Rotunda at Neiman Marcus",
@@ -4658,7 +4871,8 @@
    ],
    "dual": false,
    "vb": "datenight",
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "The Palm Court at RH",
@@ -4676,7 +4890,8 @@
    ],
    "dual": false,
    "vb": "datenight",
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "The Restaurant at Meadowood",
@@ -4696,7 +4911,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "ml": "d"
   },
   {
    "name": "Mission Chinese Food",
@@ -4719,7 +4935,8 @@
    ],
    "dual": false,
    "_natadd": 1,
-   "sub": "Szechuan"
+   "sub": "Szechuan",
+   "ml": "ld"
   },
   {
    "name": "Swan Oyster Depot",
@@ -4737,7 +4954,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "ml": "ld"
   },
   {
    "name": "Boulevard",
@@ -4755,7 +4973,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "ml": "ld"
   },
   {
    "name": "Chicano Nuevo",
@@ -4771,7 +4990,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "ml": "d"
   },
   {
    "name": "Bar Panisse",
@@ -4787,7 +5007,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "ml": "d"
   }
  ],
  "bars": [

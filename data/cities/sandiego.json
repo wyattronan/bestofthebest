@@ -31,7 +31,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "d"
   },
   {
    "name": "Leila",
@@ -56,7 +57,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Jeune et Jolie",
@@ -81,7 +83,8 @@
     ]
    ],
    "dual": true,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Addison",
@@ -114,7 +117,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Herb & Wood",
@@ -139,7 +143,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Lucien",
@@ -164,7 +169,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Lilo",
@@ -189,7 +195,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Soichi",
@@ -215,7 +222,8 @@
    ],
    "dual": false,
    "vb": "tasting",
-   "sub": "Sushi"
+   "sub": "Sushi",
+   "ml": "d"
   },
   {
    "name": "Atelier Manna",
@@ -237,7 +245,8 @@
    ],
    "dual": false,
    "vb": "brunch",
-   "lu": 1
+   "lu": 1,
+   "ml": "brld"
   },
   {
    "name": "Mabel's Gone Fishing",
@@ -262,7 +271,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Cesarina",
@@ -287,7 +297,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "Ciccia Osteria",
@@ -304,7 +315,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "Morning Glory",
@@ -326,7 +338,8 @@
    ],
    "dual": false,
    "vb": "brunch",
-   "lu": 1
+   "lu": 1,
+   "ml": "brl"
   },
   {
    "name": "Cucina Urbana",
@@ -343,7 +356,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "Lola 55 Tacos",
@@ -362,7 +376,8 @@
    "dual": false,
    "vb": "global",
    "lu": 1,
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Dija Mara",
@@ -380,7 +395,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Indonesian"
+   "sub": "Indonesian",
+   "ml": "ld"
   },
   {
    "name": "Animae",
@@ -410,7 +426,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Asian-Californian"
+   "sub": "Asian-Californian",
+   "ml": "d"
   },
   {
    "name": "Juniper and Ivy",
@@ -431,7 +448,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "d"
   },
   {
    "name": "Communion",
@@ -448,7 +466,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Kingfisher",
@@ -478,7 +497,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Vietnamese"
+   "sub": "Vietnamese",
+   "ml": "d"
   },
   {
    "name": "Marisi",
@@ -495,7 +515,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "Valle",
@@ -520,7 +541,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Puesto",
@@ -538,7 +560,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "Born and Raised",
@@ -555,7 +578,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Mister A's",
@@ -576,7 +600,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "d"
   },
   {
    "name": "Cowboy Star",
@@ -601,7 +626,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Buona Forchetta",
@@ -623,7 +649,8 @@
    ],
    "dual": false,
    "vb": "italian",
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "À L'ouest",
@@ -644,7 +671,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Fleurette",
@@ -665,7 +693,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Wolf in the Woods",
@@ -686,7 +715,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "d"
   },
   {
    "name": "Fish Guts",
@@ -707,7 +737,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Pomegranate",
@@ -725,7 +756,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "sub": "Russian-Georgian"
+   "sub": "Russian-Georgian",
+   "ml": "ld"
   },
   {
    "name": "Oscar's Mexican Seafood",
@@ -742,7 +774,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Yakitori Tsuta",
@@ -764,7 +797,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Yakitori"
+   "sub": "Yakitori",
+   "ml": "d"
   },
   {
    "name": "Aqui Es Texcoco",
@@ -785,7 +819,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Shan Xi Magic Kitchen",
@@ -807,7 +842,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Shanxi"
+   "sub": "Shanxi",
+   "ml": "ld"
   },
   {
    "name": "Trust",
@@ -824,7 +860,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Mom Kitchen",
@@ -846,7 +883,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Hong Kong"
+   "sub": "Hong Kong",
+   "ml": "ld"
   },
   {
    "name": "Tribute Pizza",
@@ -867,7 +905,8 @@
     ]
    ],
    "dual": true,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "ld"
   },
   {
    "name": "Nine-Ten",
@@ -884,7 +923,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "The Fishery",
@@ -909,7 +949,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "A.R. Valentien",
@@ -926,7 +967,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Tanner's Prime Burger",
@@ -943,7 +985,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "ld"
   },
   {
    "name": "Mesa Agricola",
@@ -964,7 +1007,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Chick & Hawk",
@@ -981,7 +1025,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "ld"
   },
   {
    "name": "Leu Leu",
@@ -998,7 +1043,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Dora Ristorante",
@@ -1015,7 +1061,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "George's at the Cove",
@@ -1036,7 +1083,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Yiko Yiko",
@@ -1053,7 +1101,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "ml": "brl"
   },
   {
    "name": "Paradisaea",
@@ -1070,7 +1119,8 @@
     ]
    ],
    "dual": true,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Wayfarer Bread & Pastry",
@@ -1091,7 +1141,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "ml": "brl"
   },
   {
    "name": "Sushi Ichifuji",
@@ -1109,7 +1160,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Sushi"
+   "sub": "Sushi",
+   "ml": "d"
   },
   {
    "name": "Bosforo",
@@ -1127,7 +1179,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "sub": "Turkish"
+   "sub": "Turkish",
+   "ml": "ld"
   },
   {
    "name": "Wormwood",
@@ -1144,7 +1197,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Elvira",
@@ -1161,7 +1215,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "Fort Oak",
@@ -1182,7 +1237,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Kinme",
@@ -1200,7 +1256,8 @@
    ],
    "dual": false,
    "vb": "tasting",
-   "sub": "Sushi"
+   "sub": "Sushi",
+   "ml": "d"
   },
   {
    "name": "Artifact at Mingei",
@@ -1217,7 +1274,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Kettner Exchange",
@@ -1234,7 +1292,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Meet Dumpling",
@@ -1252,7 +1311,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Dumplings"
+   "sub": "Dumplings",
+   "ml": "ld"
   },
   {
    "name": "Izola Bakery",
@@ -1269,7 +1329,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "ml": "brl"
   },
   {
    "name": "Sovereign Modern Thai",
@@ -1287,7 +1348,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Thai"
+   "sub": "Thai",
+   "ml": "ld"
   },
   {
    "name": "Serea Coastal Cuisine",
@@ -1308,7 +1370,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Rare Society",
@@ -1325,7 +1388,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Campfire",
@@ -1342,7 +1406,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Shawarma Guys",
@@ -1359,7 +1424,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Izakaya Masa",
@@ -1377,7 +1443,8 @@
    ],
    "dual": false,
    "vb": "datenight",
-   "sub": "Izakaya"
+   "sub": "Izakaya",
+   "ml": "d"
   },
   {
    "name": "Monello",
@@ -1394,7 +1461,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "Las Cuatros Milpas",
@@ -1411,7 +1479,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taco"
+   "vb": "taco",
+   "ml": "ld"
   },
   {
    "name": "Sushi Ota",
@@ -1429,7 +1498,8 @@
    ],
    "dual": false,
    "vb": "datenight",
-   "sub": "Sushi"
+   "sub": "Sushi",
+   "ml": "d"
   }
  ],
  "bars": [

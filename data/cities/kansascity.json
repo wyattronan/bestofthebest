@@ -23,7 +23,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "d"
   },
   {
    "name": "Kata Nori",
@@ -46,7 +47,8 @@
    "dual": false,
    "vb": "asian",
    "lu": 1,
-   "sub": "Sushi"
+   "sub": "Sushi",
+   "ml": "ld"
   },
   {
    "name": "The Restaurant at 1900",
@@ -71,7 +73,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Of Course",
@@ -92,7 +95,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "The Town Company",
@@ -117,7 +121,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Chewology",
@@ -143,7 +148,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Taiwanese"
+   "sub": "Taiwanese",
+   "ml": "ld"
   },
   {
    "name": "Earl's Premier",
@@ -168,7 +174,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "ld"
   },
   {
    "name": "Green Dirt on Oak",
@@ -190,7 +197,8 @@
    ],
    "dual": false,
    "vb": "specialty",
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "Westport Cafe",
@@ -215,7 +223,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Fox and Pearl",
@@ -240,7 +249,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "ld"
   },
   {
    "name": "Clay & Fire",
@@ -265,7 +275,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Shagan's",
@@ -287,7 +298,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "Sushi Kodawari",
@@ -305,7 +317,8 @@
    ],
    "dual": false,
    "vb": "tasting",
-   "sub": "Sushi"
+   "sub": "Sushi",
+   "ml": "d"
   },
   {
    "name": "Waldo Thai",
@@ -327,7 +340,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Thai"
+   "sub": "Thai",
+   "ml": "ld"
   },
   {
    "name": "Yoli Tortilleria",
@@ -350,7 +364,8 @@
    "dual": false,
    "vb": "global",
    "lu": 1,
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Le Fou Frog",
@@ -371,7 +386,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Tailleur",
@@ -388,7 +404,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Farina",
@@ -405,7 +422,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "Acre",
@@ -422,7 +440,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Joe's KC BBQ",
@@ -441,7 +460,8 @@
    "dual": false,
    "vb": "bbq",
    "lu": 1,
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Noka",
@@ -459,7 +479,8 @@
    ],
    "dual": false,
    "vb": "datenight",
-   "sub": "Modern Japanese"
+   "sub": "Modern Japanese",
+   "ml": "d"
   },
   {
    "name": "Stock Hill",
@@ -476,7 +497,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Nour's",
@@ -493,7 +515,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Extra Virgin",
@@ -510,7 +533,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Pierpont's",
@@ -527,7 +551,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Voltaire",
@@ -544,7 +569,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "ld"
   },
   {
    "name": "Bacaro Primo",
@@ -561,7 +587,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "The Italian Sausage Company",
@@ -578,7 +605,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "In-A-Tub",
@@ -595,7 +623,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "ml": "ld"
   },
   {
    "name": "El Pollo Guasave",
@@ -612,7 +641,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taco"
+   "vb": "taco",
+   "ml": "ld"
   },
   {
    "name": "Golden Ox",
@@ -629,7 +659,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Mildred's",
@@ -646,7 +677,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "ml": "brl"
   },
   {
    "name": "Corvino Supper Club",
@@ -663,7 +695,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Novel",
@@ -680,7 +713,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Town Topic",
@@ -697,7 +731,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Carniceria y Tortilleria San Antonio",
@@ -714,7 +749,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taco"
+   "vb": "taco",
+   "ml": "ld"
   },
   {
    "name": "Kitty's Cafe",
@@ -731,7 +767,8 @@
     ]
    ],
    "dual": false,
-   "vb": "deli"
+   "vb": "deli",
+   "ml": "bl"
   },
   {
    "name": "M & M Bakery & Delicatessen",
@@ -748,7 +785,8 @@
     ]
    ],
    "dual": false,
-   "vb": "deli"
+   "vb": "deli",
+   "ml": "bl"
   },
   {
    "name": "The Russell",
@@ -765,7 +803,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Gates Bar-B-Q",
@@ -782,7 +821,8 @@
     ]
    ],
    "dual": false,
-   "vb": "bbq"
+   "vb": "bbq",
+   "ml": "ld"
   },
   {
    "name": "Joe's Kansas City Bar-B-Que",
@@ -799,7 +839,8 @@
     ]
    ],
    "dual": false,
-   "vb": "bbq"
+   "vb": "bbq",
+   "ml": "ld"
   },
   {
    "name": "The Peanut",
@@ -816,7 +857,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "High Hopes Ice Cream",
@@ -833,7 +875,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "ml": "brl"
   },
   {
    "name": "Baba's Pantry",
@@ -850,7 +893,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Harp Barbecue",
@@ -867,7 +911,8 @@
     ]
    ],
    "dual": false,
-   "vb": "bbq"
+   "vb": "bbq",
+   "ml": "ld"
   },
   {
    "name": "Buck Tui BBQ",
@@ -884,7 +929,8 @@
     ]
    ],
    "dual": false,
-   "vb": "bbq"
+   "vb": "bbq",
+   "ml": "ld"
   },
   {
    "name": "Anjin",
@@ -901,7 +947,8 @@
    ],
    "dual": false,
    "_natadd": 1,
-   "sub": "Izakaya"
+   "sub": "Izakaya",
+   "ml": "d"
   }
  ],
  "bars": [

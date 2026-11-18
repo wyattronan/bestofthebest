@@ -23,7 +23,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "d"
   },
   {
    "name": "Ammoora",
@@ -44,7 +45,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "d"
   },
   {
    "name": "Ananda",
@@ -61,7 +63,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "d"
   },
   {
    "name": "Bunny's Buckets & Bubbles",
@@ -86,7 +89,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "ml": "brld"
   },
   {
    "name": "Cece's of Roland Park",
@@ -103,7 +107,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Charleston",
@@ -120,7 +125,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Cinghiale",
@@ -137,7 +143,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "Clavel",
@@ -162,7 +169,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Cookhouse",
@@ -183,7 +191,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Costiera",
@@ -208,7 +217,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "The Dara",
@@ -226,7 +236,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Thai"
+   "sub": "Thai",
+   "ml": "ld"
   },
   {
    "name": "The Duchess",
@@ -251,7 +262,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Dylan's Oyster Cellar",
@@ -276,7 +288,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "ld"
   },
   {
    "name": "Ekiben",
@@ -298,7 +311,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Taiwanese-Thai"
+   "sub": "Taiwanese-Thai",
+   "ml": "ld"
   },
   {
    "name": "Faidley's Seafood",
@@ -319,7 +333,8 @@
     ]
    ],
    "dual": false,
-   "vb": "oldguard"
+   "vb": "oldguard",
+   "ml": "ld"
   },
   {
    "name": "Foraged",
@@ -348,7 +363,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Gertrude's",
@@ -369,7 +385,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "ld"
   },
   {
    "name": "Gunther & Co.",
@@ -390,7 +407,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Hersh's",
@@ -411,7 +429,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "ld"
   },
   {
    "name": "La Cuchara",
@@ -432,7 +451,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "d"
   },
   {
    "name": "Le Comptoir du Vin",
@@ -461,7 +481,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Linwoods",
@@ -478,7 +499,8 @@
     ]
    ],
    "dual": false,
-   "vb": "oldguard"
+   "vb": "oldguard",
+   "ml": "ld"
   },
   {
    "name": "Little Donna's",
@@ -503,7 +525,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Love Pomelo",
@@ -520,7 +543,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "Magdalena",
@@ -541,7 +565,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Marta",
@@ -566,7 +591,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "The Milton Inn",
@@ -583,7 +609,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "NiHao",
@@ -609,7 +636,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Chinese"
+   "sub": "Chinese",
+   "ml": "ld"
   },
   {
    "name": "Oleum",
@@ -626,7 +654,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Peerce's",
@@ -643,7 +672,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Peter's Inn",
@@ -664,7 +694,8 @@
     ]
    ],
    "dual": false,
-   "vb": "oldguard"
+   "vb": "oldguard",
+   "ml": "ld"
   },
   {
    "name": "Petit Louis Bistro",
@@ -689,7 +720,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Preserve",
@@ -706,7 +738,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "The Prime Rib",
@@ -723,7 +756,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Red Pepper Sichuan Bistro",
@@ -741,7 +775,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Szechuan"
+   "sub": "Szechuan",
+   "ml": "ld"
   },
   {
    "name": "Rooted Rotisserie",
@@ -766,7 +801,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "ld"
   },
   {
    "name": "The Ruxton",
@@ -783,7 +819,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Sangam Indian Cuisine",
@@ -800,7 +837,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Tagliata",
@@ -817,7 +855,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "Thames Street Oyster House",
@@ -838,7 +877,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "d"
   },
   {
    "name": "True Chesapeake",
@@ -859,7 +899,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "ld"
   },
   {
    "name": "Tavern at Woodberry Kitchen",
@@ -876,7 +917,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "d"
   },
   {
    "name": "The Wren",
@@ -897,7 +939,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Wye Oak Tavern",
@@ -914,7 +957,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Puerto 511",
@@ -931,7 +975,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "d"
   },
   {
    "name": "Toki Underground",
@@ -949,7 +994,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Ramen"
+   "sub": "Ramen",
+   "ml": "ld"
   },
   {
    "name": "Blacksauce Kitchen",
@@ -970,7 +1016,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "ld"
   },
   {
    "name": "The Helmand",
@@ -991,7 +1038,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Chaps Pit Beef",
@@ -1008,7 +1056,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "ld"
   },
   {
    "name": "La Barrita",
@@ -1025,7 +1074,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "The Urban Oyster",
@@ -1046,7 +1096,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "La Maison by Café Dear Leon",
@@ -1067,7 +1118,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "ml": "brl"
   },
   {
    "name": "Neopol Smokery",
@@ -1084,7 +1136,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "The Corner Pantry",
@@ -1101,7 +1154,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Ethel's Creole Kitchen",
@@ -1118,7 +1172,8 @@
     ]
    ],
    "dual": false,
-   "vb": "oldguard"
+   "vb": "oldguard",
+   "ml": "ld"
   },
   {
    "name": "Chiyo Sushi",
@@ -1136,7 +1191,8 @@
    ],
    "dual": false,
    "vb": "datenight",
-   "sub": "Sushi"
+   "sub": "Sushi",
+   "ml": "d"
   },
   {
    "name": "Maggie's Farm",
@@ -1153,7 +1209,8 @@
     ]
    ],
    "dual": true,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "The Local Fry",
@@ -1170,7 +1227,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "ml": "ld"
   },
   {
    "name": "The Food Market",
@@ -1187,7 +1245,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Chachi's",
@@ -1204,7 +1263,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "ml": "ld"
   },
   {
    "name": "Mera Kitchen Collective",
@@ -1221,7 +1281,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Restaurante Tio Pepe",
@@ -1238,7 +1299,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "d"
   },
   {
    "name": "Johnny Rad's",
@@ -1255,7 +1317,8 @@
     ]
    ],
    "dual": true,
-   "vb": "pizza"
+   "vb": "pizza",
+   "ml": "ld"
   },
   {
    "name": "Thai Street",
@@ -1273,7 +1336,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Thai"
+   "sub": "Thai",
+   "ml": "ld"
   },
   {
    "name": "Ramen Utsuke",
@@ -1291,7 +1355,8 @@
    ],
    "dual": false,
    "vb": "datenight",
-   "sub": "Ramen"
+   "sub": "Ramen",
+   "ml": "d"
   },
   {
    "name": "SoBo Cafe",
@@ -1308,7 +1373,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "bld"
   }
  ],
  "bars": [

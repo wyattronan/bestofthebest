@@ -42,7 +42,8 @@
    "dual": false,
    "vg": 1,
    "vn": 1,
-   "sub": "Thai"
+   "sub": "Thai",
+   "ml": "d"
   },
   {
    "name": "Hà VL",
@@ -69,7 +70,8 @@
    "vb": "asian",
    "dual": false,
    "to": 1,
-   "sub": "Vietnamese"
+   "sub": "Vietnamese",
+   "ml": "ld"
   },
   {
    "name": "Murata",
@@ -95,7 +97,8 @@
    ],
    "vb": "tasting",
    "dual": false,
-   "sub": "Kaiseki"
+   "sub": "Kaiseki",
+   "ml": "d"
   },
   {
    "name": "Le Pigeon",
@@ -128,7 +131,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Kachka",
@@ -162,7 +166,8 @@
    ],
    "vb": "datenight",
    "dual": false,
-   "sub": "Russian"
+   "sub": "Russian",
+   "ml": "d"
   },
   {
    "name": "Kaede",
@@ -188,7 +193,8 @@
    ],
    "vb": "tasting",
    "dual": false,
-   "sub": "Japanese"
+   "sub": "Japanese",
+   "ml": "d"
   },
   {
    "name": "Han Oak",
@@ -226,7 +232,8 @@
    ],
    "vb": "datenight",
    "dual": false,
-   "sub": "Korean"
+   "sub": "Korean",
+   "ml": "d"
   },
   {
    "name": "Kann",
@@ -277,7 +284,8 @@
    "vb": "datenight",
    "dual": false,
    "vg": 1,
-   "sub": "Haitian"
+   "sub": "Haitian",
+   "ml": "d"
   },
   {
    "name": "Lovely's Fifty Fifty",
@@ -316,7 +324,8 @@
    "vb": "pizza",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Akadi",
@@ -358,7 +367,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "sub": "West African"
+   "sub": "West African",
+   "ml": "ld"
   },
   {
    "name": "Matt's BBQ Tacos",
@@ -379,7 +389,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "ml": "ld"
   },
   {
    "name": "Nimblefish",
@@ -401,7 +412,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "sub": "Sushi"
+   "sub": "Sushi",
+   "ml": "d"
   },
   {
    "name": "Canard",
@@ -422,7 +434,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Eem",
@@ -446,7 +459,8 @@
    "dual": false,
    "vg": 1,
    "to": 1,
-   "sub": "Thai"
+   "sub": "Thai",
+   "ml": "ld"
   },
   {
    "name": "Xiao Ye",
@@ -476,7 +490,8 @@
    ],
    "vb": "datenight",
    "dual": false,
-   "sub": "Taiwanese"
+   "sub": "Taiwanese",
+   "ml": "d"
   },
   {
    "name": "Ken's Artisan Pizza",
@@ -495,7 +510,8 @@
    "vb": "pizza",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Apizza Scholls",
@@ -518,7 +534,8 @@
    "vb": "pizza",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Lilia Comedor",
@@ -543,7 +560,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Yaowarat",
@@ -571,7 +589,8 @@
    "dual": false,
    "vg": 1,
    "to": 1,
-   "sub": "Thai"
+   "sub": "Thai",
+   "ml": "ld"
   },
   {
    "name": "Oma's Hideaway",
@@ -594,7 +613,8 @@
    "vb": "global",
    "dual": false,
    "vg": 1,
-   "sub": "Malaysian"
+   "sub": "Malaysian",
+   "ml": "ld"
   },
   {
    "name": "Ox",
@@ -627,7 +647,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Jeju",
@@ -645,7 +666,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "sub": "Korean"
+   "sub": "Korean",
+   "ml": "d"
   },
   {
    "name": "Magna Kusina",
@@ -675,7 +697,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "sub": "Filipino"
+   "sub": "Filipino",
+   "ml": "ld"
   },
   {
    "name": "Nong's Khao Man Gai",
@@ -702,7 +725,8 @@
    "vb": "quick",
    "dual": false,
    "to": 1,
-   "sub": "Thai"
+   "sub": "Thai",
+   "ml": "ld"
   },
   {
    "name": "Maurice",
@@ -736,7 +760,8 @@
    ],
    "vb": "brunch",
    "dual": false,
-   "lu": 1
+   "lu": 1,
+   "ml": "brld"
   },
   {
    "name": "Astera",
@@ -763,7 +788,8 @@
    "vb": "tasting",
    "dual": false,
    "vg": 1,
-   "vn": 1
+   "vn": 1,
+   "ml": "d"
   },
   {
    "name": "Cafe Olli",
@@ -790,7 +816,8 @@
    "vb": "pizza",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Coquine",
@@ -815,7 +842,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Gado Gado",
@@ -842,7 +870,8 @@
    "vb": "global",
    "dual": false,
    "vg": 1,
-   "sub": "Indonesian"
+   "sub": "Indonesian",
+   "ml": "ld"
   },
   {
    "name": "Ki'ikibáa",
@@ -859,7 +888,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "ml": "ld"
   },
   {
    "name": "L'Orange",
@@ -880,7 +910,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "OK Chicken and Khao Soi",
@@ -903,7 +934,8 @@
    "vb": "asian",
    "dual": false,
    "to": 1,
-   "sub": "Thai"
+   "sub": "Thai",
+   "ml": "ld"
   },
   {
    "name": "The Paper Bridge",
@@ -925,7 +957,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "sub": "Vietnamese"
+   "sub": "Vietnamese",
+   "ml": "d"
   },
   {
    "name": "Pasar",
@@ -948,7 +981,8 @@
    "vb": "global",
    "dual": false,
    "vg": 1,
-   "sub": "Indonesian"
+   "sub": "Indonesian",
+   "ml": "ld"
   },
   {
    "name": "St. Jack",
@@ -969,7 +1003,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Tulip Shop Tavern",
@@ -996,7 +1031,8 @@
    "vb": "global",
    "dual": false,
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "Arden",
@@ -1013,7 +1049,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Bauman's on Oak",
@@ -1032,7 +1069,8 @@
    "vb": "pizza",
    "dual": false,
    "vg": 1,
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Campana",
@@ -1049,7 +1087,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Davenport",
@@ -1070,7 +1109,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Excellent Cuisine",
@@ -1089,7 +1129,8 @@
    "vb": "asian",
    "dual": false,
    "to": 1,
-   "sub": "Dim Sum"
+   "sub": "Dim Sum",
+   "ml": "ld"
   },
   {
    "name": "Güero",
@@ -1111,7 +1152,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Higgins",
@@ -1137,7 +1179,8 @@
    ],
    "vb": "oldguard",
    "dual": false,
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "Jacqueline",
@@ -1162,7 +1205,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Javelina",
@@ -1184,7 +1228,8 @@
    ],
    "vb": "datenight",
    "dual": false,
-   "sub": "Native American"
+   "sub": "Native American",
+   "ml": "d"
   },
   {
    "name": "Kau Kau",
@@ -1203,7 +1248,8 @@
    "vb": "quick",
    "dual": false,
    "to": 1,
-   "sub": "Cantonese"
+   "sub": "Cantonese",
+   "ml": "ld"
   },
   {
    "name": "Luce",
@@ -1224,7 +1270,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Navarre",
@@ -1245,7 +1292,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "ml": "brl"
   },
   {
    "name": "Nodoguro",
@@ -1271,7 +1319,8 @@
    ],
    "vb": "tasting",
    "dual": false,
-   "sub": "Kaiseki"
+   "sub": "Kaiseki",
+   "ml": "d"
   },
   {
    "name": "Nostrana",
@@ -1292,7 +1341,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Obon Shokudo",
@@ -1312,7 +1362,8 @@
    "dual": false,
    "vg": 1,
    "to": 1,
-   "sub": "Japanese"
+   "sub": "Japanese",
+   "ml": "ld"
   },
   {
    "name": "OK Omens",
@@ -1333,7 +1384,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Rangoon Bistro",
@@ -1356,7 +1408,8 @@
    "vb": "global",
    "dual": false,
    "vg": 1,
-   "sub": "Burmese"
+   "sub": "Burmese",
+   "ml": "ld"
   },
   {
    "name": "República",
@@ -1375,7 +1428,8 @@
    "vb": "datenight",
    "dual": false,
    "cl": 1,
-   "note": "Permanently closed (Feb 2026)"
+   "note": "Permanently closed (Feb 2026)",
+   "ml": "d"
   },
   {
    "name": "RingSide Steakhouse",
@@ -1396,7 +1450,8 @@
     ]
    ],
    "vb": "oldguard",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Scotch Lodge",
@@ -1413,7 +1468,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": true
+   "dual": true,
+   "ml": "d"
   },
   {
    "name": "Sweedeedee",
@@ -1434,7 +1490,8 @@
     ]
    ],
    "vb": "brunch",
-   "dual": false
+   "dual": false,
+   "ml": "brl"
   },
   {
    "name": "Wajan",
@@ -1454,7 +1511,8 @@
    "dual": false,
    "vg": 1,
    "to": 1,
-   "sub": "Indonesian"
+   "sub": "Indonesian",
+   "ml": "ld"
   },
   {
    "name": "Farag's",
@@ -1472,7 +1530,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "ml": "ld"
   },
   {
    "name": "L'Échelle",
@@ -1493,7 +1552,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Annam VL",
@@ -1512,7 +1572,8 @@
    "vb": "asian",
    "dual": false,
    "to": 1,
-   "sub": "Vietnamese"
+   "sub": "Vietnamese",
+   "ml": "ld"
   },
   {
    "name": "Loncheria Los Mayas",
@@ -1530,7 +1591,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Paadee",
@@ -1550,7 +1612,8 @@
    "dual": false,
    "vg": 1,
    "to": 1,
-   "sub": "Thai"
+   "sub": "Thai",
+   "ml": "ld"
   },
   {
    "name": "Tabor Bread",
@@ -1568,7 +1631,8 @@
    ],
    "vb": "brunch",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "ml": "brl"
   },
   {
    "name": "Duck House",
@@ -1587,7 +1651,8 @@
    "vb": "asian",
    "dual": false,
    "to": 1,
-   "sub": "Szechuan"
+   "sub": "Szechuan",
+   "ml": "ld"
   },
   {
    "name": "Bellwether",
@@ -1604,7 +1669,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": true
+   "dual": true,
+   "ml": "d"
   },
   {
    "name": "Khao Moo Dang",
@@ -1623,7 +1689,8 @@
    "vb": "quick",
    "dual": false,
    "to": 1,
-   "sub": "Thai"
+   "sub": "Thai",
+   "ml": "ld"
   },
   {
    "name": "Casa Zoraya",
@@ -1641,7 +1708,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "sub": "Peruvian"
+   "sub": "Peruvian",
+   "ml": "ld"
   },
   {
    "name": "Alma",
@@ -1658,7 +1726,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Mémoire Cà Phê",
@@ -1677,7 +1746,8 @@
    "vb": "quick",
    "dual": false,
    "to": 1,
-   "sub": "Vietnamese"
+   "sub": "Vietnamese",
+   "ml": "ld"
   },
   {
    "name": "Urdaneta",
@@ -1695,7 +1765,8 @@
    ],
    "vb": "datenight",
    "dual": false,
-   "sub": "Basque"
+   "sub": "Basque",
+   "ml": "d"
   },
   {
    "name": "Apna Chat Bhavan",
@@ -1714,7 +1785,8 @@
    "vb": "global",
    "dual": false,
    "vg": 1,
-   "sub": "Indian Street Food"
+   "sub": "Indian Street Food",
+   "ml": "ld"
   },
   {
    "name": "Masu Sushi",
@@ -1732,7 +1804,8 @@
    ],
    "vb": "asian",
    "dual": false,
-   "sub": "Sushi"
+   "sub": "Sushi",
+   "ml": "d"
   },
   {
    "name": "Mucca Osteria",
@@ -1749,7 +1822,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Norah",
@@ -1766,7 +1840,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Mirisata",
@@ -1785,7 +1860,8 @@
    "vb": "global",
    "dual": false,
    "vg": 1,
-   "sub": "Sri Lankan"
+   "sub": "Sri Lankan",
+   "ml": "ld"
   },
   {
    "name": "Makulít",
@@ -1803,7 +1879,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "sub": "Filipino"
+   "sub": "Filipino",
+   "ml": "ld"
   },
   {
    "name": "Someday",
@@ -1820,7 +1897,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Rose VL",
@@ -1839,7 +1917,8 @@
    "vb": "asian",
    "dual": false,
    "to": 1,
-   "sub": "Vietnamese"
+   "sub": "Vietnamese",
+   "ml": "ld"
   },
   {
    "name": "Kita Steak & Ribs",
@@ -1858,7 +1937,8 @@
    "vb": "asian",
    "dual": false,
    "to": 1,
-   "sub": "Vietnamese"
+   "sub": "Vietnamese",
+   "ml": "ld"
   },
   {
    "name": "Bun Bo Hue",
@@ -1877,7 +1957,8 @@
    "vb": "quick",
    "dual": false,
    "to": 1,
-   "sub": "Vietnamese"
+   "sub": "Vietnamese",
+   "ml": "ld"
   },
   {
    "name": "Bake on the Run",
@@ -1896,7 +1977,8 @@
    "vb": "quick",
    "dual": false,
    "to": 1,
-   "sub": "Guyanese"
+   "sub": "Guyanese",
+   "ml": "ld"
   },
   {
    "name": "Sanchez Taqueria",
@@ -1914,7 +1996,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Lansdowne",
@@ -1931,7 +2014,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Sunday Sauce",
@@ -1948,7 +2032,8 @@
     ]
    ],
    "vb": "italian",
-   "dual": false
+   "dual": false,
+   "ml": "d"
   },
   {
    "name": "Pal's",
@@ -1967,7 +2052,8 @@
    "vb": "datenight",
    "dual": false,
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "Double Dragon",
@@ -1987,7 +2073,8 @@
    "dual": false,
    "to": 1,
    "lu": 1,
-   "sub": "Asian-American"
+   "sub": "Asian-American",
+   "ml": "ld"
   },
   {
    "name": "Olympia Provisions NW",
@@ -2006,7 +2093,8 @@
    "dual": false,
    "vb": "quick",
    "lu": 1,
-   "to": 1
+   "to": 1,
+   "ml": "bld"
   },
   {
    "name": "Big's Chicken",
@@ -2025,7 +2113,8 @@
    "dual": false,
    "vb": "quick",
    "lu": 1,
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "Shalom Y'All",
@@ -2043,7 +2132,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "The House of Banh Mi",
@@ -2063,7 +2153,8 @@
    "vb": "quick",
    "lu": 1,
    "to": 1,
-   "sub": "Vietnamese"
+   "sub": "Vietnamese",
+   "ml": "ld"
   },
   {
    "name": "Giraffe Goods",
@@ -2083,7 +2174,8 @@
    "vb": "quick",
    "lu": 1,
    "to": 1,
-   "sub": "Japanese Deli"
+   "sub": "Japanese Deli",
+   "ml": "ld"
   },
   {
    "name": "Andina",
@@ -2100,7 +2192,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Bluto's",
@@ -2117,7 +2210,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "82 Acres",
@@ -2134,7 +2228,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Normandie",
@@ -2151,7 +2246,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Maglia Rosa",
@@ -2168,7 +2264,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "Pok Pok",
@@ -2188,7 +2285,8 @@
    ],
    "dual": false,
    "_natadd": 1,
-   "sub": "Thai"
+   "sub": "Thai",
+   "ml": "ld"
   }
  ],
  "bars": [

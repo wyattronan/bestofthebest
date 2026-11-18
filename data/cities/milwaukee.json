@@ -20,7 +20,8 @@
    ],
    "dual": false,
    "vb": "specialty",
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "Harbor House",
@@ -37,7 +38,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Sanford",
@@ -54,7 +56,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Birch",
@@ -79,7 +82,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "La Dama",
@@ -100,7 +104,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Sorella",
@@ -121,7 +126,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "Goodkind",
@@ -138,7 +144,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "d"
   },
   {
    "name": "Morel",
@@ -155,7 +162,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Braise",
@@ -176,7 +184,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "d"
   },
   {
    "name": "EsterEv",
@@ -201,7 +210,8 @@
     ]
    ],
    "dual": false,
-   "vb": "tasting"
+   "vb": "tasting",
+   "ml": "d"
   },
   {
    "name": "Bartolotta's Lake Park Bistro",
@@ -222,7 +232,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Ca'Lucchenzo",
@@ -239,7 +250,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "Mason Street Grill",
@@ -256,7 +268,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Ristorante Bartolotta dal 1993",
@@ -273,7 +286,8 @@
     ]
    ],
    "dual": false,
-   "vb": "oldguard"
+   "vb": "oldguard",
+   "ml": "ld"
   },
   {
    "name": "Le Reve Patisserie & Cafe",
@@ -291,7 +305,8 @@
    ],
    "dual": false,
    "vb": "brunch",
-   "lu": 1
+   "lu": 1,
+   "ml": "brl"
   },
   {
    "name": "The Diplomat",
@@ -312,7 +327,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "ld"
   },
   {
    "name": "Odd Duck",
@@ -341,7 +357,8 @@
     ]
    ],
    "dual": false,
-   "vb": "specialty"
+   "vb": "specialty",
+   "ml": "ld"
   },
   {
    "name": "Lebnani House",
@@ -359,7 +376,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "Lupi & Iris",
@@ -384,7 +402,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "The Commodore",
@@ -401,7 +420,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Margaux Brasserie",
@@ -418,7 +438,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "Himalayan Yak",
@@ -436,7 +457,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "lu": 1
+   "lu": 1,
+   "ml": "ld"
   },
   {
    "name": "Room Service",
@@ -462,7 +484,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Thai"
+   "sub": "Thai",
+   "ml": "ld"
   },
   {
    "name": "Brisa do Mar",
@@ -479,7 +502,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Amilinda",
@@ -501,7 +525,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "sub": "Spanish-Portuguese"
+   "sub": "Spanish-Portuguese",
+   "ml": "ld"
   },
   {
    "name": "St. Paul Fish Company",
@@ -520,7 +545,8 @@
    "dual": false,
    "vb": "specialty",
    "lu": 1,
-   "to": 1
+   "to": 1,
+   "ml": "ld"
   },
   {
    "name": "1033 Omakase",
@@ -538,7 +564,8 @@
    ],
    "dual": false,
    "vb": "datenight",
-   "sub": "Sushi"
+   "sub": "Sushi",
+   "ml": "d"
   },
   {
    "name": "Allie Boy's Bagelry & Luncheonette",
@@ -559,7 +586,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "ml": "brl"
   },
   {
    "name": "Las Gardenias",
@@ -576,7 +604,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taco"
+   "vb": "taco",
+   "ml": "ld"
   },
   {
    "name": "Purslane",
@@ -593,7 +622,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "d"
   },
   {
    "name": "Uncle Wolfie's Downtown & The Wolf",
@@ -610,7 +640,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "ml": "brl"
   },
   {
    "name": "Kopp's Frozen Custard",
@@ -627,7 +658,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brunch"
+   "vb": "brunch",
+   "ml": "brl"
   },
   {
    "name": "Zaffiro's Pizza & Bar",
@@ -644,7 +676,8 @@
     ]
    ],
    "dual": false,
-   "vb": "pizza"
+   "vb": "pizza",
+   "ml": "ld"
   },
   {
    "name": "Glorioso's Italian Market",
@@ -661,7 +694,8 @@
     ]
    ],
    "dual": false,
-   "vb": "deli"
+   "vb": "deli",
+   "ml": "bld"
   },
   {
    "name": "Wy'east Pizza",
@@ -678,7 +712,8 @@
     ]
    ],
    "dual": false,
-   "vb": "pizza"
+   "vb": "pizza",
+   "ml": "ld"
   },
   {
    "name": "Buckley's Restaurant & Bar",
@@ -695,7 +730,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "ml": "d"
   },
   {
    "name": "San Giorgio Pizzeria Napoletana",
@@ -712,7 +748,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "Zarletti",
@@ -729,7 +766,8 @@
     ]
    ],
    "dual": false,
-   "vb": "italian"
+   "vb": "italian",
+   "ml": "d"
   },
   {
    "name": "Alem Ethiopian Village",
@@ -746,7 +784,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Third Street Market Hall",
@@ -764,7 +803,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "sub": "Food Hall"
+   "sub": "Food Hall",
+   "ml": "ld"
   },
   {
    "name": "Third Space Brewing",
@@ -781,7 +821,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "ml": "ld"
   },
   {
    "name": "Camino",
@@ -798,7 +839,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "ml": "ld"
   },
   {
    "name": "La Merenda",
@@ -815,7 +857,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "Taqueria la Guelaguetza",
@@ -832,7 +875,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taco"
+   "vb": "taco",
+   "ml": "ld"
   },
   {
    "name": "Guadalajara Restaurant",
@@ -849,7 +893,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taco"
+   "vb": "taco",
+   "ml": "ld"
   },
   {
    "name": "Vientiane Noodle Shop",
@@ -867,7 +912,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Laotian"
+   "sub": "Laotian",
+   "ml": "ld"
   },
   {
    "name": "Momo Mee",
@@ -885,7 +931,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Pan-Asian"
+   "sub": "Pan-Asian",
+   "ml": "ld"
   },
   {
    "name": "Flour Girl & Flame",
@@ -902,7 +949,8 @@
     ]
    ],
    "dual": false,
-   "vb": "pizza"
+   "vb": "pizza",
+   "ml": "ld"
   },
   {
    "name": "Three Brothers",
@@ -924,7 +972,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "sub": "Serbian"
+   "sub": "Serbian",
+   "ml": "ld"
   },
   {
    "name": "Club Garibaldi",
@@ -941,7 +990,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "The Vanguard",
@@ -958,7 +1008,8 @@
     ]
    ],
    "dual": false,
-   "vb": "quick"
+   "vb": "quick",
+   "ml": "ld"
   },
   {
    "name": "Sze Chuan Restaurant",
@@ -976,7 +1027,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Szechuan"
+   "sub": "Szechuan",
+   "ml": "ld"
   },
   {
    "name": "Wioletta's Polish Market",
@@ -993,7 +1045,8 @@
     ]
    ],
    "dual": false,
-   "vb": "deli"
+   "vb": "deli",
+   "ml": "bld"
   },
   {
    "name": "Taqwa's Bakery",
@@ -1010,7 +1063,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "ml": "ld"
   },
   {
    "name": "El Tsunami",
@@ -1027,7 +1081,8 @@
     ]
    ],
    "dual": false,
-   "vb": "taco"
+   "vb": "taco",
+   "ml": "ld"
   },
   {
    "name": "Mader's Restaurant",
@@ -1045,7 +1100,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "sub": "German"
+   "sub": "German",
+   "ml": "ld"
   },
   {
    "name": "Dan Dan",
@@ -1063,7 +1119,8 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Chinese"
+   "sub": "Chinese",
+   "ml": "d"
   },
   {
    "name": "Nakama",
@@ -1080,7 +1137,8 @@
    ],
    "dual": false,
    "_natadd": 1,
-   "sub": "Sushi"
+   "sub": "Sushi",
+   "ml": "d"
   }
  ],
  "bars": [
