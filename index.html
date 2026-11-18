@@ -2445,19 +2445,33 @@ function rateBlock(num,cls,label){
 }
 function openMyPlaces(cat){ if(cat) MINE.cat=cat; var sec=document.getElementById("mine"); if(!sec) return; document.body.classList.add("show-mine"); closeModal(); drawMine(); window.scrollTo({top:0,behavior:"smooth"}); }
 function closeMyPlaces(){ document.body.classList.remove("show-mine"); }
+var GRCACHE=null;
+function grCache(){ if(GRCACHE) return GRCACHE; try{GRCACHE=JSON.parse(localStorage.getItem("bob:grcache")||"{}");}catch(e){GRCACHE={};} return GRCACHE; }
+function placesKeyOk(){ return !!(window.BOB_PLACES_KEY && window.BOB_PLACES_KEY.indexOf("PASTE")!==0); }
+function bobGoogleRating(city,kind,name){
+  var key=city+"|"+kind+"|"+(name||"").toLowerCase(), c=grCache(), hit=c[key], FRESH=30*864e5;
+  if(hit && (Date.now()-hit.ts)<FRESH) return Promise.resolve(hit);
+  if(!placesKeyOk()) return Promise.resolve(null);
+  var info=mineInfo(city,kind,name), v=info.v, body={textQuery:(name+" "+(NAME[city]||city)), maxResultCount:1};
+  if(v&&v.lat!=null&&v.lng!=null) body.locationBias={circle:{center:{latitude:v.lat,longitude:v.lng},radius:3000}};
+  return fetch("https://places.googleapis.com/v1/places:searchText",{method:"POST",headers:{"Content-Type":"application/json","X-Goog-Api-Key":window.BOB_PLACES_KEY,"X-Goog-FieldMask":"places.rating,places.userRatingCount,places.displayName"},body:JSON.stringify(body)})
+    .then(function(r){return r.json();})
+    .then(function(j){ var p=(j&&j.places&&j.places[0])||null; var out={rating:(p&&p.rating)||0,count:(p&&p.userRatingCount)||0,ts:Date.now()}; c[key]=out; try{localStorage.setItem("bob:grcache",JSON.stringify(c));}catch(e){} return out; })
+    .catch(function(){ return null; });
+}
+window.bobGoogleRating=bobGoogleRating;
 function drawMine(){
   var sec=document.getElementById("mine"); if(!sec) return;
   var marks={}; try{ marks=JSON.parse(localStorage.getItem("bob:marks")||"{}"); }catch(e){}
   function esc(x){return usaEsc(x);}
-  var items=[], anyGoogle=false;
+  var items=[];
   for(var k in marks){ var mk=marks[k], parts=k.split("|"), city=parts[0], kind=parts[1], name=parts.slice(2).join("|");
     var inCat = MINE.cat==="want"?(mk.m==="want") : MINE.cat==="been"?(mk.m==="been") : (mk.r>0);
     if(!inCat) continue;
     if(MINE.kind==="resto" && kind!=="resto") continue;
     if(MINE.kind==="bars"  && kind!=="bars")  continue;
     var info=mineInfo(city,kind,name);
-    var g=(info.v&&(info.v.gr||info.v.g))||0; if(g) anyGoogle=true;
-    items.push({city:city,kind:kind,name:name,r:mk.r||0,n:info.n,pct:info.pct,cl:info.cl,g:g});
+    items.push({city:city,kind:kind,name:name,r:mk.r||0,n:info.n,pct:info.pct,cl:info.cl});
   }
   if(MINE.sort==="rating") items.sort(function(a,b){return (b.r-a.r)||(b.n-a.n)||a.name.localeCompare(b.name);});
   else if(MINE.sort==="lists") items.sort(function(a,b){return (b.n-a.n)||(b.r-a.r)||a.name.localeCompare(b.name);});
@@ -2472,7 +2486,7 @@ function drawMine(){
   var rows=items.length? items.map(function(it,i){
     var badge=it.kind==="bars"?"Bar":"Restaurant";
     var yours=rateBlock(it.r,"mr-you","you");
-    var goog = MINE.google ? rateBlock(it.g,"mr-goog","Google") : "";
+    var goog = MINE.google ? rateBlock(0,"mr-goog","Google") : "";
     return '<div class="mine-row" data-city="'+esc(it.city)+'" data-kind="'+esc(it.kind)+'">'+
       '<div class="mr-no">'+(i+1)+'</div>'+
       '<div class="mr-main"><div class="mr-name">'+esc(it.name)+(it.cl?' <span class="usa-closed">✕ closed</span>':"")+'</div>'+
@@ -2480,7 +2494,7 @@ function drawMine(){
       '<div class="mr-rates">'+yours+goog+'</div></div>';
   }).join("") : '<div class="mine-empty">Nothing here yet. Mark places as '+esc((title||"").toLowerCase())+' from any guide and they’ll gather here.</div>';
 
-  var gNote = (MINE.google && !anyGoogle && items.length) ? '<div class="mine-gnote">Google ratings aren’t connected yet — they’ll fill in here once set up.</div>' : "";
+  var gNote = (MINE.google && !placesKeyOk() && items.length) ? '<div class="mine-gnote">Google ratings aren’t connected yet — add your Places API key to switch them on.</div>' : "";
 
   sec.innerHTML='<div class="mine-wrap">'+
     '<div class="mine-top"><button class="mine-back" id="mineBack">← Back</button><div class="usa-kicker">Your Collection</div></div>'+
@@ -2500,6 +2514,10 @@ function drawMine(){
   var gc=document.getElementById("mineGoogle"); if(gc) gc.onchange=function(){ MINE.google=gc.checked; drawMine(); };
   var bk=document.getElementById("mineBack"); if(bk) bk.onclick=function(){ closeMyPlaces(); };
   sec.querySelectorAll(".mine-row").forEach(function(row){ row.onclick=function(){ var c=row.dataset.city, kd=row.dataset.kind; closeMyPlaces(); location.hash="#/"+c+"/"+(kd==="bars"?"bars":"restaurants"); window.scrollTo({top:0,behavior:"smooth"}); }; });
+  if(MINE.google && placesKeyOk()){
+    var rowsEls=sec.querySelectorAll(".mine-row");
+    items.forEach(function(it,ix){ bobGoogleRating(it.city,it.kind,it.name).then(function(gr){ if(!gr) return; var row=rowsEls[ix]; if(!row) return; var gb=row.querySelector(".mr-goog"); if(!gb) return; var ds=gb.querySelector(".mr-dstars"), nu=gb.querySelector(".mr-num"); if(ds) ds.innerHTML=dstars(gr.rating||0); if(nu) nu.textContent=gr.rating?Number(gr.rating).toFixed(1):"—"; if(gr.count){ var lb=gb.querySelector(".mr-rlabel"); if(lb) lb.textContent="Google · "+(gr.count>=1000?(Math.round(gr.count/100)/10)+"k":gr.count); } }); });
+  }
 }
 window.openMyPlaces=openMyPlaces;
 window.addEventListener("hashchange",function(){ closeMyPlaces(); });
@@ -2574,6 +2592,8 @@ window.BOB_FIREBASE_CONFIG = {
   messagingSenderId: "766264845761",
   appId:             "1:766264845761:web:471657a4a461a0ef1cbb40"
 };
+/* Google Places API key (restrict it to your domain + "Places API (New)"). Safe to ship when restricted. */
+window.BOB_PLACES_KEY = "PASTE_PLACES_KEY";
 </script>
 <script src="https://www.gstatic.com/firebasejs/10.12.5/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.12.5/firebase-auth-compat.js"></script>
