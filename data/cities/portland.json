@@ -133,7 +133,7 @@
   {
    "name": "Kachka",
    "hood": "Buckman",
-   "type": "global",
+   "type": "european",
    "typekind": "cui",
    "lat": 45.51864,
    "lng": -122.6622,
@@ -161,7 +161,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "sub": "Russian"
   },
   {
    "name": "Kaede",
@@ -230,7 +231,7 @@
   {
    "name": "Kann",
    "hood": "Buckman",
-   "type": "global",
+   "type": "caribbean",
    "typekind": "cui",
    "lat": 45.51671,
    "lng": -122.66025,
@@ -275,7 +276,8 @@
    ],
    "vb": "datenight",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Haitian"
   },
   {
    "name": "Lovely's Fifty Fifty",
@@ -319,7 +321,7 @@
   {
    "name": "Akadi",
    "hood": "Hosford-Abernethy",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 45.50311,
    "lng": -122.65587,
@@ -355,7 +357,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "West African"
   },
   {
    "name": "Matt's BBQ Tacos",
@@ -647,7 +650,7 @@
   {
    "name": "Magna Kusina",
    "hood": "Hosford-Abernethy",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 45.50186,
    "lng": -122.6548,
@@ -671,7 +674,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Filipino"
   },
   {
    "name": "Nong's Khao Man Gai",
@@ -970,7 +974,7 @@
   {
    "name": "Tulip Shop Tavern",
    "hood": "Humboldt",
-   "type": "global",
+   "type": "gastropub",
    "typekind": "cui",
    "lat": 45.55964,
    "lng": -122.67546,
@@ -1179,7 +1183,8 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "sub": "Native American"
   },
   {
    "name": "Kau Kau",
@@ -1623,7 +1628,7 @@
   {
    "name": "Casa Zoraya",
    "hood": "Northwest",
-   "type": "global",
+   "type": "latin",
    "typekind": "cui",
    "lat": 45.53669,
    "lng": -122.68946,
@@ -1635,7 +1640,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Peruvian"
   },
   {
    "name": "Alma",
@@ -1676,7 +1682,7 @@
   {
    "name": "Urdaneta",
    "hood": "Alberta",
-   "type": "global",
+   "type": "spanish",
    "typekind": "cui",
    "lat": 45.55371,
    "lng": -122.6374,
@@ -1688,12 +1694,13 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": false,
+   "sub": "Basque"
   },
   {
    "name": "Apna Chat Bhavan",
    "hood": "Beaumont",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "lat": 45.54354,
    "lng": -122.62508,
@@ -1706,7 +1713,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Indian Street Food"
   },
   {
    "name": "Masu Sushi",
@@ -1763,7 +1771,7 @@
   {
    "name": "Mirisata",
    "hood": "Division",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "lat": 45.5044,
    "lng": -122.62767,
@@ -1776,12 +1784,13 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Sri Lankan"
   },
   {
    "name": "Makulít",
    "hood": "Cully",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 45.56344,
    "lng": -122.59881,
@@ -1793,7 +1802,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Filipino"
   },
   {
    "name": "Someday",
@@ -1872,7 +1882,7 @@
   {
    "name": "Bake on the Run",
    "hood": "Cully",
-   "type": "global",
+   "type": "caribbean",
    "typekind": "cui",
    "lat": 45.56416,
    "lng": -122.59608,
@@ -1885,7 +1895,8 @@
    ],
    "vb": "quick",
    "dual": false,
-   "to": 1
+   "to": 1,
+   "sub": "Guyanese"
   },
   {
    "name": "Sanchez Taqueria",
@@ -2211,7 +2222,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Expatriate",
@@ -2271,7 +2283,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Palomar",
@@ -2331,7 +2344,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Scotch Lodge",
@@ -2583,7 +2597,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Bar Comala",
@@ -2635,7 +2650,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "Silk Road",

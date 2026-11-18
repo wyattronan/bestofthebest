@@ -70,7 +70,7 @@
   {
    "name": "Tâm Tâm",
    "hood": "Downtown",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 25.77716,
    "lng": -80.1944,
@@ -103,12 +103,13 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "Walrus Rodeo",
    "hood": "Little River",
-   "type": "global",
+   "type": "newam",
    "typekind": "cui",
    "lat": 25.8328,
    "lng": -80.19656,
@@ -1327,7 +1328,7 @@
   {
    "name": "Kaori Miami",
    "hood": "Downtown",
-   "type": "asian",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 25.76852,
    "lng": -80.18472,
@@ -1342,7 +1343,7 @@
    "dual": false,
    "vg": 1,
    "vn": 1,
-   "sub": "Pan-Asian"
+   "sub": "Japanese-Mediterranean"
   },
   {
    "name": "Red Rooster Overtown",
@@ -1425,7 +1426,7 @@
   {
    "name": "Chayhana Oasis",
    "hood": "Sunny Isles",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 25.94946,
    "lng": -80.11408,
@@ -1437,7 +1438,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Uzbek"
   },
   {
    "name": "Chefs on the Run",
@@ -1557,7 +1559,7 @@
   {
    "name": "Awash",
    "hood": "North Miami",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 25.76754,
    "lng": -80.19572,
@@ -1574,7 +1576,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Ethiopian"
   },
   {
    "name": "Bar Bucce",
@@ -2566,7 +2569,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "ViceVersa",
@@ -2650,7 +2654,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "No Seasons",
@@ -2746,7 +2751,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Tripping Animals Brewing Co.",
@@ -2762,7 +2768,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Brewery"
   },
   {
    "name": "Brother's Keeper",
@@ -2854,7 +2861,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Beer Bar"
   },
   {
    "name": "Champagne Bar at The Surf Club",
@@ -3154,7 +3162,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Stormy Monday",
@@ -3543,7 +3552,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "sub": "Dive Bar"
   }
  ],
  "rlists": {

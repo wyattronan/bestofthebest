@@ -95,7 +95,7 @@
   {
    "name": "Delish Ethiopian Cuisine",
    "hood": "",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 47.6096,
    "lng": -122.33224,
@@ -108,7 +108,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Ethiopian"
   },
   {
    "name": "Corson Building",
@@ -754,7 +755,7 @@
   {
    "name": "Hamdi",
    "hood": "",
-   "type": "global",
+   "type": "med",
    "typekind": "cui",
    "lat": 47.6026,
    "lng": -122.32902,
@@ -770,7 +771,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Turkish"
   },
   {
    "name": "Atoma",
@@ -938,7 +940,7 @@
   {
    "name": "Ahadu",
    "hood": "",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 47.61,
    "lng": -122.33364,
@@ -951,7 +953,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Ethiopian"
   },
   {
    "name": "Altura",
@@ -2349,7 +2352,7 @@
   {
    "name": "Café Selam",
    "hood": "Central District",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 47.6077754,
    "lng": -122.2972689,
@@ -2362,7 +2365,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "lu": 1
+   "lu": 1,
+   "sub": "Ethiopian"
   },
   {
    "name": "Rojo's Mexican Food",
@@ -2426,7 +2430,7 @@
   {
    "name": "Pass D Jollof",
    "hood": "Pioneer Square",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 47.6005138,
    "lng": -122.3345987,
@@ -2439,7 +2443,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "lu": 1
+   "lu": 1,
+   "sub": "West African"
   },
   {
    "name": "Sushi Kappo Tamura",
@@ -2675,7 +2680,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "College Inn Pub",
@@ -2691,7 +2697,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "The Polar Bar",
@@ -2711,7 +2718,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Marco Polo",
@@ -2727,7 +2735,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Il Bistro",
@@ -2783,7 +2792,8 @@
     ]
    ],
    "vb": "vibey",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "George and Dragon",
@@ -2799,7 +2809,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Korochka",
@@ -2819,7 +2830,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Phởcific Standard Time",
@@ -2995,7 +3007,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "The Pine Box",
@@ -3015,7 +3028,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Beer Bar"
   },
   {
    "name": "Revelry Room",
@@ -3091,7 +3105,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "The Ballard Smoke Shop",
@@ -3107,7 +3122,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "The Sitting Room",
@@ -3139,7 +3155,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Rob Roy",
@@ -3199,7 +3216,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Zig Zag Cafe",
@@ -3259,7 +3277,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "The Velvet Elk",
@@ -3295,7 +3314,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Beer Bar"
   },
   {
    "name": "Atlantic Crossing",
@@ -3311,7 +3331,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Bad Bishop",
@@ -3375,7 +3396,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Beer Bar"
   },
   {
    "name": "Dreamland Bar & Diner",
@@ -3431,7 +3453,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "JarrBar",
@@ -3475,7 +3498,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Murphy's Pub",
@@ -3491,7 +3515,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Olympic Bar",
@@ -3531,7 +3556,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Paper Fan",
@@ -3603,7 +3629,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "The Wash",
@@ -3807,7 +3834,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "The People's Pub",
@@ -3823,7 +3851,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "The White Horse Trading Co.",
@@ -3839,7 +3868,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "The Central Saloon",
@@ -3875,7 +3905,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "L'Oursin",
@@ -4151,7 +4182,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Add-a-Ball",
@@ -4239,7 +4271,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Bar"
   },
   {
    "name": "Foreign National",

@@ -484,7 +484,7 @@
   {
    "name": "Amilinda",
    "hood": "Downtown",
-   "type": "global",
+   "type": "spanish",
    "typekind": "cui",
    "lat": 43.0385694,
    "lng": -87.9073399,
@@ -500,7 +500,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Spanish-Portuguese"
   },
   {
    "name": "St. Paul Fish Company",
@@ -762,7 +763,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Food Hall"
   },
   {
    "name": "Third Space Brewing",
@@ -905,7 +907,7 @@
   {
    "name": "Three Brothers",
    "hood": "Bay View",
-   "type": "global",
+   "type": "european",
    "typekind": "cui",
    "lat": 43.0002576,
    "lng": -87.8931765,
@@ -921,7 +923,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Serbian"
   },
   {
    "name": "Club Garibaldi",
@@ -1029,7 +1032,7 @@
   {
    "name": "Mader's Restaurant",
    "hood": "Downtown",
-   "type": "global",
+   "type": "european",
    "typekind": "cui",
    "lat": 43.0438238,
    "lng": -87.9146164,
@@ -1041,7 +1044,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "German"
   },
   {
    "name": "Dan Dan",
@@ -1242,7 +1246,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Jamo's",
@@ -1258,7 +1263,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Koz's Mini Bowl",
@@ -1274,7 +1280,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Landmark 1850 Inn",
@@ -1290,7 +1297,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Wolski's Tavern",
@@ -1310,7 +1318,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Kochanski's Concertina Beer Hall",
@@ -1326,7 +1335,8 @@
     ]
    ],
    "dual": false,
-   "vb": "livemusic"
+   "vb": "livemusic",
+   "sub": "Beer Hall"
   },
   {
    "name": "Von Trier",
@@ -1342,7 +1352,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Hall"
   },
   {
    "name": "Burnhearts",
@@ -1358,7 +1369,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Bar"
   },
   {
    "name": "Draft & Vessel",
@@ -1374,7 +1386,8 @@
     ]
    ],
    "dual": false,
-   "vb": "vibey"
+   "vb": "vibey",
+   "sub": "Beer Bar"
   },
   {
    "name": "Romans' Pub",
@@ -1390,7 +1403,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Bar"
   },
   {
    "name": "Stubby's Gastrogrub & Beer Bar",
@@ -1406,7 +1420,8 @@
     ]
    ],
    "dual": false,
-   "vb": "vibey"
+   "vb": "vibey",
+   "sub": "Beer Bar"
   },
   {
    "name": "Sugar Maple",
@@ -1422,7 +1437,8 @@
     ]
    ],
    "dual": false,
-   "vb": "vibey"
+   "vb": "vibey",
+   "sub": "Beer Bar"
   },
   {
    "name": "Balzac Wine Bar",
@@ -1534,7 +1550,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Dugout 54",
@@ -1550,7 +1567,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Champps Americana",
@@ -1566,7 +1584,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "McBob's Pub & Grill",
@@ -1582,7 +1601,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Steny's Tavern & Grill",
@@ -1598,7 +1618,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Maxwell's",
@@ -1614,7 +1635,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Brat Stop",
@@ -1630,7 +1652,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Revere's Wells Street Tavern",
@@ -1662,7 +1685,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Red Lion Pub",
@@ -1678,7 +1702,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Pete's Pub",
@@ -1694,7 +1719,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Oscar's Pub & Grill",
@@ -1710,7 +1736,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Distil",

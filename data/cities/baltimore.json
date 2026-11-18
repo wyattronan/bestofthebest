@@ -298,7 +298,7 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Pan-Asian"
+   "sub": "Taiwanese-Thai"
   },
   {
    "name": "Faidley's Seafood",
@@ -1470,7 +1470,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "The Back Yard",
@@ -1806,7 +1807,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Clavel Mezcaleria",
@@ -1906,7 +1908,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "Hudson Street Stack House",
@@ -1922,7 +1925,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "The Cocktail Gallery",
@@ -2018,7 +2022,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Wet City",
@@ -2034,7 +2039,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "Papi's Taco Joint",
@@ -2130,7 +2136,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "The Brewer's Art",
@@ -2146,7 +2153,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "Maggie's Farm",
@@ -2194,7 +2202,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Bar"
   },
   {
    "name": "Annabel Lee Tavern",
@@ -2227,7 +2236,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "sub": "Dive Bar"
   }
  ],
  "rlists": {

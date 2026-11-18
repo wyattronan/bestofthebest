@@ -2739,7 +2739,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Honky-Tonk"
   },
   {
    "name": "Watertrade",
@@ -2839,7 +2840,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Midnight Cowboy",
@@ -2883,7 +2885,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Beer Garden"
   },
   {
    "name": "Half Step",
@@ -3291,7 +3294,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Cheer Up Charlie's",
@@ -3419,7 +3423,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Last Straw",
@@ -3635,7 +3640,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Honky-Tonk"
   },
   {
    "name": "Donn's Depot",
@@ -3655,7 +3661,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Cosmic Coffee + Beer Garden",
@@ -3671,7 +3678,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Beer Garden"
   },
   {
    "name": "Craft Pride",
@@ -3687,7 +3695,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Beer Bar"
   },
   {
    "name": "Draught House Pub & Brewery",
@@ -3703,7 +3712,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Brewery"
   },
   {
    "name": "Easy Tiger",
@@ -3739,7 +3749,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Apt 115",
@@ -3835,7 +3846,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Honky-Tonk"
   },
   {
    "name": "Armadillo Den",
@@ -4023,7 +4035,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Sagebrush",
@@ -4055,7 +4068,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Bar Fino",
@@ -4187,7 +4201,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "sub": "Dive Bar"
   }
  ],
  "rlists": {

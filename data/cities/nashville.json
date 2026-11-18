@@ -928,7 +928,7 @@
   {
    "name": "FatBelly Pretzel",
    "hood": "East Nashville",
-   "type": "global",
+   "type": "bakery",
    "typekind": "cui",
    "lat": 36.17763,
    "lng": -86.74371,
@@ -942,7 +942,8 @@
    "vb": "global",
    "dual": false,
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Pretzels"
   },
   {
    "name": "Big Al's Deli",
@@ -1086,7 +1087,7 @@
   {
    "name": "Riddim N Spice",
    "hood": "North Nashville",
-   "type": "global",
+   "type": "caribbean",
    "typekind": "cui",
    "lat": 36.17555,
    "lng": -86.80506,
@@ -1102,7 +1103,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Jamaican"
   },
   {
    "name": "Etch",
@@ -1184,7 +1186,7 @@
   {
    "name": "Gojo Ethiopian",
    "hood": "South Nashville",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 36.08397,
    "lng": -86.72834,
@@ -1197,7 +1199,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Ethiopian"
   },
   {
    "name": "Roze Pony",
@@ -1755,7 +1758,7 @@
   {
    "name": "The Cafe at Thistle Farms",
    "hood": "West Nashville",
-   "type": "global",
+   "type": "newam",
    "typekind": "cui",
    "lat": 36.15095,
    "lng": -86.85754,
@@ -1770,7 +1773,8 @@
    "dual": false,
    "vg": 1,
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Café"
   },
   {
    "name": "Cal's Country Kitchen",
@@ -1956,7 +1960,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": true
+   "dual": true,
+   "sub": "Dive Bar"
   },
   {
    "name": "Martha My Dear",
@@ -2004,7 +2009,8 @@
     ]
    ],
    "vb": "livemusic",
-   "dual": false
+   "dual": false,
+   "sub": "Honky-Tonk"
   },
   {
    "name": "The Patterson House",
@@ -2080,7 +2086,8 @@
     ]
    ],
    "vb": "livemusic",
-   "dual": false
+   "dual": false,
+   "sub": "Honky-Tonk"
   },
   {
    "name": "Old Glory",
@@ -2244,7 +2251,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Barrel Proof",
@@ -2264,7 +2272,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Mickey's Tavern",
@@ -2280,7 +2289,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Four Walls",
@@ -2324,7 +2334,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "L.A. Jackson",
@@ -2364,7 +2375,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "The Authentique",
@@ -2724,7 +2736,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Play Dance Bar",
@@ -2937,7 +2950,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "sub": "Honky-Tonk"
   },
   {
    "name": "The Lipstick Lounge",
@@ -2954,7 +2968,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "sub": "Tavern"
   }
  ],
  "rlists": {

@@ -889,7 +889,7 @@
   {
    "name": "Anjin",
    "hood": "Kansas City",
-   "type": "global",
+   "type": "japanese",
    "typekind": "cui",
    "pr": 3,
    "vb": "datenight",
@@ -900,7 +900,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "sub": "Izakaya"
   }
  ],
  "bars": [
@@ -1366,7 +1367,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Green Lady Lounge",

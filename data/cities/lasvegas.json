@@ -602,7 +602,7 @@
   {
    "name": "Amador Cocina Fina",
    "hood": "Chinatown",
-   "type": "global",
+   "type": "mexican",
    "typekind": "cui",
    "lat": 36.127382,
    "lng": -115.224164,
@@ -950,7 +950,7 @@
   {
    "name": "Bar Centro",
    "hood": "Aria",
-   "type": "global",
+   "type": "spanish",
    "typekind": "cui",
    "lat": 36.108,
    "lng": -115.1775,
@@ -962,7 +962,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Spanish Café"
   },
   {
    "name": "Carbone",
@@ -1125,7 +1126,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Buffet"
   },
   {
    "name": "Stanton Social Italian",
@@ -1198,7 +1200,7 @@
   {
    "name": "HaSalon",
    "hood": "The Venetian",
-   "type": "global",
+   "type": "med",
    "typekind": "cui",
    "lat": 36.1248474,
    "lng": -115.1683729,
@@ -1214,7 +1216,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Israeli"
   },
   {
    "name": "SW Steakhouse",
@@ -1403,7 +1406,7 @@
   {
    "name": "Maroon",
    "hood": "North Strip",
-   "type": "global",
+   "type": "caribbean",
    "typekind": "cui",
    "lat": 36.1433292,
    "lng": -115.1569272,
@@ -1419,7 +1422,8 @@
     ]
    ],
    "dual": false,
-   "vb": "datenight"
+   "vb": "datenight",
+   "sub": "Afro-Caribbean Steakhouse"
   },
   {
    "name": "The Palace Station Oyster Bar",
@@ -1640,7 +1644,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Velveteen Rabbit",
@@ -2032,7 +2037,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Stray Pirate",
@@ -2160,7 +2166,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "Pioneer Saloon",

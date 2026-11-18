@@ -1,3 +1,4 @@
+# Restaurant sub-cuisine labels (city|name|type|label). J=japanese, A=asian.
 atlanta|Mujō|J|Sushi
 atlanta|Omakase Table|J|Sushi
 atlanta|Brush Sushi|J|Sushi
@@ -33,7 +34,7 @@ austin|Oseyo|A|Korean
 austin|Wu Chow|A|Dim Sum
 austin|Elizabeth Street Café|A|Vietnamese
 baltimore|The Dara|A|Thai
-baltimore|Ekiben|A|Pan-Asian
+baltimore|Ekiben|asian|Taiwanese-Thai
 baltimore|NiHao|A|Chinese
 baltimore|Red Pepper Sichuan Bistro|A|Szechuan
 baltimore|Toki Underground|J|Ramen
@@ -134,7 +135,7 @@ dallas|Uchi Dallas|J|Modern Japanese
 dallas|Tei-An|J|Soba
 denver|Dan Da|A|Vietnamese
 denver|Kizaki|J|Sushi
-denver|Hey Kiddo|A|Pan-Asian
+denver|Hey Kiddo|asian|Asian-American
 denver|Kawa Ni|J|Izakaya
 denver|Magna Kainan|A|Filipino
 denver|MAKfam|A|Chinese
@@ -160,7 +161,7 @@ detroit|Takoi|A|Thai
 detroit|Shangri-La|A|Dim Sum
 houston|Baso|spanish|Basque
 houston|Katami|J|Sushi
-houston|Jūn|A|Asian-American
+houston|Jūn|global|Chinese-Mexican-Salvadoran
 houston|Banh Somtum|A|Laotian
 houston|Hong Kong Food Street|A|Hong Kong
 houston|Kira|J|Sushi
@@ -279,7 +280,7 @@ miami|Hiden|J|Sushi
 miami|Ogawa|J|Sushi
 miami|Shingo|J|Sushi
 miami|Phuc Yea|A|Vietnamese
-miami|Kaori Miami|A|Pan-Asian
+miami|Kaori Miami|japanese|Japanese-Mediterranean
 miami|Shiso|A|Pan-Asian
 miami|Lung Yai Thai Tapas|A|Thai
 miami|Tropical Chinese Restaurant|A|Dim Sum
@@ -312,12 +313,12 @@ nashville|Hai Woon Dai|A|Korean
 nashville|Otaku Ramen|J|Ramen
 nashville|Bad Idea|A|Laotian
 neworleans|Budsi's Authentic Thai|A|Thai
-neworleans|Luvi|A|Pan-Asian
+neworleans|Luvi|asian|Shanghainese-Japanese
 neworleans|Ba Mien|A|Vietnamese
 neworleans|Tân Định|A|Vietnamese
 neworleans|Lufu Nola|A|Chinese
 neworleans|Chada|A|Thai
-neworleans|Luvi Restaurant|A|Pan-Asian
+neworleans|Luvi Restaurant|asian|Shanghainese-Japanese
 neworleans|Dian Xin|A|Dim Sum
 neworleans|Tan Dinh|A|Vietnamese
 newyork|Ramen by Ra|J|Ramen
@@ -373,7 +374,7 @@ newyork|Momofuku Noodle Bar|A|Asian-American
 newyork|Muku|J|Kaiseki
 newyork|Nami Nori|J|Sushi
 newyork|Noda|J|Sushi
-newyork|Noreetuh|A|Hawaiian
+newyork|Noreetuh|global|Hawaiian
 newyork|Noz 17|J|Sushi
 newyork|Noz Market|J|Sushi
 newyork|Nyonya|A|Malaysian
@@ -480,7 +481,7 @@ portland|Giraffe Goods|J|Japanese Deli
 portland|Pok Pok|A|Thai
 sandiego|Soichi|J|Sushi
 sandiego|Dija Mara|A|Indonesian
-sandiego|Animae|A|Pan-Asian
+sandiego|Animae|asian|Asian-Californian
 sandiego|Kingfisher|A|Vietnamese
 sandiego|Yakitori Tsuta|J|Yakitori
 sandiego|Shan Xi Magic Kitchen|A|Shanxi
@@ -589,7 +590,7 @@ triangle|Chirba Chirba|A|Dumplings
 triangle|Thai Cafe|A|Thai
 triangle|Omakase by Kai|J|Sushi
 triangle|Seoul Garden|A|Korean
-triangle|Heirloom Brewshop|A|Pan-Asian
+triangle|Heirloom Brewshop|asian|Laotian-Taiwanese
 twincities|Vinai|A|Hmong
 twincities|Khaluna|A|Laotian
 twincities|Kado no Mise|J|Sushi
@@ -623,3 +624,564 @@ washington|Purple Patch|A|Filipino
 washington|Anju|A|Korean
 washington|KYOJIN|J|Japanese
 washington|Bantam King|J|Ramen
+# Formerly 'global' restaurants
+atlanta|Delbar|med|Persian
+atlanta|Arepa Mia|latin|Venezuelan
+atlanta|Chai Pani|indian|Indian Street Food
+atlanta|Delbar Buckhead|med|Persian
+atlanta|Zyka: The Taste|indian|
+atlanta|Desta Ethiopian Kitchen|african|Ethiopian
+atlanta|Tassili's Raw Reality Café|newam|Raw Vegan
+atlanta|BEY Mediterranean Kitchen & Bar|med|Lebanese
+baltimore|Mera Kitchen Collective|global|
+boston|Comfort Kitchen|global|
+boston|Jahunger|asian|Uyghur
+boston|Blue Nile|african|Ethiopian
+boston|Lehrhaus|european|Jewish
+boston|Suya Joint|african|Nigerian
+boston|Chacarero|latin|Chilean
+charleston|Jack of Cups Saloon|global|
+charleston|Lost Isle|newam|Lowcountry Live-Fire
+chicago|Mirra|indian|Indian-Mexican
+chicago|Anelya|european|Ukrainian
+chicago|Demera|african|Ethiopian
+chicago|Da Local Boys Cafe|global|Hawaiian
+chicago|Txa Txa Club|global|Mediterranean-Southeast Asian
+chicago|Ethiopian Diamond|african|Ethiopian
+dallas|Momo Spot|indian|Nepali
+dallas|Spicy Zest|indian|Sri Lankan
+dallas|Bilad Bakery|med|Middle Eastern Bakery
+dallas|Starship Bagel|bakery|Bagels
+denver|Molotov Kitschen|european|Eastern European
+denver|Tocabe|global|Native American
+denver|Mango House|global|Food Hall
+denver|African Grill and Bar|african|West African
+denver|Ochag|european|Armenian-Georgian
+denver|Bosphorus|med|Turkish
+houston|ChòpnBlọk|african|West African
+houston|Bahel Ethiopian Mart & Kitchen|african|Ethiopian
+houston|The Blind Goat|asian|Vietnamese
+houston|Bori|asian|Korean
+houston|Burger Bodega|quick|Burgers
+houston|Costa Brava Bistro|spanish|Catalan
+houston|Hamsa|med|Israeli
+houston|Ishtia|global|Native American
+houston|Jamaica Pon Di Road|caribbean|Jamaican
+houston|Kandahari|indian|Afghan
+houston|Kitchen Rumors|indian|Modern Indian
+houston|Kriti Kitchen|indian|
+houston|La Lucha|seafood|Gulf Coast
+houston|Laurenzo's|mexican|Tex-Mex
+houston|Milton's|italian|Italian-American
+houston|Moon Tower Inn|quick|Hot Dogs
+houston|Raja Sweets|indian|Indian Sweets
+houston|Rumi's Kitchen|med|Persian
+houston|Sayad Mediterranean Kitchen|med|Middle Eastern
+houston|Talespin|pizza|
+houston|Toga|japanese|Izakaya
+houston|Villa Arcos|mexican|Tacos
+houston|Blue Nile Ethiopian Restaurant|african|Ethiopian
+houston|The Rado Market|newam|Café
+houston|Sheba Restaurant|african|Ethiopian
+houston|Afrikiko Restaurant|african|West African
+houston|Annam|asian|Vietnamese
+houston|Bar Buena|mexican|Mezcalería
+houston|Xolo|mexican|Mexico City
+houston|Latuli|seafood|Gulf Coast
+kansascity|Anjin|japanese|Izakaya
+lasvegas|Amador Cocina Fina|mexican|
+lasvegas|Bar Centro|spanish|Spanish Café
+lasvegas|Bacchanal Buffet|global|Buffet
+lasvegas|HaSalon|med|Israeli
+lasvegas|Maroon|caribbean|Afro-Caribbean Steakhouse
+losangeles|Two Hommés|caribbean|Afro-Caribbean
+losangeles|Lalibela|african|Ethiopian
+losangeles|Lapaba|italian|Korean-Italian
+losangeles|Lynx|pizza|
+losangeles|Pika Palace|indian|Indian-American
+losangeles|Tev's & Family Kitchen|caribbean|Jamaican Soul Food
+losangeles|Strong Water|global|Polynesian
+miami|Tâm Tâm|asian|Vietnamese
+miami|Walrus Rodeo|newam|
+miami|Chayhana Oasis|asian|Uzbek
+miami|Awash|african|Ethiopian
+milwaukee|Amilinda|spanish|Spanish-Portuguese
+milwaukee|Third Street Market Hall|global|Food Hall
+milwaukee|Three Brothers|european|Serbian
+milwaukee|Mader's Restaurant|european|German
+nashville|FatBelly Pretzel|bakery|Pretzels
+nashville|Riddim N Spice|caribbean|Jamaican
+nashville|Gojo Ethiopian|african|Ethiopian
+nashville|The Cafe at Thistle Farms|newam|Café
+neworleans|Dolfy's|spanish|Basque
+neworleans|Dakar NOLA|african|Senegalese
+neworleans|Fritai|caribbean|Haitian
+neworleans|Addis NOLA|african|Ethiopian
+neworleans|Mister Mao|global|
+neworleans|Jamila's Cafe|med|Tunisian
+newyork|Agi's Counter|european|Hungarian
+newyork|Bohemian Spirit|european|Czech
+newyork|Chama Mama|european|Georgian
+newyork|Laliko|european|Georgian
+newyork|Makina Café|african|Eritrean
+newyork|ODRE|european|Georgian
+newyork|Pierozek|european|Polish
+newyork|Teranga|african|West African
+newyork|Toné Café|european|Georgian
+newyork|Szechuan Mountain House|asian|Szechuan
+newyork|Taiwanese Gourmet|asian|Taiwanese
+newyork|Laghman Express|asian|Uyghur
+newyork|Kingston Tropical|caribbean|Jamaican
+newyork|Dar Lbahja|med|Moroccan
+newyork|Cas West Indian & American Restaurant|caribbean|West Indian
+newyork|Lakruwana|indian|Sri Lankan
+newyork|Accra Express|african|Ghanaian
+newyork|Dept. of Culture|african|Nigerian
+newyork|Taste Of Heaven|bbq|Soul Food
+newyork|Smør|european|Danish
+newyork|Veselka|european|Ukrainian
+newyork|Graciela|latin|Argentinian
+newyork|Zoli|seafood|
+philadelphia|Chibanos|sandwich|Chinese-Cuban
+philadelphia|Honeysuckle|african|Afro-Diasporic
+philadelphia|Bolo|caribbean|Puerto Rican
+philadelphia|Tabachoy|asian|Filipino
+philadelphia|Rice & Sambal|asian|Indonesian
+philadelphia|White Yak|asian|Tibetan
+philadelphia|Baby's Kusina|asian|Filipino
+philadelphia|Alif Brew|african|Ethiopian
+philadelphia|Megobari|european|Georgian
+philadelphia|Sky Cafe|asian|Indonesian
+philadelphia|Doro Bet|african|Ethiopian
+philadelphia|Hardena|asian|Indonesian
+philadelphia|South|bbq|Southern
+philadelphia|Heavy Metal Sausage Co.|sandwich|Sausages
+philadelphia|Stargazy|european|British Pies
+philadelphia|Suya Suya|african|Nigerian
+phoenix|Lovebite Dumplings|asian|Dumplings
+phoenix|LeDu Thai|asian|Thai
+phoenix|Tambayan Filipino Food|asian|Filipino
+phoenix|Thai Boat Noodle.PS|asian|Thai
+phoenix|Vayal's Indian Kitchen|indian|
+phoenix|Cafe Lalibela|african|Ethiopian
+phoenix|The Dhaba|indian|
+phoenix|Pho Thanh|asian|Vietnamese
+phoenix|Feringhee|indian|
+phoenix|Happy Baos|asian|Taiwanese
+phoenix|Kabob Grill N' Go|med|Middle Eastern
+phoenix|El Chullo|latin|Peruvian
+phoenix|Haru Sushi & Grill|japanese|Sushi
+phoenix|Origami Ramen Bar|japanese|Ramen
+phoenix|Que Chevere|latin|Venezuelan
+phoenix|Shaanxi Chinese|asian|Shaanxi
+phoenix|The Stone Tofu House|asian|Korean
+phoenix|Sushi Nakano|japanese|Sushi
+phoenix|Edelweiss|european|German
+phoenix|Khyber Halal|indian|Pakistani
+phoenix|Little Saigon|asian|Vietnamese
+phoenix|Los Andes Peruvian|latin|Peruvian
+phoenix|MODERN OysterBar Chophouse|seafood|
+phoenix|Taj Mahal|indian|
+phoenix|Tampopo Ramen|japanese|Ramen
+phoenix|Thai E-San|asian|Thai
+phoenix|Yasu Sushi Bistro|japanese|Sushi
+phoenix|City of Spice|indian|
+phoenix|Indibar|indian|
+phoenix|Pho 43|asian|Vietnamese
+phoenix|Haji-Baba|med|Middle Eastern
+phoenix|Babo Jumak|asian|Korean
+phoenix|Supreme Shawarma|med|Middle Eastern
+phoenix|Szechwan Garden|asian|Szechuan
+phoenix|Sakana Sushi & Grill|japanese|Sushi
+phoenix|Best Hong Kong Dining|asian|Hong Kong
+phoenix|Espiritu|mexican|
+phoenix|Mekong Plaza|global|Asian Food Hall
+phoenix|Xing Fu Tang|asian|Taiwanese
+phoenix|Phoenix Coqui|caribbean|Puerto Rican
+phoenix|Guanaquito Restaurant|latin|Salvadoran
+phoenix|Mandi House|med|Yemeni
+phoenix|Venezia's|pizza|
+phoenix|The Sicilian Butcher|italian|Sicilian
+phoenix|Persian Room|med|Persian
+portland|Kachka|european|Russian
+portland|Kann|caribbean|Haitian
+portland|Akadi|african|West African
+portland|Magna Kusina|asian|Filipino
+portland|Tulip Shop Tavern|gastropub|
+portland|Javelina|global|Native American
+portland|Casa Zoraya|latin|Peruvian
+portland|Urdaneta|spanish|Basque
+portland|Apna Chat Bhavan|indian|Indian Street Food
+portland|Mirisata|indian|Sri Lankan
+portland|Makulít|asian|Filipino
+portland|Bake on the Run|caribbean|Guyanese
+sandiego|Pomegranate|european|Russian-Georgian
+sandiego|Bosforo|med|Turkish
+sandiego|Artifact at Mingei|newam|
+sanfrancisco|Prubechu|global|Chamorro
+sanfrancisco|Liholiho Yacht Club|global|Hawaiian
+sanfrancisco|Spinning Bones|newam|Rotisserie
+sanfrancisco|Top Hatter's Kitchen|asian|Vietnamese-Californian
+sanfrancisco|LeYou Ethiopian|african|Ethiopian
+sanfrancisco|Mrs Khan Uyghur Cuisine|asian|Uyghur
+sanfrancisco|Mashaallah Halal Pakistani Food|indian|Pakistani
+sanfrancisco|Patio Filipino|asian|Filipino
+seattle|Delish Ethiopian Cuisine|african|Ethiopian
+seattle|Hamdi|med|Turkish
+seattle|Ahadu|african|Ethiopian
+seattle|Café Selam|african|Ethiopian
+seattle|Pass D Jollof|african|West African
+triangle|Bombolo|italian|Italian-Southern
+triangle|Durham Food Hall|global|Food Hall
+twincities|Kramarczuk's|european|Ukrainian
+twincities|World Street Kitchen|global|
+twincities|Diane's Place|asian|Hmong-American
+twincities|Moscow on the Hill|european|Russian
+washington|Dōgon|caribbean|Afro-Caribbean
+washington|Lapis|indian|Afghan
+washington|Elmina|african|Ghanaian
+washington|Ethiopic|african|Ethiopian
+washington|Bostan|asian|Uyghur
+washington|Chercher|african|Ethiopian
+washington|Ruta Ukrainian|european|Ukrainian
+washington|Izakaya Seki|japanese|Izakaya
+washington|Northwest Chinese Food|asian|Northwest Chinese
+washington|Bistro Aracosia, Aracosia & Afghania|indian|Afghan
+baltimore|Ekiben|asian|Taiwanese-Thai
+denver|Hey Kiddo|asian|Asian-American
+miami|Kaori Miami|japanese|Japanese-Mediterranean
+neworleans|Luvi|asian|Shanghainese-Japanese
+neworleans|Luvi Restaurant|asian|Shanghainese-Japanese
+sandiego|Animae|asian|Asian-Californian
+triangle|Heirloom Brewshop|asian|Laotian-Taiwanese
+houston|Jūn|global|Chinese-Mexican-Salvadoran
+
+# city|name|label   (any "b" bar not listed here = Tavern)
+atlanta|Northside Tavern|Dive Bar
+atlanta|Clermont Lounge|Dive Bar
+atlanta|Brick Store Pub|Beer Bar
+atlanta|Euclid Avenue Yacht Club|Dive Bar
+atlanta|Monday Night Brewing|Brewery
+atlanta|Atlantucky Brewing|Brewery
+atlanta|Halfway Crooks Beer|Brewery
+atlanta|Bold Monk Brewing Co.|Brewery
+atlanta|Three Taverns Brewery|Brewery
+atlanta|The Earl|Dive Bar
+atlanta|Wrecking Bar Brewpub|Brewery
+atlanta|The Vortex Bar & Grill|Dive Bar
+atlanta|The Porter Beer Bar|Beer Bar
+atlanta|STATS Brewpub|Brewery
+atlanta|Ladybird Grove & Mess Hall|Beer Garden
+austin|The White Horse|Honky-Tonk
+austin|Nickel City|Dive Bar
+austin|Moontower Saloon|Beer Garden
+austin|Lala's Little Nugget|Dive Bar
+austin|Deep Eddy Cabaret|Dive Bar
+austin|The Broken Spoke|Honky-Tonk
+austin|Donn's Depot|Dive Bar
+austin|Cosmic Coffee + Beer Garden|Beer Garden
+austin|Craft Pride|Beer Bar
+austin|Draught House Pub & Brewery|Brewery
+austin|Yellow Jacket Social Club|Dive Bar
+austin|The Little Longhorn Saloon|Honky-Tonk
+austin|Jackalope Downtown|Dive Bar
+austin|Sahara Lounge|Dive Bar
+baltimore|Peabody Heights|Brewery
+baltimore|Wet City|Brewery
+baltimore|The Brewer's Art|Brewery
+baltimore|Max's Taphouse|Beer Bar
+baltimore|Mount Royal Tavern|Dive Bar
+boston|Aeronaut Brewing|Brewery
+boston|Trillium Brewing|Brewery
+boston|Bukowski's Tavern|Beer Bar
+boston|Castle Island Brewing|Brewery
+boston|Deep Ellum|Beer Bar
+boston|Delux Cafe|Dive Bar
+boston|Dorchester Brewing|Brewery
+boston|Harpoon Brewery|Brewery
+boston|Idle Hands|Brewery
+boston|Lamplighter Brewing|Brewery
+boston|Lord Hobo|Beer Bar
+boston|Mighty Squirrel|Brewery
+boston|Night Shift Brewing|Brewery
+boston|Notch Brewing|Brewery
+boston|Porter Cafe|Beer Bar
+boston|Portico Brewing|Brewery
+boston|Remnant Brewing|Brewery
+boston|Roundhead Brewing|Brewery
+boston|State Park|Dive Bar
+boston|Sullivan's Tap|Dive Bar
+boston|Sunset Bar & Grille|Beer Bar
+boston|The Lower Depths|Beer Bar
+boston|The Publick House|Beer Bar
+boston|Widowmaker Taproom|Brewery
+boston|Winter Hill Brewing|Brewery
+boston|Tip Tap Room|Beer Bar
+boston|City Tap Fort Point|Beer Bar
+charleston|Revelry Brewing|Brewery
+charleston|Edmund's Oast|Beer Bar
+charleston|Recovery Room Tavern|Dive Bar
+charleston|Bay Street Biergarten|Beer Garden
+charleston|Holy City Brewing|Brewery
+charleston|Gene's Haufbrau|Dive Bar
+charleston|The Griffon|Dive Bar
+charleston|AC's|Dive Bar
+charleston|Tattooed Moose|Dive Bar
+charleston|The Upper Deck|Dive Bar
+chicago|Delilah's|Dive Bar
+chicago|Rainbo Club|Dive Bar
+chicago|Skylark|Dive Bar
+chicago|Old Town Ale House|Dive Bar
+chicago|Maria's Packaged Goods & Community Bar|Beer Bar
+chicago|Hopleaf|Beer Bar
+chicago|Rossi's|Dive Bar
+chicago|Simon's|Dive Bar
+chicago|Pilot Project's Devious Lounge|Brewery
+chicago|Map Room|Beer Bar
+chicago|The Hideout|Dive Bar
+chicago|Half Acre Beer Company|Brewery
+chicago|Richard's Bar|Dive Bar
+chicago|Cole's Bar|Dive Bar
+chicago|The Cove Lounge|Dive Bar
+chicago|Whirlaway Lounge|Dive Bar
+chicago|Monochrome Brewing|Brewery
+chicago|Nisei Lounge|Dive Bar
+chicago|Ramova Theatre|Brewery
+chicago|Ørkenoy|Brewery
+dallas|Adair's|Dive Bar
+dallas|Barbara's Pavilion|Dive Bar
+dallas|Cold Beer Company|Beer Garden
+dallas|Double Wide|Dive Bar
+dallas|Goodfriend Beer Garden|Beer Garden
+dallas|Katy Trail Ice House|Icehouse
+dallas|Lakewood Landing|Dive Bar
+dallas|Lee Harvey's|Dive Bar
+dallas|Mike's Gemini Twin Lounge|Dive Bar
+dallas|Single Wide|Dive Bar
+dallas|Strangeways|Beer Bar
+dallas|The Goat|Dive Bar
+dallas|Truck Yard|Beer Garden
+dallas|Mayer's Garden|Beer Garden
+denver|Aspen Lodge Bar & Grill|Dive Bar
+denver|Bierstadt Lagerhaus|Brewery
+denver|Bull & Bush|Brewery
+denver|Cohesion Brewing|Brewery
+denver|Don's Club Tavern|Dive Bar
+denver|Hogshead Brewing|Brewery
+denver|Lakeview Lounge|Dive Bar
+denver|Pete's Satire Lounge|Dive Bar
+denver|PS Lounge|Dive Bar
+denver|TrashHawk Tavern|Dive Bar
+denver|Goed Zuur|Beer Bar
+detroit|Batch Brewing Company|Brewery
+detroit|Kelly's Bar Hamtramck|Dive Bar
+houston|Heights Bier Garten|Beer Garden
+houston|D&T Drive Inn|Icehouse
+houston|Flying Saucer Downtown|Beer Bar
+houston|Mongoose vs. Cobra|Beer Bar
+houston|Nobi Public House|Beer Bar
+houston|Petrol Station|Beer Bar
+houston|The Hay Merchant|Beer Bar
+houston|Alice's Tall Texan Drive Inn|Dive Bar
+houston|Lola's Depot|Dive Bar
+houston|Poison Girl|Dive Bar
+houston|Sunny's|Dive Bar
+houston|Dan Electro's Guitar Bar|Dive Bar
+houston|notsuoH|Dive Bar
+houston|Little Woodrow's|Icehouse
+houston|Saint Arnold Brewing Company|Brewery
+houston|West Alabama Ice House|Icehouse
+houston|Shady Acres Saloon|Dive Bar
+lasvegas|The Silver Stamp|Dive Bar
+lasvegas|Able Baker Brewing|Brewery
+losangeles|All Season Brewing|Brewery
+losangeles|Copper Bucket|Dive Bar
+losangeles|Cozy Inn|Dive Bar
+losangeles|Drawing Room|Dive Bar
+losangeles|Ercoles|Dive Bar
+losangeles|Footsie's|Dive Bar
+losangeles|Frank'n Hank|Dive Bar
+losangeles|Hinano Cafe|Dive Bar
+losangeles|HMS Bounty|Dive Bar
+losangeles|Permanent Records Roadhouse|Dive Bar
+losangeles|Power House Bar|Dive Bar
+losangeles|Reno Room|Dive Bar
+losangeles|The Blue Room|Dive Bar
+losangeles|The Mermaid|Dive Bar
+losangeles|Tiny's Hi-Dive|Dive Bar
+losangeles|Walt's Bar|Dive Bar
+losangeles|Ye Rustic Inn|Dive Bar
+losangeles|Kelly's Korner Tavern|Dive Bar
+miami|Mac's Club Deuce|Dive Bar
+miami|The Corner|Dive Bar
+miami|Tripping Animals Brewing Co.|Brewery
+miami|Barracuda Taphouse & Grill|Beer Bar
+miami|Willy's Neighborhood Bar|Dive Bar
+miami|Las Rosas|Dive Bar
+milwaukee|Jamo's|Dive Bar
+milwaukee|Koz's Mini Bowl|Dive Bar
+milwaukee|Kochanski's Concertina Beer Hall|Beer Hall
+milwaukee|Von Trier|Beer Hall
+milwaukee|Burnhearts|Beer Bar
+milwaukee|Draft & Vessel|Beer Bar
+milwaukee|Romans' Pub|Beer Bar
+milwaukee|Stubby's Gastrogrub & Beer Bar|Beer Bar
+milwaukee|Sugar Maple|Beer Bar
+nashville|Dino's Bar & Grill|Dive Bar
+nashville|Robert's Western World|Honky-Tonk
+nashville|Skinny Dennis|Honky-Tonk
+nashville|Santa's Pub|Dive Bar
+nashville|Mickey's Tavern|Dive Bar
+nashville|Ernie's Boondock|Dive Bar
+nashville|Melrose Billiard Parlor|Dive Bar
+nashville|Red Door Saloon|Dive Bar
+nashville|The Nashville Palace|Honky-Tonk
+neworleans|Vaughan's Lounge|Dive Bar
+neworleans|Pal's Lounge|Dive Bar
+neworleans|Bayou Beer Garden|Beer Garden
+neworleans|Cooter Brown's Tavern & Oyster Bar|Beer Bar
+neworleans|The Avenue Pub|Beer Bar
+neworleans|Molly's at the Market|Dive Bar
+neworleans|Erin Rose|Dive Bar
+neworleans|Snake & Jake's Christmas Club Lounge|Dive Bar
+neworleans|Harry's Corner|Dive Bar
+neworleans|MRB|Dive Bar
+neworleans|Brieux Carré Brewing Co.|Brewery
+neworleans|Pepp's Pub|Dive Bar
+neworleans|J&J's Sports Lounge|Dive Bar
+neworleans|Bud Rip's|Dive Bar
+neworleans|Bywater Brew Pub|Brewery
+neworleans|Parleaux Beer Lab|Brewery
+neworleans|Miel|Brewery
+neworleans|Urban South Brewery|Brewery
+neworleans|The Courtyard Brewery|Brewery
+neworleans|The Tchoup Yard|Beer Garden
+neworleans|Zony Mash Beer Project|Brewery
+neworleans|Second Line Brewing|Brewery
+neworleans|Mick's Irish Pub|Dive Bar
+neworleans|Port Orleans Brewing Co.|Brewery
+neworleans|Ms. Mae's|Dive Bar
+neworleans|Henry's Uptown Bar|Dive Bar
+newyork|Jimmy's Corner|Dive Bar
+newyork|169 Bar|Dive Bar
+newyork|Fish Market|Dive Bar
+newyork|Montero|Dive Bar
+newyork|TALEA|Brewery
+newyork|7B Horseshoe Bar|Dive Bar
+newyork|Alibi|Dive Bar
+newyork|Alligator Lounge|Dive Bar
+newyork|Banter|Beer Bar
+newyork|Barrow's Pub|Dive Bar
+newyork|Blue & Gold Tavern|Dive Bar
+newyork|Cubbyhole|Dive Bar
+newyork|Do or Dive|Dive Bar
+newyork|Doc Holliday's|Dive Bar
+newyork|Gowanus Yacht Club|Beer Garden
+newyork|Harlem Hops|Beer Bar
+newyork|International Bar|Dive Bar
+newyork|Paradise Alley|Dive Bar
+newyork|Reif's|Dive Bar
+newyork|Rocka Rolla|Dive Bar
+newyork|The Anchored Inn|Dive Bar
+newyork|The Bronx Beer Hall|Beer Hall
+newyork|The Jar Bar|Dive Bar
+newyork|The Levee|Dive Bar
+newyork|Threes Brewing|Brewery
+newyork|Tip Top Bar & Grill|Dive Bar
+newyork|Sixpoint Brewery Taproom|Brewery
+newyork|Brooklyn Brewery|Brewery
+newyork|Bohemian Hall & Beer Garden|Beer Garden
+newyork|Rudy's Bar & Grill|Dive Bar
+newyork|Greenwood Park|Beer Garden
+newyork|The Double Windsor|Beer Bar
+philadelphia|Bob & Barbara's Lounge|Dive Bar
+philadelphia|Oscar's Tavern|Dive Bar
+philadelphia|Poison Heart|Dive Bar
+philadelphia|Ray's Happy Birthday Bar|Dive Bar
+philadelphia|Tattooed Mom|Dive Bar
+philadelphia|Mickey's Tavern|Dive Bar
+philadelphia|Two Locals Brewing|Brewery
+philadelphia|Fountain Porter|Beer Bar
+philadelphia|Toska Restaurant and Brewery|Brewery
+philadelphia|Doom Bar|Dive Bar
+phoenix|Chupacabra Taproom|Beer Bar
+phoenix|Goldwater Brewing Co.|Brewery
+phoenix|Kitsune Brewing Co.|Brewery
+phoenix|Pinnacle Brewing Co.|Brewery
+phoenix|Sana Sana Cerveceria|Brewery
+phoenix|Six Byrd Cider Co.|Cidery
+phoenix|Wren House Brewing Co.|Brewery
+phoenix|Arizona Wilderness - Miracle Mile|Brewery
+phoenix|Wren House Paradise Valley|Brewery
+phoenix|Superstition Meadery|Meadery
+phoenix|Four Peaks Brewing Company|Brewery
+portland|Dots Cafe|Dive Bar
+portland|Sandy Hut|Dive Bar
+portland|Assembly Brewing|Brewery
+sandiego|Blind Lady Ale House|Beer Bar
+sandiego|The Church by The Lost Abbey|Brewery
+sandiego|The Silver Fox Lounge|Dive Bar
+sandiego|O'Brien's Pub|Beer Bar
+sandiego|The Gärten|Beer Garden
+sandiego|Panama 66|Beer Garden
+sanfrancisco|Dalva|Dive Bar
+sanfrancisco|Hotsy Totsy Club|Dive Bar
+sanfrancisco|Li Po Lounge|Dive Bar
+sanfrancisco|Magnolia Gastropub & Brewery|Brewery
+sanfrancisco|Radhaus|Beer Hall
+sanfrancisco|Spec's Twelve Adler Museum Cafe|Dive Bar
+sanfrancisco|Laughing Monk|Brewery
+sanfrancisco|San Francisco Brewing Co|Brewery
+sanfrancisco|Leopold's|Beer Hall
+sanfrancisco|Shotwell's|Beer Bar
+sanfrancisco|Marina Lounge|Dive Bar
+sanfrancisco|Clooney's|Dive Bar
+sanfrancisco|Gino and Carlo|Dive Bar
+sanfrancisco|500 Club|Dive Bar
+seattle|College Inn Pub|Dive Bar
+seattle|The Pine Box|Beer Bar
+seattle|The Ballard Smoke Shop|Dive Bar
+seattle|Streamline Tavern|Dive Bar
+seattle|Screwdriver Bar|Dive Bar
+seattle|Beveridge Place Pub|Beer Bar
+seattle|The Dray|Beer Bar
+seattle|The 5 Point|Dive Bar
+seattle|Loretta's Northwesterner|Dive Bar
+seattle|Pacific Inn Pub|Dive Bar
+seattle|The 9lb Hammer|Dive Bar
+seattle|Linda's Tavern|Dive Bar
+seattle|Chuck's Hop Shop|Beer Bar
+triangle|State of Beer|Beer Bar
+triangle|Trophy Brewing Co.|Brewery
+triangle|Ponysaurus|Brewery
+triangle|Beer Study|Beer Bar
+triangle|Burial Beer Co. Raleigh Taproom + Bottle Shop|Brewery
+triangle|Raleigh Beer Garden|Beer Garden
+triangle|Bull City Ciderworks|Cidery
+triangle|Top of the Hill|Brewery
+triangle|Wye Hill Kitchen & Brewing|Brewery
+twincities|Half Time Rec|Dive Bar
+twincities|Cuzzy's Grill & Bar|Dive Bar
+washington|The Dew Drop Inn|Dive Bar
+washington|Rocket Bar|Dive Bar
+washington|Garden District|Beer Garden
+washington|Showtime|Dive Bar
+washington|Ivy and Coney|Dive Bar
+washington|Wonderland Ballroom|Dive Bar
+washington|Snappy's Small Bar|Dive Bar
+washington|Jimmy Valentine's|Dive Bar
+washington|Looking Glass Lounge|Dive Bar
+washington|Tune Inn|Dive Bar
+washington|Jackie Lee's|Dive Bar
+washington|Trusty's|Dive Bar
+washington|Raven Grill|Dive Bar
+washington|Red Derby|Dive Bar
+washington|The Pug|Dive Bar
+washington|Dan's Cafe|Dive Bar
+washington|Binge Bar|Zero-Proof Bar
+washington|Atomic Billiards|Dive Bar
+washington|The Sovereign|Beer Bar
+washington|Prost|Beer Hall
+washington|Quarry House Tavern|Dive Bar
+washington|Dacha Beer Garden|Beer Garden
+washington|Larry's Lounge|Dive Bar

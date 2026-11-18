@@ -657,7 +657,7 @@
   {
    "name": "Jahunger",
    "hood": "Cambridgeport",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 42.3573,
    "lng": -71.1077,
@@ -675,7 +675,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Uyghur"
   },
   {
    "name": "Kaia",
@@ -1194,7 +1195,7 @@
   {
    "name": "Blue Nile",
    "hood": "Jamaica Plain",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 42.3225,
    "lng": -71.1077,
@@ -1208,7 +1209,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Ethiopian"
   },
   {
    "name": "Bricco",
@@ -1539,7 +1541,7 @@
   {
    "name": "Lehrhaus",
    "hood": "Somerville",
-   "type": "global",
+   "type": "european",
    "typekind": "cui",
    "lat": 42.3783,
    "lng": -71.1069,
@@ -1553,7 +1555,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Jewish"
   },
   {
    "name": "McGonagle's",
@@ -1975,7 +1978,7 @@
   {
    "name": "Suya Joint",
    "hood": "Roxbury",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 42.3283,
    "lng": -71.0819,
@@ -1989,7 +1992,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Nigerian"
   },
   {
    "name": "TABLE Mercato",
@@ -2227,7 +2231,7 @@
   {
    "name": "Chacarero",
    "hood": "Downtown",
-   "type": "global",
+   "type": "latin",
    "typekind": "cui",
    "lat": 42.3549845,
    "lng": -71.0586383,
@@ -2240,7 +2244,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "lu": 1
+   "lu": 1,
+   "sub": "Chilean"
   },
   {
    "name": "Casa Razdora",
@@ -2722,7 +2727,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brewery"
+   "vb": "brewery",
+   "sub": "Brewery"
   },
   {
    "name": "Bubble Bath",
@@ -2818,7 +2824,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "OAK Long Bar + Kitchen",
@@ -2934,7 +2941,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brewery"
+   "vb": "brewery",
+   "sub": "Brewery"
   },
   {
    "name": "Wusong Road",
@@ -3107,7 +3115,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Bukowski's Tavern",
@@ -3123,7 +3132,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Bar"
   },
   {
    "name": "Carrie Nation",
@@ -3159,7 +3169,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brewery"
+   "vb": "brewery",
+   "sub": "Brewery"
   },
   {
    "name": "Daiquiris & Daisies",
@@ -3208,7 +3219,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Bar"
   },
   {
    "name": "Delux Cafe",
@@ -3224,7 +3236,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Desnuda",
@@ -3257,7 +3270,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brewery"
+   "vb": "brewery",
+   "sub": "Brewery"
   },
   {
    "name": "Drink",
@@ -3320,7 +3334,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Equal Measure",
@@ -3377,7 +3392,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brewery"
+   "vb": "brewery",
+   "sub": "Brewery"
   },
   {
    "name": "Highball Lounge",
@@ -3442,7 +3458,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "Island Creek Oyster Bar",
@@ -3507,7 +3524,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brewery"
+   "vb": "brewery",
+   "sub": "Brewery"
   },
   {
    "name": "Local 149",
@@ -3523,7 +3541,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Lord Hobo",
@@ -3539,7 +3558,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Bar"
   },
   {
    "name": "Marcelino's",
@@ -3600,7 +3620,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "nathálie",
@@ -3632,7 +3653,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brewery"
+   "vb": "brewery",
+   "sub": "Brewery"
   },
   {
    "name": "No. 9 Park",
@@ -3682,7 +3704,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brewery"
+   "vb": "brewery",
+   "sub": "Brewery"
   },
   {
    "name": "Olde Magoun's Saloon",
@@ -3702,7 +3725,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Porter Cafe",
@@ -3718,7 +3742,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Bar"
   },
   {
    "name": "Portico Brewing",
@@ -3734,7 +3759,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brewery"
+   "vb": "brewery",
+   "sub": "Brewery"
   },
   {
    "name": "Rebel Rebel",
@@ -3774,7 +3800,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brewery"
+   "vb": "brewery",
+   "sub": "Brewery"
   },
   {
    "name": "Roundhead Brewing",
@@ -3790,7 +3817,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brewery"
+   "vb": "brewery",
+   "sub": "Brewery"
   },
   {
    "name": "Select Oyster Bar",
@@ -3863,7 +3891,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Stoddard's",
@@ -3879,7 +3908,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Straight Law",
@@ -3911,7 +3941,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Sunset Bar & Grille",
@@ -3927,7 +3958,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Bar"
   },
   {
    "name": "Tavern Road",
@@ -3977,7 +4009,8 @@
     ]
    ],
    "dual": true,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "The Gallows",
@@ -4010,7 +4043,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "The Hawthorne",
@@ -4046,7 +4080,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Bar"
   },
   {
    "name": "The Publick House",
@@ -4062,7 +4097,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Bar"
   },
   {
    "name": "The Red Fox",
@@ -4096,7 +4132,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "The Warren Tavern",
@@ -4113,7 +4150,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Trina's Starlite Lounge",
@@ -4170,7 +4208,8 @@
     ]
    ],
    "dual": false,
-   "vb": "livemusic"
+   "vb": "livemusic",
+   "sub": "Tavern"
   },
   {
    "name": "West Bridge",
@@ -4203,7 +4242,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brewery"
+   "vb": "brewery",
+   "sub": "Brewery"
   },
   {
    "name": "Winter Hill Brewing",
@@ -4219,7 +4259,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brewery"
+   "vb": "brewery",
+   "sub": "Brewery"
   },
   {
    "name": "Coquette",
@@ -4359,7 +4400,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Gray's Hall",
@@ -4423,7 +4465,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Tip Tap Room",
@@ -4439,7 +4482,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brewery"
+   "vb": "brewery",
+   "sub": "Beer Bar"
   },
   {
    "name": "Taco Azul",
@@ -4567,7 +4611,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brewery"
+   "vb": "brewery",
+   "sub": "Beer Bar"
   },
   {
    "name": "Cactus Club Cafe Back Bay",
@@ -4583,7 +4628,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Boqueria Seaport",
@@ -4633,7 +4679,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "sub": "Tavern"
   }
  ],
  "rlists": {

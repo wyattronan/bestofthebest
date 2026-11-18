@@ -533,7 +533,7 @@
   {
    "name": "Lovebite Dumplings",
    "hood": "Downtown",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 33.44562,
    "lng": -112.05768,
@@ -545,7 +545,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Dumplings"
   },
   {
    "name": "Barley & Smoke",
@@ -610,7 +611,7 @@
   {
    "name": "LeDu Thai",
    "hood": "Downtown",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 33.45022,
    "lng": -112.07312,
@@ -623,7 +624,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Thai"
   },
   {
    "name": "Mensho",
@@ -722,7 +724,7 @@
   {
    "name": "Tambayan Filipino Food",
    "hood": "Uptown",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 33.51341,
    "lng": -112.08267,
@@ -734,7 +736,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Filipino"
   },
   {
    "name": "Tesota",
@@ -756,7 +759,7 @@
   {
    "name": "Thai Boat Noodle.PS",
    "hood": "Gilbert",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 33.34783,
    "lng": -111.78853,
@@ -768,7 +771,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Thai"
   },
   {
    "name": "Uchi",
@@ -790,7 +794,7 @@
   {
    "name": "Vayal's Indian Kitchen",
    "hood": "Central Phoenix",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "lat": 33.50096,
    "lng": -112.07873,
@@ -879,7 +883,7 @@
   {
    "name": "Cafe Lalibela",
    "hood": "Tempe",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 33.42411,
    "lng": -111.94881,
@@ -900,7 +904,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Ethiopian"
   },
   {
    "name": "The Chuckbox",
@@ -966,7 +971,7 @@
   {
    "name": "The Dhaba",
    "hood": "Tempe",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "lat": 33.42383,
    "lng": -111.94125,
@@ -1126,7 +1131,7 @@
   {
    "name": "Pho Thanh",
    "hood": "Uptown",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 33.52078,
    "lng": -112.07851,
@@ -1138,7 +1143,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Vietnamese"
   },
   {
    "name": "Pomo Pizzeria",
@@ -1338,7 +1344,7 @@
   {
    "name": "Feringhee",
    "hood": "Chandler",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "lat": 33.31476,
    "lng": -111.84396,
@@ -1642,7 +1648,7 @@
   {
    "name": "Happy Baos",
    "hood": "Mesa",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 33.41456,
    "lng": -111.83033,
@@ -1654,12 +1660,13 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Taiwanese"
   },
   {
    "name": "Kabob Grill N' Go",
    "hood": "Central Phoenix",
-   "type": "global",
+   "type": "med",
    "typekind": "cui",
    "lat": 33.48785,
    "lng": -112.08409,
@@ -1671,7 +1678,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Middle Eastern"
   },
   {
    "name": "Myke's Pizza",
@@ -1902,7 +1910,7 @@
   {
    "name": "El Chullo",
    "hood": "Central Phoenix",
-   "type": "global",
+   "type": "latin",
    "typekind": "cui",
    "lat": 33.48488,
    "lng": -112.07327,
@@ -1918,7 +1926,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Peruvian"
   },
   {
    "name": "Fabio on Fire",
@@ -1979,7 +1988,7 @@
   {
    "name": "Haru Sushi & Grill",
    "hood": "Glendale",
-   "type": "global",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 33.53841,
    "lng": -112.19895,
@@ -1991,7 +2000,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Sushi"
   },
   {
    "name": "Hola Cabrito",
@@ -2091,7 +2101,7 @@
   {
    "name": "Origami Ramen Bar",
    "hood": "Ahwatukee",
-   "type": "global",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 33.33576,
    "lng": -111.98765,
@@ -2103,7 +2113,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Ramen"
   },
   {
    "name": "Otro Cafe",
@@ -2164,7 +2175,7 @@
   {
    "name": "Que Chevere",
    "hood": "Mesa",
-   "type": "global",
+   "type": "latin",
    "typekind": "cui",
    "lat": 33.41555,
    "lng": -111.82921,
@@ -2176,7 +2187,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Venezuelan"
   },
   {
    "name": "Rayoog Cafe",
@@ -2198,7 +2210,7 @@
   {
    "name": "Shaanxi Chinese",
    "hood": "Mesa",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 33.42134,
    "lng": -111.82578,
@@ -2211,7 +2223,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Shaanxi"
   },
   {
    "name": "Source",
@@ -2237,7 +2250,7 @@
   {
    "name": "The Stone Tofu House",
    "hood": "Mesa",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 33.42079,
    "lng": -111.81957,
@@ -2254,7 +2267,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Korean"
   },
   {
    "name": "SugarJam The Southern Kitchen",
@@ -2276,7 +2290,7 @@
   {
    "name": "Sushi Nakano",
    "hood": "Ahwatukee",
-   "type": "global",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 33.3424,
    "lng": -111.99166,
@@ -2288,7 +2302,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Sushi"
   },
   {
    "name": "Vecina",
@@ -2985,7 +3000,7 @@
   {
    "name": "Edelweiss",
    "hood": "Central Phoenix",
-   "type": "global",
+   "type": "european",
    "typekind": "cui",
    "lat": 33.48605,
    "lng": -112.08009,
@@ -2997,7 +3012,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "German"
   },
   {
    "name": "Essence Bakery",
@@ -3144,7 +3160,7 @@
   {
    "name": "Khyber Halal",
    "hood": "Central Phoenix",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "lat": 33.4847,
    "lng": -112.05942,
@@ -3156,7 +3172,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Pakistani"
   },
   {
    "name": "La Marquesa",
@@ -3213,7 +3230,7 @@
   {
    "name": "Little Saigon",
    "hood": "Glendale",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 33.53104,
    "lng": -112.17755,
@@ -3225,7 +3242,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Vietnamese"
   },
   {
    "name": "Lo-Lo's Chicken & Waffles",
@@ -3248,7 +3266,7 @@
   {
    "name": "Los Andes Peruvian",
    "hood": "Central Phoenix",
-   "type": "global",
+   "type": "latin",
    "typekind": "cui",
    "lat": 33.49126,
    "lng": -112.08354,
@@ -3260,7 +3278,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Peruvian"
   },
   {
    "name": "Los Dos Molinos",
@@ -3287,7 +3306,7 @@
   {
    "name": "MODERN OysterBar Chophouse",
    "hood": "Scottsdale",
-   "type": "global",
+   "type": "seafood",
    "typekind": "cui",
    "lat": 33.49158,
    "lng": -111.91766,
@@ -3493,7 +3512,7 @@
   {
    "name": "Taj Mahal",
    "hood": "Scottsdale",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "lat": 33.4951,
    "lng": -111.93453,
@@ -3511,7 +3530,7 @@
   {
    "name": "Tampopo Ramen",
    "hood": "Tempe",
-   "type": "global",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 33.43448,
    "lng": -111.93545,
@@ -3523,12 +3542,13 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Ramen"
   },
   {
    "name": "Thai E-San",
    "hood": "Central Phoenix",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 33.49036,
    "lng": -112.07551,
@@ -3541,7 +3561,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Thai"
   },
   {
    "name": "Tuck Shop",
@@ -3598,7 +3619,7 @@
   {
    "name": "Yasu Sushi Bistro",
    "hood": "Central Phoenix",
-   "type": "global",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 33.49804,
    "lng": -112.07161,
@@ -3610,7 +3631,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Sushi"
   },
   {
    "name": "Zinc Bistro",
@@ -3632,7 +3654,7 @@
   {
    "name": "City of Spice",
    "hood": "Central Phoenix",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "lat": 33.49249,
    "lng": -112.06077,
@@ -3667,7 +3689,7 @@
   {
    "name": "Indibar",
    "hood": "Tempe",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "lat": 33.42425,
    "lng": -111.9361,
@@ -3738,7 +3760,7 @@
   {
    "name": "Pho 43",
    "hood": "North Phoenix",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 33.59354,
    "lng": -112.06633,
@@ -3750,7 +3772,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Vietnamese"
   },
   {
    "name": "El Caprichoso Hot Dogs",
@@ -3815,7 +3838,7 @@
   {
    "name": "Haji-Baba",
    "hood": "Tempe",
-   "type": "global",
+   "type": "med",
    "typekind": "cui",
    "lat": 33.42638,
    "lng": -111.93774,
@@ -3828,12 +3851,13 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Middle Eastern"
   },
   {
    "name": "Babo Jumak",
    "hood": "Mesa",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 33.42167,
    "lng": -111.83488,
@@ -3845,12 +3869,13 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Korean"
   },
   {
    "name": "Supreme Shawarma",
    "hood": "Central Phoenix",
-   "type": "global",
+   "type": "med",
    "typekind": "cui",
    "lat": 33.49047,
    "lng": -112.06217,
@@ -3865,12 +3890,13 @@
    "dual": false,
    "vg": 1,
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Middle Eastern"
   },
   {
    "name": "Szechwan Garden",
    "hood": "Central Phoenix",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 33.50085,
    "lng": -112.06662,
@@ -3883,12 +3909,13 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Szechuan"
   },
   {
    "name": "Sakana Sushi & Grill",
    "hood": "Ahwatukee",
-   "type": "global",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 33.35538,
    "lng": -111.9765,
@@ -3900,7 +3927,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Sushi"
   },
   {
    "name": "Vero Chicago Pizza",
@@ -4209,7 +4237,7 @@
   {
    "name": "Best Hong Kong Dining",
    "hood": "Mesa",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 33.41106,
    "lng": -111.84076,
@@ -4221,12 +4249,13 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Hong Kong"
   },
   {
    "name": "Espiritu",
    "hood": "Downtown",
-   "type": "global",
+   "type": "mexican",
    "typekind": "cui",
    "lat": 33.4394,
    "lng": -112.05838,
@@ -4273,7 +4302,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Asian Food Hall"
   },
   {
    "name": "Proof Bread",
@@ -4314,7 +4344,7 @@
   {
    "name": "Xing Fu Tang",
    "hood": "Mesa",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 33.406,
    "lng": -111.82804,
@@ -4326,12 +4356,13 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Taiwanese"
   },
   {
    "name": "Phoenix Coqui",
    "hood": "Central Phoenix",
-   "type": "global",
+   "type": "caribbean",
    "typekind": "cui",
    "lat": 33.49867,
    "lng": -112.08328,
@@ -4343,7 +4374,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Puerto Rican"
   },
   {
    "name": "Belly",
@@ -4365,7 +4397,7 @@
   {
    "name": "Guanaquito Restaurant",
    "hood": "Central Phoenix",
-   "type": "global",
+   "type": "latin",
    "typekind": "cui",
    "lat": 33.48952,
    "lng": -112.08336,
@@ -4377,7 +4409,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Salvadoran"
   },
   {
    "name": "Frank's New York Style Deli",
@@ -4454,7 +4487,7 @@
   {
    "name": "Mandi House",
    "hood": "Central Phoenix",
-   "type": "global",
+   "type": "med",
    "typekind": "cui",
    "lat": 33.48409,
    "lng": -112.08128,
@@ -4466,12 +4499,13 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Yemeni"
   },
   {
    "name": "Venezia's",
    "hood": "Central Phoenix",
-   "type": "global",
+   "type": "pizza",
    "typekind": "cui",
    "lat": 33.4858,
    "lng": -112.06846,
@@ -4669,7 +4703,7 @@
   {
    "name": "The Sicilian Butcher",
    "hood": "Central Phoenix",
-   "type": "global",
+   "type": "italian",
    "typekind": "cui",
    "lat": 33.49782,
    "lng": -112.06659,
@@ -4681,7 +4715,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Sicilian"
   },
   {
    "name": "Campbell's",
@@ -4810,7 +4845,7 @@
   {
    "name": "Persian Room",
    "hood": "North Scottsdale",
-   "type": "global",
+   "type": "med",
    "typekind": "cui",
    "lat": 33.63174,
    "lng": -111.91225,
@@ -4823,7 +4858,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Persian"
   },
   {
    "name": "Weft & Warp Art Bar + Kitchen",
@@ -6032,7 +6068,8 @@
     ]
    ],
    "vb": "wine",
-   "dual": false
+   "dual": false,
+   "sub": "Beer Bar"
   },
   {
    "name": "Far Away Wine and Provisions",
@@ -6072,7 +6109,8 @@
     ]
    ],
    "vb": "wine",
-   "dual": false
+   "dual": false,
+   "sub": "Brewery"
   },
   {
    "name": "Kitsune Brewing Co.",
@@ -6088,7 +6126,8 @@
     ]
    ],
    "vb": "wine",
-   "dual": false
+   "dual": false,
+   "sub": "Brewery"
   },
   {
    "name": "Los Milics Vineyards",
@@ -6120,7 +6159,8 @@
     ]
    ],
    "vb": "wine",
-   "dual": false
+   "dual": false,
+   "sub": "Brewery"
   },
   {
    "name": "Sana Sana Cerveceria",
@@ -6136,7 +6176,8 @@
     ]
    ],
    "vb": "wine",
-   "dual": false
+   "dual": false,
+   "sub": "Brewery"
   },
   {
    "name": "Sauvage Wine Bar and Shop",
@@ -6172,7 +6213,8 @@
     ]
    ],
    "vb": "wine",
-   "dual": false
+   "dual": false,
+   "sub": "Cidery"
   },
   {
    "name": "Wren House Brewing Co.",
@@ -6188,7 +6230,8 @@
     ]
    ],
    "vb": "wine",
-   "dual": false
+   "dual": false,
+   "sub": "Brewery"
   },
   {
    "name": "Pretty Penny",
@@ -6244,7 +6287,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "Wren House Paradise Valley",
@@ -6260,7 +6304,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "Legends Never Die",
@@ -6368,7 +6413,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Meadery"
   },
   {
    "name": "The Wandering Tortoise",
@@ -6432,7 +6478,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "The Goose",

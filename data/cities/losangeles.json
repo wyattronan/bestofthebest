@@ -1200,7 +1200,7 @@
   {
    "name": "Two Hommés",
    "hood": "Inglewood",
-   "type": "global",
+   "type": "caribbean",
    "typekind": "cui",
    "lat": 33.9748,
    "lng": -118.3573,
@@ -1226,7 +1226,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Afro-Caribbean"
   },
   {
    "name": "Baby Bistro",
@@ -3144,7 +3145,7 @@
   {
    "name": "Lalibela",
    "hood": "Little Ethiopia",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 34.053,
    "lng": -118.365,
@@ -3158,7 +3159,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Ethiopian"
   },
   {
    "name": "LaoXi Noodle House",
@@ -3182,7 +3184,7 @@
   {
    "name": "Lapaba",
    "hood": "Los Angeles",
-   "type": "global",
+   "type": "italian",
    "typekind": "cui",
    "note": "Location unverified — not pinned on the map",
    "pr": 2,
@@ -3193,7 +3195,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Korean-Italian"
   },
   {
    "name": "Les Sisters'",
@@ -3332,7 +3335,7 @@
   {
    "name": "Lynx",
    "hood": "Los Angeles",
-   "type": "global",
+   "type": "pizza",
    "typekind": "cui",
    "note": "Location unverified — not pinned on the map",
    "pr": 2,
@@ -3750,7 +3753,7 @@
   {
    "name": "Pika Palace",
    "hood": "Los Angeles",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "note": "Location unverified — not pinned on the map",
    "pr": 2,
@@ -3761,7 +3764,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Indian-American"
   },
   {
    "name": "Pikunico",
@@ -4190,7 +4194,7 @@
   {
    "name": "Tev's & Family Kitchen",
    "hood": "Los Angeles",
-   "type": "global",
+   "type": "caribbean",
    "typekind": "cui",
    "note": "Location unverified — not pinned on the map",
    "pr": 2,
@@ -4201,7 +4205,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Jamaican Soul Food"
   },
   {
    "name": "The Factory Kitchen",
@@ -5397,7 +5402,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "sub": "Polynesian"
   },
   {
    "name": "Musso and Frank Grill",
@@ -6208,7 +6214,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "Andys",
@@ -6385,7 +6392,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Cozy Inn",
@@ -6400,7 +6408,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Daisy Margarita Bar",
@@ -6461,7 +6470,8 @@
     ]
    ],
    "dual": false,
-   "vb": "party"
+   "vb": "party",
+   "sub": "Tavern"
   },
   {
    "name": "Del Monte Speakeasy",
@@ -6494,7 +6504,8 @@
     ]
    ],
    "dual": false,
-   "vb": "vibey"
+   "vb": "vibey",
+   "sub": "Dive Bar"
   },
   {
    "name": "Employees Only",
@@ -6527,7 +6538,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Esters Wine Shop & Bar",
@@ -6559,7 +6571,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Frank'n Hank",
@@ -6575,7 +6588,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Good Housekeeping",
@@ -6639,7 +6653,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "HMS Bounty",
@@ -6656,7 +6671,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Honeycutt",
@@ -6688,7 +6704,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Kuduowl",
@@ -6821,7 +6838,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Permanent Records Roadhouse",
@@ -6837,7 +6855,8 @@
     ]
    ],
    "dual": false,
-   "vb": "livemusic"
+   "vb": "livemusic",
+   "sub": "Dive Bar"
   },
   {
    "name": "Power House Bar",
@@ -6853,7 +6872,8 @@
     ]
    ],
    "dual": false,
-   "vb": "party"
+   "vb": "party",
+   "sub": "Dive Bar"
   },
   {
    "name": "Prince O' Whales",
@@ -6869,7 +6889,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Real Charmer",
@@ -6908,7 +6929,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "République",
@@ -7067,7 +7089,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "The Black Cat",
@@ -7099,7 +7122,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "The Chestnut Club",
@@ -7134,7 +7158,8 @@
     ]
    ],
    "dual": false,
-   "vb": "vibey"
+   "vb": "vibey",
+   "sub": "Tavern"
   },
   {
    "name": "The Lucky Tiki",
@@ -7165,7 +7190,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "The Spare Room",
@@ -7292,7 +7318,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Tonga Hut",
@@ -7342,7 +7369,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Wolf & Crane Bar",
@@ -7374,7 +7402,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Bar Betsy",
@@ -7882,7 +7911,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Nossa Caipirinha Bar",
@@ -7969,7 +7999,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "sub": "Dive Bar"
   },
   {
    "name": "La Dolce Vita",

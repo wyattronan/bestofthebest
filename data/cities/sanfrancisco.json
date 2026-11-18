@@ -1474,7 +1474,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Chamorro"
   },
   {
    "name": "Snail Bar",
@@ -2438,7 +2439,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Hawaiian"
   },
   {
    "name": "Lolinda",
@@ -3125,7 +3127,7 @@
   {
    "name": "Spinning Bones",
    "hood": "Alameda",
-   "type": "global",
+   "type": "newam",
    "typekind": "cui",
    "lat": 37.766,
    "lng": -122.243,
@@ -3138,7 +3140,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Rotisserie"
   },
   {
    "name": "Ssal",
@@ -3330,7 +3333,7 @@
   {
    "name": "Top Hatter's Kitchen",
    "hood": "San Leandro",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 37.725,
    "lng": -122.156,
@@ -3343,7 +3346,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Vietnamese-Californian"
   },
   {
    "name": "Trestle",
@@ -3708,7 +3712,7 @@
   {
    "name": "LeYou Ethiopian",
    "hood": "",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 37.8052,
    "lng": -122.3817,
@@ -3720,7 +3724,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Ethiopian"
   },
   {
    "name": "Tanzie's",
@@ -4284,7 +4289,7 @@
   {
    "name": "Mrs Khan Uyghur Cuisine",
    "hood": "",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 37.8094,
    "lng": -122.4249,
@@ -4296,12 +4301,13 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Uyghur"
   },
   {
    "name": "Mashaallah Halal Pakistani Food",
    "hood": "",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "lat": 37.8115,
    "lng": -122.4137,
@@ -4313,12 +4319,13 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Pakistani"
   },
   {
    "name": "Patio Filipino",
    "hood": "",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 37.8136,
    "lng": -122.4465,
@@ -4330,7 +4337,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Filipino"
   },
   {
    "name": "Capital",
@@ -5476,7 +5484,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Zam Zam",
@@ -5749,7 +5758,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Causwells",
@@ -5821,7 +5831,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "El Barrio",
@@ -5934,7 +5945,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Key Club",
@@ -6004,7 +6016,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Magnolia Gastropub & Brewery",
@@ -6020,7 +6033,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "Martuni's",
@@ -6159,7 +6173,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Hall"
   },
   {
    "name": "Rampant Bottle & Bar",
@@ -6254,7 +6269,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Still O.G. and Alter Ego",
@@ -6318,7 +6334,8 @@
     ]
    ],
    "dual": false,
-   "vb": "wine"
+   "vb": "wine",
+   "sub": "Tavern"
   },
   {
    "name": "The Alembic",
@@ -6620,7 +6637,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "The Rabbit Hole",
@@ -6796,7 +6814,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "Cantina Los Mayas",
@@ -6844,7 +6863,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Hall"
   },
   {
    "name": "Bar Maritime",
@@ -6908,7 +6928,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Elixir",
@@ -6944,7 +6965,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Bar"
   },
   {
    "name": "Little Shamrock",
@@ -6960,7 +6982,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Homestead",
@@ -7008,7 +7031,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "House of Shields",
@@ -7104,7 +7128,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Trad'r Sam",
@@ -7136,7 +7161,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "The Riptide",
@@ -7168,7 +7194,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Tommy's Joynt",
@@ -7184,7 +7211,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Pop's",
@@ -7232,7 +7260,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Phone Booth",
@@ -7472,7 +7501,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Aunt Charlie's",

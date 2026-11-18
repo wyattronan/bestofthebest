@@ -447,7 +447,7 @@
   {
    "name": "Delbar",
    "hood": "Inman Park",
-   "type": "global",
+   "type": "med",
    "typekind": "cui",
    "lat": 33.7655,
    "lng": -84.3688,
@@ -473,7 +473,8 @@
    "vb": "global",
    "dual": false,
    "vg": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Persian"
   },
   {
    "name": "Fawn Wine & Amaro",
@@ -1764,7 +1765,7 @@
   {
    "name": "Arepa Mia",
    "hood": "",
-   "type": "global",
+   "type": "latin",
    "typekind": "cui",
    "lat": 33.7485,
    "lng": -84.406,
@@ -1783,7 +1784,8 @@
    "dual": false,
    "vg": 1,
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Venezuelan"
   },
   {
    "name": "Auburn Angel",
@@ -1892,7 +1894,7 @@
   {
    "name": "Chai Pani",
    "hood": "Decatur",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "lat": 33.759,
    "lng": -84.418,
@@ -1919,7 +1921,8 @@
    "dual": false,
    "vg": 1,
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Indian Street Food"
   },
   {
    "name": "Daily Chew",
@@ -1945,7 +1948,7 @@
   {
    "name": "Delbar Buckhead",
    "hood": "",
-   "type": "global",
+   "type": "med",
    "typekind": "cui",
    "lat": 33.741,
    "lng": -84.3748,
@@ -1962,7 +1965,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Persian"
   },
   {
    "name": "Du Bu Gong Bang",
@@ -2491,7 +2495,7 @@
   {
    "name": "Zyka: The Taste",
    "hood": "",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "lat": 33.7695,
    "lng": -84.4066,
@@ -2573,7 +2577,7 @@
   {
    "name": "Desta Ethiopian Kitchen",
    "hood": "",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 33.7305,
    "lng": -84.379,
@@ -2586,7 +2590,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Ethiopian"
   },
   {
    "name": "Alon's Bakery & Market",
@@ -2700,7 +2705,7 @@
   {
    "name": "Tassili's Raw Reality Café",
    "hood": "",
-   "type": "global",
+   "type": "newam",
    "typekind": "cui",
    "lat": 33.754,
    "lng": -84.373,
@@ -2713,7 +2718,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Raw Vegan"
   },
   {
    "name": "Tipsy Thaiger",
@@ -2867,7 +2873,7 @@
   {
    "name": "BEY Mediterranean Kitchen & Bar",
    "hood": "",
-   "type": "global",
+   "type": "med",
    "typekind": "cui",
    "lat": 33.734,
    "lng": -84.361,
@@ -2880,7 +2886,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Lebanese"
   },
   {
    "name": "Battle & Brew",
@@ -3512,7 +3519,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Northside Tavern",
@@ -3540,7 +3548,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Dad's",
@@ -3780,7 +3789,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Manuel's Tavern",
@@ -3800,7 +3810,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Brick Store Pub",
@@ -3824,7 +3835,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Beer Bar"
   },
   {
    "name": "Trader Vic's",
@@ -4108,7 +4120,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "97 Estoria",
@@ -4280,7 +4293,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Brewery"
   },
   {
    "name": "Atlantucky Brewing",
@@ -4296,7 +4310,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Brewery"
   },
   {
    "name": "Halfway Crooks Beer",
@@ -4312,7 +4327,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Brewery"
   },
   {
    "name": "Bold Monk Brewing Co.",
@@ -4328,7 +4344,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Brewery"
   },
   {
    "name": "Three Taverns Brewery",
@@ -4344,7 +4361,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Brewery"
   },
   {
    "name": "Blind Willie's",
@@ -4380,7 +4398,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Star Community Bar",
@@ -4420,7 +4439,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Park Bar",
@@ -4452,7 +4472,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Woofs",
@@ -4536,7 +4557,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Brewery"
   },
   {
    "name": "Bar Vegan",
@@ -4696,7 +4718,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Cypress Street Pint & Plate",
@@ -4744,7 +4767,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "The Vortex Bar & Grill",
@@ -4760,7 +4784,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "The Porter Beer Bar",
@@ -4776,7 +4801,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Beer Bar"
   },
   {
    "name": "The Pinewood",
@@ -5016,7 +5042,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Rose & Rye",
@@ -5064,7 +5091,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "AltaToro",
@@ -5400,7 +5428,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Ladybird Grove & Mess Hall",
@@ -5416,7 +5445,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Garden"
   },
   {
    "name": "Joystick Gamebar",

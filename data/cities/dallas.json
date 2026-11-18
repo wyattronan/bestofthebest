@@ -801,7 +801,7 @@
   {
    "name": "Momo Spot",
    "hood": "Irving",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "lat": 32.83682,
    "lng": -96.99188,
@@ -814,7 +814,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Nepali"
   },
   {
    "name": "Simply South",
@@ -859,7 +860,7 @@
   {
    "name": "Spicy Zest",
    "hood": "Farmers Branch",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "lat": 32.92007,
    "lng": -96.89725,
@@ -876,7 +877,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Sri Lankan"
   },
   {
    "name": "Georgie",
@@ -1295,7 +1297,7 @@
   {
    "name": "Bilad Bakery",
    "hood": "Richardson",
-   "type": "global",
+   "type": "med",
    "typekind": "cui",
    "lat": 32.7802,
    "lng": -96.79514,
@@ -1308,7 +1310,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Middle Eastern Bakery"
   },
   {
    "name": "Ngon Vietnamese Kitchen",
@@ -1545,7 +1548,7 @@
   {
    "name": "Starship Bagel",
    "hood": "Downtown",
-   "type": "global",
+   "type": "bakery",
    "typekind": "cui",
    "lat": 32.77301,
    "lng": -96.80254,
@@ -1559,7 +1562,8 @@
    "vb": "global",
    "dual": false,
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Bagels"
   },
   {
    "name": "Green Point Seafood",
@@ -2328,7 +2332,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Ampelos Wines",
@@ -2392,7 +2397,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Bodega Wine Bar",
@@ -2428,7 +2434,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "City Tavern",
@@ -2444,7 +2451,8 @@
     ]
    ],
    "vb": "vibey",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Cold Beer Company",
@@ -2460,7 +2468,8 @@
     ]
    ],
    "vb": "vibey",
-   "dual": false
+   "dual": false,
+   "sub": "Beer Garden"
   },
   {
    "name": "Cosmo's",
@@ -2484,7 +2493,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Coupes",
@@ -2536,7 +2546,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Double Wide",
@@ -2552,7 +2563,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Dubliner",
@@ -2568,7 +2580,8 @@
     ]
    ],
    "vb": "vibey",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "French Room Bar",
@@ -2584,7 +2597,8 @@
     ]
    ],
    "vb": "vibey",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Goodfriend Beer Garden",
@@ -2600,7 +2614,8 @@
     ]
    ],
    "vb": "vibey",
-   "dual": false
+   "dual": false,
+   "sub": "Beer Garden"
   },
   {
    "name": "Inwood Tavern",
@@ -2616,7 +2631,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Jettison",
@@ -2660,7 +2676,8 @@
     ]
    ],
    "vb": "vibey",
-   "dual": false
+   "dual": false,
+   "sub": "Icehouse"
   },
   {
    "name": "Ladylove Lounge",
@@ -2684,7 +2701,8 @@
     ]
    ],
    "vb": "livemusic",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Lakewood Landing",
@@ -2708,7 +2726,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Las Almas Rotas",
@@ -2764,7 +2783,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Libertine",
@@ -2784,7 +2804,8 @@
     ]
    ],
    "vb": "vibey",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Lochland's",
@@ -2800,7 +2821,8 @@
     ]
    ],
    "vb": "vibey",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Louie's",
@@ -2816,7 +2838,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Mike's Gemini Twin Lounge",
@@ -2844,7 +2867,8 @@
     ]
    ],
    "vb": "vibey",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Neighborhood Cellar",
@@ -2876,7 +2900,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Queens Head Pub",
@@ -2892,7 +2917,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "R.L.'s Blues Palace No. 2",
@@ -2908,7 +2934,8 @@
     ]
    ],
    "vb": "livemusic",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Revelers Hall",
@@ -2928,7 +2955,8 @@
     ]
    ],
    "vb": "livemusic",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Rodeo Bar",
@@ -2948,7 +2976,8 @@
     ]
    ],
    "vb": "vibey",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Round-Up Saloon",
@@ -2996,7 +3025,8 @@
     ]
    ],
    "vb": "vibey",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Single Wide",
@@ -3012,7 +3042,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Stan's Blue Note",
@@ -3028,7 +3059,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Stoneleigh P",
@@ -3044,7 +3076,8 @@
     ]
    ],
    "vb": "vibey",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Strangeways",
@@ -3064,7 +3097,8 @@
     ]
    ],
    "vb": "vibey",
-   "dual": false
+   "dual": false,
+   "sub": "Beer Bar"
   },
   {
    "name": "Taco y Vino",
@@ -3096,7 +3130,8 @@
     ]
    ],
    "vb": "vibey",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "The Goat",
@@ -3116,7 +3151,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "The Library Bar",
@@ -3132,7 +3168,8 @@
     ]
    ],
    "vb": "vibey",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "The Mansion Bar",
@@ -3184,7 +3221,8 @@
     ]
    ],
    "vb": "vibey",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Three Links",
@@ -3200,7 +3238,8 @@
     ]
    ],
    "vb": "livemusic",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Tiny Victories",
@@ -3240,7 +3279,8 @@
     ]
    ],
    "vb": "vibey",
-   "dual": false
+   "dual": false,
+   "sub": "Beer Garden"
   },
   {
    "name": "Twilite Lounge",
@@ -3256,7 +3296,8 @@
     ]
    ],
    "vb": "vibey",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Whiskeys",
@@ -3380,7 +3421,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Shyboy HiFi",
@@ -3628,7 +3670,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Garden"
   },
   {
    "name": "Casablanca",

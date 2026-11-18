@@ -716,7 +716,7 @@
   {
    "name": "Mirra",
    "hood": "Bucktown",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "lat": 41.91796,
    "lng": -87.677378,
@@ -742,7 +742,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Indian-Mexican"
   },
   {
    "name": "Frontera Grill",
@@ -1318,7 +1319,7 @@
   {
    "name": "Anelya",
    "hood": "Avondale",
-   "type": "global",
+   "type": "european",
    "typekind": "cui",
    "lat": 41.9346,
    "lng": -87.71,
@@ -1335,7 +1336,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Ukrainian"
   },
   {
    "name": "Mariscos San Pedro",
@@ -2226,7 +2228,7 @@
   {
    "name": "Demera",
    "hood": "Uptown",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 41.9691,
    "lng": -87.6597,
@@ -2240,7 +2242,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Ethiopian"
   },
   {
    "name": "Eden",
@@ -2595,7 +2598,8 @@
    ],
    "dual": false,
    "vb": "brunch",
-   "lu": 1
+   "lu": 1,
+   "sub": "Hawaiian"
   },
   {
    "name": "Kim's Uncle Pizza",
@@ -3409,7 +3413,8 @@
    ],
    "dual": false,
    "vb": "brunch",
-   "lu": 1
+   "lu": 1,
+   "sub": "Mediterranean-Southeast Asian"
   },
   {
    "name": "Hopleaf",
@@ -3432,7 +3437,7 @@
   {
    "name": "Ethiopian Diamond",
    "hood": "Edgewater",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 41.9929754,
    "lng": -87.6607359,
@@ -3445,7 +3450,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "lu": 1
+   "lu": 1,
+   "sub": "Ethiopian"
   },
   {
    "name": "Rendang Republic",
@@ -4230,7 +4236,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "The Matchbox",
@@ -4270,7 +4277,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Skylark",
@@ -4290,7 +4298,8 @@
     ]
    ],
    "dual": false,
-   "vb": "vibey"
+   "vb": "vibey",
+   "sub": "Dive Bar"
   },
   {
    "name": "Old Town Ale House",
@@ -4310,7 +4319,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Sparrow",
@@ -4614,7 +4624,8 @@
     ]
    ],
    "dual": false,
-   "vb": "livemusic"
+   "vb": "livemusic",
+   "sub": "Tavern"
   },
   {
    "name": "Maria's Packaged Goods & Community Bar",
@@ -4638,7 +4649,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Bar"
   },
   {
    "name": "The Alderman",
@@ -4690,7 +4702,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Bar"
   },
   {
    "name": "Rossi's",
@@ -4706,7 +4719,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Simon's",
@@ -4722,7 +4736,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "The Long Room",
@@ -4738,7 +4753,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Rosa's Lounge",
@@ -4754,7 +4770,8 @@
     ]
    ],
    "dual": false,
-   "vb": "livemusic"
+   "vb": "livemusic",
+   "sub": "Tavern"
   },
   {
    "name": "Miller's Pub",
@@ -4770,7 +4787,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Bokeh",
@@ -4870,7 +4888,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Pilot Project's Devious Lounge",
@@ -4886,7 +4905,8 @@
     ]
    ],
    "dual": false,
-   "vb": "vibey"
+   "vb": "vibey",
+   "sub": "Brewery"
   },
   {
    "name": "Consignment Lounge",
@@ -5173,7 +5193,8 @@
     ]
    ],
    "dual": false,
-   "vb": "party"
+   "vb": "party",
+   "sub": "Tavern"
   },
   {
    "name": "Z Bar",
@@ -5261,7 +5282,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "The Up Room",
@@ -5309,7 +5331,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Travelle at The Langham",
@@ -5357,7 +5380,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Bar"
   },
   {
    "name": "The Hideout",
@@ -5373,7 +5397,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "The Drifter",
@@ -5409,7 +5434,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "The Press Room",
@@ -5441,7 +5467,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Guthrie's Tavern",
@@ -5457,7 +5484,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Cole's Bar",
@@ -5473,7 +5501,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Osito's Tap",
@@ -5513,7 +5542,8 @@
     ]
    ],
    "dual": false,
-   "vb": "party"
+   "vb": "party",
+   "sub": "Tavern"
   },
   {
    "name": "The Cove Lounge",
@@ -5529,7 +5559,8 @@
     ]
    ],
    "dual": false,
-   "vb": "vibey"
+   "vb": "vibey",
+   "sub": "Dive Bar"
   },
   {
    "name": "Sidetrack",
@@ -5561,7 +5592,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Nobody's Darling",
@@ -5657,7 +5689,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "Bar Parisette",
@@ -5801,7 +5834,8 @@
     ]
    ],
    "dual": false,
-   "vb": "livemusic"
+   "vb": "livemusic",
+   "sub": "Dive Bar"
   },
   {
    "name": "Ramova Theatre",
@@ -5817,7 +5851,8 @@
     ]
    ],
    "dual": false,
-   "vb": "livemusic"
+   "vb": "livemusic",
+   "sub": "Brewery"
   },
   {
    "name": "Chef's Special Cocktail Bar",
@@ -6005,7 +6040,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Ørkenoy",
@@ -6021,7 +6057,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "Chicago Winery",
@@ -6167,7 +6204,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "sub": "Tavern"
   },
   {
    "name": "Schubas",
@@ -6184,7 +6222,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "sub": "Tavern"
   }
  ],
  "rlists": {

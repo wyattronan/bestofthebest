@@ -390,7 +390,7 @@
   {
    "name": "Jūn",
    "hood": "Rice Village",
-   "type": "asian",
+   "type": "global",
    "typekind": "cui",
    "lat": 29.7077,
    "lng": -95.4062,
@@ -415,7 +415,7 @@
    ],
    "vb": "asian",
    "dual": false,
-   "sub": "Asian-American"
+   "sub": "Chinese-Mexican-Salvadoran"
   },
   {
    "name": "Nancy's Hustle",
@@ -453,7 +453,7 @@
   {
    "name": "ChòpnBlọk",
    "hood": "Downtown",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 29.7658,
    "lng": -95.383,
@@ -482,7 +482,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "lu": 1
+   "lu": 1,
+   "sub": "West African"
   },
   {
    "name": "Mimo",
@@ -651,7 +652,7 @@
   {
    "name": "Bahel Ethiopian Mart & Kitchen",
    "hood": "",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 29.7523,
    "lng": -95.3554,
@@ -664,7 +665,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Ethiopian"
   },
   {
    "name": "Banh Somtum",
@@ -740,7 +742,7 @@
   {
    "name": "The Blind Goat",
    "hood": "",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 29.7643,
    "lng": -95.3742,
@@ -752,7 +754,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Vietnamese"
   },
   {
    "name": "Bludorn",
@@ -778,7 +781,7 @@
   {
    "name": "Bori",
    "hood": "",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 29.7502,
    "lng": -95.3498,
@@ -790,7 +793,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Korean"
   },
   {
    "name": "Brennan's of Houston",
@@ -816,7 +820,7 @@
   {
    "name": "Burger Bodega",
    "hood": "",
-   "type": "global",
+   "type": "quick",
    "typekind": "cui",
    "lat": 29.7631,
    "lng": -95.3662,
@@ -828,7 +832,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Burgers"
   },
   {
    "name": "Clark's Oyster Bar",
@@ -935,7 +940,7 @@
   {
    "name": "Costa Brava Bistro",
    "hood": "",
-   "type": "global",
+   "type": "spanish",
    "typekind": "cui",
    "lat": 29.7559,
    "lng": -95.3506,
@@ -947,7 +952,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Catalan"
   },
   {
    "name": "Craft Pita",
@@ -1069,7 +1075,7 @@
   {
    "name": "Hamsa",
    "hood": "",
-   "type": "global",
+   "type": "med",
    "typekind": "cui",
    "lat": 29.7703,
    "lng": -95.3514,
@@ -1082,7 +1088,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Israeli"
   },
   {
    "name": "Hong Kong Food Street",
@@ -1123,7 +1130,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Native American"
   },
   {
    "name": "J-Bar-M Barbecue",
@@ -1164,7 +1172,7 @@
   {
    "name": "Jamaica Pon Di Road",
    "hood": "",
-   "type": "global",
+   "type": "caribbean",
    "typekind": "cui",
    "lat": 29.7472,
    "lng": -95.3494,
@@ -1176,7 +1184,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Jamaican"
   },
   {
    "name": "Josephine's Gulf Coast Tradition",
@@ -1198,7 +1207,7 @@
   {
    "name": "Kandahari",
    "hood": "",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "lat": 29.7595,
    "lng": -95.357,
@@ -1211,7 +1220,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Afghan"
   },
   {
    "name": "Kenny & Ziggy's",
@@ -1275,7 +1285,7 @@
   {
    "name": "Kitchen Rumors",
    "hood": "",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "lat": 29.7667,
    "lng": -95.3858,
@@ -1292,7 +1302,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Modern Indian"
   },
   {
    "name": "Koffeteria",
@@ -1320,7 +1331,7 @@
   {
    "name": "Kriti Kitchen",
    "hood": "",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "lat": 29.7721,
    "lng": -95.3674,
@@ -1338,7 +1349,7 @@
   {
    "name": "La Lucha",
    "hood": "",
-   "type": "global",
+   "type": "seafood",
    "typekind": "cui",
    "lat": 29.7541,
    "lng": -95.3494,
@@ -1350,12 +1361,13 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Gulf Coast"
   },
   {
    "name": "Laurenzo's",
    "hood": "",
-   "type": "global",
+   "type": "mexican",
    "typekind": "cui",
    "lat": 29.7637,
    "lng": -95.3506,
@@ -1367,7 +1379,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Tex-Mex"
   },
   {
    "name": "Le Jardinier",
@@ -1440,7 +1453,7 @@
   {
    "name": "Milton's",
    "hood": "",
-   "type": "global",
+   "type": "italian",
    "typekind": "cui",
    "lat": 29.7619,
    "lng": -95.3726,
@@ -1452,12 +1465,13 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Italian-American"
   },
   {
    "name": "Moon Tower Inn",
    "hood": "",
-   "type": "global",
+   "type": "quick",
    "typekind": "cui",
    "lat": 29.7619,
    "lng": -95.3682,
@@ -1469,7 +1483,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Hot Dogs"
   },
   {
    "name": "Musaafer",
@@ -1625,7 +1640,7 @@
   {
    "name": "Raja Sweets",
    "hood": "",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "lat": 29.7457,
    "lng": -95.3674,
@@ -1638,7 +1653,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Indian Sweets"
   },
   {
    "name": "Rosemeyer Bar-B-Q",
@@ -1661,7 +1677,7 @@
   {
    "name": "Rumi's Kitchen",
    "hood": "",
-   "type": "global",
+   "type": "med",
    "typekind": "cui",
    "lat": 29.7433,
    "lng": -95.3802,
@@ -1674,12 +1690,13 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Persian"
   },
   {
    "name": "Sayad Mediterranean Kitchen",
    "hood": "",
-   "type": "global",
+   "type": "med",
    "typekind": "cui",
    "lat": 29.7631,
    "lng": -95.3742,
@@ -1692,7 +1709,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Middle Eastern"
   },
   {
    "name": "Shri Balaji Bhavan",
@@ -1812,7 +1830,7 @@
   {
    "name": "Talespin",
    "hood": "",
-   "type": "global",
+   "type": "pizza",
    "typekind": "cui",
    "lat": 29.7502,
    "lng": -95.3706,
@@ -1907,7 +1925,7 @@
   {
    "name": "Toga",
    "hood": "",
-   "type": "global",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 29.7613,
    "lng": -95.3518,
@@ -1919,7 +1937,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Izakaya"
   },
   {
    "name": "Truth BBQ",
@@ -1968,7 +1987,7 @@
   {
    "name": "Villa Arcos",
    "hood": "",
-   "type": "global",
+   "type": "mexican",
    "typekind": "cui",
    "lat": 29.7616,
    "lng": -95.3846,
@@ -1980,7 +1999,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Tacos"
   },
   {
    "name": "Vinoteca Poscol",
@@ -2150,7 +2170,7 @@
   {
    "name": "Blue Nile Ethiopian Restaurant",
    "hood": "Upper Kirby",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 29.7634,
    "lng": -95.3862,
@@ -2167,12 +2187,13 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Ethiopian"
   },
   {
    "name": "The Rado Market",
    "hood": "",
-   "type": "global",
+   "type": "newam",
    "typekind": "cui",
    "lat": 29.7538,
    "lng": -95.3702,
@@ -2184,7 +2205,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Café"
   },
   {
    "name": "Candente",
@@ -2296,7 +2318,7 @@
   {
    "name": "Sheba Restaurant",
    "hood": "",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 29.7595,
    "lng": -95.3534,
@@ -2309,12 +2331,13 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Ethiopian"
   },
   {
    "name": "Afrikiko Restaurant",
    "hood": "",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 29.7634,
    "lng": -95.3766,
@@ -2326,7 +2349,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "West African"
   },
   {
    "name": "Kata Robata",
@@ -2520,7 +2544,7 @@
   {
    "name": "Annam",
    "hood": "",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 29.7715,
    "lng": -95.3758,
@@ -2533,12 +2557,13 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Vietnamese"
   },
   {
    "name": "Bar Buena",
    "hood": "",
-   "type": "global",
+   "type": "mexican",
    "typekind": "cui",
    "lat": 29.767,
    "lng": -95.365,
@@ -2550,12 +2575,13 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Mezcalería"
   },
   {
    "name": "Xolo",
    "hood": "",
-   "type": "global",
+   "type": "mexican",
    "typekind": "cui",
    "lat": 29.7502,
    "lng": -95.3694,
@@ -2567,7 +2593,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Mexico City"
   },
   {
    "name": "Khói Barbecue",
@@ -2682,7 +2709,7 @@
   {
    "name": "Latuli",
    "hood": "",
-   "type": "global",
+   "type": "seafood",
    "typekind": "cui",
    "lat": 29.7568,
    "lng": -95.379,
@@ -2694,7 +2721,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Gulf Coast"
   },
   {
    "name": "Xochi",
@@ -3681,7 +3709,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Beer Garden"
   },
   {
    "name": "Best Regards",
@@ -4025,7 +4054,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Icehouse"
   },
   {
    "name": "Flying Saucer Downtown",
@@ -4041,7 +4071,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Beer Bar"
   },
   {
    "name": "Mongoose vs. Cobra",
@@ -4057,7 +4088,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Beer Bar"
   },
   {
    "name": "Moon Tower Inn",
@@ -4093,7 +4125,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Beer Bar"
   },
   {
    "name": "Petrol Station",
@@ -4109,7 +4142,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Beer Bar"
   },
   {
    "name": "The Hay Merchant",
@@ -4129,7 +4163,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Beer Bar"
   },
   {
    "name": "Double Trouble",
@@ -4197,7 +4232,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Lola's Depot",
@@ -4213,7 +4249,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Poison Girl",
@@ -4241,7 +4278,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Shiloh Club",
@@ -4257,7 +4295,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Sunny's",
@@ -4273,7 +4312,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Dan Electro's Guitar Bar",
@@ -4289,7 +4329,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "McGonigel's Mucky Duck",
@@ -4305,7 +4346,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "notsuoH",
@@ -4325,7 +4367,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Rudyard's British Pub",
@@ -4345,7 +4388,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Under the Volcano",
@@ -4865,7 +4909,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Icehouse"
   },
   {
    "name": "Monkey's Tail",
@@ -4949,7 +4994,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "Trash Panda Drinking Club",
@@ -5037,7 +5083,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Icehouse"
   },
   {
    "name": "Montrose Grocer",
@@ -5213,7 +5260,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Case Chocolates",

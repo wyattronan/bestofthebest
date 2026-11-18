@@ -410,7 +410,7 @@
    ],
    "dual": false,
    "vb": "asian",
-   "sub": "Pan-Asian"
+   "sub": "Asian-Californian"
   },
   {
    "name": "Juniper and Ivy",
@@ -712,7 +712,7 @@
   {
    "name": "Pomegranate",
    "hood": "North Park",
-   "type": "global",
+   "type": "european",
    "typekind": "cui",
    "lat": 32.7555759,
    "lng": -117.1396878,
@@ -724,7 +724,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Russian-Georgian"
   },
   {
    "name": "Oscar's Mexican Seafood",
@@ -1113,7 +1114,7 @@
   {
    "name": "Bosforo",
    "hood": "Normal Heights",
-   "type": "global",
+   "type": "med",
    "typekind": "cui",
    "lat": 32.7631797,
    "lng": -117.1247748,
@@ -1125,7 +1126,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Turkish"
   },
   {
    "name": "Wormwood",
@@ -1203,7 +1205,7 @@
   {
    "name": "Artifact at Mingei",
    "hood": "Balboa Park",
-   "type": "global",
+   "type": "newam",
    "typekind": "cui",
    "lat": 32.7311237,
    "lng": -117.1510264,
@@ -1893,7 +1895,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Bar"
   },
   {
    "name": "Happy Medium",
@@ -2013,7 +2016,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "The Silver Fox Lounge",
@@ -2029,7 +2033,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Aero Club Bar",
@@ -2393,7 +2398,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brewery"
+   "vb": "brewery",
+   "sub": "Beer Bar"
   },
   {
    "name": "Paradisaea",
@@ -2457,7 +2463,8 @@
     ]
    ],
    "dual": false,
-   "vb": "brewery"
+   "vb": "brewery",
+   "sub": "Beer Garden"
   },
   {
    "name": "Cantina Mayahuel",
@@ -2537,7 +2544,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Garden"
   },
   {
    "name": "Kindred",
@@ -2586,7 +2594,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "sub": "Tavern"
   }
  ],
  "rlists": {

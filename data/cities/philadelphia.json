@@ -848,7 +848,7 @@
   {
    "name": "Chibanos",
    "hood": "Washington Square West",
-   "type": "global",
+   "type": "sandwich",
    "typekind": "cui",
    "lat": 39.94474,
    "lng": -75.15714,
@@ -866,12 +866,13 @@
    "vb": "global",
    "dual": false,
    "vg": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Chinese-Cuban"
   },
   {
    "name": "Honeysuckle",
    "hood": "North Philadelphia",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 39.97473,
    "lng": -75.15378,
@@ -903,7 +904,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Afro-Diasporic"
   },
   {
    "name": "Meetinghouse",
@@ -1262,7 +1264,7 @@
   {
    "name": "Bolo",
    "hood": "Rittenhouse",
-   "type": "global",
+   "type": "caribbean",
    "typekind": "cui",
    "lat": 39.95019,
    "lng": -75.1749,
@@ -1274,7 +1276,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Puerto Rican"
   },
   {
    "name": "Char",
@@ -1366,7 +1369,7 @@
   {
    "name": "Tabachoy",
    "hood": "Bella Vista",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 39.93651,
    "lng": -75.15499,
@@ -1382,12 +1385,13 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Filipino"
   },
   {
    "name": "Rice & Sambal",
    "hood": "East Passyunk",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 39.92281,
    "lng": -75.16704,
@@ -1400,7 +1404,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Indonesian"
   },
   {
    "name": "Forsythia",
@@ -1439,7 +1444,7 @@
   {
    "name": "White Yak",
    "hood": "Roxborough",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 40.0258,
    "lng": -75.22697,
@@ -1452,7 +1457,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Tibetan"
   },
   {
    "name": "June BYOB",
@@ -1474,7 +1480,7 @@
   {
    "name": "Baby's Kusina",
    "hood": "Brewerytown",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 39.97617,
    "lng": -75.18687,
@@ -1486,7 +1492,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Filipino"
   },
   {
    "name": "Barclay Prime",
@@ -1512,7 +1519,7 @@
   {
    "name": "Alif Brew",
    "hood": "University City",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 39.95273,
    "lng": -75.19869,
@@ -1525,7 +1532,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Ethiopian"
   },
   {
    "name": "Cafe Nhan",
@@ -1576,7 +1584,7 @@
   {
    "name": "Megobari",
    "hood": "Northeast Philadelphia",
-   "type": "global",
+   "type": "european",
    "typekind": "cui",
    "lat": 40.03703,
    "lng": -75.0613,
@@ -1589,7 +1597,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Georgian"
   },
   {
    "name": "Virasat Haveli",
@@ -1612,7 +1621,7 @@
   {
    "name": "Sky Cafe",
    "hood": "Italian Market",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 39.93055,
    "lng": -75.16145,
@@ -1625,7 +1634,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Indonesian"
   },
   {
    "name": "Vietnam Cafe",
@@ -1860,7 +1870,7 @@
   {
    "name": "Doro Bet",
    "hood": "University City",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 39.9534,
    "lng": -75.2004,
@@ -1882,7 +1892,8 @@
    "vb": "global",
    "dual": false,
    "vg": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Ethiopian"
   },
   {
    "name": "Emilia",
@@ -1958,7 +1969,7 @@
   {
    "name": "Hardena",
    "hood": "South Philadelphia",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 39.92152,
    "lng": -75.1674,
@@ -1979,7 +1990,8 @@
    ],
    "vb": "global",
    "dual": false,
-   "vg": 1
+   "vg": 1,
+   "sub": "Indonesian"
   },
   {
    "name": "Suraya",
@@ -2074,7 +2086,7 @@
   {
    "name": "South",
    "hood": "North Philadelphia",
-   "type": "global",
+   "type": "bbq",
    "typekind": "cui",
    "lat": 39.97537,
    "lng": -75.15453,
@@ -2086,7 +2098,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Southern"
   },
   {
    "name": "Cerveau",
@@ -2166,7 +2179,7 @@
   {
    "name": "Heavy Metal Sausage Co.",
    "hood": "Fishtown",
-   "type": "global",
+   "type": "sandwich",
    "typekind": "cui",
    "lat": 39.96916,
    "lng": -75.13251,
@@ -2180,7 +2193,8 @@
    "vb": "global",
    "dual": false,
    "to": 1,
-   "lu": 1
+   "lu": 1,
+   "sub": "Sausages"
   },
   {
    "name": "Dalessandro's Steaks",
@@ -2555,7 +2569,7 @@
   {
    "name": "Stargazy",
    "hood": "East Passyunk",
-   "type": "global",
+   "type": "european",
    "typekind": "cui",
    "lat": 39.9267806,
    "lng": -75.1673537,
@@ -2568,7 +2582,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "lu": 1
+   "lu": 1,
+   "sub": "British Pies"
   },
   {
    "name": "Mama's Falafel",
@@ -2611,7 +2626,7 @@
   {
    "name": "Suya Suya",
    "hood": "Northern Liberties",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 39.9626245,
    "lng": -75.1447937,
@@ -2624,7 +2639,8 @@
    ],
    "dual": false,
    "vb": "global",
-   "lu": 1
+   "lu": 1,
+   "sub": "Nigerian"
   },
   {
    "name": "Pizza Richmond",
@@ -2900,7 +2916,8 @@
     ]
    ],
    "vb": "party",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Bob & Barbara's Lounge",
@@ -2920,7 +2937,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "48 Record Bar",
@@ -2980,7 +2998,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": true
+   "dual": true,
+   "sub": "Tavern"
   },
   {
    "name": "Oscar's Tavern",
@@ -2996,7 +3015,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Poison Heart",
@@ -3016,7 +3036,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": true
+   "dual": true,
+   "sub": "Dive Bar"
   },
   {
    "name": "Friday Saturday Sunday",
@@ -3096,7 +3117,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": true
+   "dual": true,
+   "sub": "Tavern"
   },
   {
    "name": "Yakitori Boy",
@@ -3144,7 +3166,8 @@
     ]
    ],
    "vb": "livemusic",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Post Haste",
@@ -3184,7 +3207,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Ray's Happy Birthday Bar",
@@ -3200,7 +3224,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Tattooed Mom",
@@ -3220,7 +3245,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "Philadelphia Distilling",
@@ -3280,7 +3306,8 @@
     ]
    ],
    "vb": "livemusic",
-   "dual": false
+   "dual": false,
+   "sub": "Tavern"
   },
   {
    "name": "Almanac",
@@ -3456,7 +3483,8 @@
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": false,
+   "sub": "Dive Bar"
   },
   {
    "name": "The Franklin Mortgage & Investment Co.",
@@ -3601,7 +3629,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "Ranstead Room",
@@ -3741,7 +3770,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Bar"
   },
   {
    "name": "Mixteca Philly",
@@ -3821,7 +3851,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Brewery"
   },
   {
    "name": "Mamajuana Cafe Philly",
@@ -3933,7 +3964,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Dizengoff",
@@ -4075,7 +4107,8 @@
     ]
    ],
    "dual": false,
-   "_natadd": 1
+   "_natadd": 1,
+   "sub": "Dive Bar"
   },
   {
    "name": "Bloomsday Cafe",

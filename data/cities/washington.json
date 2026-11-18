@@ -80,7 +80,7 @@
   {
    "name": "Dōgon",
    "hood": "Southwest Waterfront",
-   "type": "global",
+   "type": "caribbean",
    "typekind": "cui",
    "lat": 38.883589,
    "lng": -77.030179,
@@ -126,7 +126,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Afro-Caribbean"
   },
   {
    "name": "Pascual",
@@ -602,7 +603,7 @@
   {
    "name": "Lapis",
    "hood": "Adams Morgan",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "lat": 38.9227,
    "lng": -77.0435,
@@ -632,7 +633,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Afghan"
   },
   {
    "name": "Unconventional Diner",
@@ -802,7 +804,7 @@
   {
    "name": "Elmina",
    "hood": "U Street",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 38.919551,
    "lng": -77.032322,
@@ -824,7 +826,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Ghanaian"
   },
   {
    "name": "Casa Teresa",
@@ -1232,7 +1235,7 @@
   {
    "name": "Ethiopic",
    "hood": "H Street NE",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 38.9001,
    "lng": -76.9995,
@@ -1245,7 +1248,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Ethiopian"
   },
   {
    "name": "Baan Siam",
@@ -1273,7 +1277,7 @@
   {
    "name": "Bostan",
    "hood": "Arlington, VA",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 38.897176,
    "lng": -77.107435,
@@ -1287,7 +1291,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Uyghur"
   },
   {
    "name": "Kuya Ja's Lechon Belly",
@@ -2060,7 +2065,7 @@
   {
    "name": "Chercher",
    "hood": "Shaw",
-   "type": "global",
+   "type": "african",
    "typekind": "cui",
    "lat": 38.9077,
    "lng": -77.0238,
@@ -2074,7 +2079,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Ethiopian"
   },
   {
    "name": "Sweet Home Café",
@@ -2782,7 +2788,7 @@
   {
    "name": "Ruta Ukrainian",
    "hood": "Capitol Hill",
-   "type": "global",
+   "type": "european",
    "typekind": "cui",
    "lat": 38.885337,
    "lng": -76.996376,
@@ -2795,7 +2801,8 @@
     ]
    ],
    "dual": false,
-   "vb": "global"
+   "vb": "global",
+   "sub": "Ukrainian"
   },
   {
    "name": "SER",
@@ -3042,7 +3049,7 @@
   {
    "name": "Izakaya Seki",
    "hood": "",
-   "type": "global",
+   "type": "japanese",
    "typekind": "cui",
    "lat": 38.9336,
    "lng": -77.0553,
@@ -3054,7 +3061,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Izakaya"
   },
   {
    "name": "Chay",
@@ -3144,7 +3152,7 @@
   {
    "name": "Northwest Chinese Food",
    "hood": "",
-   "type": "global",
+   "type": "asian",
    "typekind": "cui",
    "lat": 38.8874,
    "lng": -77.0577,
@@ -3156,7 +3164,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Northwest Chinese"
   },
   {
    "name": "Bar del Monte",
@@ -3565,7 +3574,7 @@
   {
    "name": "Bistro Aracosia, Aracosia & Afghania",
    "hood": "",
-   "type": "global",
+   "type": "indian",
    "typekind": "cui",
    "lat": 38.8734,
    "lng": -77.0017,
@@ -3577,7 +3586,8 @@
     ]
    ],
    "vb": "global",
-   "dual": false
+   "dual": false,
+   "sub": "Afghan"
   },
   {
    "name": "Truong Tien",
@@ -3882,7 +3892,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "The Green Zone",
@@ -4092,7 +4103,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Garden District",
@@ -4112,7 +4124,8 @@
     ]
    ],
    "dual": false,
-   "vb": "wine"
+   "vb": "wine",
+   "sub": "Beer Garden"
   },
   {
    "name": "Showtime",
@@ -4136,7 +4149,8 @@
     ]
    ],
    "dual": false,
-   "vb": "party"
+   "vb": "party",
+   "sub": "Dive Bar"
   },
   {
    "name": "Ivy and Coney",
@@ -4160,7 +4174,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Alegria",
@@ -4374,7 +4389,8 @@
     ]
    ],
    "dual": false,
-   "vb": "vibey"
+   "vb": "vibey",
+   "sub": "Tavern"
   },
   {
    "name": "The Blaguard",
@@ -4390,7 +4406,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Wonderland Ballroom",
@@ -4406,7 +4423,8 @@
     ]
    ],
    "dual": false,
-   "vb": "party"
+   "vb": "party",
+   "sub": "Dive Bar"
   },
   {
    "name": "Snappy's Small Bar",
@@ -4422,7 +4440,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Lyman's Tavern",
@@ -4438,7 +4457,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Jimmy Valentine's",
@@ -4454,7 +4474,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Stan's",
@@ -4470,7 +4491,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Looking Glass Lounge",
@@ -4486,7 +4508,8 @@
     ]
    ],
    "dual": false,
-   "vb": "vibey"
+   "vb": "vibey",
+   "sub": "Dive Bar"
   },
   {
    "name": "Tune Inn",
@@ -4506,7 +4529,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Jackie Lee's",
@@ -4522,7 +4546,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Trusty's",
@@ -4538,7 +4563,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Raven Grill",
@@ -4558,7 +4584,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Neptune Room",
@@ -4574,7 +4601,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Red Derby",
@@ -4594,7 +4622,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Solly's",
@@ -4610,7 +4639,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Nanny O'Brien's",
@@ -4626,7 +4656,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "The Pug",
@@ -4642,7 +4673,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Dan's Cafe",
@@ -4658,7 +4690,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Tkyo Speaks",
@@ -4729,7 +4762,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Zero-Proof Bar"
   },
   {
    "name": "Metrobar",
@@ -4745,7 +4779,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Atomic Billiards",
@@ -4761,7 +4796,8 @@
     ]
    ],
    "dual": false,
-   "vb": "party"
+   "vb": "party",
+   "sub": "Dive Bar"
   },
   {
    "name": "Exiles",
@@ -4777,7 +4813,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "The Sovereign",
@@ -4793,7 +4830,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Bar"
   },
   {
    "name": "Hush Harbor",
@@ -5109,7 +5147,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Hall"
   },
   {
    "name": "Dirty Habit",
@@ -5425,7 +5464,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Dauphine's",
@@ -5873,7 +5913,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "The Red Room at Black Cat",
@@ -5937,7 +5978,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Beer Garden"
   },
   {
    "name": "Dito's Bar at Floriana",
@@ -5969,7 +6011,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Tavern"
   },
   {
    "name": "Larry's Lounge",
@@ -5985,7 +6028,8 @@
     ]
    ],
    "dual": false,
-   "vb": "dive"
+   "vb": "dive",
+   "sub": "Dive Bar"
   },
   {
    "name": "Nellie's Sports Bar",
