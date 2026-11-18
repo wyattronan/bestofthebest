@@ -1355,7 +1355,7 @@ body.home > #homepage{order:0;}
   <div class="topnav-inner">
     <button class="kindtab active" data-kind="resto">Restaurants</button>
     <button class="kindtab" data-kind="bars">Bars</button>
-    <div class="nav-spacer"></div>
+    <div class="nav-spacer"></div><button class="usa-navbtn" id="navUsaReport">Report Card</button><button class="usa-navbtn" id="navUsaAbout">About</button>
     <button class="uttab active" data-view="tiers">Overview</button>
     <button class="uttab" data-view="board">Cards</button>
     <button class="uttab" data-view="table">Table</button>
@@ -1416,8 +1416,12 @@ body.theme-bars .usa-h{font-family:'AccentSans','Bebas Neue',sans-serif;font-wei
 /* --- USA toolbar: view toggle + tools --- */
 .usa-tog{display:flex;flex-wrap:wrap;align-items:center;gap:10px 14px;margin:14px 0 6px;}
 .usa-tools{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-left:auto;}
-.usa-tool-btn{height:30px;padding:0 13px;}
 #usaview button .sic{margin-right:5px;}
+/* Report Card + About live in the Restaurants/Bars nav bar, right side, USA tab only */
+.usa-navbtn{display:none;font-family:'AccentSans','Space Grotesk',sans-serif;font-size:11px;letter-spacing:.1em;text-transform:uppercase;background:none;border:none;color:var(--faint);cursor:pointer;padding:12px 12px 10px;border-bottom:3px solid transparent;transition:color .15s;}
+.usa-navbtn:hover{color:var(--ink);}
+body.city-usa .usa-navbtn{display:inline-block;}
+body.theme-bars .usa-navbtn:hover{color:var(--accent2);}
 /* --- USA card grid --- */
 .usa-cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px;margin-top:6px;}
 .usa-card{display:flex;align-items:flex-start;gap:12px;padding:13px 14px;border:1px solid var(--rule);border-radius:4px;background:var(--bg2);}
@@ -2185,6 +2189,7 @@ function showReport(){
 document.querySelectorAll(".kindtab").forEach(t=>t.onclick=()=>{ navHash(state.city, t.dataset.kind==="bars"?"bars":"restaurants"); });
 document.querySelectorAll(".uttab[data-view]").forEach(t=>t.onclick=()=>setView(t.dataset.view));
 document.querySelector(".uttab[data-report]").onclick=showReport; {var _abt=document.querySelector('.uttab[data-about]');if(_abt)_abt.onclick=showAbout;}
+{var _nr=document.getElementById("navUsaReport");if(_nr)_nr.onclick=openUsaReport;var _na=document.getElementById("navUsaAbout");if(_na)_na.onclick=openUsaAbout;}
 window.addEventListener("scroll",()=>{if(document.getElementById("pop").classList.contains("show"))hidePop();},{passive:true});
 let _rsz; window.addEventListener("resize",()=>{clearTimeout(_rsz);_rsz=setTimeout(()=>{positionSkyline();buildMarquee();},160);});
 
@@ -2321,8 +2326,6 @@ function renderUSA(){
     '<button data-mode="cities" class="'+(state.usaMode==="cities"?"on":"")+'"><span class="sic">⚑</span>Most Prominent Cities</button>'+
     '</div><div class="usa-tools">'+
     '<div class="seg-ctl" id="usaview"><button data-uv="table" class="'+(state.usaView==="table"?"on":"")+'"><span class="sic">☷</span>Table</button><button data-uv="cards" class="'+(state.usaView==="cards"?"on":"")+'"><span class="sic">▢</span>Cards</button></div>'+
-    '<button class="ptog usa-tool-btn" id="usaReport">Report Card</button>'+
-    '<button class="ptog usa-tool-btn" id="usaAbout">About</button>'+
     '</div></div>';
 
   var body=(state.usaView==="cards"?cardsHTML():tableHTML())+
@@ -2332,8 +2335,6 @@ function renderUSA(){
   el.querySelectorAll("#usaseg button").forEach(function(b){b.onclick=function(){state.usaMode=b.dataset.mode;state.usaAll=false;renderUSA();};});
   el.querySelectorAll("#usaview button").forEach(function(b){b.onclick=function(){state.usaView=b.dataset.uv;renderUSA();};});
   el.querySelectorAll("[data-usacard]").forEach(function(a){a.onclick=function(e){e.preventDefault();openUsaVenueCard(a.dataset.ck,usaKind(),decodeURIComponent(a.dataset.nm));};});
-  var rcb=document.getElementById("usaReport"); if(rcb) rcb.onclick=openUsaReport;
-  var abb=document.getElementById("usaAbout"); if(abb) abb.onclick=openUsaAbout;
   var m=document.getElementById("usaMore"); if(m) m.onclick=function(){state.usaAll=true;renderUSA();};
   var l=document.getElementById("usaLess"); if(l) l.onclick=function(){state.usaAll=false;renderUSA();el.scrollIntoView();};
 }
