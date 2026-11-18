@@ -2363,6 +2363,14 @@
     [
      "belib",
      5
+    ],
+    [
+     "bonappsea",
+     null
+    ],
+    [
+     "barmagsea",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2391,6 +2399,10 @@
     [
      "belib",
      2
+    ],
+    [
+     "barmagsea",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2478,6 +2490,10 @@
     ],
     [
      "eaterbsea",
+     null
+    ],
+    [
+     "timeoutsea",
      null
     ]
    ],
@@ -2643,6 +2659,14 @@
     [
      "thrillsea",
      null
+    ],
+    [
+     "bonappsea",
+     null
+    ],
+    [
+     "barmagsea",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2670,6 +2694,10 @@
     ],
     [
      "punchsea",
+     null
+    ],
+    [
+     "barmagsea",
      null
     ]
    ],
@@ -2787,6 +2815,10 @@
     [
      "seametb",
      null
+    ],
+    [
+     "timeoutsea",
+     null
     ]
    ],
    "vb": "dive",
@@ -2802,6 +2834,10 @@
    "lists": [
     [
      "seametb",
+     null
+    ],
+    [
+     "bonappsea",
      null
     ]
    ],
@@ -2834,6 +2870,10 @@
    "lists": [
     [
      "eaterbsea",
+     null
+    ],
+    [
+     "barmagsea",
      null
     ]
    ],
@@ -2919,6 +2959,18 @@
     [
      "punchsea",
      null
+    ],
+    [
+     "bonappsea",
+     null
+    ],
+    [
+     "barmagsea",
+     null
+    ],
+    [
+     "cntsea",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2938,6 +2990,10 @@
     ],
     [
      "thrillsea",
+     null
+    ],
+    [
+     "bonappsea",
      null
     ]
    ],
@@ -2962,6 +3018,18 @@
     ],
     [
      "punchsea",
+     null
+    ],
+    [
+     "bonappsea",
+     null
+    ],
+    [
+     "barmagsea",
+     null
+    ],
+    [
+     "cntsea",
      null
     ]
    ],
@@ -3143,6 +3211,10 @@
     [
      "thrillsea",
      null
+    ],
+    [
+     "timeoutsea",
+     null
     ]
    ],
    "vb": "dive",
@@ -3159,6 +3231,10 @@
     [
      "thrillsea",
      null
+    ],
+    [
+     "cntsea",
+     null
     ]
    ],
    "vb": "wine",
@@ -3174,6 +3250,10 @@
    "lists": [
     [
      "thrillsea",
+     null
+    ],
+    [
+     "timeoutsea",
      null
     ]
    ],
@@ -3242,6 +3322,10 @@
    "lists": [
     [
      "thrillsea",
+     null
+    ],
+    [
+     "barmagsea",
      null
     ]
    ],
@@ -3343,6 +3427,10 @@
     [
      "belib",
      1
+    ],
+    [
+     "barmagsea",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3390,6 +3478,14 @@
    "lists": [
     [
      "punchsea",
+     null
+    ],
+    [
+     "barmagsea",
+     null
+    ],
+    [
+     "cntsea",
      null
     ]
    ],
@@ -3471,6 +3567,10 @@
     [
      "punchsea",
      null
+    ],
+    [
+     "timeoutsea",
+     null
     ]
    ],
    "vb": "dive",
@@ -3507,6 +3607,446 @@
    ],
    "vb": "dive",
    "dual": false
+  },
+  {
+   "name": "The Central Saloon",
+   "hood": "Pioneer Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.600613,
+   "lng": -122.3343911,
+   "lists": [
+    [
+     "bonappsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Linda's Tavern",
+   "hood": "Capitol Hill",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 47.6151044,
+   "lng": -122.3230531,
+   "lists": [
+    [
+     "bonappsea",
+     null
+    ],
+    [
+     "timeoutsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "L'Oursin",
+   "hood": "Central District",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 47.6060804,
+   "lng": -122.314614,
+   "lists": [
+    [
+     "barmagsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Bathtub Gin & Co.",
+   "hood": "Belltown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.6131423,
+   "lng": -122.3450608,
+   "lists": [
+    [
+     "barmagsea",
+     null
+    ],
+    [
+     "timeoutsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Mountaineering Club",
+   "hood": "University District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.6615328,
+   "lng": -122.3146652,
+   "lists": [
+    [
+     "barmagsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Inside Passage",
+   "hood": "Capitol Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.6137668,
+   "lng": -122.3286692,
+   "lists": [
+    [
+     "barmagsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Needle and Thread",
+   "hood": "Capitol Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.613254,
+   "lng": -122.316523,
+   "lists": [
+    [
+     "barmagsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Rich Rich",
+   "hood": "Queen Anne",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.6241396,
+   "lng": -122.3560798,
+   "lists": [
+    [
+     "barmagsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "ShibShib",
+   "hood": "Chinatown-International District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.5978869,
+   "lng": -122.3243505,
+   "lists": [
+    [
+     "barmagsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Deep Dive",
+   "hood": "South Lake Union",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.6156405,
+   "lng": -122.3393721,
+   "lists": [
+    [
+     "barmagsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Founders Club",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.6079957,
+   "lng": -122.3338074,
+   "lists": [
+    [
+     "barmagsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Alley",
+   "hood": "West Seattle",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.5626208,
+   "lng": -122.3870613,
+   "lists": [
+    [
+     "barmagsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Percy's and Co.",
+   "hood": "Ballard",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.6661536,
+   "lng": -122.3832097,
+   "lists": [
+    [
+     "timeoutsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Cha Cha Lounge",
+   "hood": "Capitol Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.6139436,
+   "lng": -122.3187546,
+   "lists": [
+    [
+     "timeoutsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Speckled and Drake",
+   "hood": "Capitol Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.6166096,
+   "lng": -122.3276557,
+   "lists": [
+    [
+     "timeoutsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Sunset Tavern",
+   "hood": "Ballard",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.6681134,
+   "lng": -122.3859886,
+   "lists": [
+    [
+     "timeoutsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Revolver Bar",
+   "hood": "Capitol Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.6181337,
+   "lng": -122.3261384,
+   "lists": [
+    [
+     "timeoutsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Bait Shop",
+   "hood": "Capitol Hill",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 47.6245889,
+   "lng": -122.3220556,
+   "lists": [
+    [
+     "timeoutsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Add-a-Ball",
+   "hood": "Fremont",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.6519757,
+   "lng": -122.3549551,
+   "lists": [
+    [
+     "timeoutsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Unicorn",
+   "hood": "Capitol Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.614223,
+   "lng": -122.317292,
+   "lists": [
+    [
+     "timeoutsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "Orient Express",
+   "hood": "SoDo",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.5758303,
+   "lng": -122.3294821,
+   "lists": [
+    [
+     "timeoutsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "The Nook",
+   "hood": "West Seattle",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.5837566,
+   "lng": -122.3862221,
+   "lists": [
+    [
+     "timeoutsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Chuck's Hop Shop",
+   "hood": "Central District",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 47.6127103,
+   "lng": -122.3057659,
+   "lists": [
+    [
+     "cntsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Foreign National",
+   "hood": "Capitol Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.614229,
+   "lng": -122.3274512,
+   "lists": [
+    [
+     "cntsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Rachel's Ginger Beer",
+   "hood": "South Lake Union",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.616296,
+   "lng": -122.3390821,
+   "lists": [
+    [
+     "cntsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Damn the Weather",
+   "hood": "Pioneer Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.601122,
+   "lng": -122.333951,
+   "lists": [
+    [
+     "cntsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Left Bank",
+   "hood": "South Park",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 47.5265702,
+   "lng": -122.3145702,
+   "lists": [
+    [
+     "cntsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
   }
  ],
  "rlists": {
@@ -3627,6 +4167,42 @@
    "name": "Beli's Top Bars in Seattle (2025)",
    "year": "2025",
    "ranked": true,
+   "starChip": false
+  },
+  "bonappsea": {
+   "cls": "b-bonappsea",
+   "mono": "BA",
+   "tag": "BON APP",
+   "name": "Bon Appétit: The Best Bars in Seattle Right Now",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "barmagsea": {
+   "cls": "b-barmagsea",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The 20 Best Bars in Seattle",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "timeoutsea": {
+   "cls": "b-timeoutsea",
+   "mono": "TO",
+   "tag": "TIME OUT",
+   "name": "Time Out Seattle: 17 Best Bars in Seattle",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "cntsea": {
+   "cls": "b-cntsea",
+   "mono": "CN",
+   "tag": "CNTRAV",
+   "name": "Condé Nast Traveler: 15 Best Bars in Seattle",
+   "year": "2025",
+   "ranked": false,
    "starChip": false
   }
  }

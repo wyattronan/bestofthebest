@@ -3763,6 +3763,10 @@
     [
      "jbbdc",
      null
+    ],
+    [
+     "punchwinedc",
+     null
     ]
    ],
    "dual": false,
@@ -3791,6 +3795,10 @@
     [
      "na50bars",
      22
+    ],
+    [
+     "barmagdc",
+     null
     ]
    ],
    "dual": false,
@@ -3816,6 +3824,10 @@
     [
      "wyattdc",
      3
+    ],
+    [
+     "barmagdc",
+     null
     ]
    ],
    "dual": false,
@@ -3861,6 +3873,14 @@
     [
      "infatbdc",
      null
+    ],
+    [
+     "resydc",
+     null
+    ],
+    [
+     "barmagdc",
+     null
     ]
    ],
    "dual": true,
@@ -3902,6 +3922,14 @@
     [
      "belib",
      3
+    ],
+    [
+     "resydc",
+     null
+    ],
+    [
+     "barmagdc",
+     null
     ]
    ],
    "dual": false,
@@ -3922,6 +3950,14 @@
     [
      "belib",
      1
+    ],
+    [
+     "barmagdc",
+     null
+    ],
+    [
+     "punchcockdc",
+     null
     ]
    ],
    "dual": false,
@@ -3942,6 +3978,10 @@
     [
      "belib",
      5
+    ],
+    [
+     "barmagdc",
+     null
     ]
    ],
    "dual": false,
@@ -3962,6 +4002,10 @@
     [
      "wyattdc",
      6
+    ],
+    [
+     "barmagdc",
+     null
     ]
    ],
    "dual": false,
@@ -3982,6 +4026,10 @@
     [
      "wyattdc",
      2
+    ],
+    [
+     "barmagdc",
+     null
     ]
    ],
    "dual": false,
@@ -4042,6 +4090,10 @@
     [
      "wyattdc",
      8
+    ],
+    [
+     "punchdivedc",
+     null
     ]
    ],
    "dual": false,
@@ -4062,6 +4114,10 @@
     [
      "wyattdc",
      1
+    ],
+    [
+     "punchdivedc",
+     null
     ]
    ],
    "dual": false,
@@ -4077,6 +4133,10 @@
    "lists": [
     [
      "eaterdc",
+     null
+    ],
+    [
+     "barmagdc",
      null
     ]
    ],
@@ -4094,6 +4154,18 @@
     [
      "eaterdc",
      null
+    ],
+    [
+     "resydc",
+     null
+    ],
+    [
+     "barmagdc",
+     null
+    ],
+    [
+     "punchcockdc",
+     null
     ]
    ],
    "dual": false,
@@ -4109,6 +4181,10 @@
    "lists": [
     [
      "eaterdc",
+     null
+    ],
+    [
+     "barmagdc",
      null
     ]
    ],
@@ -4176,6 +4252,14 @@
     [
      "eaterdc",
      null
+    ],
+    [
+     "resydc",
+     null
+    ],
+    [
+     "barmagdc",
+     null
     ]
    ],
    "dual": false,
@@ -4191,6 +4275,10 @@
    "lists": [
     [
      "eaterdc",
+     null
+    ],
+    [
+     "barmagdc",
      null
     ]
    ],
@@ -4368,6 +4456,10 @@
     [
      "timeout",
      12
+    ],
+    [
+     "punchdivedc",
+     null
     ]
    ],
    "dual": false,
@@ -4416,6 +4508,10 @@
     [
      "timeout",
      9
+    ],
+    [
+     "punchdivedc",
+     null
     ]
    ],
    "dual": false,
@@ -4448,6 +4544,10 @@
     [
      "timeout",
      5
+    ],
+    [
+     "punchdivedc",
+     null
     ]
    ],
    "dual": false,
@@ -4544,6 +4644,10 @@
    "lists": [
     [
      "infatbdc",
+     null
+    ],
+    [
+     "barmagdc",
      null
     ]
    ],
@@ -4690,6 +4794,10 @@
     [
      "belib",
      4
+    ],
+    [
+     "barmagdc",
+     null
     ]
    ],
    "dual": false,
@@ -4711,10 +4819,1382 @@
     [
      "na50bars",
      23
+    ],
+    [
+     "barmagdc",
+     null
     ]
    ],
    "dual": false,
    "vb": "mixo"
+  },
+  {
+   "name": "Amélie DC",
+   "hood": "14th Street",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 38.9078016,
+   "lng": -77.0315792,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Grazie Mille",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9042719,
+   "lng": -77.0349714,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Katsumi",
+   "hood": "14th Street",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.910147,
+   "lng": -77.0321671,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Rosselli",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.8999568,
+   "lng": -77.027715,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "KAYU",
+   "hood": "Dupont Circle",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.912286,
+   "lng": -77.0382924,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Casa Teresa",
+   "hood": "Golden Triangle",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9017672,
+   "lng": -77.0431844,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Lyle",
+   "hood": "Dupont Circle",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9133664,
+   "lng": -77.0395143,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Occidental",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.8966355,
+   "lng": -77.0327945,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Amparo Fondita",
+   "hood": "Dupont Circle",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9094481,
+   "lng": -77.0452913,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Urban Roast",
+   "hood": "Penn Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.8980051,
+   "lng": -77.0249159,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Bar Charley",
+   "hood": "Dupont Circle",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9150551,
+   "lng": -77.0414473,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Vagabond",
+   "hood": "Adams Morgan",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9153486,
+   "lng": -77.0418228,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Barkada Wine Bar",
+   "hood": "Shaw",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 38.9166269,
+   "lng": -77.027795,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Lulu's Winegarden",
+   "hood": "Shaw",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 38.9167993,
+   "lng": -77.0273504,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Prost",
+   "hood": "Mount Vernon Triangle",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 38.9019268,
+   "lng": -77.0186543,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Dirty Habit",
+   "hood": "Penn Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.896965,
+   "lng": -77.022438,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Quadrant Bar & Lounge",
+   "hood": "West End",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9048813,
+   "lng": -77.0491159,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "MI VIDA F Street",
+   "hood": "Penn Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.8971635,
+   "lng": -77.0216824,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Kache",
+   "hood": "Mount Vernon Triangle",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9023045,
+   "lng": -77.0197089,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Baan Siam",
+   "hood": "Mount Vernon Triangle",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 38.9014927,
+   "lng": -77.0163484,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Lucy Pizza Bar",
+   "hood": "U Street",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9200238,
+   "lng": -77.0314732,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Cana",
+   "hood": "Adams Morgan",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 38.921133,
+   "lng": -77.0423445,
+   "lists": [
+    [
+     "resydc",
+     null
+    ],
+    [
+     "barmagdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Fiola Mare",
+   "hood": "Georgetown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9016758,
+   "lng": -77.0609213,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Florería Atlántico",
+   "hood": "Georgetown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9045157,
+   "lng": -77.0631656,
+   "lists": [
+    [
+     "resydc",
+     null
+    ],
+    [
+     "barmagdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Tamashaa",
+   "hood": "Columbia Heights",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9297164,
+   "lng": -77.0323027,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "El Presidente",
+   "hood": "Union Market",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.908309,
+   "lng": -77.0007351,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Fountain Inn",
+   "hood": "Georgetown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9119673,
+   "lng": -77.0654819,
+   "lists": [
+    [
+     "resydc",
+     null
+    ],
+    [
+     "barmagdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Ellē",
+   "hood": "Mount Pleasant",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9318222,
+   "lng": -77.0384056,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Lucy Mercer Bar at Minetta Tavern DC",
+   "hood": "Union Market",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.908878,
+   "lng": -76.9988162,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Minetta Tavern DC",
+   "hood": "Union Market",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.908878,
+   "lng": -76.9988162,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Little Blackbird",
+   "hood": "Cleveland Park",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 38.9338968,
+   "lng": -77.0570814,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Chloe",
+   "hood": "Navy Yard",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.8746706,
+   "lng": -77.0007538,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Seven Reasons",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.8999774,
+   "lng": -77.0249767,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Grill",
+   "hood": "The Wharf",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 38.880731,
+   "lng": -77.026968,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Dauphine's",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9045881,
+   "lng": -77.034786,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Death & Co DC",
+   "hood": "Shaw",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.906442,
+   "lng": -77.0245908,
+   "lists": [
+    [
+     "resydc",
+     null
+    ],
+    [
+     "barmagdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "SOST",
+   "hood": "Shaw",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9158282,
+   "lng": -77.0237477,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Out of Office at Manifest",
+   "hood": "Adams Morgan",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9167825,
+   "lng": -77.0422267,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Ceibo",
+   "hood": "Adams Morgan",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 38.9181222,
+   "lng": -77.0418854,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Maison",
+   "hood": "Adams Morgan",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 38.9217101,
+   "lng": -77.0431487,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Desert 5 Spot DC",
+   "hood": "Union Market",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9078989,
+   "lng": -76.9996133,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "La' Shukran",
+   "hood": "Union Market",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9072747,
+   "lng": -76.9995079,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Takoda Navy Yard",
+   "hood": "Navy Yard",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.8747796,
+   "lng": -77.0061553,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "District Winery",
+   "hood": "Navy Yard",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 38.8734421,
+   "lng": -77.0007116,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Acqua Bistecca",
+   "hood": "Spring Valley",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.940611,
+   "lng": -77.077898,
+   "lists": [
+    [
+     "resydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Amazonia",
+   "hood": "Shaw",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9065162,
+   "lng": -77.0247586,
+   "lists": [
+    [
+     "barmagdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bar Betsie",
+   "hood": "Union Market",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9095488,
+   "lng": -76.9990968,
+   "lists": [
+    [
+     "barmagdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "No Goodbyes",
+   "hood": "Adams Morgan",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9227526,
+   "lng": -77.0416712,
+   "lists": [
+    [
+     "barmagdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Your Only Friend",
+   "hood": "Shaw",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9048051,
+   "lng": -77.0242149,
+   "lists": [
+    [
+     "barmagdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Wells",
+   "hood": "Capitol Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.885769,
+   "lng": -76.995605,
+   "lists": [
+    [
+     "barmagdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Doyle",
+   "hood": "Dupont Circle",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9103621,
+   "lng": -77.0430778,
+   "lists": [
+    [
+     "barmagdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Gold Clover Bar",
+   "hood": "Shaw",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9138642,
+   "lng": -77.0156296,
+   "lists": [
+    [
+     "barmagdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Bourbon Steak",
+   "hood": "Georgetown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9045217,
+   "lng": -77.0572596,
+   "lists": [
+    [
+     "punchwinedc",
+     null
+    ],
+    [
+     "punchrestdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Cork Wine Bar",
+   "hood": "14th Street",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 38.9143567,
+   "lng": -77.031686,
+   "lists": [
+    [
+     "punchwinedc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "The Dabney",
+   "hood": "Shaw",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9063446,
+   "lng": -77.0245248,
+   "lists": [
+    [
+     "punchwinedc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Etto",
+   "hood": "14th Street",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 38.910967,
+   "lng": -77.031618,
+   "lists": [
+    [
+     "punchwinedc",
+     null
+    ],
+    [
+     "punchrestdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Kinship",
+   "hood": "Shaw",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9034398,
+   "lng": -77.0216384,
+   "lists": [
+    [
+     "punchwinedc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Primrose",
+   "hood": "Brookland",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 38.927741,
+   "lng": -76.9908262,
+   "lists": [
+    [
+     "punchwinedc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "RPM Italian",
+   "hood": "Mount Vernon Triangle",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9022561,
+   "lng": -77.0212359,
+   "lists": [
+    [
+     "punchwinedc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Madam's Organ",
+   "hood": "Adams Morgan",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9220179,
+   "lng": -77.042189,
+   "lists": [
+    [
+     "punchdivedc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Quarry House Tavern",
+   "hood": "Silver Spring",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 38.9936028,
+   "lng": -77.0264349,
+   "lists": [
+    [
+     "punchdivedc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Red Room at Black Cat",
+   "hood": "14th Street",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9145825,
+   "lng": -77.0317283,
+   "lists": [
+    [
+     "punchdivedc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "18th & U Duplex Diner",
+   "hood": "Adams Morgan",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9171767,
+   "lng": -77.0418754,
+   "lists": [
+    [
+     "punchgaydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Cobalt",
+   "hood": "Dupont Circle",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9127694,
+   "lng": -77.038173,
+   "lists": [
+    [
+     "punchgaydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "Dacha Beer Garden",
+   "hood": "Shaw",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 38.9113311,
+   "lng": -77.0221412,
+   "lists": [
+    [
+     "punchgaydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Dito's Bar at Floriana",
+   "hood": "Dupont Circle",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9113238,
+   "lng": -77.0387362,
+   "lists": [
+    [
+     "punchgaydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "JR's Bar & Grill",
+   "hood": "Dupont Circle",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 38.9104798,
+   "lng": -77.0381796,
+   "lists": [
+    [
+     "punchgaydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Larry's Lounge",
+   "hood": "Dupont Circle",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 38.9154324,
+   "lng": -77.0418315,
+   "lists": [
+    [
+     "punchgaydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Nellie's Sports Bar",
+   "hood": "U Street",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.916821,
+   "lng": -77.0242019,
+   "lists": [
+    [
+     "punchgaydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "Number 9",
+   "hood": "Logan Circle",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9098269,
+   "lng": -77.0333675,
+   "lists": [
+    [
+     "punchgaydc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "2 Birds 1 Stone",
+   "hood": "14th Street",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9143611,
+   "lng": -77.032209,
+   "lists": [
+    [
+     "punchcockdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Columbia Room",
+   "hood": "Shaw",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9063979,
+   "lng": -77.0245271,
+   "lists": [
+    [
+     "punchcockdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Eat the Rich",
+   "hood": "Shaw",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9151058,
+   "lng": -77.0216492,
+   "lists": [
+    [
+     "punchcockdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Mockingbird Hill",
+   "hood": "Shaw",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 38.9151456,
+   "lng": -77.0217669,
+   "lists": [
+    [
+     "punchcockdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "PX",
+   "hood": "Old Town Alexandria",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.8050097,
+   "lng": -77.0479903,
+   "lists": [
+    [
+     "punchcockdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Southern Efficiency",
+   "hood": "Shaw",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9151333,
+   "lng": -77.021675,
+   "lists": [
+    [
+     "punchcockdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Daikaya",
+   "hood": "Penn Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.8986335,
+   "lng": -77.0197229,
+   "lists": [
+    [
+     "punchrestdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Estadio",
+   "hood": "14th Street",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9102565,
+   "lng": -77.0322088,
+   "lists": [
+    [
+     "punchrestdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Iron Gate",
+   "hood": "Dupont Circle",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.9071231,
+   "lng": -77.0398816,
+   "lists": [
+    [
+     "punchrestdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Old Ebbitt Grill",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.8979475,
+   "lng": -77.0332478,
+   "lists": [
+    [
+     "punchrestdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Oyamel",
+   "hood": "Penn Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.8950104,
+   "lng": -77.0217449,
+   "lists": [
+    [
+     "punchrestdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Proof",
+   "hood": "Penn Quarter",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 38.8986406,
+   "lng": -77.0226887,
+   "lists": [
+    [
+     "punchrestdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Room 11",
+   "hood": "Columbia Heights",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 38.9304721,
+   "lng": -77.0281252,
+   "lists": [
+    [
+     "punchrestdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "The Partisan",
+   "hood": "Penn Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 38.8949749,
+   "lng": -77.0225218,
+   "lists": [
+    [
+     "punchrestdc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
   }
  ],
  "rlists": {
@@ -4925,6 +6405,69 @@
    "name": "Beli's Top Bars in Washington, D.C. (2025)",
    "year": "2025",
    "ranked": true,
+   "starChip": false
+  },
+  "resydc": {
+   "cls": "b-resydc",
+   "mono": "RE",
+   "tag": "RESY",
+   "name": "Resy: The Best Places to Drink in D.C.",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "barmagdc": {
+   "cls": "b-barmagdc",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The 27 Best Bars in Washington DC",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "punchwinedc": {
+   "cls": "b-punchwinedc",
+   "mono": "PU",
+   "tag": "PUNCH",
+   "name": "PUNCH: The Best Places to Drink Wine in Washington, D.C.",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "punchdivedc": {
+   "cls": "b-punchdivedc",
+   "mono": "PU",
+   "tag": "PUNCH",
+   "name": "PUNCH: The Best Dive Bars in Washington, D.C.",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "punchgaydc": {
+   "cls": "b-punchgaydc",
+   "mono": "PU",
+   "tag": "PUNCH",
+   "name": "PUNCH: The Best Gay Bars in Washington, D.C.",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "punchcockdc": {
+   "cls": "b-punchcockdc",
+   "mono": "PU",
+   "tag": "PUNCH",
+   "name": "PUNCH: The Best Craft Cocktail Bars in Washington, D.C.",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "punchrestdc": {
+   "cls": "b-punchrestdc",
+   "mono": "PU",
+   "tag": "PUNCH",
+   "name": "PUNCH: The Best Restaurant Bars in Washington, D.C.",
+   "year": "2025",
+   "ranked": false,
    "starChip": false
   }
  }

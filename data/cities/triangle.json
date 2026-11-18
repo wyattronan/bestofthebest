@@ -1172,6 +1172,10 @@
     [
      "indybtri",
      3
+    ],
+    [
+     "notri",
+     null
     ]
    ],
    "vb": "mixo",
@@ -1268,6 +1272,14 @@
     [
      "indybtri",
      9
+    ],
+    [
+     "fwtri",
+     null
+    ],
+    [
+     "notri",
+     null
     ]
    ],
    "vb": "vibey",
@@ -1492,6 +1504,10 @@
     [
      "ralmagbar",
      null
+    ],
+    [
+     "notri",
+     null
     ]
    ],
    "vb": "party",
@@ -1688,6 +1704,362 @@
    ],
    "vb": "wine",
    "dual": false
+  },
+  {
+   "name": "Kingfisher",
+   "hood": "Durham",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.9970432,
+   "lng": -78.9008011,
+   "lists": [
+    [
+     "fwtri",
+     null
+    ],
+    [
+     "notri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Killer Queen Wine Bar",
+   "hood": "Durham",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 35.99481,
+   "lng": -78.8999,
+   "lists": [
+    [
+     "fwtri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Corpse Reviver Bar & Lounge",
+   "hood": "Durham",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.0046403,
+   "lng": -78.9029041,
+   "lists": [
+    [
+     "fwtri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "St. Roch Oyster Bar",
+   "hood": "Downtown Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.7775,
+   "lng": -78.638,
+   "lists": [
+    [
+     "fwtri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Burial Beer Co. Raleigh Taproom + Bottle Shop",
+   "hood": "Downtown Raleigh",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 35.7752593,
+   "lng": -78.6323238,
+   "lists": [
+    [
+     "fwtri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Parlor at Heights House",
+   "hood": "Boylan Heights",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.7766166,
+   "lng": -78.6510721,
+   "lists": [
+    [
+     "fwtri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Raleigh Beer Garden",
+   "hood": "Glenwood South",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 35.7880762,
+   "lng": -78.6468743,
+   "lists": [
+    [
+     "notri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Hibernian Irish Pub & Restaurant",
+   "hood": "Glenwood South",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 35.7847275,
+   "lng": -78.6475383,
+   "lists": [
+    [
+     "notri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Dogwood Bar & Eatery",
+   "hood": "Glenwood South",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.7877896,
+   "lng": -78.6470071,
+   "lists": [
+    [
+     "notri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bull City Ciderworks",
+   "hood": "Durham",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 35.9909566,
+   "lng": -78.8993013,
+   "lists": [
+    [
+     "notri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "He's Not Here",
+   "hood": "Chapel Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.9132768,
+   "lng": -79.0568075,
+   "lists": [
+    [
+     "notri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Top of the Hill",
+   "hood": "Chapel Hill",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 35.9129465,
+   "lng": -79.0553581,
+   "lists": [
+    [
+     "notri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Goodfellows",
+   "hood": "Chapel Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.9139216,
+   "lng": -79.0541331,
+   "lists": [
+    [
+     "notri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Boxcar Bar + Arcade",
+   "hood": "Downtown Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.7759584,
+   "lng": -78.6450221,
+   "lists": [
+    [
+     "notri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Baxter",
+   "hood": "Carrboro",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.9106496,
+   "lng": -79.0644336,
+   "lists": [
+    [
+     "notri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Neighborhood Sports Bar and Arcade",
+   "hood": "Cary",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 35.7888853,
+   "lng": -78.7839405,
+   "lists": [
+    [
+     "notri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Alchemy",
+   "hood": "Glenwood South",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.7876674,
+   "lng": -78.646894,
+   "lists": [
+    [
+     "notri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "Zenith Raleigh",
+   "hood": "Hillsborough St",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.7887806,
+   "lng": -78.6710492,
+   "lists": [
+    [
+     "notri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "Flex",
+   "hood": "Downtown Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.77839,
+   "lng": -78.6486895,
+   "lists": [
+    [
+     "notri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "Work.",
+   "hood": "Downtown Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.7791743,
+   "lng": -78.6393429,
+   "lists": [
+    [
+     "notri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Ruby Deluxe",
+   "hood": "Downtown Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.7751779,
+   "lng": -78.6399009,
+   "lists": [
+    [
+     "notri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
+  },
+  {
+   "name": "The Pinhook",
+   "hood": "Durham",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.995254,
+   "lng": -78.901501,
+   "lists": [
+    [
+     "notri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "party"
   }
  ],
  "rlists": {
@@ -1761,6 +2133,24 @@
    "mono": "BoT",
    "tag": "BEST OF TRIANGLE",
    "name": "INDY Best of the Triangle Bars (Readers' Choice)",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "fwtri": {
+   "cls": "b-fwtri",
+   "mono": "FW",
+   "tag": "FOOD&WINE",
+   "name": "Food & Wine: North Carolina's 'Triangle' Is the Perfect Destination for a Weekend of Eating",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "notri": {
+   "cls": "b-notri",
+   "mono": "NO",
+   "tag": "N&O",
+   "name": "Raleigh News & Observer: A Guide to Triangle Nightlife: Bars, Breweries, Arcades, Live Music and More",
    "year": "2025",
    "ranked": false,
    "starChip": false

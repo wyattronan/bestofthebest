@@ -4631,6 +4631,10 @@
     [
      "belib",
      5
+    ],
+    [
+     "barmagsf",
+     null
     ]
    ],
    "dual": false,
@@ -4680,6 +4684,10 @@
     [
      "belib",
      3
+    ],
+    [
+     "barmagsf",
+     null
     ]
    ],
    "dual": true,
@@ -4711,6 +4719,10 @@
     ],
     [
      "eater15bsf",
+     null
+    ],
+    [
+     "barmagsf",
      null
     ]
    ],
@@ -4744,6 +4756,10 @@
     ],
     [
      "eater15bsf",
+     null
+    ],
+    [
+     "barmagsf",
      null
     ]
    ],
@@ -4801,6 +4817,14 @@
     [
      "eater15bsf",
      null
+    ],
+    [
+     "resysf",
+     null
+    ],
+    [
+     "barmagsf",
+     null
     ]
    ],
    "dual": false,
@@ -4829,6 +4853,10 @@
     ],
     [
      "ba9sf",
+     null
+    ],
+    [
+     "barmagsf",
      null
     ]
    ],
@@ -4970,6 +4998,10 @@
     [
      "infatwsf",
      null
+    ],
+    [
+     "resysf",
+     null
     ]
    ],
    "dual": false,
@@ -5048,6 +5080,10 @@
     ],
     [
      "infatbsf",
+     null
+    ],
+    [
+     "chronsf",
      null
     ]
    ],
@@ -5210,6 +5246,10 @@
     [
      "eater15bsf",
      null
+    ],
+    [
+     "chronsf",
+     null
     ]
    ],
    "dual": false,
@@ -5230,6 +5270,10 @@
     [
      "timeoutbsf",
      7
+    ],
+    [
+     "chronsf",
+     null
     ]
    ],
    "dual": false,
@@ -5372,6 +5416,10 @@
     [
      "timeoutbsf",
      3
+    ],
+    [
+     "resysf",
+     null
     ]
    ],
    "dual": false,
@@ -5467,6 +5515,14 @@
     [
      "punchsf",
      null
+    ],
+    [
+     "barmagsf",
+     null
+    ],
+    [
+     "chronsf",
+     null
     ]
    ],
    "dual": false,
@@ -5483,6 +5539,10 @@
     [
      "timeoutbsf",
      16
+    ],
+    [
+     "resysf",
+     null
     ]
    ],
    "dual": false,
@@ -5690,6 +5750,10 @@
     [
      "cnt22bsf",
      null
+    ],
+    [
+     "resysf",
+     null
     ]
    ],
    "dual": false,
@@ -5705,6 +5769,10 @@
    "lists": [
     [
      "punchsf",
+     null
+    ],
+    [
+     "chronsf",
      null
     ]
    ],
@@ -5738,6 +5806,10 @@
    "lists": [
     [
      "punchsf",
+     null
+    ],
+    [
+     "chronsf",
      null
     ]
    ],
@@ -5931,6 +6003,10 @@
     [
      "jbbsf",
      null
+    ],
+    [
+     "barmagsf",
+     null
     ]
    ],
    "dual": false,
@@ -5947,6 +6023,10 @@
     [
      "timeoutbsf",
      17
+    ],
+    [
+     "chronsf",
+     null
     ]
    ],
    "dual": false,
@@ -6088,6 +6168,10 @@
     [
      "eater15bsf",
      null
+    ],
+    [
+     "barmagsf",
+     null
     ]
    ],
    "dual": false,
@@ -6120,6 +6204,14 @@
    "lists": [
     [
      "punchsf",
+     null
+    ],
+    [
+     "barmagsf",
+     null
+    ],
+    [
+     "chronsf",
      null
     ]
    ],
@@ -6225,6 +6317,982 @@
    ],
    "vb": "mixo",
    "dual": false
+  },
+  {
+   "name": "Good Good Culture Club",
+   "hood": "Mission",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7618143,
+   "lng": -122.4229679,
+   "lists": [
+    [
+     "resysf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Loló",
+   "hood": "Mission",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7573817,
+   "lng": -122.4213624,
+   "lists": [
+    [
+     "resysf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Heirloom Cafe SF",
+   "hood": "Mission",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 37.7571554,
+   "lng": -122.4147485,
+   "lists": [
+    [
+     "resysf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Laughing Monk",
+   "hood": "Bayview",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 37.7229805,
+   "lng": -122.3934245,
+   "lists": [
+    [
+     "resysf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Rabbit Hole",
+   "hood": "Bernal Heights",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7412154,
+   "lng": -122.42303,
+   "lists": [
+    [
+     "resysf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Morris",
+   "hood": "Mission",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 37.7629795,
+   "lng": -122.4084796,
+   "lists": [
+    [
+     "resysf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Liholiho Yacht Club",
+   "hood": "Lower Nob Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7882263,
+   "lng": -122.4146051,
+   "lists": [
+    [
+     "resysf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Tahona Mercado",
+   "hood": "Nob Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7920639,
+   "lng": -122.4157214,
+   "lists": [
+    [
+     "resysf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "E&O Kitchen and Bar",
+   "hood": "Union Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.789696,
+   "lng": -122.40585,
+   "lists": [
+    [
+     "resysf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Flatiron Wines & Spirits",
+   "hood": "SoMa",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 37.7879828,
+   "lng": -122.4014988,
+   "lists": [
+    [
+     "resysf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Violet's",
+   "hood": "Outer Richmond",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 37.7818401,
+   "lng": -122.4839394,
+   "lists": [
+    [
+     "resysf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "The Red Window",
+   "hood": "North Beach",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 37.7998396,
+   "lng": -122.409219,
+   "lists": [
+    [
+     "resysf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Camber",
+   "hood": "South San Francisco",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.656082,
+   "lng": -122.391408,
+   "lists": [
+    [
+     "resysf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Big Four",
+   "hood": "Nob Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7914799,
+   "lng": -122.4122568,
+   "lists": [
+    [
+     "resysf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "San Francisco Brewing Co",
+   "hood": "Russian Hill",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 37.8055723,
+   "lng": -122.4235068,
+   "lists": [
+    [
+     "resysf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Cantina Los Mayas",
+   "hood": "Richmond District",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 37.7770107,
+   "lng": -122.463509,
+   "lists": [
+    [
+     "resysf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Kaiyo Rooftop Bar",
+   "hood": "Mission Bay",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7788559,
+   "lng": -122.3924135,
+   "lists": [
+    [
+     "resysf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Leopold's",
+   "hood": "Russian Hill",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 37.7989223,
+   "lng": -122.4223028,
+   "lists": [
+    [
+     "resysf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Bar Maritime",
+   "hood": "Union Square",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 37.7897952,
+   "lng": -122.4075384,
+   "lists": [
+    [
+     "barmagsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Wildhawk",
+   "hood": "Mission",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7602333,
+   "lng": -122.4207706,
+   "lists": [
+    [
+     "barmagsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bourbon & Branch",
+   "hood": "Tenderloin",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7860052,
+   "lng": -122.4132059,
+   "lists": [
+    [
+     "barmagsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Old Ship Saloon",
+   "hood": "Jackson Square",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 37.7977532,
+   "lng": -122.4007788,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Elixir",
+   "hood": "Mission",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.764992,
+   "lng": -122.424317,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Shotwell's",
+   "hood": "Mission",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 37.7587417,
+   "lng": -122.4156533,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Little Shamrock",
+   "hood": "Inner Sunset",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 37.7657801,
+   "lng": -122.4667522,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Homestead",
+   "hood": "Mission",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7604199,
+   "lng": -122.4147102,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Hotel Utah",
+   "hood": "SoMa",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7794001,
+   "lng": -122.3980883,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Double Play",
+   "hood": "Mission",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 37.7653592,
+   "lng": -122.4106189,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "House of Shields",
+   "hood": "SoMa",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.78825,
+   "lng": -122.4012639,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Dogpatch Saloon",
+   "hood": "Dogpatch",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7580583,
+   "lng": -122.3885694,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Glen Park Station",
+   "hood": "Glen Park",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7341845,
+   "lng": -122.4341597,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Tony Nik's",
+   "hood": "North Beach",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.8000175,
+   "lng": -122.4089837,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Twin Peaks Tavern",
+   "hood": "Castro",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7623472,
+   "lng": -122.4350194,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Marina Lounge",
+   "hood": "Marina",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 37.8006451,
+   "lng": -122.4386397,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Trad'r Sam",
+   "hood": "Outer Richmond",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7802528,
+   "lng": -122.4856194,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Clooney's",
+   "hood": "Mission",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 37.7504268,
+   "lng": -122.4202389,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "The Riptide",
+   "hood": "Outer Sunset",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.741581,
+   "lng": -122.505349,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Gino and Carlo",
+   "hood": "North Beach",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 37.7997416,
+   "lng": -122.4081514,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Tommy's Joynt",
+   "hood": "Cathedral Hill",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 37.785519,
+   "lng": -122.421811,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Pop's",
+   "hood": "Mission",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7529581,
+   "lng": -122.4083202,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "St. Mary's Pub",
+   "hood": "Bernal Heights",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7354776,
+   "lng": -122.4244325,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "500 Club",
+   "hood": "Mission",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 37.7630266,
+   "lng": -122.4241625,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Phone Booth",
+   "hood": "Mission",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7508739,
+   "lng": -122.4162826,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Sam Jordan's",
+   "hood": "Bayview",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.740985,
+   "lng": -122.3887419,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Waziema",
+   "hood": "NoPa",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7746527,
+   "lng": -122.4379523,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Red's Place",
+   "hood": "Chinatown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7961555,
+   "lng": -122.4064806,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Philosophers Club",
+   "hood": "West Portal",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7408337,
+   "lng": -122.4654579,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Doc's Clock",
+   "hood": "Mission",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7583438,
+   "lng": -122.4188537,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Wild Side West",
+   "hood": "Bernal Heights",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7389698,
+   "lng": -122.4172101,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Gold Dust",
+   "hood": "Fisherman's Wharf",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.8081817,
+   "lng": -122.4153231,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Mr. Bing's",
+   "hood": "North Beach",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7971053,
+   "lng": -122.4058553,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Cinch Saloon",
+   "hood": "Polk Gulch",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7927389,
+   "lng": -122.4213194,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "El Rio",
+   "hood": "Mission",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.746794,
+   "lng": -122.419409,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Lone Palm",
+   "hood": "Mission",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7553017,
+   "lng": -122.4229579,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Brazen Head",
+   "hood": "Cow Hollow",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7992872,
+   "lng": -122.4323537,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "O'Keeffe's",
+   "hood": "Inner Richmond",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7774237,
+   "lng": -122.4628341,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Ramp",
+   "hood": "Mission Bay",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 37.7640885,
+   "lng": -122.3871969,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Aunt Charlie's",
+   "hood": "Tenderloin",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7829397,
+   "lng": -122.4114213,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Toronado",
+   "hood": "Lower Haight",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7719042,
+   "lng": -122.4312295,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Plough & Stars",
+   "hood": "Inner Richmond",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7833159,
+   "lng": -122.4605441,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Lone Star Saloon",
+   "hood": "SoMa",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7721491,
+   "lng": -122.4108685,
+   "lists": [
+    [
+     "chronsf",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
   }
  ],
  "rlists": {
@@ -6489,6 +7557,33 @@
    "name": "Beli's Top Bars in San Francisco (2025)",
    "year": "2025",
    "ranked": true,
+   "starChip": false
+  },
+  "resysf": {
+   "cls": "b-resysf",
+   "mono": "RE",
+   "tag": "RESY",
+   "name": "Resy: The Best Places to Drink in the Bay Area",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "barmagsf": {
+   "cls": "b-barmagsf",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The 13 Best Bars in San Francisco",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "chronsf": {
+   "cls": "b-chronsf",
+   "mono": "SF",
+   "tag": "SFCHRON",
+   "name": "San Francisco Chronicle: The Ultimate Guide to Classic S.F. Bars",
+   "year": "2025",
+   "ranked": false,
    "starChip": false
   }
  }
