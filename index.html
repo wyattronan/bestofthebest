@@ -2483,21 +2483,16 @@ function drawMine(){
   var kindSeg='<div class="seg-ctl" id="mineKind">'+[['resto','Restaurants'],['bars','Bars'],['both','Combined']].map(function(p){return '<button data-mk="'+p[0]+'" class="'+(MINE.kind===p[0]?"on":"")+'">'+p[1]+'</button>';}).join("")+'</div>';
   var sortSeg='<div class="seg-ctl" id="mineSort">'+[['rating','★ My rating'],['lists','☰ Most lists'],['pct','% of city lists']].map(function(p){return '<button data-ms="'+p[0]+'" class="'+(MINE.sort===p[0]?"on":"")+'">'+p[1]+'</button>';}).join("")+'</div>';
   var minSel = MINE.cat==="rated" ? '<div class="mine-cg"><span class="ctl-label">Min</span><select class="mine-min" id="mineMin">'+[[0,'Any'],[5,'5★'],[4.5,'4.5★+'],[4,'4★+'],[3.5,'3.5★+'],[3,'3★+'],[2.5,'2.5★+'],[2,'2★+'],[1,'1★+']].map(function(o){return '<option value="'+o[0]+'"'+(MINE.minRating==o[0]?' selected':'')+'>'+o[1]+'</option>';}).join('')+'</select></div>' : '';
-  var gToggle='<label class="mine-gcmp"><input type="checkbox" id="mineGoogle"'+(MINE.google?" checked":"")+'> Compare to Google rating</label>';
-
   var title={want:"Want to try",been:"Been there",rated:"My ratings"}[MINE.cat];
   var rows=items.length? items.map(function(it,i){
     var badge=it.kind==="bars"?"Bar":"Restaurant";
     var yours=rateBlock(it.r,"mr-you","you");
-    var goog = MINE.google ? rateBlock(0,"mr-goog","Google") : "";
     return '<div class="mine-row" data-city="'+esc(it.city)+'" data-kind="'+esc(it.kind)+'">'+
       '<div class="mr-no">'+(i+1)+'</div>'+
       '<div class="mr-main"><div class="mr-name">'+esc(it.name)+(it.cl?' <span class="usa-closed">✕ closed</span>':"")+'</div>'+
       '<div class="mr-meta">'+esc(NAME[it.city]||it.city)+' · <span class="mr-tag">'+badge+'</span> · '+it.n+' lists · '+it.pct+'% of city</div></div>'+
-      '<div class="mr-rates">'+yours+goog+'</div></div>';
+      '<div class="mr-rates">'+yours+'</div></div>';
   }).join("") : '<div class="mine-empty">Nothing here yet. Mark places as '+esc((title||"").toLowerCase())+' from any guide and they’ll gather here.</div>';
-
-  var gNote = (MINE.google && !placesKeyOk() && items.length) ? '<div class="mine-gnote">Google ratings aren’t connected yet — add your Places API key to switch them on.</div>' : "";
 
   sec.innerHTML='<div class="mine-wrap">'+
     '<div class="mine-top"><button class="mine-back" id="mineBack">← Back</button><div class="usa-kicker">Your Collection</div></div>'+
@@ -2507,8 +2502,7 @@ function drawMine(){
       '<div class="mine-cg"><span class="ctl-label">Type</span>'+kindSeg+'</div>'+
       '<div class="mine-cg"><span class="ctl-label">Sort</span>'+sortSeg+'</div>'+
       minSel+
-      '<div class="mine-cg">'+gToggle+'</div></div>'+
-    gNote+
+      '</div>'+
     '<div class="mine-list">'+rows+'</div>'+
     '<div class="mine-foot">'+items.length+' '+(items.length===1?"place":"places")+'</div></div>';
 
@@ -2519,10 +2513,6 @@ function drawMine(){
   var mm=document.getElementById("mineMin"); if(mm) mm.onchange=function(){ MINE.minRating=parseFloat(mm.value)||0; drawMine(); };
   var bk=document.getElementById("mineBack"); if(bk) bk.onclick=function(){ closeMyPlaces(); };
   sec.querySelectorAll(".mine-row").forEach(function(row){ row.onclick=function(){ var c=row.dataset.city, kd=row.dataset.kind; closeMyPlaces(); location.hash="#/"+c+"/"+(kd==="bars"?"bars":"restaurants"); window.scrollTo({top:0,behavior:"smooth"}); }; });
-  if(MINE.google && placesKeyOk()){
-    var rowsEls=sec.querySelectorAll(".mine-row");
-    items.forEach(function(it,ix){ bobGoogleRating(it.city,it.kind,it.name).then(function(gr){ if(!gr) return; var row=rowsEls[ix]; if(!row) return; var gb=row.querySelector(".mr-goog"); if(!gb) return; var ds=gb.querySelector(".mr-dstars"), nu=gb.querySelector(".mr-num"); if(ds) ds.innerHTML=dstars(gr.rating||0); if(nu) nu.textContent=gr.rating?Number(gr.rating).toFixed(1):"—"; if(gr.count){ var lb=gb.querySelector(".mr-rlabel"); if(lb) lb.textContent="Google · "+(gr.count>=1000?(Math.round(gr.count/100)/10)+"k":gr.count); } }); });
-  }
 }
 window.openMyPlaces=openMyPlaces;
 window.addEventListener("hashchange",function(){ closeMyPlaces(); });
