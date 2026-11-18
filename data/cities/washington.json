@@ -448,6 +448,10 @@
     [
      "wyattRdc",
      10
+    ],
+    [
+     "washdc100",
+     10
     ]
    ],
    "dual": false,
@@ -1022,6 +1026,10 @@
     [
      "infatdc",
      null
+    ],
+    [
+     "washdc100",
+     42
     ]
    ],
    "dual": false,
@@ -1100,6 +1108,10 @@
     [
      "washdc",
      19
+    ],
+    [
+     "washdc100",
+     19
     ]
    ],
    "dual": false,
@@ -1122,6 +1134,10 @@
     ],
     [
      "washdc",
+     19
+    ],
+    [
+     "washdc100",
      19
     ]
    ],
@@ -2415,6 +2431,10 @@
     [
      "eater38dc",
      null
+    ],
+    [
+     "washdc100",
+     60
     ]
    ],
    "dual": false,
@@ -2612,6 +2632,10 @@
     [
      "eater38dc",
      null
+    ],
+    [
+     "washdc100",
+     75
     ]
    ],
    "dual": false,
@@ -2872,40 +2896,6 @@
    "vb": "global"
   },
   {
-   "name": "2Fifty",
-   "hood": "",
-   "type": "newam",
-   "typekind": "cui",
-   "lat": 38.8706,
-   "lng": -77.0089,
-   "pr": 3,
-   "lists": [
-    [
-     "washdc100",
-     10
-    ]
-   ],
-   "vb": "datenight",
-   "dual": false
-  },
-  {
-   "name": "St. James & Cane",
-   "hood": "",
-   "type": "newam",
-   "typekind": "cui",
-   "lat": 38.9315,
-   "lng": -77.0593,
-   "pr": 3,
-   "lists": [
-    [
-     "washdc100",
-     19
-    ]
-   ],
-   "vb": "datenight",
-   "dual": false
-  },
-  {
    "name": "Isla",
    "hood": "",
    "type": "newam",
@@ -3054,23 +3044,6 @@
     [
      "washdc100",
      41
-    ]
-   ],
-   "vb": "datenight",
-   "dual": false
-  },
-  {
-   "name": "Thip Khao & Padaek",
-   "hood": "",
-   "type": "newam",
-   "typekind": "cui",
-   "lat": 38.8909,
-   "lng": -77.0201,
-   "pr": 3,
-   "lists": [
-    [
-     "washdc100",
-     42
     ]
    ],
    "vb": "datenight",
@@ -3252,23 +3225,6 @@
    "to": 1
   },
   {
-   "name": "Aventino",
-   "hood": "",
-   "type": "newam",
-   "typekind": "cui",
-   "lat": 38.8706,
-   "lng": -77.0553,
-   "pr": 3,
-   "lists": [
-    [
-     "washdc100",
-     60
-    ]
-   ],
-   "vb": "datenight",
-   "dual": false
-  },
-  {
    "name": "Koryouri Urara",
    "hood": "",
    "type": "newam",
@@ -3388,23 +3344,6 @@
    "dual": false
   },
   {
-   "name": "Brasero Atlántico",
-   "hood": "",
-   "type": "newam",
-   "typekind": "cui",
-   "lat": 38.9322,
-   "lng": -77.0385,
-   "pr": 3,
-   "lists": [
-    [
-     "washdc100",
-     75
-    ]
-   ],
-   "vb": "datenight",
-   "dual": false
-  },
-  {
    "name": "Tiffin Hut",
    "hood": "",
    "type": "newam",
@@ -3491,7 +3430,7 @@
    "dual": false
   },
   {
-   "name": "All-Purpose & AP Pizza Shop",
+   "name": "All-Purpose",
    "hood": "",
    "type": "quick",
    "typekind": "cui",

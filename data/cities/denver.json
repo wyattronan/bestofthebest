@@ -664,23 +664,6 @@
    "vb": "tasting"
   },
   {
-   "name": "Woody's Wings N Things",
-   "hood": "Westminster",
-   "type": "asian",
-   "typekind": "cui",
-   "lat": 39.8205185,
-   "lng": -105.0351181,
-   "pr": 1,
-   "lists": [
-    [
-     "eater38",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "asian"
-  },
-  {
    "name": "Tocabe",
    "hood": "Berkeley",
    "type": "global",
@@ -1372,6 +1355,10 @@
    "lists": [
     [
      "cntden",
+     null
+    ],
+    [
+     "eater38",
      null
     ]
    ],
@@ -2352,22 +2339,6 @@
    ],
    "dual": false,
    "vb": "vibey"
-  },
-  {
-   "name": "Lincolns",
-   "hood": "Union Station",
-   "type": "b",
-   "typekind": "drink",
-   "lat": 39.7542307,
-   "lng": -104.9983799,
-   "lists": [
-    [
-     "westword",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "dive"
   },
   {
    "name": "Lincoln's Roadhouse",

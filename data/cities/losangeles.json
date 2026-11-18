@@ -1505,6 +1505,10 @@
     [
      "infatlun",
      null
+    ],
+    [
+     "latimes101",
+     29
     ]
    ],
    "dual": false,
@@ -3196,27 +3200,6 @@
    ],
    "dual": false,
    "vb": "tasting"
-  },
-  {
-   "name": "Little Fish Melrose Hill",
-   "hood": "Melrose Hill",
-   "type": "seafood",
-   "typekind": "cui",
-   "lat": 34.0834,
-   "lng": -118.3,
-   "pr": 2,
-   "lists": [
-    [
-     "bibla",
-     null
-    ],
-    [
-     "latimes101",
-     29
-    ]
-   ],
-   "dual": false,
-   "vb": "global"
   },
   {
    "name": "Liu's Cafe",

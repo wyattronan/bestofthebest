@@ -1413,25 +1413,6 @@
    "to": 1
   },
   {
-   "name": "Mala Sichuan",
-   "hood": "Chinatown",
-   "type": "asian",
-   "typekind": "cui",
-   "lat": 29.6955,
-   "lng": -95.5632,
-   "pr": 2,
-   "lists": [
-    [
-     "chron100",
-     null
-    ]
-   ],
-   "vb": "asian",
-   "dual": false,
-   "vg": 1,
-   "to": 1
-  },
-  {
    "name": "Mandola's Deli",
    "hood": "",
    "type": "deli",
@@ -1688,25 +1669,6 @@
    "vg": 1
   },
   {
-   "name": "Sao Lao",
-   "hood": "",
-   "type": "asian",
-   "typekind": "cui",
-   "lat": 29.7511,
-   "lng": -95.3746,
-   "pr": 1,
-   "lists": [
-    [
-     "chron100",
-     null
-    ]
-   ],
-   "vb": "asian",
-   "dual": false,
-   "vg": 1,
-   "to": 1
-  },
-  {
    "name": "Sayad Mediterranean Kitchen",
    "hood": "",
    "type": "global",
@@ -1888,25 +1850,6 @@
    ],
    "vb": "specialty",
    "dual": false,
-   "to": 1
-  },
-  {
-   "name": "Thien Thanh",
-   "hood": "",
-   "type": "asian",
-   "typekind": "cui",
-   "lat": 29.7469,
-   "lng": -95.3746,
-   "pr": 1,
-   "lists": [
-    [
-     "chron100",
-     null
-    ]
-   ],
-   "vb": "asian",
-   "dual": false,
-   "vg": 1,
    "to": 1
   },
   {
@@ -2134,6 +2077,10 @@
     [
      "bibhou",
      null
+    ],
+    [
+     "chron100",
+     null
     ]
    ],
    "vb": "asian",
@@ -2184,7 +2131,7 @@
   },
   {
    "name": "Blue Nile Ethiopian Restaurant",
-   "hood": "",
+   "hood": "Upper Kirby",
    "type": "global",
    "typekind": "cui",
    "lat": 29.7634,
@@ -2193,6 +2140,10 @@
    "lists": [
     [
      "eater38hou",
+     null
+    ],
+    [
+     "cnthou",
      null
     ]
    ],
@@ -2496,6 +2447,10 @@
    "lists": [
     [
      "infathou",
+     null
+    ],
+    [
+     "chron100",
      null
     ]
    ],
@@ -2880,6 +2835,10 @@
     [
      "infatlun",
      null
+    ],
+    [
+     "chron100",
+     null
     ]
    ],
    "dual": false,
@@ -3041,23 +3000,6 @@
    "vb": "global"
   },
   {
-   "name": "Blue Nile Authentic Ethiopian Restaurant",
-   "hood": "Upper Kirby",
-   "type": "african",
-   "typekind": "cui",
-   "lat": 29.737587,
-   "lng": -95.4265229,
-   "pr": 2,
-   "lists": [
-    [
-     "cnthou",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "global"
-  },
-  {
    "name": "Crawfish & Noodles",
    "hood": "Asiatown",
    "type": "vietnamese",
@@ -3102,7 +3044,7 @@
   },
   {
    "name": "Anvil Bar & Refuge",
-   "hood": "",
+   "hood": "Montrose",
    "type": "m",
    "typekind": "drink",
    "lat": 29.7652,
@@ -3143,6 +3085,14 @@
     [
      "eater38b12",
      null
+    ],
+    [
+     "infathou",
+     null
+    ],
+    [
+     "gq25b10",
+     15
     ]
    ],
    "vb": "mixo",
@@ -3333,26 +3283,6 @@
    "dual": false
   },
   {
-   "name": "Capt. Foxheart's Bad News Bar & Spirit Lodge",
-   "hood": "",
-   "type": "m",
-   "typekind": "drink",
-   "lat": 29.7706,
-   "lng": -95.3498,
-   "lists": [
-    [
-     "chronbhou",
-     null
-    ],
-    [
-     "punchhou",
-     null
-    ]
-   ],
-   "vb": "mixo",
-   "dual": false
-  },
-  {
    "name": "Donna's",
    "hood": "",
    "type": "m",
@@ -3390,26 +3320,6 @@
    "lists": [
     [
      "chronbhou",
-     null
-    ]
-   ],
-   "vb": "mixo",
-   "dual": false
-  },
-  {
-   "name": "Jethro's",
-   "hood": "",
-   "type": "m",
-   "typekind": "drink",
-   "lat": 29.7472,
-   "lng": -95.3794,
-   "lists": [
-    [
-     "chronbhou",
-     null
-    ],
-    [
-     "houstoniahou",
      null
     ]
    ],
@@ -3853,38 +3763,6 @@
    "dual": false
   },
   {
-   "name": "Captain Foxheart's Bad News Bar & Spirits Lodge",
-   "hood": "",
-   "type": "m",
-   "typekind": "drink",
-   "lat": 29.7712,
-   "lng": -95.3522,
-   "lists": [
-    [
-     "eaterbhou",
-     null
-    ],
-    [
-     "houstoniahou",
-     null
-    ],
-    [
-     "bonapphou",
-     null
-    ],
-    [
-     "timeouthou",
-     null
-    ],
-    [
-     "cnthou",
-     null
-    ]
-   ],
-   "vb": "mixo",
-   "dual": false
-  },
-  {
    "name": "Dean's Downtown",
    "hood": "",
    "type": "m",
@@ -3954,6 +3832,14 @@
    "lists": [
     [
      "eaterbhou",
+     null
+    ],
+    [
+     "chronbhou",
+     null
+    ],
+    [
+     "houstoniahou",
      null
     ]
    ],
@@ -4449,22 +4335,6 @@
    "dual": false
   },
   {
-   "name": "13 Degrees Celsius",
-   "hood": "",
-   "type": "w",
-   "typekind": "drink",
-   "lat": 29.7439,
-   "lng": -95.3558,
-   "lists": [
-    [
-     "punchhou",
-     null
-    ]
-   ],
-   "vb": "wine",
-   "dual": false
-  },
-  {
    "name": "Camerata at Paulie's",
    "hood": "",
    "type": "w",
@@ -4714,6 +4584,10 @@
     ],
     [
      "infathou",
+     null
+    ],
+    [
+     "punchhou",
      null
     ]
    ],
@@ -5263,6 +5137,34 @@
     [
      "infathou",
      null
+    ],
+    [
+     "chronbhou",
+     null
+    ],
+    [
+     "punchhou",
+     null
+    ],
+    [
+     "eaterbhou",
+     null
+    ],
+    [
+     "houstoniahou",
+     null
+    ],
+    [
+     "bonapphou",
+     null
+    ],
+    [
+     "timeouthou",
+     null
+    ],
+    [
+     "cnthou",
+     null
     ]
    ],
    "dual": false,
@@ -5283,26 +5185,6 @@
    ],
    "dual": false,
    "vb": "dive"
-  },
-  {
-   "name": "Anvil",
-   "hood": "Montrose",
-   "type": "m",
-   "typekind": "drink",
-   "lat": 29.7429883,
-   "lng": -95.3969086,
-   "lists": [
-    [
-     "infathou",
-     null
-    ],
-    [
-     "gq25b10",
-     15
-    ]
-   ],
-   "dual": false,
-   "vb": "mixo"
   },
   {
    "name": "Case Chocolates",

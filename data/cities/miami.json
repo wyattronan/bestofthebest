@@ -2513,6 +2513,10 @@
     [
      "esq24",
      null
+    ],
+    [
+     "barmagmia",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2831,58 +2835,6 @@
    "dual": false
   },
   {
-   "name": "Sweet Liberty Drink & Supply Co.",
-   "hood": "Miami Beach",
-   "type": "m",
-   "typekind": "drink",
-   "lat": 25.81812,
-   "lng": -80.1234,
-   "lists": [
-    [
-     "infatbmia",
-     null
-    ],
-    [
-     "eaterbmia",
-     null
-    ],
-    [
-     "bonappmia",
-     null
-    ],
-    [
-     "eatermia",
-     null
-    ]
-   ],
-   "vb": "mixo",
-   "dual": false
-  },
-  {
-   "name": "Swizzle Rum Bar & Drinkery",
-   "hood": "South Beach",
-   "type": "m",
-   "typekind": "drink",
-   "lat": 25.78938,
-   "lng": -80.12176,
-   "lists": [
-    [
-     "infatbmia",
-     null
-    ],
-    [
-     "eaterbmia",
-     null
-    ],
-    [
-     "barmagmia",
-     null
-    ]
-   ],
-   "vb": "vibey",
-   "dual": false
-  },
-  {
    "name": "Champagne Bar at The Surf Club",
    "hood": "Surfside",
    "type": "w",
@@ -2900,6 +2852,10 @@
     ],
     [
      "bonappmia",
+     null
+    ],
+    [
+     "barmagmia",
      null
     ]
    ],
@@ -2937,6 +2893,18 @@
     [
      "tomia",
      7
+    ],
+    [
+     "infatbmia",
+     null
+    ],
+    [
+     "eaterbmia",
+     null
+    ],
+    [
+     "barmagmia",
+     null
     ]
    ],
    "vb": "vibey",
@@ -2972,6 +2940,22 @@
     ],
     [
      "barmagmia",
+     null
+    ],
+    [
+     "infatbmia",
+     null
+    ],
+    [
+     "eaterbmia",
+     null
+    ],
+    [
+     "bonappmia",
+     null
+    ],
+    [
+     "eatermia",
      null
     ]
    ],
@@ -3393,38 +3377,6 @@
    ],
    "dual": false,
    "vb": "mixo"
-  },
-  {
-   "name": "Bar Kaiju",
-   "hood": "Little River",
-   "type": "m",
-   "typekind": "drink",
-   "lat": 25.85194,
-   "lng": -80.1931731,
-   "lists": [
-    [
-     "barmagmia",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "mixo"
-  },
-  {
-   "name": "Champagne Bar at Four Seasons Surf Club",
-   "hood": "Surfside",
-   "type": "w",
-   "typekind": "drink",
-   "lat": 25.877559,
-   "lng": -80.1214868,
-   "lists": [
-    [
-     "barmagmia",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "wine"
   },
   {
    "name": "Macchialina",

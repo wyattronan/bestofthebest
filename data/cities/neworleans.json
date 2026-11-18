@@ -812,6 +812,14 @@
     [
      "jbnola",
      null
+    ],
+    [
+     "infatlun",
+     null
+    ],
+    [
+     "cntnola",
+     null
     ]
    ],
    "vb": "specialty",
@@ -1361,28 +1369,6 @@
    "to": 1
   },
   {
-   "name": "Pêche Seafood Grill",
-   "hood": "Warehouse District",
-   "type": "seafood",
-   "typekind": "cui",
-   "lat": 29.9452145,
-   "lng": -90.0691312,
-   "pr": 3,
-   "lists": [
-    [
-     "infatlun",
-     null
-    ],
-    [
-     "cntnola",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "datenight",
-   "lu": 1
-  },
-  {
    "name": "Chi Chi's Chicken and Beer",
    "hood": "Freret",
    "type": "newam",
@@ -1825,22 +1811,6 @@
     ]
    ],
    "vb": "vibey",
-   "dual": false
-  },
-  {
-   "name": "Bacchanal Wine",
-   "hood": "Bywater",
-   "type": "w",
-   "typekind": "drink",
-   "lat": 29.95994,
-   "lng": -90.05668,
-   "lists": [
-    [
-     "infatbnola",
-     null
-    ]
-   ],
-   "vb": "wine",
    "dual": false
   },
   {
@@ -2553,6 +2523,10 @@
     ],
     [
      "nolamagno",
+     null
+    ],
+    [
+     "infatbnola",
      null
     ]
    ],

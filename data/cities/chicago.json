@@ -1644,25 +1644,6 @@
    "to": 1
   },
   {
-   "name": "Taqueria Chingon",
-   "hood": "Bucktown",
-   "type": "mexican",
-   "typekind": "cui",
-   "lat": 41.9224,
-   "lng": -87.6875,
-   "vg": 1,
-   "pr": 1,
-   "lists": [
-    [
-     "bib",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "quick",
-   "to": 1
-  },
-  {
    "name": "Santa Masa Tamaleria",
    "hood": "Dunning",
    "type": "mexican",
@@ -3485,6 +3466,10 @@
    "lists": [
     [
      "infatlun",
+     null
+    ],
+    [
+     "bib",
      null
     ]
    ],

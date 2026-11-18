@@ -292,6 +292,10 @@
     [
      "eater38atl",
      null
+    ],
+    [
+     "atlmag75",
+     null
     ]
    ],
    "vb": "datenight",
@@ -439,7 +443,7 @@
   },
   {
    "name": "Delbar",
-   "hood": "",
+   "hood": "Inman Park",
    "type": "global",
    "typekind": "cui",
    "lat": 33.7655,
@@ -452,6 +456,14 @@
     ],
     [
      "infatlun",
+     null
+    ],
+    [
+     "eater38atl",
+     null
+    ],
+    [
+     "infatatl",
      null
     ]
    ],
@@ -812,6 +824,10 @@
    "lists": [
     [
      "ajcatl",
+     null
+    ],
+    [
+     "atlmag75",
      null
     ]
    ],
@@ -1451,6 +1467,10 @@
     [
      "ot100r26",
      null
+    ],
+    [
+     "atlmag75",
+     null
     ]
    ],
    "vb": "datenight",
@@ -1776,23 +1796,6 @@
    "dual": false
   },
   {
-   "name": "Avize Modern Alpine",
-   "hood": "",
-   "type": "newam",
-   "typekind": "cui",
-   "lat": 33.7565,
-   "lng": -84.4162,
-   "pr": 2,
-   "lists": [
-    [
-     "atlmag75",
-     null
-    ]
-   ],
-   "vb": "datenight",
-   "dual": false
-  },
-  {
    "name": "Bar Ana",
    "hood": "",
    "type": "newam",
@@ -1849,6 +1852,10 @@
     ],
     [
      "nytatl",
+     null
+    ],
+    [
+     "bibatl",
      null
     ]
    ],
@@ -1940,6 +1947,10 @@
     [
      "atlmag75",
      null
+    ],
+    [
+     "resyatl",
+     17
     ]
    ],
    "vb": "global",
@@ -2061,24 +2072,6 @@
    "dual": false
   },
   {
-   "name": "Heirloom Market",
-   "hood": "",
-   "type": "bbq",
-   "typekind": "cui",
-   "lat": 33.7435,
-   "lng": -84.3808,
-   "pr": 2,
-   "lists": [
-    [
-     "atlmag75",
-     null
-    ]
-   ],
-   "vb": "bbq",
-   "dual": false,
-   "to": 1
-  },
-  {
    "name": "Hen Mother Cookhouse",
    "hood": "",
    "type": "newam",
@@ -2165,23 +2158,6 @@
    "vg": 1,
    "to": 1,
    "lu": 1
-  },
-  {
-   "name": "La Grotta Ristorante Italiano",
-   "hood": "",
-   "type": "italian",
-   "typekind": "cui",
-   "lat": 33.737,
-   "lng": -84.3652,
-   "pr": 2,
-   "lists": [
-    [
-     "atlmag75",
-     null
-    ]
-   ],
-   "vb": "datenight",
-   "dual": false
   },
   {
    "name": "LanZhou Ramen",
@@ -2313,23 +2289,6 @@
    "dual": false,
    "vg": 1,
    "to": 1
-  },
-  {
-   "name": "Pata Negra Mezcaleria",
-   "hood": "",
-   "type": "newam",
-   "typekind": "cui",
-   "lat": 33.752,
-   "lng": -84.4078,
-   "pr": 2,
-   "lists": [
-    [
-     "atlmag75",
-     null
-    ]
-   ],
-   "vb": "datenight",
-   "dual": false
   },
   {
    "name": "Pink Lotus",
@@ -2586,6 +2545,10 @@
     [
      "nytatl",
      null
+    ],
+    [
+     "atlmag75",
+     null
     ]
    ],
    "vb": "bbq",
@@ -2675,28 +2638,6 @@
    ],
    "vb": "datenight",
    "dual": false
-  },
-  {
-   "name": "Delbar Middle Eastern",
-   "hood": "Inman Park",
-   "type": "med",
-   "typekind": "cui",
-   "lat": 33.7375,
-   "lng": -84.3892,
-   "pr": 3,
-   "lists": [
-    [
-     "eater38atl",
-     null
-    ],
-    [
-     "infatatl",
-     null
-    ]
-   ],
-   "vb": "global",
-   "dual": false,
-   "vg": 1
   },
   {
    "name": "Busy Bee Cafe",
@@ -3027,24 +2968,6 @@
    "dual": false
   },
   {
-   "name": "Delbar Middle Eastern – Buckhead",
-   "hood": "",
-   "type": "global",
-   "typekind": "cui",
-   "lat": 33.726,
-   "lng": -84.3706,
-   "pr": 2,
-   "lists": [
-    [
-     "resyatl",
-     17
-    ]
-   ],
-   "vb": "global",
-   "dual": false,
-   "vg": 1
-  },
-  {
    "name": "Mushi Ni",
    "hood": "",
    "type": "newam",
@@ -3111,24 +3034,6 @@
    ],
    "vb": "datenight",
    "dual": false
-  },
-  {
-   "name": "Bomb Biscuit Co.",
-   "hood": "",
-   "type": "bakery",
-   "typekind": "cui",
-   "lat": 33.7485,
-   "lng": -84.4156,
-   "pr": 1,
-   "lists": [
-    [
-     "bibatl",
-     null
-    ]
-   ],
-   "vb": "brunch",
-   "dual": false,
-   "to": 1
   },
   {
    "name": "Fred's Meat & Bread",

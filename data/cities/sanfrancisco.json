@@ -2062,6 +2062,10 @@
     [
      "eater38sf",
      null
+    ],
+    [
+     "sfchron100",
+     41
     ]
    ],
    "dual": false,
@@ -3631,23 +3635,6 @@
     [
      "sfchron100",
      40
-    ]
-   ],
-   "vb": "datenight",
-   "dual": false
-  },
-  {
-   "name": "Fikscue",
-   "hood": "",
-   "type": "newam",
-   "typekind": "cui",
-   "lat": 37.7702,
-   "lng": -122.4073,
-   "pr": 3,
-   "lists": [
-    [
-     "sfchron100",
-     41
     ]
    ],
    "vb": "datenight",
@@ -6136,21 +6123,6 @@
    "vb": "wine"
   },
   {
-   "name": "Royal Cuckoo Market + Horsies Market & Saloon",
-   "hood": "Mission",
-   "type": "b",
-   "typekind": "drink",
-   "note": "Location unverified — not pinned on the map",
-   "lists": [
-    [
-     "timeoutbsf",
-     11
-    ]
-   ],
-   "dual": false,
-   "vb": "livemusic"
-  },
-  {
    "name": "Scarlet Fox",
    "hood": "San Francisco",
    "type": "w",
@@ -6506,6 +6478,10 @@
     [
      "belib",
      2
+    ],
+    [
+     "timeoutbsf",
+     11
     ]
    ],
    "vb": "wine",

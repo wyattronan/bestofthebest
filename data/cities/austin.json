@@ -251,29 +251,6 @@
    "vg": 1
   },
   {
-   "name": "P Thai's Khao Man Gai & Noodles",
-   "hood": "",
-   "type": "asian",
-   "typekind": "cui",
-   "lat": 30.2755,
-   "lng": -97.7406,
-   "pr": 1,
-   "lists": [
-    [
-     "eater38aus",
-     null
-    ],
-    [
-     "nytaus",
-     null
-    ]
-   ],
-   "vb": "asian",
-   "dual": false,
-   "vg": 1,
-   "to": 1
-  },
-  {
    "name": "Fabrik",
    "hood": "",
    "type": "newam",
@@ -658,28 +635,6 @@
    "dual": false
   },
   {
-   "name": "Joe's Bakery & Coffee Shop",
-   "hood": "",
-   "type": "classics",
-   "typekind": "cui",
-   "lat": 30.2575,
-   "lng": -97.761,
-   "pr": 1,
-   "lists": [
-    [
-     "eater38aus",
-     null
-    ],
-    [
-     "nytaus",
-     null
-    ]
-   ],
-   "vb": "specialty",
-   "dual": false,
-   "to": 1
-  },
-  {
    "name": "Dee Dee",
    "hood": "",
    "type": "newam",
@@ -806,6 +761,14 @@
     [
      "eater38aus",
      null
+    ],
+    [
+     "austinmo",
+     14
+    ],
+    [
+     "cntaus",
+     null
     ]
    ],
    "vb": "datenight",
@@ -862,6 +825,14 @@
     [
      "nytaus",
      null
+    ],
+    [
+     "infataus",
+     null
+    ],
+    [
+     "michaus",
+     null
     ]
    ],
    "vb": "bbq",
@@ -917,28 +888,6 @@
    "to": 1
   },
   {
-   "name": "LeRoy and Lewis Barbecue",
-   "hood": "",
-   "type": "bbq",
-   "typekind": "cui",
-   "lat": 30.269,
-   "lng": -97.7598,
-   "pr": 2,
-   "lists": [
-    [
-     "infataus",
-     null
-    ],
-    [
-     "michaus",
-     null
-    ]
-   ],
-   "vb": "bbq",
-   "dual": false,
-   "to": 1
-  },
-  {
    "name": "Ramen Del Barrio",
    "hood": "",
    "type": "asian",
@@ -971,6 +920,14 @@
    "lists": [
     [
      "infataus",
+     null
+    ],
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "nytaus",
      null
     ]
    ],
@@ -1938,27 +1895,6 @@
    "dual": false
   },
   {
-   "name": "Justine's Brasserie",
-   "hood": "",
-   "type": "newam",
-   "typekind": "cui",
-   "lat": 30.2725,
-   "lng": -97.719,
-   "pr": 2,
-   "lists": [
-    [
-     "austinmo",
-     14
-    ],
-    [
-     "cntaus",
-     null
-    ]
-   ],
-   "vb": "datenight",
-   "dual": false
-  },
-  {
    "name": "Joe's Bakery",
    "hood": "",
    "type": "bakery",
@@ -1970,6 +1906,14 @@
     [
      "austinmo",
      17
+    ],
+    [
+     "eater38aus",
+     null
+    ],
+    [
+     "nytaus",
+     null
     ]
    ],
    "vb": "brunch",
@@ -2591,22 +2535,6 @@
    "typekind": "drink",
    "lat": 30.2595,
    "lng": -97.7286,
-   "lists": [
-    [
-     "resybaus",
-     null
-    ]
-   ],
-   "vb": "mixo",
-   "dual": false
-  },
-  {
-   "name": "Péché Austin",
-   "hood": "",
-   "type": "m",
-   "typekind": "drink",
-   "lat": 30.286,
-   "lng": -97.764,
    "lists": [
     [
      "resybaus",
@@ -3582,6 +3510,10 @@
    "lists": [
     [
      "austinmob",
+     null
+    ],
+    [
+     "resybaus",
      null
     ]
    ],

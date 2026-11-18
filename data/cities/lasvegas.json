@@ -1896,22 +1896,6 @@
    "vb": "mixo"
   },
   {
-   "name": "Easy's",
-   "hood": "Aria",
-   "type": "m",
-   "typekind": "drink",
-   "lat": 36.1073106,
-   "lng": -115.1774099,
-   "lists": [
-    [
-     "eaterlv",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "mixo"
-  },
-  {
    "name": "Bar Centro",
    "hood": "Aria",
    "type": "m",
@@ -1990,22 +1974,6 @@
    ],
    "dual": false,
    "vb": "livemusic"
-  },
-  {
-   "name": "Peppermill Restaurant and Fireside Lounge",
-   "hood": "Strip",
-   "type": "m",
-   "typekind": "drink",
-   "lat": 36.1336884,
-   "lng": -115.1632833,
-   "lists": [
-    [
-     "eaterlv",
-     null
-    ]
-   ],
-   "dual": false,
-   "vb": "mixo"
   },
   {
    "name": "Liquid Diet",
@@ -2394,6 +2362,10 @@
     [
      "barmaglv",
      null
+    ],
+    [
+     "eaterlv",
+     null
     ]
    ],
    "dual": true,
@@ -2561,6 +2533,10 @@
    "lists": [
     [
      "barmaglv",
+     null
+    ],
+    [
+     "eaterlv",
      null
     ]
    ],
