@@ -2457,8 +2457,8 @@ function bobGoogleRating(city,kind,name){
   if(v&&v.lat!=null&&v.lng!=null) body.locationBias={circle:{center:{latitude:v.lat,longitude:v.lng},radius:3000}};
   return fetch("https://places.googleapis.com/v1/places:searchText",{method:"POST",headers:{"Content-Type":"application/json","X-Goog-Api-Key":window.BOB_PLACES_KEY,"X-Goog-FieldMask":"places.rating,places.userRatingCount,places.displayName"},body:JSON.stringify(body)})
     .then(function(r){return r.json();})
-    .then(function(j){ var p=(j&&j.places&&j.places[0])||null; var out={rating:(p&&p.rating)||0,count:(p&&p.userRatingCount)||0,ts:Date.now()}; c[key]=out; try{localStorage.setItem("bob:grcache",JSON.stringify(c));}catch(e){} return out; })
-    .catch(function(){ return null; });
+    .then(function(j){ if(j&&j.error){ console.warn("[BOB] Places API error:", (j.error.status||j.error.code||""), (j.error.message||"")); return {rating:0,count:0,ts:0}; } var p=(j&&j.places&&j.places[0])||null; var out={rating:(p&&p.rating)||0,count:(p&&p.userRatingCount)||0,ts:Date.now()}; if(p&&p.rating){ c[key]=out; try{localStorage.setItem("bob:grcache",JSON.stringify(c));}catch(e){} } return out; })
+    .catch(function(e){ console.warn("[BOB] Places fetch failed (CORS or network):", (e&&e.message)||e); return null; });
 }
 window.bobGoogleRating=bobGoogleRating;
 function drawMine(){
