@@ -1466,6 +1466,7 @@ body.show-mine .topnav .uttab,body.show-mine .usa-navbtn{display:none !important
 .mine-controls{display:flex;flex-wrap:wrap;gap:14px 20px;align-items:center;margin:16px 0 10px;}
 .mine-cg{display:flex;align-items:center;gap:8px;}
 .mine-cg .ctl-label{font-family:'AccentSans','Space Grotesk',sans-serif;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft);}
+.mine-min{background:var(--bg);color:var(--ink);border:1px solid var(--rule-bold);border-radius:3px;font-family:'AccentSans','Space Grotesk',sans-serif;font-size:12px;letter-spacing:.02em;padding:5px 8px;cursor:pointer;}
 .mine-gcmp{display:flex;align-items:center;gap:7px;font-family:'AccentSans','Space Grotesk',sans-serif;font-size:12px;color:var(--ink-soft);cursor:pointer;}
 .mine-gcmp input{accent-color:var(--accent);width:15px;height:15px;cursor:pointer;}
 .mine-gnote{font-size:12px;color:var(--ink-soft);background:color-mix(in srgb,var(--ink) 6%,transparent);border:1px solid var(--rule);border-radius:4px;padding:9px 12px;margin:4px 0 8px;}
@@ -2427,7 +2428,7 @@ function openUsaAbout(){
     '<p class="usa-dek">Ties share a rank. Closed venues stay listed but are flagged. Wyatt’s personal picks are left out of the share and combined counts. Switch any ranking between <b>Table</b> and <b>Cards</b>, and tap any '+(isR?"restaurant":"bar")+' to open its card.</p></div>');
 }
 /* ===== My Places — full page (own view, not a popup) ===== */
-var MINE={cat:"rated",kind:"both",sort:"rating",google:false};
+var MINE={cat:"rated",kind:"both",sort:"rating",google:false,minRating:0};
 function mineNonPersonal(d,lk){ var c=0; for(var k in (d[lk]||{})){ if((""+k).indexOf("wyatt")!==0) c++; } return c; }
 function mineInfo(city,kind,name){
   var d=(typeof CITIES_DATA!=="undefined")?CITIES_DATA[city]:null; if(!d) return {n:0,pct:0,hood:"",v:null,cl:0};
@@ -2470,6 +2471,7 @@ function drawMine(){
     if(!inCat) continue;
     if(MINE.kind==="resto" && kind!=="resto") continue;
     if(MINE.kind==="bars"  && kind!=="bars")  continue;
+    if(MINE.cat==="rated" && (mk.r||0) < MINE.minRating) continue;
     var info=mineInfo(city,kind,name);
     items.push({city:city,kind:kind,name:name,r:mk.r||0,n:info.n,pct:info.pct,cl:info.cl});
   }
@@ -2480,6 +2482,7 @@ function drawMine(){
   var catSeg='<div class="seg-ctl" id="mineCat">'+['want','been','rated'].map(function(t){var lab={want:"◎ Want",been:"✓ Been",rated:"★ Rated"}[t];return '<button data-mc="'+t+'" class="'+(MINE.cat===t?"on":"")+'">'+lab+'</button>';}).join("")+'</div>';
   var kindSeg='<div class="seg-ctl" id="mineKind">'+[['resto','Restaurants'],['bars','Bars'],['both','Combined']].map(function(p){return '<button data-mk="'+p[0]+'" class="'+(MINE.kind===p[0]?"on":"")+'">'+p[1]+'</button>';}).join("")+'</div>';
   var sortSeg='<div class="seg-ctl" id="mineSort">'+[['rating','★ My rating'],['lists','☰ Most lists'],['pct','% of city lists']].map(function(p){return '<button data-ms="'+p[0]+'" class="'+(MINE.sort===p[0]?"on":"")+'">'+p[1]+'</button>';}).join("")+'</div>';
+  var minSel = MINE.cat==="rated" ? '<div class="mine-cg"><span class="ctl-label">Min</span><select class="mine-min" id="mineMin">'+[[0,'Any'],[5,'5★'],[4.5,'4.5★+'],[4,'4★+'],[3.5,'3.5★+'],[3,'3★+'],[2.5,'2.5★+'],[2,'2★+'],[1,'1★+']].map(function(o){return '<option value="'+o[0]+'"'+(MINE.minRating==o[0]?' selected':'')+'>'+o[1]+'</option>';}).join('')+'</select></div>' : '';
   var gToggle='<label class="mine-gcmp"><input type="checkbox" id="mineGoogle"'+(MINE.google?" checked":"")+'> Compare to Google rating</label>';
 
   var title={want:"Want to try",been:"Been there",rated:"My ratings"}[MINE.cat];
@@ -2503,6 +2506,7 @@ function drawMine(){
     '<div class="mine-controls"><div class="mine-cg"><span class="ctl-label">Show</span>'+catSeg+'</div>'+
       '<div class="mine-cg"><span class="ctl-label">Type</span>'+kindSeg+'</div>'+
       '<div class="mine-cg"><span class="ctl-label">Sort</span>'+sortSeg+'</div>'+
+      minSel+
       '<div class="mine-cg">'+gToggle+'</div></div>'+
     gNote+
     '<div class="mine-list">'+rows+'</div>'+
@@ -2512,6 +2516,7 @@ function drawMine(){
   sec.querySelectorAll("#mineKind button").forEach(function(b){ b.onclick=function(){ MINE.kind=b.dataset.mk; drawMine(); }; });
   sec.querySelectorAll("#mineSort button").forEach(function(b){ b.onclick=function(){ MINE.sort=b.dataset.ms; drawMine(); }; });
   var gc=document.getElementById("mineGoogle"); if(gc) gc.onchange=function(){ MINE.google=gc.checked; drawMine(); };
+  var mm=document.getElementById("mineMin"); if(mm) mm.onchange=function(){ MINE.minRating=parseFloat(mm.value)||0; drawMine(); };
   var bk=document.getElementById("mineBack"); if(bk) bk.onclick=function(){ closeMyPlaces(); };
   sec.querySelectorAll(".mine-row").forEach(function(row){ row.onclick=function(){ var c=row.dataset.city, kd=row.dataset.kind; closeMyPlaces(); location.hash="#/"+c+"/"+(kd==="bars"?"bars":"restaurants"); window.scrollTo({top:0,behavior:"smooth"}); }; });
   if(MINE.google && placesKeyOk()){
