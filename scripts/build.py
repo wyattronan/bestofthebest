@@ -105,11 +105,26 @@ def build_usa(cities):
             total.append({"n": g["n"], "c": g["c"], "ck": None,
                           "tot": len(g["k"]), "nat": len(g["k"]), "cl": g["cl"]})
         total.sort(key=lambda r: (-r["tot"], -r["nat"], r["n"].lower()))
+        # city prominence: unique venues on >=1 national list, counted once per city
+        cityc = {}
+        for r in rows:
+            if r.get("ck"):
+                cityc[("tab", r["ck"])] = cityc.get(("tab", r["ck"]), 0) + 1
+            else:
+                c = r.get("c") or ""
+                if "," not in c:   # no identifiable city (state-only / blank)
+                    continue
+                cityc[("off", c)] = cityc.get(("off", c), 0) + 1
+        citytop = [({"ck": key, "name": None, "n": n} if kk == "tab"
+                    else {"ck": None, "name": key, "n": n})
+                   for (kk, key), n in cityc.items()]
+        citytop.sort(key=lambda r: (-r["n"], (r["ck"] or r["name"] or "").lower()))
         out[kind] = {
             "lists": {k: {x: v[x] for x in ("name", "year", "mono", "tag", "ranked", "partial") if x in v} for k, v in nlists.items()},
             "count": rows,
             "share": share[:SHARE_TOP],
             "total": total,
+            "citytop": citytop,
             "cities": len(cities),
             "minPool": MIN_POOL,
         }
