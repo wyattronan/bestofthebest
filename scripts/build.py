@@ -87,10 +87,29 @@ def build_usa(cities):
                     share.append({"n": v["name"], "ck": ck, "hits": n, "tot": tot,
                                   "pct": round(100 * n / tot, 1), "hood": v.get("hood", ""), "cl": 1 if v.get("cl") else 0})
         share.sort(key=lambda r: (-r["hits"] / r["tot"], -r["hits"], -r["tot"], r["n"].lower()))
+        # total-lists ranking: every published list a venue appears on, national + local combined
+        total = []
+        for ck, d in cities.items():
+            defs = d[lk]
+            for v in d[pool]:
+                pub = [k for k, _ in v["lists"] if not is_personal(k)]
+                t = len(set(pub))
+                if not t:
+                    continue
+                nats = {defs[k]["nat"] for k in pub
+                        if defs.get(k, {}).get("nat") in nlists}
+                total.append({"n": v["name"], "ck": ck, "tot": t, "nat": len(nats),
+                              "cl": 1 if v.get("cl") else 0})
+        # venues in cities without a tab: their only lists are the national ones
+        for g in grp.values():
+            total.append({"n": g["n"], "c": g["c"], "ck": None,
+                          "tot": len(g["k"]), "nat": len(g["k"]), "cl": g["cl"]})
+        total.sort(key=lambda r: (-r["tot"], -r["nat"], r["n"].lower()))
         out[kind] = {
             "lists": {k: {x: v[x] for x in ("name", "year", "mono", "tag", "ranked", "partial") if x in v} for k, v in nlists.items()},
             "count": rows,
             "share": share[:SHARE_TOP],
+            "total": total,
             "cities": len(cities),
             "minPool": MIN_POOL,
         }
