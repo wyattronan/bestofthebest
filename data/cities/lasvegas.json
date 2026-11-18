@@ -2022,6 +2022,10 @@
     [
      "infatlv",
      null
+    ],
+    [
+     "esq24",
+     null
     ]
    ],
    "dual": false,
@@ -2129,6 +2133,10 @@
     ],
     [
      "barmaglv",
+     null
+    ],
+    [
+     "mashedb22",
      null
     ]
    ],
@@ -2534,6 +2542,10 @@
     [
      "barmaglv",
      null
+    ],
+    [
+     "esq24",
+     null
     ]
    ],
    "dual": false,
@@ -2707,6 +2719,26 @@
    "year": "2026",
    "ranked": false,
    "starChip": false
+  },
+  "esq24": {
+   "cls": "b-esq24",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq24"
+  },
+  "mashedb22": {
+   "cls": "b-mashedb22",
+   "mono": "M",
+   "tag": "MASHED",
+   "name": "Mashed: The Absolute Best Bars in the U.S.",
+   "year": "2022",
+   "ranked": false,
+   "starChip": false,
+   "nat": "mashedb22"
   }
  }
 }

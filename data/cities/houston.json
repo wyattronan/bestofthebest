@@ -366,7 +366,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": true
   },
   {
    "name": "Credence",
@@ -437,6 +437,10 @@
     ],
     [
      "bibhou",
+     null
+    ],
+    [
+     "infat14r26",
      null
     ]
    ],
@@ -719,6 +723,10 @@
     ],
     [
      "cnthou",
+     null
+    ],
+    [
+     "ot100r26",
      null
     ]
    ],
@@ -3061,6 +3069,10 @@
     [
      "cnthou",
      null
+    ],
+    [
+     "eaterat38r25",
+     null
     ]
    ],
    "dual": false,
@@ -3127,6 +3139,10 @@
     [
      "cnthou",
      null
+    ],
+    [
+     "eater38b12",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3183,6 +3199,10 @@
     [
      "infathou",
      null
+    ],
+    [
+     "na50b26",
+     47
     ]
    ],
    "vb": "mixo",
@@ -3475,6 +3495,10 @@
     [
      "infathou",
      null
+    ],
+    [
+     "banewb25",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3582,6 +3606,10 @@
     ],
     [
      "timeouthou",
+     null
+    ],
+    [
+     "esq24",
      null
     ]
    ],
@@ -5267,6 +5295,10 @@
     [
      "infathou",
      null
+    ],
+    [
+     "gq25b10",
+     15
     ]
    ],
    "dual": false,
@@ -5287,6 +5319,40 @@
    ],
    "dual": false,
    "vb": "mixo"
+  },
+  {
+   "name": "Light Years",
+   "hood": "Montrose",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 29.744,
+   "lng": -95.39,
+   "vb": "wine",
+   "lists": [
+    [
+     "esq24",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Little's Oyster Bar",
+   "hood": "Heights",
+   "lat": 29.8059,
+   "lng": -95.3808,
+   "type": "m",
+   "typekind": "drink",
+   "vb": "mixo",
+   "lists": [
+    [
+     "esq24",
+     null
+    ]
+   ],
+   "dual": true,
+   "_natadd": 1
   }
  ],
  "rlists": {
@@ -5370,6 +5436,36 @@
    "year": "2022",
    "ranked": false,
    "starChip": false
+  },
+  "ot100r26": {
+   "cls": "plate r-ot100r26",
+   "mono": "OT",
+   "tag": "OT 100",
+   "name": "OpenTable: Top 100 Restaurants in the US",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "ot100r26"
+  },
+  "infat14r26": {
+   "cls": "plate r-infat14r26",
+   "mono": "IN",
+   "tag": "IN USA",
+   "name": "The Infatuation: Highest-Rated Restaurants in America",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "infat14r26"
+  },
+  "eaterat38r25": {
+   "cls": "plate r-eaterat38r25",
+   "mono": "EAT",
+   "tag": "ALL-TIME",
+   "name": "Eater: The All-Time Eater 38",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eaterat38r25"
   }
  },
  "blists": {
@@ -5462,6 +5558,56 @@
    "year": "2026",
    "ranked": false,
    "starChip": false
+  },
+  "eater38b12": {
+   "cls": "b-eater38b12",
+   "mono": "EAT",
+   "tag": "US 38",
+   "name": "Eater's 38 Essential Cocktail Bars Across the US",
+   "year": "2012",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eater38b12"
+  },
+  "esq24": {
+   "cls": "b-esq24",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq24"
+  },
+  "gq25b10": {
+   "cls": "b-gq25b10",
+   "mono": "GQ",
+   "tag": "GQ 25",
+   "name": "GQ: The 25 Best Cocktail Bars in America",
+   "year": "2010",
+   "ranked": true,
+   "starChip": false,
+   "nat": "gq25b10"
+  },
+  "na50b26": {
+   "cls": "b-na50b26",
+   "mono": "NAB",
+   "tag": "50 BEST",
+   "name": "North America's 50 Best Bars 2026",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false,
+   "nat": "na50b26"
+  },
+  "banewb25": {
+   "cls": "b-banewb25",
+   "mono": "BA",
+   "tag": "BA NEW",
+   "name": "Bon Appétit: The 9 Best New Bars of 2025",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "banewb25"
   }
  }
 }

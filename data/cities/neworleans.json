@@ -55,6 +55,10 @@
     [
      "cntnola",
      null
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "vb": "oldguard",
@@ -80,6 +84,10 @@
     [
      "cntnola",
      null
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "vb": "specialty",
@@ -104,6 +112,10 @@
     ],
     [
      "nytnola",
+     null
+    ],
+    [
+     "nyt50r26",
      null
     ]
    ],
@@ -250,6 +262,18 @@
     ],
     [
      "cntnola",
+     null
+    ],
+    [
+     "ot100r26",
+     null
+    ],
+    [
+     "nyt50r26",
+     null
+    ],
+    [
+     "eaterat38r25",
      null
     ]
    ],
@@ -1139,6 +1163,10 @@
     [
      "cntnola",
      null
+    ],
+    [
+     "ba20r13",
+     14
     ]
    ],
    "vb": "specialty",
@@ -1159,6 +1187,10 @@
     ],
     [
      "infatlun",
+     null
+    ],
+    [
+     "eaterat38r25",
      null
     ]
    ],
@@ -1674,6 +1706,10 @@
     [
      "bonappno",
      null
+    ],
+    [
+     "infitbars26",
+     null
     ]
    ],
    "vb": "vibey",
@@ -1710,6 +1746,14 @@
     [
      "eaternola",
      null
+    ],
+    [
+     "eater38b12",
+     null
+    ],
+    [
+     "na50b26",
+     21
     ]
    ],
    "vb": "mixo",
@@ -1830,6 +1874,10 @@
     [
      "eaternola",
      null
+    ],
+    [
+     "esq26",
+     null
     ]
    ],
    "vb": "mixo",
@@ -1874,6 +1922,10 @@
     [
      "eaternola",
      null
+    ],
+    [
+     "na50b26",
+     6
     ]
    ],
    "vb": "mixo",
@@ -2370,6 +2422,10 @@
     [
      "eaternola",
      null
+    ],
+    [
+     "mashedb22",
+     null
     ]
    ],
    "vb": "dive",
@@ -2462,6 +2518,14 @@
     [
      "eaternola",
      null
+    ],
+    [
+     "eater38b12",
+     null
+    ],
+    [
+     "gq25b10",
+     16
     ]
    ],
    "vb": "mixo",
@@ -2533,6 +2597,10 @@
     ],
     [
      "nolamagno",
+     null
+    ],
+    [
+     "esq25",
      null
     ]
    ],
@@ -3446,6 +3514,10 @@
     [
      "nolamagno",
      null
+    ],
+    [
+     "esq25",
+     null
     ]
    ],
    "dual": false,
@@ -4074,6 +4146,41 @@
    ],
    "dual": false,
    "vb": "mixo"
+  },
+  {
+   "name": "Iris",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.955,
+   "lng": -90.067,
+   "vb": "mixo",
+   "cl": 1,
+   "lists": [
+    [
+     "gq25b10",
+     2
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Tatlo",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9563,
+   "lng": -90.0672,
+   "vb": "mixo",
+   "lists": [
+    [
+     "banewb25",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "rlists": {
@@ -4120,7 +4227,8 @@
    "name": "North America's 50 Best Restaurants 2025",
    "year": "2025",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "na50r25"
   },
   "fwgt": {
    "cls": "plate r-fwgt",
@@ -4148,6 +4256,56 @@
    "year": "2026",
    "ranked": false,
    "starChip": false
+  },
+  "ba20r13": {
+   "cls": "plate r-ba20r13",
+   "mono": "BA",
+   "tag": "BA 20",
+   "name": "Bon Appétit: The 20 Most Important Restaurants in America",
+   "year": "2013",
+   "ranked": true,
+   "starChip": false,
+   "nat": "ba20r13"
+  },
+  "ot100r26": {
+   "cls": "plate r-ot100r26",
+   "mono": "OT",
+   "tag": "OT 100",
+   "name": "OpenTable: Top 100 Restaurants in the US",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "ot100r26"
+  },
+  "nyt50r26": {
+   "cls": "plate r-nyt50r26",
+   "mono": "NYT",
+   "tag": "NYT USA",
+   "name": "NYT Restaurant List: 50 Favorite Restaurants in the U.S.",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "nyt50r26"
+  },
+  "resy40r26": {
+   "cls": "plate r-resy40r26",
+   "mono": "RESY",
+   "tag": "RESY 40",
+   "name": "Resy: 40 Restaurants Across America Worth a Journey",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "resy40r26"
+  },
+  "eaterat38r25": {
+   "cls": "plate r-eaterat38r25",
+   "mono": "EAT",
+   "tag": "ALL-TIME",
+   "name": "Eater: The All-Time Eater 38",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eaterat38r25"
   }
  },
  "blists": {
@@ -4222,6 +4380,86 @@
    "year": "2026",
    "ranked": false,
    "starChip": false
+  },
+  "eater38b12": {
+   "cls": "b-eater38b12",
+   "mono": "EAT",
+   "tag": "US 38",
+   "name": "Eater's 38 Essential Cocktail Bars Across the US",
+   "year": "2012",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eater38b12"
+  },
+  "esq26": {
+   "cls": "b-esq26",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2026",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq26"
+  },
+  "infitbars26": {
+   "cls": "b-infitbars26",
+   "mono": "IN",
+   "tag": "IN USA",
+   "name": "The Infatuation: The 'It' Bars Across America",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "infitbars26"
+  },
+  "esq25": {
+   "cls": "b-esq25",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2025",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq25"
+  },
+  "gq25b10": {
+   "cls": "b-gq25b10",
+   "mono": "GQ",
+   "tag": "GQ 25",
+   "name": "GQ: The 25 Best Cocktail Bars in America",
+   "year": "2010",
+   "ranked": true,
+   "starChip": false,
+   "nat": "gq25b10"
+  },
+  "na50b26": {
+   "cls": "b-na50b26",
+   "mono": "NAB",
+   "tag": "50 BEST",
+   "name": "North America's 50 Best Bars 2026",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false,
+   "nat": "na50b26"
+  },
+  "mashedb22": {
+   "cls": "b-mashedb22",
+   "mono": "M",
+   "tag": "MASHED",
+   "name": "Mashed: The Absolute Best Bars in the U.S.",
+   "year": "2022",
+   "ranked": false,
+   "starChip": false,
+   "nat": "mashedb22"
+  },
+  "banewb25": {
+   "cls": "b-banewb25",
+   "mono": "BA",
+   "tag": "BA NEW",
+   "name": "Bon Appétit: The 9 Best New Bars of 2025",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "banewb25"
   }
  }
 }

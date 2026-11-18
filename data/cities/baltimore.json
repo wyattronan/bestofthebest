@@ -1882,6 +1882,23 @@
    ],
    "dual": false,
    "vb": "mixo"
+  },
+  {
+   "name": "Mount Royal Tavern",
+   "hood": "Mount Vernon",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 39.3049,
+   "lng": -76.6187,
+   "vb": "dive",
+   "lists": [
+    [
+     "mashedb22",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "rlists": {
@@ -1958,6 +1975,16 @@
    "year": "2023",
    "ranked": false,
    "starChip": false
+  },
+  "mashedb22": {
+   "cls": "b-mashedb22",
+   "mono": "M",
+   "tag": "MASHED",
+   "name": "Mashed: The Absolute Best Bars in the U.S.",
+   "year": "2022",
+   "ranked": false,
+   "starChip": false,
+   "nat": "mashedb22"
   }
  }
 }

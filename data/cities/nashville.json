@@ -32,6 +32,10 @@
     [
      "jbnash",
      null
+    ],
+    [
+     "infat14r26",
+     null
     ]
    ],
    "vb": "tasting",
@@ -74,6 +78,10 @@
     ],
     [
      "jbnash",
+     null
+    ],
+    [
+     "ot100r26",
      null
     ]
    ],
@@ -118,6 +126,10 @@
     [
      "na50",
      20
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "vb": "tasting",
@@ -196,6 +208,10 @@
     [
      "infatnash",
      6
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "vb": "tasting",
@@ -444,6 +460,10 @@
     ],
     [
      "cntnash",
+     null
+    ],
+    [
+     "ot100r26",
      null
     ]
    ],
@@ -826,6 +846,10 @@
     ],
     [
      "eaternash",
+     null
+    ],
+    [
+     "nyt50r26",
      null
     ]
    ],
@@ -1844,6 +1868,40 @@
    "vb": "taco",
    "lu": 1,
    "to": 1
+  },
+  {
+   "name": "Bad Idea",
+   "hood": "East Nashville",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 36.181,
+   "lng": -86.745,
+   "pr": 2,
+   "vb": "datenight",
+   "lists": [
+    [
+     "usat25r",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Cauponor",
+   "hood": "Nashville",
+   "type": "newam",
+   "typekind": "cui",
+   "pr": 3,
+   "vb": "datenight",
+   "lists": [
+    [
+     "nyt50r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "bars": [
@@ -1962,6 +2020,14 @@
     [
      "foodnetnash",
      null
+    ],
+    [
+     "eater38b12",
+     null
+    ],
+    [
+     "gq25b10",
+     12
     ]
    ],
    "vb": "mixo",
@@ -1977,6 +2043,10 @@
    "lists": [
     [
      "infatbnash",
+     null
+    ],
+    [
+     "punchnewb26",
      null
     ]
    ],
@@ -2218,6 +2288,10 @@
     [
      "eaternash",
      null
+    ],
+    [
+     "esq24",
+     null
     ]
    ],
    "vb": "vibey",
@@ -2397,6 +2471,10 @@
     ],
     [
      "rstonenash",
+     null
+    ],
+    [
+     "esq24",
      null
     ]
    ],
@@ -2830,6 +2908,40 @@
    ],
    "dual": false,
    "vb": "mixo"
+  },
+  {
+   "name": "The Nashville Palace",
+   "hood": "Music Valley",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 36.213,
+   "lng": -86.693,
+   "vb": "livemusic",
+   "lists": [
+    [
+     "esq26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "The Lipstick Lounge",
+   "hood": "East Nashville",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 36.1764,
+   "lng": -86.7486,
+   "vb": "party",
+   "lists": [
+    [
+     "usat24b",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "rlists": {
@@ -2903,7 +3015,8 @@
    "name": "North America's 50 Best Restaurants 2025",
    "year": "2025",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "na50r25"
   },
   "infatlun": {
    "cls": "plate r-infatlun",
@@ -2913,6 +3026,46 @@
    "year": "2025",
    "ranked": false,
    "starChip": false
+  },
+  "usat25r": {
+   "cls": "plate r-usat25r",
+   "mono": "USA",
+   "tag": "USA TODAY",
+   "name": "USA Today Restaurants of the Year 2025",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "usat25r"
+  },
+  "ot100r26": {
+   "cls": "plate r-ot100r26",
+   "mono": "OT",
+   "tag": "OT 100",
+   "name": "OpenTable: Top 100 Restaurants in the US",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "ot100r26"
+  },
+  "nyt50r26": {
+   "cls": "plate r-nyt50r26",
+   "mono": "NYT",
+   "tag": "NYT USA",
+   "name": "NYT Restaurant List: 50 Favorite Restaurants in the U.S.",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "nyt50r26"
+  },
+  "infat14r26": {
+   "cls": "plate r-infat14r26",
+   "mono": "IN",
+   "tag": "IN USA",
+   "name": "The Infatuation: Highest-Rated Restaurants in America",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "infat14r26"
   }
  },
  "blists": {
@@ -2978,6 +3131,66 @@
    "year": "2026",
    "ranked": false,
    "starChip": false
+  },
+  "eater38b12": {
+   "cls": "b-eater38b12",
+   "mono": "EAT",
+   "tag": "US 38",
+   "name": "Eater's 38 Essential Cocktail Bars Across the US",
+   "year": "2012",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eater38b12"
+  },
+  "esq26": {
+   "cls": "b-esq26",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2026",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq26"
+  },
+  "esq24": {
+   "cls": "b-esq24",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq24"
+  },
+  "gq25b10": {
+   "cls": "b-gq25b10",
+   "mono": "GQ",
+   "tag": "GQ 25",
+   "name": "GQ: The 25 Best Cocktail Bars in America",
+   "year": "2010",
+   "ranked": true,
+   "starChip": false,
+   "nat": "gq25b10"
+  },
+  "usat24b": {
+   "cls": "b-usat24b",
+   "mono": "USA",
+   "tag": "USA TODAY",
+   "name": "USA Today Bars of the Year 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "usat24b"
+  },
+  "punchnewb26": {
+   "cls": "b-punchnewb26",
+   "mono": "P!",
+   "tag": "PUNCH NEW",
+   "name": "PUNCH: The Best New Cocktail Bars of 2026",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "punchnewb26"
   }
  }
 }

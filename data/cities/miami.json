@@ -24,6 +24,14 @@
     [
      "cntmia",
      null
+    ],
+    [
+     "infat14r26",
+     null
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "vb": "datenight",
@@ -86,6 +94,10 @@
     ],
     [
      "nytmia",
+     null
+    ],
+    [
+     "resy40r26",
      null
     ]
    ],
@@ -201,6 +213,10 @@
     ],
     [
      "cntmia",
+     null
+    ],
+    [
+     "resy40r26",
      null
     ]
    ],
@@ -2433,6 +2449,10 @@
     [
      "infatbmia",
      null
+    ],
+    [
+     "infitbars26",
+     null
     ]
    ],
    "vb": "vibey",
@@ -2488,6 +2508,10 @@
     ],
     [
      "bonappmia",
+     null
+    ],
+    [
+     "esq24",
      null
     ]
    ],
@@ -2549,6 +2573,10 @@
     [
      "barmagmia",
      null
+    ],
+    [
+     "na50b26",
+     46
     ]
    ],
    "vb": "wine",
@@ -2572,6 +2600,10 @@
     ],
     [
      "eaterbmia",
+     null
+    ],
+    [
+     "infitbars26",
      null
     ]
    ],
@@ -2885,6 +2917,10 @@
     [
      "tomia",
      5
+    ],
+    [
+     "esq24",
+     null
     ]
    ],
    "vb": "vibey",
@@ -2960,6 +2996,14 @@
     ],
     [
      "barmagmia",
+     null
+    ],
+    [
+     "na50b26",
+     42
+    ],
+    [
+     "mashedb22",
      null
     ]
    ],
@@ -3049,6 +3093,10 @@
     [
      "tomia",
      19
+    ],
+    [
+     "esq26",
+     null
     ]
    ],
    "vb": "livemusic",
@@ -3505,6 +3553,23 @@
    ],
    "dual": false,
    "vb": "wine"
+  },
+  {
+   "name": "Las Rosas",
+   "hood": "Allapattah",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 25.804,
+   "lng": -80.212,
+   "vb": "dive",
+   "lists": [
+    [
+     "infitbars26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "rlists": {
@@ -3588,6 +3653,26 @@
    "year": "2026",
    "ranked": false,
    "starChip": false
+  },
+  "infat14r26": {
+   "cls": "plate r-infat14r26",
+   "mono": "IN",
+   "tag": "IN USA",
+   "name": "The Infatuation: Highest-Rated Restaurants in America",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "infat14r26"
+  },
+  "resy40r26": {
+   "cls": "plate r-resy40r26",
+   "mono": "RESY",
+   "tag": "RESY 40",
+   "name": "Resy: 40 Restaurants Across America Worth a Journey",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "resy40r26"
   }
  },
  "blists": {
@@ -3653,6 +3738,56 @@
    "year": "2026",
    "ranked": false,
    "starChip": false
+  },
+  "esq26": {
+   "cls": "b-esq26",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2026",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq26"
+  },
+  "esq24": {
+   "cls": "b-esq24",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq24"
+  },
+  "infitbars26": {
+   "cls": "b-infitbars26",
+   "mono": "IN",
+   "tag": "IN USA",
+   "name": "The Infatuation: The 'It' Bars Across America",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "infitbars26"
+  },
+  "na50b26": {
+   "cls": "b-na50b26",
+   "mono": "NAB",
+   "tag": "50 BEST",
+   "name": "North America's 50 Best Bars 2026",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false,
+   "nat": "na50b26"
+  },
+  "mashedb22": {
+   "cls": "b-mashedb22",
+   "mono": "M",
+   "tag": "MASHED",
+   "name": "Mashed: The Absolute Best Bars in the U.S.",
+   "year": "2022",
+   "ranked": false,
+   "starChip": false,
+   "nat": "mashedb22"
   }
  }
 }

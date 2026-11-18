@@ -28,6 +28,14 @@
     [
      "beli",
      7
+    ],
+    [
+     "ot100r26",
+     null
+    ],
+    [
+     "infat14r26",
+     null
     ]
    ],
    "vb": "datenight",
@@ -130,6 +138,10 @@
     ],
     [
      "cntphl",
+     null
+    ],
+    [
+     "ot100r26",
      null
     ]
    ],
@@ -243,6 +255,10 @@
     [
      "cntphl",
      null
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "vb": "asian",
@@ -280,6 +296,10 @@
     ],
     [
      "cntphl",
+     null
+    ],
+    [
+     "ot100r26",
      null
     ]
    ],
@@ -348,6 +368,10 @@
     ],
     [
      "cntphl",
+     null
+    ],
+    [
+     "eaterat38r25",
      null
     ]
    ],
@@ -474,6 +498,10 @@
     [
      "eater38phl",
      null
+    ],
+    [
+     "nyt50r26",
+     null
     ]
    ],
    "vb": "italian",
@@ -592,6 +620,10 @@
     [
      "beli",
      4
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "vb": "tasting",
@@ -683,6 +715,10 @@
     [
      "beli",
      1
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "vb": "asian",
@@ -700,6 +736,10 @@
     [
      "infatphl",
      20
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "vb": "specialty",
@@ -1641,6 +1681,10 @@
     [
      "cntphl",
      null
+    ],
+    [
+     "eaterat38r25",
+     null
     ]
    ],
    "vb": "global",
@@ -1793,6 +1837,10 @@
     [
      "cntphl",
      null
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "vb": "datenight",
@@ -1886,6 +1934,10 @@
     ],
     [
      "cntphl",
+     null
+    ],
+    [
+     "ot100r26",
      null
     ]
    ],
@@ -2707,6 +2759,42 @@
    ],
    "dual": false,
    "vb": "asian"
+  },
+  {
+   "name": "Poison Heart",
+   "hood": "Kensington",
+   "lat": 39.97546,
+   "lng": -75.12301,
+   "type": "newam",
+   "typekind": "cui",
+   "pr": 2,
+   "vb": "datenight",
+   "lists": [
+    [
+     "usat25r",
+     null
+    ]
+   ],
+   "dual": true,
+   "_natadd": 1
+  },
+  {
+   "name": "Saloon Restaurant",
+   "hood": "Bella Vista",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 39.9393,
+   "lng": -75.1557,
+   "pr": 4,
+   "vb": "oldguard",
+   "lists": [
+    [
+     "ot100r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "bars": [
@@ -2752,6 +2840,10 @@
    "lists": [
     [
      "infatbphl",
+     null
+    ],
+    [
+     "infitbars26",
      null
     ]
    ],
@@ -2865,6 +2957,10 @@
     [
      "infatbphl",
      null
+    ],
+    [
+     "esq25",
+     null
     ]
    ],
    "vb": "dive",
@@ -2897,10 +2993,14 @@
     [
      "infatbphl",
      null
+    ],
+    [
+     "esq24",
+     null
     ]
    ],
    "vb": "dive",
-   "dual": false
+   "dual": true
   },
   {
    "name": "Friday Saturday Sunday",
@@ -3045,6 +3145,10 @@
     [
      "eaterphl",
      null
+    ],
+    [
+     "esq24",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3180,6 +3284,10 @@
     ],
     [
      "barmagphl",
+     null
+    ],
+    [
+     "banewb25",
      null
     ]
    ],
@@ -3349,6 +3457,14 @@
     [
      "barmagphl",
      null
+    ],
+    [
+     "eater38b12",
+     null
+    ],
+    [
+     "gq25b10",
+     24
     ]
    ],
    "vb": "mixo",
@@ -3914,6 +4030,53 @@
    ],
    "dual": false,
    "vb": "vibey"
+  },
+  {
+   "name": "Frankie's Summer Club",
+   "hood": "Philadelphia",
+   "type": "m",
+   "typekind": "drink",
+   "vb": "party",
+   "lists": [
+    [
+     "infitbars26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Doom Bar",
+   "hood": "Philadelphia",
+   "type": "b",
+   "typekind": "drink",
+   "vb": "vibey",
+   "lists": [
+    [
+     "infitbars26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Bloomsday Cafe",
+   "hood": "Society Hill",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 39.9419,
+   "lng": -75.145,
+   "vb": "wine",
+   "lists": [
+    [
+     "usat24b",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "rlists": {
@@ -3978,7 +4141,8 @@
    "name": "NYT Restaurant List — 50 Best in America",
    "year": "2025",
    "ranked": false,
-   "starChip": true
+   "starChip": true,
+   "nat": "nyt50r25"
   },
   "jbphl": {
    "cls": "plate r-jbphl",
@@ -4014,7 +4178,8 @@
    "name": "North America's 50 Best Restaurants 2025",
    "year": "2025",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "na50r25"
   },
   "fwgt": {
    "cls": "plate r-fwgt",
@@ -4051,6 +4216,66 @@
    "year": "2025",
    "ranked": false,
    "starChip": false
+  },
+  "usat25r": {
+   "cls": "plate r-usat25r",
+   "mono": "USA",
+   "tag": "USA TODAY",
+   "name": "USA Today Restaurants of the Year 2025",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "usat25r"
+  },
+  "ot100r26": {
+   "cls": "plate r-ot100r26",
+   "mono": "OT",
+   "tag": "OT 100",
+   "name": "OpenTable: Top 100 Restaurants in the US",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "ot100r26"
+  },
+  "nyt50r26": {
+   "cls": "plate r-nyt50r26",
+   "mono": "NYT",
+   "tag": "NYT USA",
+   "name": "NYT Restaurant List: 50 Favorite Restaurants in the U.S.",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "nyt50r26"
+  },
+  "infat14r26": {
+   "cls": "plate r-infat14r26",
+   "mono": "IN",
+   "tag": "IN USA",
+   "name": "The Infatuation: Highest-Rated Restaurants in America",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "infat14r26"
+  },
+  "resy40r26": {
+   "cls": "plate r-resy40r26",
+   "mono": "RESY",
+   "tag": "RESY 40",
+   "name": "Resy: 40 Restaurants Across America Worth a Journey",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "resy40r26"
+  },
+  "eaterat38r25": {
+   "cls": "plate r-eaterat38r25",
+   "mono": "EAT",
+   "tag": "ALL-TIME",
+   "name": "Eater: The All-Time Eater 38",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eaterat38r25"
   }
  },
  "blists": {
@@ -4134,6 +4359,76 @@
    "year": "2026",
    "ranked": false,
    "starChip": false
+  },
+  "eater38b12": {
+   "cls": "b-eater38b12",
+   "mono": "EAT",
+   "tag": "US 38",
+   "name": "Eater's 38 Essential Cocktail Bars Across the US",
+   "year": "2012",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eater38b12"
+  },
+  "esq24": {
+   "cls": "b-esq24",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq24"
+  },
+  "infitbars26": {
+   "cls": "b-infitbars26",
+   "mono": "IN",
+   "tag": "IN USA",
+   "name": "The Infatuation: The 'It' Bars Across America",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "infitbars26"
+  },
+  "esq25": {
+   "cls": "b-esq25",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2025",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq25"
+  },
+  "gq25b10": {
+   "cls": "b-gq25b10",
+   "mono": "GQ",
+   "tag": "GQ 25",
+   "name": "GQ: The 25 Best Cocktail Bars in America",
+   "year": "2010",
+   "ranked": true,
+   "starChip": false,
+   "nat": "gq25b10"
+  },
+  "usat24b": {
+   "cls": "b-usat24b",
+   "mono": "USA",
+   "tag": "USA TODAY",
+   "name": "USA Today Bars of the Year 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "usat24b"
+  },
+  "banewb25": {
+   "cls": "b-banewb25",
+   "mono": "BA",
+   "tag": "BA NEW",
+   "name": "Bon Appétit: The 9 Best New Bars of 2025",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "banewb25"
   }
  }
 }

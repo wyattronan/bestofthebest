@@ -200,6 +200,10 @@
     [
      "infatchs",
      null
+    ],
+    [
+     "eaterat38r25",
+     null
     ]
    ],
    "dual": false,
@@ -371,6 +375,14 @@
     ],
     [
      "cntchs",
+     null
+    ],
+    [
+     "ba20r13",
+     3
+    ],
+    [
+     "eaterat38r25",
      null
     ]
    ],
@@ -1188,6 +1200,10 @@
     [
      "infatchs",
      null
+    ],
+    [
+     "nyt50r26",
+     null
     ]
    ],
    "dual": false,
@@ -1384,6 +1400,10 @@
     ],
     [
      "cntchs",
+     null
+    ],
+    [
+     "resy40r26",
      null
     ]
    ],
@@ -3054,6 +3074,46 @@
    "year": "2026",
    "ranked": false,
    "starChip": false
+  },
+  "ba20r13": {
+   "cls": "plate r-ba20r13",
+   "mono": "BA",
+   "tag": "BA 20",
+   "name": "Bon Appétit: The 20 Most Important Restaurants in America",
+   "year": "2013",
+   "ranked": true,
+   "starChip": false,
+   "nat": "ba20r13"
+  },
+  "nyt50r26": {
+   "cls": "plate r-nyt50r26",
+   "mono": "NYT",
+   "tag": "NYT USA",
+   "name": "NYT Restaurant List: 50 Favorite Restaurants in the U.S.",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "nyt50r26"
+  },
+  "resy40r26": {
+   "cls": "plate r-resy40r26",
+   "mono": "RESY",
+   "tag": "RESY 40",
+   "name": "Resy: 40 Restaurants Across America Worth a Journey",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "resy40r26"
+  },
+  "eaterat38r25": {
+   "cls": "plate r-eaterat38r25",
+   "mono": "EAT",
+   "tag": "ALL-TIME",
+   "name": "Eater: The All-Time Eater 38",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eaterat38r25"
   }
  },
  "blists": {

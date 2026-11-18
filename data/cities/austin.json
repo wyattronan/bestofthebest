@@ -153,6 +153,10 @@
     [
      "nyt50aus",
      null
+    ],
+    [
+     "nyt50r26",
+     null
     ]
    ],
    "vb": "datenight",
@@ -374,6 +378,10 @@
     [
      "nytaus",
      null
+    ],
+    [
+     "usat25r",
+     null
     ]
    ],
    "vb": "specialty",
@@ -522,6 +530,14 @@
     [
      "cntaus",
      null
+    ],
+    [
+     "ba20r13",
+     17
+    ],
+    [
+     "eaterat38r25",
+     null
     ]
    ],
    "vb": "bbq",
@@ -539,6 +555,10 @@
    "lists": [
     [
      "eater38aus",
+     null
+    ],
+    [
+     "ot100r26",
      null
     ]
    ],
@@ -725,6 +745,10 @@
     ],
     [
      "cntaus",
+     null
+    ],
+    [
+     "infat14r26",
      null
     ]
    ],
@@ -1972,6 +1996,10 @@
     [
      "cntaus",
      null
+    ],
+    [
+     "ba20r13",
+     10
     ]
    ],
    "vb": "tasting",
@@ -2010,6 +2038,10 @@
     ],
     [
      "nytaus",
+     null
+    ],
+    [
+     "eaterat38r25",
      null
     ]
    ],
@@ -2472,6 +2504,10 @@
     [
      "cntaus",
      null
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "dual": false,
@@ -2493,6 +2529,42 @@
    ],
    "dual": false,
    "vb": "taco"
+  },
+  {
+   "name": "Aba",
+   "hood": "South Congress",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 30.2509,
+   "lng": -97.7493,
+   "pr": 3,
+   "vb": "datenight",
+   "lists": [
+    [
+     "ot100r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Red Ash Italia",
+   "hood": "Downtown",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 30.2655,
+   "lng": -97.7468,
+   "pr": 3,
+   "vb": "italian",
+   "lists": [
+    [
+     "ot100r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "bars": [
@@ -2602,6 +2674,10 @@
     ],
     [
      "barmagaus",
+     null
+    ],
+    [
+     "infitbars26",
      null
     ]
    ],
@@ -2838,6 +2914,10 @@
     ],
     [
      "barmagaus",
+     null
+    ],
+    [
+     "eater38b12",
      null
     ]
    ],
@@ -3839,6 +3919,10 @@
     [
      "barmagaus",
      null
+    ],
+    [
+     "esq26",
+     null
     ]
    ],
    "dual": false,
@@ -4035,6 +4119,10 @@
     [
      "barmagaus",
      null
+    ],
+    [
+     "gq25b10",
+     4
     ]
    ],
    "dual": false,
@@ -4119,6 +4207,38 @@
    ],
    "dual": false,
    "vb": "mixo"
+  },
+  {
+   "name": "Parley",
+   "hood": "Austin",
+   "type": "m",
+   "typekind": "drink",
+   "vb": "mixo",
+   "lists": [
+    [
+     "infitbars26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Sahara Lounge",
+   "hood": "East Austin",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 30.2742,
+   "lng": -97.7019,
+   "vb": "livemusic",
+   "lists": [
+    [
+     "usat24b",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "rlists": {
@@ -4238,6 +4358,76 @@
    "year": "2025",
    "ranked": false,
    "starChip": false
+  },
+  "ba20r13": {
+   "cls": "plate r-ba20r13",
+   "mono": "BA",
+   "tag": "BA 20",
+   "name": "Bon Appétit: The 20 Most Important Restaurants in America",
+   "year": "2013",
+   "ranked": true,
+   "starChip": false,
+   "nat": "ba20r13"
+  },
+  "usat25r": {
+   "cls": "plate r-usat25r",
+   "mono": "USA",
+   "tag": "USA TODAY",
+   "name": "USA Today Restaurants of the Year 2025",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "usat25r"
+  },
+  "ot100r26": {
+   "cls": "plate r-ot100r26",
+   "mono": "OT",
+   "tag": "OT 100",
+   "name": "OpenTable: Top 100 Restaurants in the US",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "ot100r26"
+  },
+  "nyt50r26": {
+   "cls": "plate r-nyt50r26",
+   "mono": "NYT",
+   "tag": "NYT USA",
+   "name": "NYT Restaurant List: 50 Favorite Restaurants in the U.S.",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "nyt50r26"
+  },
+  "infat14r26": {
+   "cls": "plate r-infat14r26",
+   "mono": "IN",
+   "tag": "IN USA",
+   "name": "The Infatuation: Highest-Rated Restaurants in America",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "infat14r26"
+  },
+  "resy40r26": {
+   "cls": "plate r-resy40r26",
+   "mono": "RESY",
+   "tag": "RESY 40",
+   "name": "Resy: 40 Restaurants Across America Worth a Journey",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "resy40r26"
+  },
+  "eaterat38r25": {
+   "cls": "plate r-eaterat38r25",
+   "mono": "EAT",
+   "tag": "ALL-TIME",
+   "name": "Eater: The All-Time Eater 38",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eaterat38r25"
   }
  },
  "blists": {
@@ -4321,6 +4511,56 @@
    "year": "2026",
    "ranked": false,
    "starChip": false
+  },
+  "eater38b12": {
+   "cls": "b-eater38b12",
+   "mono": "EAT",
+   "tag": "US 38",
+   "name": "Eater's 38 Essential Cocktail Bars Across the US",
+   "year": "2012",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eater38b12"
+  },
+  "esq26": {
+   "cls": "b-esq26",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2026",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq26"
+  },
+  "infitbars26": {
+   "cls": "b-infitbars26",
+   "mono": "IN",
+   "tag": "IN USA",
+   "name": "The Infatuation: The 'It' Bars Across America",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "infitbars26"
+  },
+  "gq25b10": {
+   "cls": "b-gq25b10",
+   "mono": "GQ",
+   "tag": "GQ 25",
+   "name": "GQ: The 25 Best Cocktail Bars in America",
+   "year": "2010",
+   "ranked": true,
+   "starChip": false,
+   "nat": "gq25b10"
+  },
+  "usat24b": {
+   "cls": "b-usat24b",
+   "mono": "USA",
+   "tag": "USA TODAY",
+   "name": "USA Today Bars of the Year 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "usat24b"
   }
  }
 }

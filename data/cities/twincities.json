@@ -1045,6 +1045,10 @@
     [
      "infattc",
      null
+    ],
+    [
+     "eaterat38r25",
+     null
     ]
    ],
    "dual": false,
@@ -1185,6 +1189,22 @@
    ],
    "dual": false,
    "vb": "brunch"
+  },
+  {
+   "name": "Khue's Kitchen",
+   "hood": "St. Paul",
+   "type": "asian",
+   "typekind": "cui",
+   "pr": 2,
+   "vb": "asian",
+   "lists": [
+    [
+     "nyt50r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "bars": [
@@ -1747,6 +1767,10 @@
     [
      "eatertc",
      null
+    ],
+    [
+     "esq26",
+     null
     ]
    ],
    "dual": false,
@@ -2059,6 +2083,24 @@
    ],
    "dual": false,
    "vb": "mixo"
+  },
+  {
+   "name": "Bradstreet Craftshouse",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9765,
+   "lng": -93.2718,
+   "vb": "mixo",
+   "cl": 1,
+   "lists": [
+    [
+     "eater38b12",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "rlists": {
@@ -2106,6 +2148,26 @@
    "year": "2024",
    "ranked": false,
    "starChip": false
+  },
+  "nyt50r26": {
+   "cls": "plate r-nyt50r26",
+   "mono": "NYT",
+   "tag": "NYT USA",
+   "name": "NYT Restaurant List: 50 Favorite Restaurants in the U.S.",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "nyt50r26"
+  },
+  "eaterat38r25": {
+   "cls": "plate r-eaterat38r25",
+   "mono": "EAT",
+   "tag": "ALL-TIME",
+   "name": "Eater: The All-Time Eater 38",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eaterat38r25"
   }
  },
  "blists": {
@@ -2153,6 +2215,26 @@
    "year": "2024",
    "ranked": false,
    "starChip": false
+  },
+  "eater38b12": {
+   "cls": "b-eater38b12",
+   "mono": "EAT",
+   "tag": "US 38",
+   "name": "Eater's 38 Essential Cocktail Bars Across the US",
+   "year": "2012",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eater38b12"
+  },
+  "esq26": {
+   "cls": "b-esq26",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2026",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq26"
   }
  }
 }

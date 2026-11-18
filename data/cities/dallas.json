@@ -188,6 +188,10 @@
     [
      "cntdal",
      null
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "vb": "datenight",
@@ -331,6 +335,10 @@
     [
      "jbdal",
      null
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "vb": "tasting",
@@ -419,6 +427,10 @@
     [
      "dmagdal",
      22
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "vb": "datenight",
@@ -2341,6 +2353,10 @@
     [
      "bonappdal",
      null
+    ],
+    [
+     "esq24",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3725,6 +3741,24 @@
    ],
    "dual": false,
    "vb": "mixo"
+  },
+  {
+   "name": "The Cedars Social",
+   "hood": "The Cedars",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7643,
+   "lng": -96.7957,
+   "vb": "mixo",
+   "cl": 1,
+   "lists": [
+    [
+     "eater38b12",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "rlists": {
@@ -3808,6 +3842,16 @@
    "year": "2021",
    "ranked": false,
    "starChip": false
+  },
+  "ot100r26": {
+   "cls": "plate r-ot100r26",
+   "mono": "OT",
+   "tag": "OT 100",
+   "name": "OpenTable: Top 100 Restaurants in the US",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "ot100r26"
   }
  },
  "blists": {
@@ -3900,6 +3944,26 @@
    "year": "2018",
    "ranked": false,
    "starChip": false
+  },
+  "eater38b12": {
+   "cls": "b-eater38b12",
+   "mono": "EAT",
+   "tag": "US 38",
+   "name": "Eater's 38 Essential Cocktail Bars Across the US",
+   "year": "2012",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eater38b12"
+  },
+  "esq24": {
+   "cls": "b-esq24",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq24"
   }
  }
 }

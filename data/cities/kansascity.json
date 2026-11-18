@@ -880,6 +880,22 @@
    ],
    "dual": false,
    "vb": "bbq"
+  },
+  {
+   "name": "Anjin",
+   "hood": "Kansas City",
+   "type": "global",
+   "typekind": "cui",
+   "pr": 3,
+   "vb": "datenight",
+   "lists": [
+    [
+     "nyt50r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "bars": [
@@ -1570,6 +1586,23 @@
    ],
    "dual": false,
    "vb": "wine"
+  },
+  {
+   "name": "Manifesto",
+   "hood": "Crossroads",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 39.0907,
+   "lng": -94.5822,
+   "vb": "mixo",
+   "lists": [
+    [
+     "eater38b12",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "rlists": {
@@ -1599,6 +1632,16 @@
    "year": "2025",
    "ranked": false,
    "starChip": false
+  },
+  "nyt50r26": {
+   "cls": "plate r-nyt50r26",
+   "mono": "NYT",
+   "tag": "NYT USA",
+   "name": "NYT Restaurant List: 50 Favorite Restaurants in the U.S.",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "nyt50r26"
   }
  },
  "blists": {
@@ -1655,6 +1698,16 @@
    "year": "2022",
    "ranked": false,
    "starChip": false
+  },
+  "eater38b12": {
+   "cls": "b-eater38b12",
+   "mono": "EAT",
+   "tag": "US 38",
+   "name": "Eater's 38 Essential Cocktail Bars Across the US",
+   "year": "2012",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eater38b12"
   }
  }
 }

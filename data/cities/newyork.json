@@ -94,6 +94,10 @@
     [
      "beli",
      15
+    ],
+    [
+     "ba20r13",
+     13
     ]
    ],
    "dual": false,
@@ -136,6 +140,10 @@
     [
      "beli",
      12
+    ],
+    [
+     "eaterat38r25",
+     null
     ]
    ],
    "dual": false,
@@ -213,6 +221,14 @@
     [
      "beli",
      25
+    ],
+    [
+     "resy40r26",
+     null
+    ],
+    [
+     "eaterat38r25",
+     null
     ]
    ],
    "dual": true,
@@ -323,6 +339,10 @@
     [
      "infatlun",
      null
+    ],
+    [
+     "infat14r26",
+     null
     ]
    ],
    "dual": false,
@@ -400,6 +420,10 @@
     [
      "infatlun",
      null
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "dual": false,
@@ -465,6 +489,10 @@
     [
      "fwgt",
      1
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "dual": false,
@@ -499,6 +527,10 @@
     [
      "beli",
      21
+    ],
+    [
+     "nyt50r26",
+     null
     ]
    ],
    "dual": false,
@@ -532,6 +564,10 @@
     [
      "nyt100ny",
      18
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "dual": false,
@@ -598,6 +634,10 @@
     ],
     [
      "infatlun",
+     null
+    ],
+    [
+     "eaterat38r25",
      null
     ]
    ],
@@ -745,6 +785,10 @@
     [
      "infatlun",
      null
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "dual": true,
@@ -817,6 +861,10 @@
     ],
     [
      "bibny",
+     null
+    ],
+    [
+     "resy40r26",
      null
     ]
    ],
@@ -910,6 +958,10 @@
     [
      "na50",
      36
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "dual": false,
@@ -981,6 +1033,10 @@
     [
      "beli",
      14
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "dual": false,
@@ -1003,6 +1059,10 @@
     [
      "michny",
      1
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "dual": false,
@@ -1198,6 +1258,10 @@
     [
      "beli",
      42
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "dual": true,
@@ -1253,6 +1317,10 @@
     ],
     [
      "infatlun",
+     null
+    ],
+    [
+     "ot100r26",
      null
     ]
    ],
@@ -1330,6 +1398,10 @@
     [
      "nyt100ny",
      47
+    ],
+    [
+     "eaterat38r25",
+     null
     ]
    ],
    "dual": false,
@@ -1383,6 +1455,10 @@
     [
      "nyt100ny",
      82
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "dual": false,
@@ -1432,6 +1508,10 @@
     [
      "nyt100ny",
      2
+    ],
+    [
+     "nyt50r26",
+     null
     ]
    ],
    "dual": false,
@@ -1726,6 +1806,10 @@
     [
      "cnt30ny",
      null
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "dual": false,
@@ -1763,6 +1847,10 @@
     [
      "eater38ny",
      null
+    ],
+    [
+     "ba20r13",
+     18
     ]
    ],
    "dual": false,
@@ -2375,6 +2463,10 @@
     [
      "michny",
      3
+    ],
+    [
+     "ba20r13",
+     7
     ]
    ],
    "dual": false,
@@ -2592,7 +2684,12 @@
    "lat": 40.7627,
    "lng": -73.984,
    "pr": 4,
-   "lists": [],
+   "lists": [
+    [
+     "ot100r26",
+     null
+    ]
+   ],
    "dual": false,
    "vb": "oldguard"
   },
@@ -3294,6 +3391,10 @@
     [
      "nyt100ny",
      76
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "dual": true,
@@ -3551,6 +3652,10 @@
     [
      "bibny",
      null
+    ],
+    [
+     "ba20r13",
+     1
     ]
    ],
    "dual": false,
@@ -4028,6 +4133,10 @@
     [
      "infatny",
      null
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "dual": false,
@@ -4088,6 +4197,10 @@
     [
      "bibny",
      null
+    ],
+    [
+     "ba20r13",
+     6
     ]
    ],
    "dual": false,
@@ -4442,6 +4555,10 @@
     [
      "michny",
      1
+    ],
+    [
+     "eaterat38r25",
+     null
     ]
    ],
    "dual": false,
@@ -5003,6 +5120,10 @@
     [
      "nyt100ny",
      29
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "vb": "datenight",
@@ -5383,6 +5504,10 @@
     [
      "nyt100ny",
      75
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "vb": "datenight",
@@ -6536,6 +6661,10 @@
     [
      "infatlun",
      null
+    ],
+    [
+     "eaterat38r25",
+     null
     ]
    ],
    "dual": false,
@@ -6577,6 +6706,256 @@
    "dual": false,
    "vb": "global",
    "lu": 1
+  },
+  {
+   "name": "Shake Shack",
+   "hood": "Flatiron",
+   "type": "classics",
+   "typekind": "cui",
+   "lat": 40.7414,
+   "lng": -73.9882,
+   "pr": 1,
+   "vb": "quick",
+   "lists": [
+    [
+     "ba20r13",
+     16
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Fairfax",
+   "hood": "West Village",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.7347,
+   "lng": -74.0034,
+   "pr": 2,
+   "vb": "brunch",
+   "lists": [
+    [
+     "ot100r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Graciela",
+   "hood": "New York",
+   "type": "global",
+   "typekind": "cui",
+   "pr": 3,
+   "vb": "datenight",
+   "lists": [
+    [
+     "ot100r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Jeffrey's Grocery",
+   "hood": "West Village",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 40.7335,
+   "lng": -74.0025,
+   "pr": 3,
+   "vb": "brunch",
+   "lists": [
+    [
+     "ot100r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Joseph Leonard",
+   "hood": "West Village",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 40.7334,
+   "lng": -74.0024,
+   "pr": 2,
+   "vb": "brunch",
+   "lists": [
+    [
+     "ot100r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Palma",
+   "hood": "West Village",
+   "type": "italian",
+   "typekind": "cui",
+   "lat": 40.733,
+   "lng": -74.0042,
+   "pr": 3,
+   "vb": "italian",
+   "lists": [
+    [
+     "ot100r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "The Odeon",
+   "hood": "Tribeca",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 40.7169,
+   "lng": -74.0075,
+   "pr": 3,
+   "vb": "oldguard",
+   "lists": [
+    [
+     "ot100r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Bistrot Ha",
+   "hood": "Lower East Side",
+   "type": "french",
+   "typekind": "cui",
+   "lat": 40.7194,
+   "lng": -73.9918,
+   "pr": 3,
+   "vb": "datenight",
+   "lists": [
+    [
+     "nyt50r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Zoli",
+   "hood": "New York",
+   "type": "global",
+   "typekind": "cui",
+   "pr": 3,
+   "vb": "datenight",
+   "lists": [
+    [
+     "nyt50r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "La Tête d'Or by Daniel",
+   "hood": "Flatiron",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 40.7404,
+   "lng": -73.9893,
+   "pr": 4,
+   "vb": "datenight",
+   "lists": [
+    [
+     "resy40r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Saint Julivert Fisherie",
+   "hood": "Cobble Hill",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 40.6869,
+   "lng": -73.9938,
+   "pr": 2,
+   "vb": "datenight",
+   "lists": [
+    [
+     "resy40r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Mission Chinese Food",
+   "hood": "Lower East Side",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.714,
+   "lng": -73.991,
+   "pr": 2,
+   "vb": "asian",
+   "cl": 1,
+   "lists": [
+    [
+     "eaterat38r25",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Momofuku Ssäm Bar",
+   "hood": "East Village",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 40.7317,
+   "lng": -73.9861,
+   "pr": 3,
+   "vb": "asian",
+   "cl": 1,
+   "lists": [
+    [
+     "eaterat38r25",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Red Rooster",
+   "hood": "Harlem",
+   "type": "southern",
+   "typekind": "cui",
+   "lat": 40.8079,
+   "lng": -73.9449,
+   "pr": 2,
+   "vb": "brunch",
+   "lists": [
+    [
+     "eaterat38r25",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "bars": [
@@ -6660,6 +7039,10 @@
     [
      "barmagny",
      null
+    ],
+    [
+     "na50b26",
+     35
     ]
    ],
    "dual": false,
@@ -6705,6 +7088,10 @@
     [
      "barmagny",
      null
+    ],
+    [
+     "na50b26",
+     37
     ]
    ],
    "dual": false,
@@ -6754,6 +7141,10 @@
     [
      "nymagny",
      null
+    ],
+    [
+     "na50b26",
+     40
     ]
    ],
    "dual": false,
@@ -6797,6 +7188,18 @@
     ],
     [
      "barmagny",
+     null
+    ],
+    [
+     "esq25",
+     null
+    ],
+    [
+     "na50b26",
+     4
+    ],
+    [
+     "banewb25",
      null
     ]
    ],
@@ -6843,6 +7246,10 @@
     [
      "barmagny",
      null
+    ],
+    [
+     "na50b26",
+     9
     ]
    ],
    "dual": false,
@@ -6884,6 +7291,10 @@
     [
      "barmagny",
      null
+    ],
+    [
+     "mashedb22",
+     null
     ]
    ],
    "dual": false,
@@ -6920,6 +7331,14 @@
     [
      "barmagny",
      null
+    ],
+    [
+     "esq24",
+     null
+    ],
+    [
+     "na50b26",
+     23
     ]
    ],
    "dual": false,
@@ -6957,6 +7376,10 @@
     [
      "barmagny",
      null
+    ],
+    [
+     "na50b26",
+     33
     ]
    ],
    "dual": false,
@@ -7153,6 +7576,14 @@
     [
      "barmagny",
      null
+    ],
+    [
+     "esq24",
+     null
+    ],
+    [
+     "na50b26",
+     1
     ]
    ],
    "dual": false,
@@ -7185,6 +7616,10 @@
     ],
     [
      "barmagny",
+     null
+    ],
+    [
+     "esq24",
      null
     ]
    ],
@@ -7219,6 +7654,14 @@
     [
      "barmagny",
      null
+    ],
+    [
+     "gq25b10",
+     2
+    ],
+    [
+     "na50b26",
+     31
     ]
    ],
    "dual": false,
@@ -7453,6 +7896,14 @@
     [
      "barmagny",
      null
+    ],
+    [
+     "infitbars26",
+     null
+    ],
+    [
+     "na50b26",
+     3
     ]
    ],
    "dual": false,
@@ -7481,6 +7932,14 @@
     [
      "nymagny",
      null
+    ],
+    [
+     "eater38b12",
+     null
+    ],
+    [
+     "gq25b10",
+     6
     ]
    ],
    "dual": false,
@@ -7530,6 +7989,10 @@
     [
      "barmagny",
      null
+    ],
+    [
+     "na50b26",
+     45
     ]
    ],
    "dual": false,
@@ -7678,6 +8141,10 @@
     [
      "cnt33bny",
      null
+    ],
+    [
+     "esq24",
+     null
     ]
    ],
    "dual": false,
@@ -7774,6 +8241,10 @@
     ],
     [
      "cnt33bny",
+     null
+    ],
+    [
+     "esq24",
      null
     ]
    ],
@@ -7981,6 +8452,10 @@
     [
      "barmagny",
      null
+    ],
+    [
+     "na50b26",
+     36
     ]
    ],
    "dual": false,
@@ -8107,6 +8582,10 @@
     [
      "barmagny",
      null
+    ],
+    [
+     "na50b26",
+     15
     ]
    ],
    "dual": false,
@@ -8131,6 +8610,10 @@
     [
      "nymagny",
      null
+    ],
+    [
+     "gq25b10",
+     4
     ]
    ],
    "dual": false,
@@ -8591,6 +9074,10 @@
     [
      "eaterwny",
      null
+    ],
+    [
+     "esq24",
+     null
     ]
    ],
    "dual": false,
@@ -8612,6 +9099,14 @@
     [
      "nymagny",
      null
+    ],
+    [
+     "eater38b12",
+     null
+    ],
+    [
+     "gq25b10",
+     7
     ]
    ],
    "dual": false,
@@ -8847,6 +9342,10 @@
    "lists": [
     [
      "bany",
+     null
+    ],
+    [
+     "esq26",
      null
     ]
    ],
@@ -9623,6 +10122,10 @@
     [
      "nymagny",
      null
+    ],
+    [
+     "eater38b12",
+     null
     ]
    ],
    "dual": false,
@@ -9703,6 +10206,10 @@
     [
      "nymagny",
      null
+    ],
+    [
+     "gq25b10",
+     1
     ]
    ],
    "dual": false,
@@ -9899,6 +10406,176 @@
    ],
    "dual": false,
    "vb": "vibey"
+  },
+  {
+   "name": "Milk & Honey",
+   "hood": "Lower East Side",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.718,
+   "lng": -73.991,
+   "vb": "mixo",
+   "cl": 1,
+   "lists": [
+    [
+     "eater38b12",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "The NoMad",
+   "hood": "NoMad",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7448,
+   "lng": -73.9887,
+   "vb": "mixo",
+   "cl": 1,
+   "lists": [
+    [
+     "eater38b12",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "The Double Windsor",
+   "hood": "Windsor Terrace",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.6542,
+   "lng": -73.9786,
+   "vb": "dive",
+   "lists": [
+    [
+     "esq26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "The Tusk Bar",
+   "hood": "NoMad",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7438,
+   "lng": -73.9866,
+   "vb": "mixo",
+   "lists": [
+    [
+     "esq24",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Gosh",
+   "hood": "New York",
+   "type": "m",
+   "typekind": "drink",
+   "vb": "vibey",
+   "lists": [
+    [
+     "infitbars26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Los Salvajes",
+   "hood": "New York",
+   "type": "m",
+   "typekind": "drink",
+   "vb": "mixo",
+   "lists": [
+    [
+     "infitbars26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Marie's Crisis",
+   "hood": "West Village",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 40.7334,
+   "lng": -74.0039,
+   "vb": "livemusic",
+   "lists": [
+    [
+     "esq25",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Pegu Club",
+   "hood": "SoHo",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7248,
+   "lng": -73.9993,
+   "vb": "mixo",
+   "cl": 1,
+   "lists": [
+    [
+     "gq25b10",
+     22
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Prime Meats",
+   "hood": "Carroll Gardens",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.6798,
+   "lng": -73.9963,
+   "vb": "vibey",
+   "cl": 1,
+   "lists": [
+    [
+     "gq25b10",
+     5
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Echo Lake",
+   "hood": "Williamsburg",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 40.7135,
+   "lng": -73.958,
+   "vb": "tiki",
+   "lists": [
+    [
+     "punchnewb26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "rlists": {
@@ -9909,7 +10586,8 @@
    "name": "Condé Nast 50 Best Restaurants in North America",
    "year": "2026",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "cnna50r26"
   },
   "cnwny": {
    "cls": "plate r-cnw",
@@ -9918,7 +10596,8 @@
    "name": "Condé Nast 100 Best Restaurants in the World",
    "year": "2026",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "cnwr26"
   },
   "nytny": {
    "cls": "plate r-nyt",
@@ -9981,7 +10660,8 @@
    "name": "NYT 50 Best Restaurants in America",
    "year": "2025",
    "ranked": false,
-   "starChip": false
+   "starChip": false,
+   "nat": "nyt50r25"
   },
   "jbny": {
    "cls": "plate r-jba",
@@ -10008,7 +10688,8 @@
    "name": "North America's 50 Best Restaurants 2025",
    "year": "2025",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "na50r25"
   },
   "fwgt": {
    "cls": "plate r-fwgt",
@@ -10036,6 +10717,66 @@
    "year": "2025",
    "ranked": false,
    "starChip": false
+  },
+  "ba20r13": {
+   "cls": "plate r-ba20r13",
+   "mono": "BA",
+   "tag": "BA 20",
+   "name": "Bon Appétit: The 20 Most Important Restaurants in America",
+   "year": "2013",
+   "ranked": true,
+   "starChip": false,
+   "nat": "ba20r13"
+  },
+  "ot100r26": {
+   "cls": "plate r-ot100r26",
+   "mono": "OT",
+   "tag": "OT 100",
+   "name": "OpenTable: Top 100 Restaurants in the US",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "ot100r26"
+  },
+  "nyt50r26": {
+   "cls": "plate r-nyt50r26",
+   "mono": "NYT",
+   "tag": "NYT USA",
+   "name": "NYT Restaurant List: 50 Favorite Restaurants in the U.S.",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "nyt50r26"
+  },
+  "infat14r26": {
+   "cls": "plate r-infat14r26",
+   "mono": "IN",
+   "tag": "IN USA",
+   "name": "The Infatuation: Highest-Rated Restaurants in America",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "infat14r26"
+  },
+  "resy40r26": {
+   "cls": "plate r-resy40r26",
+   "mono": "RESY",
+   "tag": "RESY 40",
+   "name": "Resy: 40 Restaurants Across America Worth a Journey",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "resy40r26"
+  },
+  "eaterat38r25": {
+   "cls": "plate r-eaterat38r25",
+   "mono": "EAT",
+   "tag": "ALL-TIME",
+   "name": "Eater: The All-Time Eater 38",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eaterat38r25"
   }
  },
  "blists": {
@@ -10046,7 +10787,8 @@
    "name": "Condé Nast 100 Best Bars in North America",
    "year": "2026",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "cnnab26"
   },
   "cnwbny": {
    "cls": "b-cnw",
@@ -10055,7 +10797,8 @@
    "name": "Condé Nast 100 Best Bars in the World",
    "year": "2026",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "cnwb26"
   },
   "eatercny": {
    "cls": "b-eater",
@@ -10154,7 +10897,8 @@
    "name": "North America's 50 Best Bars",
    "year": "2024",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "na50b24"
   },
   "belib": {
    "cls": "b-belib",
@@ -10191,6 +10935,106 @@
    "year": "2013",
    "ranked": false,
    "starChip": false
+  },
+  "eater38b12": {
+   "cls": "b-eater38b12",
+   "mono": "EAT",
+   "tag": "US 38",
+   "name": "Eater's 38 Essential Cocktail Bars Across the US",
+   "year": "2012",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eater38b12"
+  },
+  "esq26": {
+   "cls": "b-esq26",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2026",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq26"
+  },
+  "esq24": {
+   "cls": "b-esq24",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq24"
+  },
+  "infitbars26": {
+   "cls": "b-infitbars26",
+   "mono": "IN",
+   "tag": "IN USA",
+   "name": "The Infatuation: The 'It' Bars Across America",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "infitbars26"
+  },
+  "esq25": {
+   "cls": "b-esq25",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2025",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq25"
+  },
+  "gq25b10": {
+   "cls": "b-gq25b10",
+   "mono": "GQ",
+   "tag": "GQ 25",
+   "name": "GQ: The 25 Best Cocktail Bars in America",
+   "year": "2010",
+   "ranked": true,
+   "starChip": false,
+   "nat": "gq25b10"
+  },
+  "na50b26": {
+   "cls": "b-na50b26",
+   "mono": "NAB",
+   "tag": "50 BEST",
+   "name": "North America's 50 Best Bars 2026",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false,
+   "nat": "na50b26"
+  },
+  "mashedb22": {
+   "cls": "b-mashedb22",
+   "mono": "M",
+   "tag": "MASHED",
+   "name": "Mashed: The Absolute Best Bars in the U.S.",
+   "year": "2022",
+   "ranked": false,
+   "starChip": false,
+   "nat": "mashedb22"
+  },
+  "banewb25": {
+   "cls": "b-banewb25",
+   "mono": "BA",
+   "tag": "BA NEW",
+   "name": "Bon Appétit: The 9 Best New Bars of 2025",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "banewb25"
+  },
+  "punchnewb26": {
+   "cls": "b-punchnewb26",
+   "mono": "P!",
+   "tag": "PUNCH NEW",
+   "name": "PUNCH: The Best New Cocktail Bars of 2026",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "punchnewb26"
   }
  }
 }

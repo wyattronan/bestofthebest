@@ -32,6 +32,10 @@
     [
      "cntpdx",
      null
+    ],
+    [
+     "infat14r26",
+     null
     ]
    ],
    "vb": "tasting",
@@ -258,6 +262,10 @@
     [
      "cntpdx",
      null
+    ],
+    [
+     "eaterat38r25",
+     null
     ]
    ],
    "vb": "datenight",
@@ -334,6 +342,10 @@
     ],
     [
      "cntpdx",
+     null
+    ],
+    [
+     "usat25r",
      null
     ]
    ],
@@ -666,6 +678,10 @@
     [
      "pdxmo",
      null
+    ],
+    [
+     "eaterat38r25",
+     null
     ]
    ],
    "vb": "quick",
@@ -860,6 +876,10 @@
    "lists": [
     [
      "nytpdx",
+     null
+    ],
+    [
+     "nyt50r26",
      null
     ]
    ],
@@ -2104,6 +2124,25 @@
    ],
    "dual": false,
    "vb": "italian"
+  },
+  {
+   "name": "Pok Pok",
+   "hood": "Division",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 45.5047,
+   "lng": -122.6326,
+   "pr": 2,
+   "vb": "asian",
+   "cl": 1,
+   "lists": [
+    [
+     "ba20r13",
+     8
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "bars": [
@@ -2310,6 +2349,10 @@
     [
      "eaterpdx",
      null
+    ],
+    [
+     "eater38b12",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2330,6 +2373,10 @@
     [
      "barmagpdx",
      null
+    ],
+    [
+     "esq25",
+     null
     ]
    ],
    "vb": "vibey",
@@ -2349,6 +2396,10 @@
     ],
     [
      "eaterpdx",
+     null
+    ],
+    [
+     "usat24b",
      null
     ]
    ],
@@ -2662,6 +2713,57 @@
    ],
    "dual": false,
    "vb": "mixo"
+  },
+  {
+   "name": "Clyde Common",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.5219,
+   "lng": -122.6814,
+   "vb": "mixo",
+   "cl": 1,
+   "lists": [
+    [
+     "eater38b12",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "The Woodsman Tavern",
+   "hood": "Division",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.505,
+   "lng": -122.617,
+   "vb": "mixo",
+   "cl": 1,
+   "lists": [
+    [
+     "eater38b12",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "The Uncanny",
+   "hood": "Portland",
+   "type": "m",
+   "typekind": "drink",
+   "vb": "mixo",
+   "lists": [
+    [
+     "esq24",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "rlists": {
@@ -2726,7 +2828,8 @@
    "name": "North America's 50 Best Restaurants 2025",
    "year": "2025",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "na50r25"
   },
   "fwgt": {
    "cls": "plate r-fwgt",
@@ -2754,6 +2857,56 @@
    "year": "2025",
    "ranked": false,
    "starChip": false
+  },
+  "ba20r13": {
+   "cls": "plate r-ba20r13",
+   "mono": "BA",
+   "tag": "BA 20",
+   "name": "Bon Appétit: The 20 Most Important Restaurants in America",
+   "year": "2013",
+   "ranked": true,
+   "starChip": false,
+   "nat": "ba20r13"
+  },
+  "usat25r": {
+   "cls": "plate r-usat25r",
+   "mono": "USA",
+   "tag": "USA TODAY",
+   "name": "USA Today Restaurants of the Year 2025",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "usat25r"
+  },
+  "nyt50r26": {
+   "cls": "plate r-nyt50r26",
+   "mono": "NYT",
+   "tag": "NYT USA",
+   "name": "NYT Restaurant List: 50 Favorite Restaurants in the U.S.",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "nyt50r26"
+  },
+  "infat14r26": {
+   "cls": "plate r-infat14r26",
+   "mono": "IN",
+   "tag": "IN USA",
+   "name": "The Infatuation: Highest-Rated Restaurants in America",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "infat14r26"
+  },
+  "eaterat38r25": {
+   "cls": "plate r-eaterat38r25",
+   "mono": "EAT",
+   "tag": "ALL-TIME",
+   "name": "Eater: The All-Time Eater 38",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eaterat38r25"
   }
  },
  "blists": {
@@ -2801,6 +2954,46 @@
    "year": "2025",
    "ranked": false,
    "starChip": false
+  },
+  "eater38b12": {
+   "cls": "b-eater38b12",
+   "mono": "EAT",
+   "tag": "US 38",
+   "name": "Eater's 38 Essential Cocktail Bars Across the US",
+   "year": "2012",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eater38b12"
+  },
+  "esq24": {
+   "cls": "b-esq24",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq24"
+  },
+  "esq25": {
+   "cls": "b-esq25",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2025",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq25"
+  },
+  "usat24b": {
+   "cls": "b-usat24b",
+   "mono": "USA",
+   "tag": "USA TODAY",
+   "name": "USA Today Bars of the Year 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "usat24b"
   }
  }
 }

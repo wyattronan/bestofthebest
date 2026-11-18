@@ -215,6 +215,10 @@
     [
      "beli",
      25
+    ],
+    [
+     "infat14r26",
+     null
     ]
    ],
    "dual": false,
@@ -838,6 +842,10 @@
     [
      "bosmag",
      14
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "dual": false,
@@ -930,6 +938,10 @@
     ],
     [
      "cnt35bos",
+     null
+    ],
+    [
+     "eaterat38r25",
      null
     ]
    ],
@@ -1750,6 +1762,10 @@
     [
      "beli",
      4
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "dual": false,
@@ -2079,6 +2095,10 @@
     [
      "cnt35bos",
      null
+    ],
+    [
+     "usat25r",
+     null
     ]
    ],
    "dual": true,
@@ -2230,6 +2250,42 @@
    "vb": "quick",
    "lu": 1,
    "to": 1
+  },
+  {
+   "name": "Dalia",
+   "hood": "South Boston",
+   "type": "med",
+   "typekind": "cui",
+   "lat": 42.3366,
+   "lng": -71.0497,
+   "pr": 3,
+   "vb": "datenight",
+   "lists": [
+    [
+     "nyt50r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "The Koji Club",
+   "hood": "Brighton",
+   "lat": 42.3618,
+   "lng": -71.145,
+   "type": "japanese",
+   "typekind": "cui",
+   "pr": 3,
+   "vb": "datenight",
+   "lists": [
+    [
+     "resy40r26",
+     null
+    ]
+   ],
+   "dual": true,
+   "_natadd": 1
   }
  ],
  "bars": [
@@ -2803,7 +2859,7 @@
      null
     ]
    ],
-   "dual": false,
+   "dual": true,
    "vb": "wine"
   },
   {
@@ -2894,6 +2950,10 @@
     ],
     [
      "barmagbos",
+     null
+    ],
+    [
+     "mashedb22",
      null
     ]
    ],
@@ -3182,6 +3242,14 @@
     [
      "punchbos",
      null
+    ],
+    [
+     "eater38b12",
+     null
+    ],
+    [
+     "gq25b10",
+     21
     ]
    ],
    "dual": false,
@@ -3199,6 +3267,10 @@
     [
      "punchbos",
      null
+    ],
+    [
+     "gq25b10",
+     13
     ]
    ],
    "dual": false,
@@ -3235,6 +3307,10 @@
     ],
     [
      "barmagbos",
+     null
+    ],
+    [
+     "esq24",
      null
     ]
    ],
@@ -3918,6 +3994,10 @@
     [
      "punchbos",
      null
+    ],
+    [
+     "eater38b12",
+     null
     ]
    ],
    "dual": false,
@@ -4491,6 +4571,40 @@
    ],
    "dual": false,
    "vb": "vibey"
+  },
+  {
+   "name": "Birds of Paradise",
+   "hood": "Brighton",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 42.3601,
+   "lng": -71.1563,
+   "vb": "mixo",
+   "lists": [
+    [
+     "esq24",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "The L Street Tavern",
+   "hood": "South Boston",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.3332,
+   "lng": -71.0362,
+   "vb": "dive",
+   "lists": [
+    [
+     "usat24b",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "rlists": {
@@ -4564,7 +4678,8 @@
    "name": "NYT 50 Best Restaurants in America",
    "year": "2025",
    "ranked": false,
-   "starChip": false
+   "starChip": false,
+   "nat": "nyt50r25"
   },
   "beli": {
    "cls": "plate r-beli",
@@ -4583,6 +4698,66 @@
    "year": "2025",
    "ranked": false,
    "starChip": false
+  },
+  "usat25r": {
+   "cls": "plate r-usat25r",
+   "mono": "USA",
+   "tag": "USA TODAY",
+   "name": "USA Today Restaurants of the Year 2025",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "usat25r"
+  },
+  "ot100r26": {
+   "cls": "plate r-ot100r26",
+   "mono": "OT",
+   "tag": "OT 100",
+   "name": "OpenTable: Top 100 Restaurants in the US",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "ot100r26"
+  },
+  "nyt50r26": {
+   "cls": "plate r-nyt50r26",
+   "mono": "NYT",
+   "tag": "NYT USA",
+   "name": "NYT Restaurant List: 50 Favorite Restaurants in the U.S.",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "nyt50r26"
+  },
+  "infat14r26": {
+   "cls": "plate r-infat14r26",
+   "mono": "IN",
+   "tag": "IN USA",
+   "name": "The Infatuation: Highest-Rated Restaurants in America",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "infat14r26"
+  },
+  "resy40r26": {
+   "cls": "plate r-resy40r26",
+   "mono": "RESY",
+   "tag": "RESY 40",
+   "name": "Resy: 40 Restaurants Across America Worth a Journey",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "resy40r26"
+  },
+  "eaterat38r25": {
+   "cls": "plate r-eaterat38r25",
+   "mono": "EAT",
+   "tag": "ALL-TIME",
+   "name": "Eater: The All-Time Eater 38",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eaterat38r25"
   }
  },
  "blists": {
@@ -4602,7 +4777,8 @@
    "name": "Condé Nast 100 Best Bars in North America",
    "year": "2026",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "cnnab26"
   },
   "timeoutbos": {
    "cls": "b-timeout",
@@ -4711,6 +4887,56 @@
    "year": "2026",
    "ranked": false,
    "starChip": false
+  },
+  "eater38b12": {
+   "cls": "b-eater38b12",
+   "mono": "EAT",
+   "tag": "US 38",
+   "name": "Eater's 38 Essential Cocktail Bars Across the US",
+   "year": "2012",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eater38b12"
+  },
+  "esq24": {
+   "cls": "b-esq24",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq24"
+  },
+  "gq25b10": {
+   "cls": "b-gq25b10",
+   "mono": "GQ",
+   "tag": "GQ 25",
+   "name": "GQ: The 25 Best Cocktail Bars in America",
+   "year": "2010",
+   "ranked": true,
+   "starChip": false,
+   "nat": "gq25b10"
+  },
+  "usat24b": {
+   "cls": "b-usat24b",
+   "mono": "USA",
+   "tag": "USA TODAY",
+   "name": "USA Today Bars of the Year 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "usat24b"
+  },
+  "mashedb22": {
+   "cls": "b-mashedb22",
+   "mono": "M",
+   "tag": "MASHED",
+   "name": "Mashed: The Absolute Best Bars in the U.S.",
+   "year": "2022",
+   "ranked": false,
+   "starChip": false,
+   "nat": "mashedb22"
   }
  }
 }

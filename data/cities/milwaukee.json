@@ -910,6 +910,10 @@
     [
      "eatermke",
      null
+    ],
+    [
+     "usat25r",
+     null
     ]
    ],
    "dual": false,
@@ -1050,6 +1054,22 @@
    ],
    "dual": false,
    "vb": "asian"
+  },
+  {
+   "name": "Nakama",
+   "hood": "Milwaukee",
+   "type": "japanese",
+   "typekind": "cui",
+   "pr": 3,
+   "vb": "datenight",
+   "lists": [
+    [
+     "ot100r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "bars": [
@@ -1111,6 +1131,18 @@
     ],
     [
      "barmagmil",
+     null
+    ],
+    [
+     "eater38b12",
+     null
+    ],
+    [
+     "usat24b",
+     null
+    ],
+    [
+     "mashedb22",
      null
     ]
    ],
@@ -1672,6 +1704,23 @@
    ],
    "dual": false,
    "vb": "dive"
+  },
+  {
+   "name": "Distil",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 43.0402,
+   "lng": -87.9066,
+   "vb": "mixo",
+   "lists": [
+    [
+     "eater38b12",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "rlists": {
@@ -1737,6 +1786,26 @@
    "year": "2026",
    "ranked": false,
    "starChip": false
+  },
+  "usat25r": {
+   "cls": "plate r-usat25r",
+   "mono": "USA",
+   "tag": "USA TODAY",
+   "name": "USA Today Restaurants of the Year 2025",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "usat25r"
+  },
+  "ot100r26": {
+   "cls": "plate r-ot100r26",
+   "mono": "OT",
+   "tag": "OT 100",
+   "name": "OpenTable: Top 100 Restaurants in the US",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "ot100r26"
   }
  },
  "blists": {
@@ -1765,7 +1834,8 @@
    "name": "USA Today Best Bars (Milwaukee)",
    "year": "2025",
    "ranked": false,
-   "starChip": false
+   "starChip": false,
+   "nat": "usat25b"
   },
   "barmagmil": {
    "cls": "b-barmagmil",
@@ -1784,6 +1854,36 @@
    "year": "2024",
    "ranked": false,
    "starChip": false
+  },
+  "eater38b12": {
+   "cls": "b-eater38b12",
+   "mono": "EAT",
+   "tag": "US 38",
+   "name": "Eater's 38 Essential Cocktail Bars Across the US",
+   "year": "2012",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eater38b12"
+  },
+  "usat24b": {
+   "cls": "b-usat24b",
+   "mono": "USA",
+   "tag": "USA TODAY",
+   "name": "USA Today Bars of the Year 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "usat24b"
+  },
+  "mashedb22": {
+   "cls": "b-mashedb22",
+   "mono": "M",
+   "tag": "MASHED",
+   "name": "Mashed: The Absolute Best Bars in the U.S.",
+   "year": "2022",
+   "ranked": false,
+   "starChip": false,
+   "nat": "mashedb22"
   }
  }
 }

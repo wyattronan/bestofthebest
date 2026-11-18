@@ -60,6 +60,18 @@
     [
      "beli",
      3
+    ],
+    [
+     "nyt50r26",
+     null
+    ],
+    [
+     "infat14r26",
+     null
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "dual": false,
@@ -233,6 +245,10 @@
     [
      "na50",
      17
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "dual": false,
@@ -336,6 +352,10 @@
     [
      "beli",
      1
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "dual": false,
@@ -760,6 +780,10 @@
     [
      "beli",
      14
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "dual": false,
@@ -1289,6 +1313,10 @@
     [
      "nytdc",
      null
+    ],
+    [
+     "eaterat38r25",
+     null
     ]
    ],
    "dual": false,
@@ -1545,6 +1573,10 @@
     [
      "washdc100",
      57
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "dual": false,
@@ -3175,6 +3207,10 @@
     [
      "washdc100",
      53
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "vb": "datenight",
@@ -3484,6 +3520,10 @@
     [
      "washdc100",
      86
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "vb": "datenight",
@@ -3749,6 +3789,22 @@
    "dual": false,
    "vb": "italian",
    "lu": 1
+  },
+  {
+   "name": "Rye Bunny",
+   "hood": "Washington, D.C.",
+   "type": "newam",
+   "typekind": "cui",
+   "pr": 3,
+   "vb": "datenight",
+   "lists": [
+    [
+     "nyt50r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "bars": [
@@ -3798,6 +3854,14 @@
     ],
     [
      "barmagdc",
+     null
+    ],
+    [
+     "na50b26",
+     39
+    ],
+    [
+     "mashedb22",
      null
     ]
    ],
@@ -3930,6 +3994,14 @@
     [
      "barmagdc",
      null
+    ],
+    [
+     "infitbars26",
+     null
+    ],
+    [
+     "banewb25",
+     null
     ]
    ],
    "dual": false,
@@ -3982,6 +4054,10 @@
     [
      "barmagdc",
      null
+    ],
+    [
+     "na50b26",
+     34
     ]
    ],
    "dual": false,
@@ -4201,6 +4277,10 @@
    "lists": [
     [
      "eaterdc",
+     null
+    ],
+    [
+     "eater38b12",
      null
     ]
    ],
@@ -5671,6 +5751,10 @@
     [
      "barmagdc",
      null
+    ],
+    [
+     "esq26",
+     null
     ]
    ],
    "dual": false,
@@ -5999,6 +6083,10 @@
     [
      "punchcockdc",
      null
+    ],
+    [
+     "gq25b10",
+     18
     ]
    ],
    "dual": false,
@@ -6047,6 +6135,14 @@
     [
      "punchcockdc",
      null
+    ],
+    [
+     "eater38b12",
+     null
+    ],
+    [
+     "gq25b10",
+     8
     ]
    ],
    "dual": false,
@@ -6214,7 +6310,8 @@
    "name": "Condé Nast 50 Best Restaurants in North America",
    "year": "2026",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "cnna50r26"
   },
   "washdc": {
    "cls": "plate r-wash",
@@ -6277,7 +6374,8 @@
    "name": "NYT 50 Best Restaurants in America",
    "year": "2025",
    "ranked": false,
-   "starChip": false
+   "starChip": false,
+   "nat": "nyt50r25"
   },
   "jbdc": {
    "cls": "plate r-jba",
@@ -6304,7 +6402,8 @@
    "name": "North America's 50 Best Restaurants 2025",
    "year": "2025",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "na50r25"
   },
   "fwgt": {
    "cls": "plate r-fwgt",
@@ -6332,6 +6431,56 @@
    "year": "2025",
    "ranked": false,
    "starChip": false
+  },
+  "ot100r26": {
+   "cls": "plate r-ot100r26",
+   "mono": "OT",
+   "tag": "OT 100",
+   "name": "OpenTable: Top 100 Restaurants in the US",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "ot100r26"
+  },
+  "nyt50r26": {
+   "cls": "plate r-nyt50r26",
+   "mono": "NYT",
+   "tag": "NYT USA",
+   "name": "NYT Restaurant List: 50 Favorite Restaurants in the U.S.",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "nyt50r26"
+  },
+  "infat14r26": {
+   "cls": "plate r-infat14r26",
+   "mono": "IN",
+   "tag": "IN USA",
+   "name": "The Infatuation: Highest-Rated Restaurants in America",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "infat14r26"
+  },
+  "resy40r26": {
+   "cls": "plate r-resy40r26",
+   "mono": "RESY",
+   "tag": "RESY 40",
+   "name": "Resy: 40 Restaurants Across America Worth a Journey",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "resy40r26"
+  },
+  "eaterat38r25": {
+   "cls": "plate r-eaterat38r25",
+   "mono": "EAT",
+   "tag": "ALL-TIME",
+   "name": "Eater: The All-Time Eater 38",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eaterat38r25"
   }
  },
  "blists": {
@@ -6342,7 +6491,8 @@
    "name": "Condé Nast 100 Best Bars in North America",
    "year": "2026",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "cnnab26"
   },
   "eaterdc": {
    "cls": "b-eater",
@@ -6396,7 +6546,8 @@
    "name": "North America's 50 Best Bars",
    "year": "2024",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "na50b24"
   },
   "belib": {
    "cls": "b-belib",
@@ -6469,6 +6620,76 @@
    "year": "2025",
    "ranked": false,
    "starChip": false
+  },
+  "eater38b12": {
+   "cls": "b-eater38b12",
+   "mono": "EAT",
+   "tag": "US 38",
+   "name": "Eater's 38 Essential Cocktail Bars Across the US",
+   "year": "2012",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eater38b12"
+  },
+  "esq26": {
+   "cls": "b-esq26",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2026",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq26"
+  },
+  "infitbars26": {
+   "cls": "b-infitbars26",
+   "mono": "IN",
+   "tag": "IN USA",
+   "name": "The Infatuation: The 'It' Bars Across America",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "infitbars26"
+  },
+  "gq25b10": {
+   "cls": "b-gq25b10",
+   "mono": "GQ",
+   "tag": "GQ 25",
+   "name": "GQ: The 25 Best Cocktail Bars in America",
+   "year": "2010",
+   "ranked": true,
+   "starChip": false,
+   "nat": "gq25b10"
+  },
+  "na50b26": {
+   "cls": "b-na50b26",
+   "mono": "NAB",
+   "tag": "50 BEST",
+   "name": "North America's 50 Best Bars 2026",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false,
+   "nat": "na50b26"
+  },
+  "mashedb22": {
+   "cls": "b-mashedb22",
+   "mono": "M",
+   "tag": "MASHED",
+   "name": "Mashed: The Absolute Best Bars in the U.S.",
+   "year": "2022",
+   "ranked": false,
+   "starChip": false,
+   "nat": "mashedb22"
+  },
+  "banewb25": {
+   "cls": "b-banewb25",
+   "mono": "BA",
+   "tag": "BA NEW",
+   "name": "Bon Appétit: The 9 Best New Bars of 2025",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "banewb25"
   }
  }
 }

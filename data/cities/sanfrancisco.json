@@ -158,6 +158,10 @@
     [
      "infat25sf",
      4
+    ],
+    [
+     "nyt50r26",
+     null
     ]
    ],
    "dual": false,
@@ -196,6 +200,10 @@
     [
      "beli",
      10
+    ],
+    [
+     "infat14r26",
+     null
     ]
    ],
    "dual": false,
@@ -305,6 +313,10 @@
     [
      "beli",
      3
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "dual": false,
@@ -448,6 +460,10 @@
     [
      "sfchron100",
      74
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "dual": false,
@@ -516,6 +532,10 @@
     [
      "sfchron100",
      2
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "dual": false,
@@ -613,6 +633,10 @@
     [
      "beli",
      12
+    ],
+    [
+     "eaterat38r25",
+     null
     ]
    ],
    "dual": false,
@@ -900,6 +924,10 @@
     [
      "beli",
      5
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "dual": false,
@@ -2190,6 +2218,10 @@
     [
      "sfchron100",
      88
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "dual": false,
@@ -2825,6 +2857,10 @@
     [
      "sfchron100",
      8
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "dual": false,
@@ -3861,7 +3897,7 @@
     ]
    ],
    "vb": "tasting",
-   "dual": false
+   "dual": true
   },
   {
    "name": "Psychic Pie",
@@ -4046,6 +4082,10 @@
     [
      "sfchron100",
      81
+    ],
+    [
+     "eaterat38r25",
+     null
     ]
    ],
    "vb": "datenight",
@@ -4398,6 +4438,10 @@
     [
      "infatlun",
      null
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "vb": "global",
@@ -4585,6 +4629,116 @@
    "dual": false,
    "vb": "datenight",
    "lu": 1
+  },
+  {
+   "name": "The Restaurant at Meadowood",
+   "hood": "Napa",
+   "type": "tasting",
+   "typekind": "cui",
+   "lat": 38.5235,
+   "lng": -122.459,
+   "pr": 4,
+   "vb": "tasting",
+   "tg": 1,
+   "cl": 1,
+   "lists": [
+    [
+     "ba20r13",
+     2
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Mission Chinese Food",
+   "hood": "Mission",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 37.7614,
+   "lng": -122.4195,
+   "pr": 2,
+   "vb": "asian",
+   "lists": [
+    [
+     "ba20r13",
+     9
+    ],
+    [
+     "eaterat38r25",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Swan Oyster Depot",
+   "hood": "Nob Hill",
+   "type": "seafood",
+   "typekind": "cui",
+   "lat": 37.7905,
+   "lng": -122.4208,
+   "pr": 2,
+   "vb": "oldguard",
+   "lists": [
+    [
+     "ba20r13",
+     20
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Boulevard",
+   "hood": "Embarcadero",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 37.793,
+   "lng": -122.3926,
+   "pr": 4,
+   "vb": "oldguard",
+   "lists": [
+    [
+     "ot100r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Chicano Nuevo",
+   "hood": "San Francisco",
+   "type": "mexican",
+   "typekind": "cui",
+   "pr": 2,
+   "vb": "datenight",
+   "lists": [
+    [
+     "ot100r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Bar Panisse",
+   "hood": "Berkeley",
+   "type": "newam",
+   "typekind": "cui",
+   "pr": 3,
+   "vb": "datenight",
+   "lists": [
+    [
+     "nyt50r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "bars": [
@@ -4635,6 +4789,10 @@
     [
      "barmagsf",
      null
+    ],
+    [
+     "na50b26",
+     41
     ]
    ],
    "dual": false,
@@ -4688,6 +4846,10 @@
     [
      "barmagsf",
      null
+    ],
+    [
+     "na50b26",
+     14
     ]
    ],
    "dual": true,
@@ -4857,6 +5019,10 @@
     ],
     [
      "barmagsf",
+     null
+    ],
+    [
+     "esq24",
      null
     ]
    ],
@@ -5085,6 +5251,10 @@
     [
      "chronsf",
      null
+    ],
+    [
+     "gq25b10",
+     9
     ]
    ],
    "dual": false,
@@ -5105,6 +5275,10 @@
     [
      "timeoutbsf",
      12
+    ],
+    [
+     "esq24",
+     null
     ]
    ],
    "dual": false,
@@ -5125,6 +5299,10 @@
     [
      "infatwsf",
      null
+    ],
+    [
+     "esq24",
+     null
     ]
    ],
    "dual": false,
@@ -5144,6 +5322,10 @@
     [
      "timeoutbsf",
      13
+    ],
+    [
+     "mashedb22",
+     null
     ]
    ],
    "dual": false,
@@ -5575,6 +5757,10 @@
     [
      "chronbsf",
      null
+    ],
+    [
+     "esq24",
+     null
     ]
    ],
    "dual": false,
@@ -5875,6 +6061,10 @@
     [
      "timeoutbsf",
      8
+    ],
+    [
+     "banewb25",
+     null
     ]
    ],
    "dual": false,
@@ -6007,6 +6197,14 @@
     [
      "barmagsf",
      null
+    ],
+    [
+     "eater38b12",
+     null
+    ],
+    [
+     "gq25b10",
+     2
     ]
    ],
    "dual": false,
@@ -6107,6 +6305,14 @@
     [
      "infatbsf",
      null
+    ],
+    [
+     "eater38b12",
+     null
+    ],
+    [
+     "gq25b10",
+     5
     ]
    ],
    "dual": false,
@@ -6261,6 +6467,10 @@
    "lists": [
     [
      "chronbsf",
+     null
+    ],
+    [
+     "mashedb22",
      null
     ]
    ],
@@ -6681,6 +6891,10 @@
     [
      "chronsf",
      null
+    ],
+    [
+     "gq25b10",
+     17
     ]
    ],
    "dual": false,
@@ -7293,6 +7507,75 @@
    ],
    "dual": false,
    "vb": "vibey"
+  },
+  {
+   "name": "Bar Agricole",
+   "hood": "SoMa",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7704,
+   "lng": -122.4131,
+   "vb": "mixo",
+   "lists": [
+    [
+     "eater38b12",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Rickhouse",
+   "hood": "Financial District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7908,
+   "lng": -122.404,
+   "vb": "mixo",
+   "lists": [
+    [
+     "gq25b10",
+     14
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Cyrus",
+   "hood": "",
+   "lat": 37.8045,
+   "lng": -122.4057,
+   "type": "m",
+   "typekind": "drink",
+   "vb": "mixo",
+   "lists": [
+    [
+     "gq25b10",
+     1
+    ]
+   ],
+   "dual": true,
+   "_natadd": 1
+  },
+  {
+   "name": "Heaven's Dog",
+   "hood": "SoMa",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 37.7768,
+   "lng": -122.4157,
+   "vb": "mixo",
+   "cl": 1,
+   "lists": [
+    [
+     "gq25b10",
+     3
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "rlists": {
@@ -7312,7 +7595,8 @@
    "name": "Condé Nast 50 Best Restaurants in North America",
    "year": "2026",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "cnna50r26"
   },
   "cnwsf": {
    "cls": "plate r-cnw",
@@ -7321,7 +7605,8 @@
    "name": "World's Best 100 Restaurants",
    "year": "2026",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "cnwr26"
   },
   "resysf": {
    "cls": "plate r-resy",
@@ -7411,7 +7696,8 @@
    "name": "NYT 50 Best Restaurants in America",
    "year": "2025",
    "ranked": false,
-   "starChip": false
+   "starChip": false,
+   "nat": "nyt50r25"
   },
   "sfchron100": {
    "cls": "plate r-sfchron100",
@@ -7429,7 +7715,8 @@
    "name": "North America's 50 Best Restaurants 2025",
    "year": "2025",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "na50r25"
   },
   "fwgt": {
    "cls": "plate r-fwgt",
@@ -7457,6 +7744,66 @@
    "year": "2025",
    "ranked": false,
    "starChip": false
+  },
+  "ba20r13": {
+   "cls": "plate r-ba20r13",
+   "mono": "BA",
+   "tag": "BA 20",
+   "name": "Bon Appétit: The 20 Most Important Restaurants in America",
+   "year": "2013",
+   "ranked": true,
+   "starChip": false,
+   "nat": "ba20r13"
+  },
+  "ot100r26": {
+   "cls": "plate r-ot100r26",
+   "mono": "OT",
+   "tag": "OT 100",
+   "name": "OpenTable: Top 100 Restaurants in the US",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "ot100r26"
+  },
+  "nyt50r26": {
+   "cls": "plate r-nyt50r26",
+   "mono": "NYT",
+   "tag": "NYT USA",
+   "name": "NYT Restaurant List: 50 Favorite Restaurants in the U.S.",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "nyt50r26"
+  },
+  "infat14r26": {
+   "cls": "plate r-infat14r26",
+   "mono": "IN",
+   "tag": "IN USA",
+   "name": "The Infatuation: Highest-Rated Restaurants in America",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "infat14r26"
+  },
+  "resy40r26": {
+   "cls": "plate r-resy40r26",
+   "mono": "RESY",
+   "tag": "RESY 40",
+   "name": "Resy: 40 Restaurants Across America Worth a Journey",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "resy40r26"
+  },
+  "eaterat38r25": {
+   "cls": "plate r-eaterat38r25",
+   "mono": "EAT",
+   "tag": "ALL-TIME",
+   "name": "Eater: The All-Time Eater 38",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eaterat38r25"
   }
  },
  "blists": {
@@ -7548,7 +7895,8 @@
    "name": "North America's 50 Best Bars",
    "year": "2024",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "na50b24"
   },
   "belib": {
    "cls": "b-belib",
@@ -7585,6 +7933,66 @@
    "year": "2025",
    "ranked": false,
    "starChip": false
+  },
+  "eater38b12": {
+   "cls": "b-eater38b12",
+   "mono": "EAT",
+   "tag": "US 38",
+   "name": "Eater's 38 Essential Cocktail Bars Across the US",
+   "year": "2012",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eater38b12"
+  },
+  "esq24": {
+   "cls": "b-esq24",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq24"
+  },
+  "gq25b10": {
+   "cls": "b-gq25b10",
+   "mono": "GQ",
+   "tag": "GQ 25",
+   "name": "GQ: The 25 Best Cocktail Bars in America",
+   "year": "2010",
+   "ranked": true,
+   "starChip": false,
+   "nat": "gq25b10"
+  },
+  "na50b26": {
+   "cls": "b-na50b26",
+   "mono": "NAB",
+   "tag": "50 BEST",
+   "name": "North America's 50 Best Bars 2026",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false,
+   "nat": "na50b26"
+  },
+  "mashedb22": {
+   "cls": "b-mashedb22",
+   "mono": "M",
+   "tag": "MASHED",
+   "name": "Mashed: The Absolute Best Bars in the U.S.",
+   "year": "2022",
+   "ranked": false,
+   "starChip": false,
+   "nat": "mashedb22"
+  },
+  "banewb25": {
+   "cls": "b-banewb25",
+   "mono": "BA",
+   "tag": "BA NEW",
+   "name": "Bon Appétit: The 9 Best New Bars of 2025",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "banewb25"
   }
  }
 }

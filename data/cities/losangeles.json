@@ -105,6 +105,10 @@
     [
      "beli",
      11
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "dual": false,
@@ -159,6 +163,10 @@
     [
      "beli",
      9
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "dual": false,
@@ -209,6 +217,10 @@
     [
      "beli",
      7
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "dual": false,
@@ -252,6 +264,10 @@
     [
      "beli",
      22
+    ],
+    [
+     "infat14r26",
+     null
     ]
    ],
    "dual": false,
@@ -295,6 +311,10 @@
     [
      "beli",
      8
+    ],
+    [
+     "eaterat38r25",
+     null
     ]
    ],
    "dual": false,
@@ -415,6 +435,10 @@
     [
      "latimes101",
      20
+    ],
+    [
+     "nyt50r26",
+     null
     ]
    ],
    "dual": false,
@@ -668,6 +692,10 @@
     [
      "latimes101",
      69
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "dual": false,
@@ -1121,6 +1149,10 @@
     [
      "beli",
      21
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "dual": false,
@@ -1882,6 +1914,10 @@
     [
      "latimes101",
      10
+    ],
+    [
+     "eaterat38r25",
+     null
     ]
    ],
    "dual": false,
@@ -2645,6 +2681,10 @@
     [
      "infat25la",
      7
+    ],
+    [
+     "eaterat38r25",
+     null
     ]
    ],
    "dual": false,
@@ -3000,6 +3040,10 @@
     [
      "latimes101",
      37
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "dual": false,
@@ -3760,6 +3804,10 @@
     [
      "bibla",
      null
+    ],
+    [
+     "eaterat38r25",
+     null
     ]
    ],
    "dual": false,
@@ -4498,6 +4546,10 @@
     [
      "latimes101",
      49
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "vb": "datenight",
@@ -4515,6 +4567,10 @@
     [
      "latimes101",
      50
+    ],
+    [
+     "nyt50r26",
+     null
     ]
    ],
    "vb": "datenight",
@@ -4860,6 +4916,10 @@
     [
      "latimes101",
      90
+    ],
+    [
+     "nyt50r26",
+     null
     ]
    ],
    "vb": "datenight",
@@ -5240,6 +5300,138 @@
    "dual": false,
    "vb": "datenight",
    "lu": 1
+  },
+  {
+   "name": "Animal",
+   "hood": "Fairfax",
+   "type": "newam",
+   "typekind": "cui",
+   "lat": 34.0783,
+   "lng": -118.3615,
+   "pr": 3,
+   "vb": "datenight",
+   "lists": [
+    [
+     "ba20r13",
+     11
+    ],
+    [
+     "eaterat38r25",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Naisho Omakase",
+   "hood": "Costa Mesa",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 33.69,
+   "lng": -117.89,
+   "pr": 4,
+   "vb": "tasting",
+   "tg": 1,
+   "lists": [
+    [
+     "ot100r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Strong Water",
+   "hood": "Anaheim",
+   "type": "global",
+   "typekind": "cui",
+   "lat": 33.835,
+   "lng": -117.913,
+   "pr": 2,
+   "vb": "datenight",
+   "lists": [
+    [
+     "ot100r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Musso and Frank Grill",
+   "hood": "Hollywood",
+   "lat": 34.1016,
+   "lng": -118.335,
+   "type": "classics",
+   "typekind": "cui",
+   "pr": 3,
+   "vb": "oldguard",
+   "lists": [
+    [
+     "ot100r26",
+     null
+    ]
+   ],
+   "dual": true,
+   "_natadd": 1
+  },
+  {
+   "name": "N/Soto",
+   "hood": "Mid-City",
+   "type": "japanese",
+   "typekind": "cui",
+   "lat": 34.0477,
+   "lng": -118.3439,
+   "pr": 3,
+   "vb": "datenight",
+   "lists": [
+    [
+     "resy40r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Kogi BBQ",
+   "hood": "Palms",
+   "type": "asian",
+   "typekind": "cui",
+   "lat": 34.03,
+   "lng": -118.4,
+   "pr": 1,
+   "vb": "taco",
+   "lists": [
+    [
+     "eaterat38r25",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Taco María",
+   "hood": "Costa Mesa",
+   "type": "mexican",
+   "typekind": "cui",
+   "lat": 33.69,
+   "lng": -117.884,
+   "pr": 4,
+   "vb": "tasting",
+   "tg": 1,
+   "lists": [
+    [
+     "eaterat38r25",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "bars": [
@@ -5312,6 +5504,10 @@
     ],
     [
      "barmagla",
+     null
+    ],
+    [
+     "esq24",
      null
     ]
    ],
@@ -5403,6 +5599,10 @@
     [
      "thrillla",
      null
+    ],
+    [
+     "na50b26",
+     28
     ]
    ],
    "dual": false,
@@ -5480,6 +5680,10 @@
     [
      "barmagla",
      null
+    ],
+    [
+     "gq25b10",
+     11
     ]
    ],
    "dual": false,
@@ -5903,6 +6107,14 @@
     [
      "barmagla",
      null
+    ],
+    [
+     "infitbars26",
+     null
+    ],
+    [
+     "punchnewb26",
+     null
     ]
    ],
    "dual": false,
@@ -6164,6 +6376,10 @@
     [
      "barmagla",
      null
+    ],
+    [
+     "na50b26",
+     44
     ]
    ],
    "dual": false,
@@ -6197,6 +6413,10 @@
     [
      "timeoutbla",
      14
+    ],
+    [
+     "esq25",
+     null
     ]
    ],
    "dual": false,
@@ -6506,7 +6726,7 @@
      null
     ]
    ],
-   "dual": false,
+   "dual": true,
    "vb": "mixo"
   },
   {
@@ -6972,6 +7192,10 @@
     [
      "punchla",
      null
+    ],
+    [
+     "eater38b12",
+     null
     ]
    ],
    "dual": false,
@@ -7334,6 +7558,10 @@
     [
      "resyla",
      null
+    ],
+    [
+     "infitbars26",
+     null
     ]
    ],
    "dual": false,
@@ -7413,6 +7641,10 @@
    "lists": [
     [
      "resyla",
+     null
+    ],
+    [
+     "esq26",
      null
     ]
    ],
@@ -7642,6 +7874,151 @@
    ],
    "dual": false,
    "vb": "wine"
+  },
+  {
+   "name": "Library Bar",
+   "hood": "Hollywood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.1016,
+   "lng": -118.341,
+   "vb": "mixo",
+   "lists": [
+    [
+     "eater38b12",
+     null
+    ],
+    [
+     "mashedb22",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Copa d'Oro",
+   "hood": "Santa Monica",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0128,
+   "lng": -118.4949,
+   "vb": "mixo",
+   "lists": [
+    [
+     "eater38b12",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Kelly's Korner Tavern",
+   "hood": "Placentia",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 33.8722,
+   "lng": -117.8703,
+   "vb": "dive",
+   "lists": [
+    [
+     "esq26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "La Dolce Vita",
+   "hood": "Beverly Hills",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0644,
+   "lng": -118.4006,
+   "vb": "vibey",
+   "lists": [
+    [
+     "esq24",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "La Descarga",
+   "hood": "East Hollywood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0836,
+   "lng": -118.3086,
+   "vb": "livemusic",
+   "lists": [
+    [
+     "esq25",
+     null
+    ],
+    [
+     "gq25b10",
+     3
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Farmshop",
+   "hood": "Santa Monica",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 34.0436,
+   "lng": -118.4848,
+   "vb": "wine",
+   "lists": [
+    [
+     "esq25",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Cole's",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0447,
+   "lng": -118.2496,
+   "vb": "vibey",
+   "lists": [
+    [
+     "gq25b10",
+     19
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "The Edison",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 34.0505,
+   "lng": -118.2486,
+   "vb": "vibey",
+   "cl": 1,
+   "lists": [
+    [
+     "gq25b10",
+     23
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "rlists": {
@@ -7652,7 +8029,8 @@
    "name": "Condé Nast 50 Best Restaurants in North America",
    "year": "2026",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "cnna50r26"
   },
   "eater38la": {
    "cls": "plate r-eater38",
@@ -7760,7 +8138,8 @@
    "name": "NYT 50 Best Restaurants in America",
    "year": "2025",
    "ranked": false,
-   "starChip": false
+   "starChip": false,
+   "nat": "nyt50r25"
   },
   "latimes101": {
    "cls": "plate r-latimes101",
@@ -7778,7 +8157,8 @@
    "name": "North America's 50 Best Restaurants 2025",
    "year": "2025",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "na50r25"
   },
   "fwgt": {
    "cls": "plate r-fwgt",
@@ -7806,6 +8186,66 @@
    "year": "2025",
    "ranked": false,
    "starChip": false
+  },
+  "ba20r13": {
+   "cls": "plate r-ba20r13",
+   "mono": "BA",
+   "tag": "BA 20",
+   "name": "Bon Appétit: The 20 Most Important Restaurants in America",
+   "year": "2013",
+   "ranked": true,
+   "starChip": false,
+   "nat": "ba20r13"
+  },
+  "ot100r26": {
+   "cls": "plate r-ot100r26",
+   "mono": "OT",
+   "tag": "OT 100",
+   "name": "OpenTable: Top 100 Restaurants in the US",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "ot100r26"
+  },
+  "nyt50r26": {
+   "cls": "plate r-nyt50r26",
+   "mono": "NYT",
+   "tag": "NYT USA",
+   "name": "NYT Restaurant List: 50 Favorite Restaurants in the U.S.",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "nyt50r26"
+  },
+  "infat14r26": {
+   "cls": "plate r-infat14r26",
+   "mono": "IN",
+   "tag": "IN USA",
+   "name": "The Infatuation: Highest-Rated Restaurants in America",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "infat14r26"
+  },
+  "resy40r26": {
+   "cls": "plate r-resy40r26",
+   "mono": "RESY",
+   "tag": "RESY 40",
+   "name": "Resy: 40 Restaurants Across America Worth a Journey",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "resy40r26"
+  },
+  "eaterat38r25": {
+   "cls": "plate r-eaterat38r25",
+   "mono": "EAT",
+   "tag": "ALL-TIME",
+   "name": "Eater: The All-Time Eater 38",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eaterat38r25"
   }
  },
  "blists": {
@@ -7825,7 +8265,8 @@
    "name": "Condé Nast World's Best 100 Bars",
    "year": "2026",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "cnwb26"
   },
   "punchla": {
    "cls": "b-punch",
@@ -7897,7 +8338,8 @@
    "name": "North America's 50 Best Bars",
    "year": "2024",
    "ranked": true,
-   "starChip": false
+   "starChip": false,
+   "nat": "na50b24"
   },
   "belib": {
    "cls": "b-belib",
@@ -7943,6 +8385,96 @@
    "year": "2023",
    "ranked": false,
    "starChip": false
+  },
+  "eater38b12": {
+   "cls": "b-eater38b12",
+   "mono": "EAT",
+   "tag": "US 38",
+   "name": "Eater's 38 Essential Cocktail Bars Across the US",
+   "year": "2012",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eater38b12"
+  },
+  "esq26": {
+   "cls": "b-esq26",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2026",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq26"
+  },
+  "esq24": {
+   "cls": "b-esq24",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq24"
+  },
+  "infitbars26": {
+   "cls": "b-infitbars26",
+   "mono": "IN",
+   "tag": "IN USA",
+   "name": "The Infatuation: The 'It' Bars Across America",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "infitbars26"
+  },
+  "esq25": {
+   "cls": "b-esq25",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2025",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq25"
+  },
+  "gq25b10": {
+   "cls": "b-gq25b10",
+   "mono": "GQ",
+   "tag": "GQ 25",
+   "name": "GQ: The 25 Best Cocktail Bars in America",
+   "year": "2010",
+   "ranked": true,
+   "starChip": false,
+   "nat": "gq25b10"
+  },
+  "na50b26": {
+   "cls": "b-na50b26",
+   "mono": "NAB",
+   "tag": "50 BEST",
+   "name": "North America's 50 Best Bars 2026",
+   "year": "2026",
+   "ranked": true,
+   "starChip": false,
+   "nat": "na50b26"
+  },
+  "mashedb22": {
+   "cls": "b-mashedb22",
+   "mono": "M",
+   "tag": "MASHED",
+   "name": "Mashed: The Absolute Best Bars in the U.S.",
+   "year": "2022",
+   "ranked": false,
+   "starChip": false,
+   "nat": "mashedb22"
+  },
+  "punchnewb26": {
+   "cls": "b-punchnewb26",
+   "mono": "P!",
+   "tag": "PUNCH NEW",
+   "name": "PUNCH: The Best New Cocktail Bars of 2026",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "punchnewb26"
   }
  }
 }

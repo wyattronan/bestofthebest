@@ -24,6 +24,10 @@
     [
      "infatden",
      null
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "dual": false,
@@ -150,6 +154,10 @@
     [
      "infatden",
      null
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "dual": false,
@@ -208,6 +216,10 @@
     ],
     [
      "infatden",
+     null
+    ],
+    [
+     "ot100r26",
      null
     ]
    ],
@@ -1446,6 +1458,10 @@
     [
      "infatden",
      null
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "dual": false,
@@ -1501,6 +1517,76 @@
    ],
    "dual": false,
    "vb": "datenight"
+  },
+  {
+   "name": "Florence Supper Club",
+   "hood": "Denver",
+   "type": "newam",
+   "typekind": "cui",
+   "pr": 3,
+   "vb": "datenight",
+   "lists": [
+    [
+     "ot100r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Guard & Grace",
+   "hood": "Downtown",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 39.7478,
+   "lng": -104.9908,
+   "pr": 4,
+   "vb": "datenight",
+   "lists": [
+    [
+     "ot100r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Milpero",
+   "hood": "Denver",
+   "type": "mexican",
+   "typekind": "cui",
+   "pr": 3,
+   "vb": "datenight",
+   "lists": [
+    [
+     "ot100r26",
+     null
+    ],
+    [
+     "nyt50r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Heretik",
+   "hood": "Denver",
+   "type": "french",
+   "typekind": "cui",
+   "pr": 3,
+   "vb": "datenight",
+   "lists": [
+    [
+     "nyt50r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "bars": [
@@ -1762,6 +1848,10 @@
     ],
     [
      "cntden",
+     null
+    ],
+    [
+     "eater38b12",
      null
     ]
    ],
@@ -2622,6 +2712,10 @@
     [
      "barmagden",
      null
+    ],
+    [
+     "esq24",
+     null
     ]
    ],
    "dual": false,
@@ -2701,6 +2795,10 @@
    "lists": [
     [
      "barmagden",
+     null
+    ],
+    [
+     "punchnewb26",
      null
     ]
    ],
@@ -3038,6 +3136,10 @@
     [
      "cntden",
      null
+    ],
+    [
+     "esq24",
+     null
     ]
    ],
    "dual": false,
@@ -3281,6 +3383,26 @@
    "year": "2026",
    "ranked": false,
    "starChip": false
+  },
+  "ot100r26": {
+   "cls": "plate r-ot100r26",
+   "mono": "OT",
+   "tag": "OT 100",
+   "name": "OpenTable: Top 100 Restaurants in the US",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "ot100r26"
+  },
+  "nyt50r26": {
+   "cls": "plate r-nyt50r26",
+   "mono": "NYT",
+   "tag": "NYT USA",
+   "name": "NYT Restaurant List: 50 Favorite Restaurants in the U.S.",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "nyt50r26"
   }
  },
  "blists": {
@@ -3346,6 +3468,36 @@
    "year": "2019",
    "ranked": false,
    "starChip": false
+  },
+  "eater38b12": {
+   "cls": "b-eater38b12",
+   "mono": "EAT",
+   "tag": "US 38",
+   "name": "Eater's 38 Essential Cocktail Bars Across the US",
+   "year": "2012",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eater38b12"
+  },
+  "esq24": {
+   "cls": "b-esq24",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq24"
+  },
+  "punchnewb26": {
+   "cls": "b-punchnewb26",
+   "mono": "P!",
+   "tag": "PUNCH NEW",
+   "name": "PUNCH: The Best New Cocktail Bars of 2026",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "punchnewb26"
   }
  }
 }

@@ -109,6 +109,10 @@
     [
      "ajcatl",
      4
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "vb": "datenight",
@@ -262,6 +266,10 @@
     ],
     [
      "infatatl",
+     null
+    ],
+    [
+     "resy40r26",
      null
     ]
    ],
@@ -594,6 +602,10 @@
     [
      "eater38atl",
      null
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "vb": "datenight",
@@ -669,6 +681,10 @@
     ],
     [
      "nytatl",
+     null
+    ],
+    [
+     "resy40r26",
      null
     ]
    ],
@@ -975,6 +991,10 @@
     [
      "nytatl",
      null
+    ],
+    [
+     "resy40r26",
+     null
     ]
    ],
    "vb": "asian",
@@ -1160,6 +1180,10 @@
    "lists": [
     [
      "ajcatl",
+     null
+    ],
+    [
+     "ot100r26",
      null
     ]
    ],
@@ -1422,6 +1446,10 @@
    "lists": [
     [
      "ajcatl",
+     null
+    ],
+    [
+     "ot100r26",
      null
     ]
    ],
@@ -2125,6 +2153,10 @@
     ],
     [
      "infatatl",
+     null
+    ],
+    [
+     "infat14r26",
      null
     ]
    ],
@@ -2985,6 +3017,10 @@
     [
      "nyt50atl",
      null
+    ],
+    [
+     "nyt50r26",
+     null
     ]
    ],
    "vb": "datenight",
@@ -3431,6 +3467,10 @@
     [
      "barmagatl",
      null
+    ],
+    [
+     "infitbars26",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3734,6 +3774,10 @@
     ],
     [
      "maximatl",
+     null
+    ],
+    [
+     "esq24",
      null
     ]
    ],
@@ -4719,6 +4763,14 @@
     [
      "eaterbatl",
      null
+    ],
+    [
+     "eater38b12",
+     null
+    ],
+    [
+     "gq25b10",
+     10
     ]
    ],
    "vb": "dive",
@@ -4854,6 +4906,10 @@
     ],
     [
      "resyatl",
+     null
+    ],
+    [
+     "banewb25",
      null
     ]
    ],
@@ -5572,6 +5628,46 @@
    "year": "2025",
    "ranked": false,
    "starChip": false
+  },
+  "ot100r26": {
+   "cls": "plate r-ot100r26",
+   "mono": "OT",
+   "tag": "OT 100",
+   "name": "OpenTable: Top 100 Restaurants in the US",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "ot100r26"
+  },
+  "nyt50r26": {
+   "cls": "plate r-nyt50r26",
+   "mono": "NYT",
+   "tag": "NYT USA",
+   "name": "NYT Restaurant List: 50 Favorite Restaurants in the U.S.",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "nyt50r26"
+  },
+  "infat14r26": {
+   "cls": "plate r-infat14r26",
+   "mono": "IN",
+   "tag": "IN USA",
+   "name": "The Infatuation: Highest-Rated Restaurants in America",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "infat14r26"
+  },
+  "resy40r26": {
+   "cls": "plate r-resy40r26",
+   "mono": "RESY",
+   "tag": "RESY 40",
+   "name": "Resy: 40 Restaurants Across America Worth a Journey",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "resy40r26"
   }
  },
  "blists": {
@@ -5655,6 +5751,56 @@
    "year": "2024",
    "ranked": false,
    "starChip": false
+  },
+  "eater38b12": {
+   "cls": "b-eater38b12",
+   "mono": "EAT",
+   "tag": "US 38",
+   "name": "Eater's 38 Essential Cocktail Bars Across the US",
+   "year": "2012",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eater38b12"
+  },
+  "esq24": {
+   "cls": "b-esq24",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq24"
+  },
+  "infitbars26": {
+   "cls": "b-infitbars26",
+   "mono": "IN",
+   "tag": "IN USA",
+   "name": "The Infatuation: The 'It' Bars Across America",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "infitbars26"
+  },
+  "gq25b10": {
+   "cls": "b-gq25b10",
+   "mono": "GQ",
+   "tag": "GQ 25",
+   "name": "GQ: The 25 Best Cocktail Bars in America",
+   "year": "2010",
+   "ranked": true,
+   "starChip": false,
+   "nat": "gq25b10"
+  },
+  "banewb25": {
+   "cls": "b-banewb25",
+   "mono": "BA",
+   "tag": "BA NEW",
+   "name": "Bon Appétit: The 9 Best New Bars of 2025",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "banewb25"
   }
  }
 }

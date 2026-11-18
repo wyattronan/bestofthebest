@@ -24,6 +24,10 @@
     [
      "cntsd",
      null
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "dual": false,
@@ -44,6 +48,10 @@
     ],
     [
      "sdmag",
+     null
+    ],
+    [
+     "ot100r26",
      null
     ]
    ],
@@ -174,6 +182,10 @@
     [
      "eatersd",
      null
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "dual": false,
@@ -266,6 +278,10 @@
     ],
     [
      "cntsd",
+     null
+    ],
+    [
+     "ot100r26",
      null
     ]
    ],
@@ -573,6 +589,10 @@
     ],
     [
      "infat",
+     null
+    ],
+    [
+     "ot100r26",
      null
     ]
    ],
@@ -928,6 +948,10 @@
    "lists": [
     [
      "eatersd",
+     null
+    ],
+    [
+     "nyt50r26",
      null
     ]
    ],
@@ -1469,6 +1493,10 @@
     [
      "thrillnlsd",
      null
+    ],
+    [
+     "esq24",
+     null
     ]
    ],
    "dual": false,
@@ -1548,6 +1576,10 @@
     ],
     [
      "barmagsd",
+     null
+    ],
+    [
+     "eater38b12",
      null
     ]
    ],
@@ -2525,6 +2557,23 @@
    ],
    "dual": false,
    "vb": "mixo"
+  },
+  {
+   "name": "Skyline Lounge at Legoland Hotel",
+   "hood": "Carlsbad",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 33.127,
+   "lng": -117.311,
+   "vb": "party",
+   "lists": [
+    [
+     "esq25",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "rlists": {
@@ -2590,6 +2639,26 @@
    "year": "2024",
    "ranked": false,
    "starChip": false
+  },
+  "ot100r26": {
+   "cls": "plate r-ot100r26",
+   "mono": "OT",
+   "tag": "OT 100",
+   "name": "OpenTable: Top 100 Restaurants in the US",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "ot100r26"
+  },
+  "nyt50r26": {
+   "cls": "plate r-nyt50r26",
+   "mono": "NYT",
+   "tag": "NYT USA",
+   "name": "NYT Restaurant List: 50 Favorite Restaurants in the U.S.",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "nyt50r26"
   }
  },
  "blists": {
@@ -2655,6 +2724,36 @@
    "year": "2026",
    "ranked": false,
    "starChip": false
+  },
+  "eater38b12": {
+   "cls": "b-eater38b12",
+   "mono": "EAT",
+   "tag": "US 38",
+   "name": "Eater's 38 Essential Cocktail Bars Across the US",
+   "year": "2012",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eater38b12"
+  },
+  "esq24": {
+   "cls": "b-esq24",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq24"
+  },
+  "esq25": {
+   "cls": "b-esq25",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2025",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq25"
   }
  }
 }

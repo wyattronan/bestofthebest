@@ -29,6 +29,10 @@
     [
      "infat",
      null
+    ],
+    [
+     "nyt50r26",
+     null
     ]
    ],
    "dual": false,
@@ -83,6 +87,10 @@
    "lists": [
     [
      "infat",
+     null
+    ],
+    [
+     "nyt50r26",
      null
     ]
    ],
@@ -335,6 +343,10 @@
     ],
     [
      "eaterdet",
+     null
+    ],
+    [
+     "usat25r",
      null
     ]
    ],
@@ -1023,6 +1035,24 @@
    ],
    "dual": false,
    "vb": "global"
+  },
+  {
+   "name": "Sister Pie",
+   "hood": "West Village",
+   "type": "bakery",
+   "typekind": "cui",
+   "lat": 42.3601,
+   "lng": -82.9905,
+   "pr": 1,
+   "vb": "quick",
+   "lists": [
+    [
+     "eaterat38r25",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "bars": [
@@ -1489,6 +1519,10 @@
     [
      "eaterdet",
      null
+    ],
+    [
+     "usat24b",
+     null
     ]
    ],
    "dual": false,
@@ -1810,6 +1844,36 @@
    "year": "2025",
    "ranked": false,
    "starChip": false
+  },
+  "usat25r": {
+   "cls": "plate r-usat25r",
+   "mono": "USA",
+   "tag": "USA TODAY",
+   "name": "USA Today Restaurants of the Year 2025",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "usat25r"
+  },
+  "nyt50r26": {
+   "cls": "plate r-nyt50r26",
+   "mono": "NYT",
+   "tag": "NYT USA",
+   "name": "NYT Restaurant List: 50 Favorite Restaurants in the U.S.",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "nyt50r26"
+  },
+  "eaterat38r25": {
+   "cls": "plate r-eaterat38r25",
+   "mono": "EAT",
+   "tag": "ALL-TIME",
+   "name": "Eater: The All-Time Eater 38",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "eaterat38r25"
   }
  },
  "blists": {
@@ -1848,6 +1912,16 @@
    "year": "2024",
    "ranked": false,
    "starChip": false
+  },
+  "usat24b": {
+   "cls": "b-usat24b",
+   "mono": "USA",
+   "tag": "USA TODAY",
+   "name": "USA Today Bars of the Year 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "usat24b"
   }
  }
 }

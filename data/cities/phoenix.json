@@ -1202,6 +1202,10 @@
     [
      "azc100phx",
      null
+    ],
+    [
+     "usat25r",
+     null
     ]
    ],
    "vb": "taco",
@@ -1282,6 +1286,10 @@
     ],
     [
      "jbphx",
+     null
+    ],
+    [
+     "usat25r",
      null
     ]
    ],
@@ -2533,6 +2541,10 @@
     [
      "phxmag",
      22
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "vb": "datenight",
@@ -2765,6 +2777,10 @@
    "lists": [
     [
      "phxmag",
+     null
+    ],
+    [
+     "ot100r26",
      null
     ]
    ],
@@ -3329,6 +3345,10 @@
     [
      "phxmag",
      null
+    ],
+    [
+     "ot100r26",
+     null
     ]
    ],
    "vb": "datenight",
@@ -3675,6 +3695,10 @@
     ],
     [
      "cntphx",
+     null
+    ],
+    [
+     "ot100r26",
      null
     ]
    ],
@@ -5063,6 +5087,40 @@
    "dual": false,
    "vb": "datenight",
    "lu": 1
+  },
+  {
+   "name": "Uppercut",
+   "hood": "Phoenix",
+   "type": "steak",
+   "typekind": "cui",
+   "pr": 4,
+   "vb": "datenight",
+   "lists": [
+    [
+     "ot100r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
+  },
+  {
+   "name": "Durant's",
+   "hood": "Midtown Phoenix",
+   "type": "steak",
+   "typekind": "cui",
+   "lat": 33.4848,
+   "lng": -112.0739,
+   "pr": 4,
+   "vb": "oldguard",
+   "lists": [
+    [
+     "nyt50r26",
+     null
+    ]
+   ],
+   "dual": false,
+   "_natadd": 1
   }
  ],
  "bars": [
@@ -5236,6 +5294,10 @@
     ],
     [
      "thrillphx",
+     null
+    ],
+    [
+     "usat24b",
      null
     ]
    ],
@@ -5721,6 +5783,10 @@
     [
      "nt50bphx",
      null
+    ],
+    [
+     "usat24b",
+     null
     ]
    ],
    "vb": "party",
@@ -6076,6 +6142,10 @@
    "lists": [
     [
      "nt50bphx",
+     null
+    ],
+    [
+     "esq24",
      null
     ]
    ],
@@ -6655,6 +6725,36 @@
    "year": "2025",
    "ranked": false,
    "starChip": false
+  },
+  "usat25r": {
+   "cls": "plate r-usat25r",
+   "mono": "USA",
+   "tag": "USA TODAY",
+   "name": "USA Today Restaurants of the Year 2025",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false,
+   "nat": "usat25r"
+  },
+  "ot100r26": {
+   "cls": "plate r-ot100r26",
+   "mono": "OT",
+   "tag": "OT 100",
+   "name": "OpenTable: Top 100 Restaurants in the US",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "ot100r26"
+  },
+  "nyt50r26": {
+   "cls": "plate r-nyt50r26",
+   "mono": "NYT",
+   "tag": "NYT USA",
+   "name": "NYT Restaurant List: 50 Favorite Restaurants in the U.S.",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "nyt50r26"
   }
  },
  "blists": {
@@ -6738,6 +6838,26 @@
    "year": "2025",
    "ranked": false,
    "starChip": false
+  },
+  "esq24": {
+   "cls": "b-esq24",
+   "mono": "ESQ",
+   "tag": "ESQ USA",
+   "name": "Esquire: The Best Bars in America 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "esq24"
+  },
+  "usat24b": {
+   "cls": "b-usat24b",
+   "mono": "USA",
+   "tag": "USA TODAY",
+   "name": "USA Today Bars of the Year 2024",
+   "year": "2024",
+   "ranked": false,
+   "starChip": false,
+   "nat": "usat24b"
   }
  }
 }

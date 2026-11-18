@@ -1,0 +1,4688 @@
+{
+ "lists": {
+  "eater38b12": {
+   "kind": "bars",
+   "name": "Eater's 38 Essential Cocktail Bars Across the US",
+   "pub": "Eater",
+   "year": "2012",
+   "ranked": false,
+   "mono": "EAT",
+   "tag": "US 38"
+  },
+  "esq26": {
+   "kind": "bars",
+   "name": "Esquire: The Best Bars in America 2026",
+   "pub": "Esquire",
+   "year": "2026",
+   "ranked": false,
+   "mono": "ESQ",
+   "tag": "ESQ USA"
+  },
+  "esq24": {
+   "kind": "bars",
+   "name": "Esquire: The Best Bars in America 2024",
+   "pub": "Esquire",
+   "year": "2024",
+   "ranked": false,
+   "mono": "ESQ",
+   "tag": "ESQ USA"
+  },
+  "infitbars26": {
+   "kind": "bars",
+   "name": "The Infatuation: The 'It' Bars Across America",
+   "pub": "The Infatuation",
+   "year": "2026",
+   "ranked": false,
+   "mono": "IN",
+   "tag": "IN USA"
+  },
+  "esq25": {
+   "kind": "bars",
+   "name": "Esquire: The Best Bars in America 2025",
+   "pub": "Esquire",
+   "year": "2025",
+   "ranked": false,
+   "mono": "ESQ",
+   "tag": "ESQ USA"
+  },
+  "gq25b10": {
+   "kind": "bars",
+   "name": "GQ: The 25 Best Cocktail Bars in America",
+   "pub": "GQ",
+   "year": "2010",
+   "ranked": true,
+   "mono": "GQ",
+   "tag": "GQ 25"
+  },
+  "ba20r13": {
+   "kind": "resto",
+   "name": "Bon Appétit: The 20 Most Important Restaurants in America",
+   "pub": "Bon Appétit",
+   "year": "2013",
+   "ranked": true,
+   "mono": "BA",
+   "tag": "BA 20"
+  },
+  "usat25r": {
+   "kind": "resto",
+   "name": "USA Today Restaurants of the Year 2025",
+   "pub": "USA Today",
+   "year": "2025",
+   "ranked": false,
+   "mono": "USA",
+   "tag": "USA TODAY"
+  },
+  "ot100r26": {
+   "kind": "resto",
+   "name": "OpenTable: Top 100 Restaurants in the US",
+   "pub": "OpenTable",
+   "year": "2026",
+   "ranked": false,
+   "mono": "OT",
+   "tag": "OT 100"
+  },
+  "usat24b": {
+   "kind": "bars",
+   "name": "USA Today Bars of the Year 2024",
+   "pub": "USA Today",
+   "year": "2024",
+   "ranked": false,
+   "mono": "USA",
+   "tag": "USA TODAY"
+  },
+  "na50b26": {
+   "kind": "bars",
+   "name": "North America's 50 Best Bars 2026",
+   "pub": "North America's 50 Best Bars",
+   "year": "2026",
+   "ranked": true,
+   "mono": "NAB",
+   "tag": "50 BEST"
+  },
+  "nyt50r26": {
+   "kind": "resto",
+   "name": "NYT Restaurant List: 50 Favorite Restaurants in the U.S.",
+   "pub": "The New York Times",
+   "year": "2026",
+   "ranked": false,
+   "mono": "NYT",
+   "tag": "NYT USA"
+  },
+  "infat14r26": {
+   "kind": "resto",
+   "name": "The Infatuation: Highest-Rated Restaurants in America",
+   "pub": "The Infatuation",
+   "year": "2026",
+   "ranked": false,
+   "mono": "IN",
+   "tag": "IN USA"
+  },
+  "resy40r26": {
+   "kind": "resto",
+   "name": "Resy: 40 Restaurants Across America Worth a Journey",
+   "pub": "Resy",
+   "year": "2026",
+   "ranked": false,
+   "mono": "RESY",
+   "tag": "RESY 40"
+  },
+  "mashedb22": {
+   "kind": "bars",
+   "name": "Mashed: The Absolute Best Bars in the U.S.",
+   "pub": "Mashed",
+   "year": "2022",
+   "ranked": false,
+   "mono": "M",
+   "tag": "MASHED"
+  },
+  "eaterat38r25": {
+   "kind": "resto",
+   "name": "Eater: The All-Time Eater 38",
+   "pub": "Eater",
+   "year": "2025",
+   "ranked": false,
+   "mono": "EAT",
+   "tag": "ALL-TIME"
+  },
+  "banewb25": {
+   "kind": "bars",
+   "name": "Bon Appétit: The 9 Best New Bars of 2025",
+   "pub": "Bon Appétit",
+   "year": "2025",
+   "ranked": false,
+   "mono": "BA",
+   "tag": "BA NEW"
+  },
+  "punchnewb26": {
+   "kind": "bars",
+   "name": "PUNCH: The Best New Cocktail Bars of 2026",
+   "pub": "PUNCH",
+   "year": "2026",
+   "ranked": false,
+   "mono": "P!",
+   "tag": "PUNCH NEW"
+  },
+  "nyt50r25": {
+   "kind": "resto",
+   "name": "NYT 50 Best Restaurants in America 2025",
+   "year": "2025",
+   "ranked": true,
+   "partial": true,
+   "mono": "NYT"
+  },
+  "na50r25": {
+   "kind": "resto",
+   "name": "North America's 50 Best Restaurants 2025",
+   "year": "2025",
+   "ranked": true,
+   "partial": true,
+   "mono": "NAB"
+  },
+  "na50b24": {
+   "kind": "bars",
+   "name": "North America's 50 Best Bars 2024",
+   "year": "2024",
+   "ranked": true,
+   "partial": true,
+   "mono": "NAB"
+  },
+  "cnna50r26": {
+   "kind": "resto",
+   "name": "Condé Nast 50 Best Restaurants in North America 2026",
+   "year": "2026",
+   "ranked": true,
+   "partial": true,
+   "mono": "CN"
+  },
+  "cnnab26": {
+   "kind": "bars",
+   "name": "Condé Nast 100 Best Bars in North America 2026",
+   "year": "2026",
+   "ranked": true,
+   "partial": true,
+   "mono": "CN"
+  },
+  "cnwb26": {
+   "kind": "bars",
+   "name": "Condé Nast 100 Best Bars in the World 2026",
+   "year": "2026",
+   "ranked": true,
+   "partial": true,
+   "mono": "CN"
+  },
+  "cnwr26": {
+   "kind": "resto",
+   "name": "Condé Nast 100 Best Restaurants in the World 2026",
+   "year": "2026",
+   "ranked": true,
+   "partial": true,
+   "mono": "CN"
+  },
+  "usat25b": {
+   "kind": "bars",
+   "name": "USA Today Bars of the Year 2025",
+   "year": "2025",
+   "ranked": true,
+   "partial": true,
+   "mono": "USA"
+  }
+ },
+ "entries": [
+  {
+   "name": "Smuggler's Cove",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "The Alembic",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Bar Agricole",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Library Bar",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "The Varnish",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Copa d'Oro",
+   "city": "Santa Monica",
+   "st": "CA",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Noble Experiment",
+   "city": "San Diego",
+   "st": "CA",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "sandiego"
+  },
+  {
+   "name": "Teardrop Lounge",
+   "city": "Portland",
+   "st": "OR",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "portland"
+  },
+  {
+   "name": "Clyde Common",
+   "city": "Portland",
+   "st": "OR",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "portland"
+  },
+  {
+   "name": "The Woodsman Tavern",
+   "city": "Portland",
+   "st": "OR",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "portland"
+  },
+  {
+   "name": "Rob Roy",
+   "city": "Seattle",
+   "st": "WA",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "seattle"
+  },
+  {
+   "name": "Canon",
+   "city": "Seattle",
+   "st": "WA",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "seattle"
+  },
+  {
+   "name": "PDT",
+   "city": "New York",
+   "st": "NY",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Death & Co",
+   "city": "New York",
+   "st": "NY",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Milk & Honey",
+   "city": "New York",
+   "st": "NY",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Booker and Dax at Ssäm",
+   "city": "New York",
+   "st": "NY",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "The NoMad",
+   "city": "New York",
+   "st": "NY",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "The Hawthorne",
+   "city": "Boston",
+   "st": "MA",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "boston"
+  },
+  {
+   "name": "Drink",
+   "city": "Boston",
+   "st": "MA",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "boston"
+  },
+  {
+   "name": "Franklin Mortgage & Investment Co.",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "PX",
+   "city": "Alexandria",
+   "st": "VA",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "washington"
+  },
+  {
+   "name": "The Passenger",
+   "city": "Washington",
+   "st": "DC",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "washington"
+  },
+  {
+   "name": "The Violet Hour",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "The Aviary",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "The Barrelhouse Flat",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Bryant's Cocktail Lounge",
+   "city": "Milwaukee",
+   "st": "WI",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "milwaukee"
+  },
+  {
+   "name": "Distil",
+   "city": "Milwaukee",
+   "st": "WI",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "milwaukee"
+  },
+  {
+   "name": "Bradstreet Craftshouse",
+   "city": "Minneapolis",
+   "st": "MN",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "twincities"
+  },
+  {
+   "name": "Manifesto",
+   "city": "Kansas City",
+   "st": "MO",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "kansascity"
+  },
+  {
+   "name": "Patterson House",
+   "city": "Nashville",
+   "st": "TN",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "nashville"
+  },
+  {
+   "name": "Taste by Niche",
+   "city": "St. Louis",
+   "st": "MO",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Arnaud's French 75 Bar",
+   "city": "New Orleans",
+   "st": "LA",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "neworleans"
+  },
+  {
+   "name": "Cure",
+   "city": "New Orleans",
+   "st": "LA",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "neworleans"
+  },
+  {
+   "name": "Holeman & Finch Public House",
+   "city": "Atlanta",
+   "st": "GA",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "atlanta"
+  },
+  {
+   "name": "The Cedars Social",
+   "city": "Dallas",
+   "st": "TX",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "dallas"
+  },
+  {
+   "name": "Midnight Cowboy",
+   "city": "Austin",
+   "st": "TX",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "austin"
+  },
+  {
+   "name": "Anvil Bar & Refuge",
+   "city": "Houston",
+   "st": "TX",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "houston"
+  },
+  {
+   "name": "Williams & Graham",
+   "city": "Denver",
+   "st": "CO",
+   "list": "eater38b12",
+   "rank": null,
+   "metro": "denver"
+  },
+  {
+   "name": "Half Time Rec",
+   "city": "St. Paul",
+   "st": "MN",
+   "list": "esq26",
+   "rank": null,
+   "metro": "twincities"
+  },
+  {
+   "name": "Stars",
+   "city": "New York",
+   "st": "NY",
+   "list": "esq26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Gold Clover Bar",
+   "city": "Washington",
+   "st": "DC",
+   "list": "esq26",
+   "rank": null,
+   "metro": "washington"
+  },
+  {
+   "name": "Bar Tonique",
+   "city": "New Orleans",
+   "st": "LA",
+   "list": "esq26",
+   "rank": null,
+   "metro": "neworleans"
+  },
+  {
+   "name": "Ball & Chain",
+   "city": "Miami",
+   "st": "FL",
+   "list": "esq26",
+   "rank": null,
+   "metro": "miami"
+  },
+  {
+   "name": "The House of Found Objects",
+   "city": "Birmingham",
+   "st": "AL",
+   "list": "esq26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Stir Crazy",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "esq26",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "The Cork",
+   "city": "Tucson",
+   "st": "AZ",
+   "list": "esq26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "The Nashville Palace",
+   "city": "Nashville",
+   "st": "TN",
+   "list": "esq26",
+   "rank": null,
+   "metro": "nashville"
+  },
+  {
+   "name": "Papercut",
+   "city": "Austin",
+   "st": "TX",
+   "list": "esq26",
+   "rank": null,
+   "metro": "austin"
+  },
+  {
+   "name": "Russell's",
+   "city": "Seattle",
+   "st": "WA",
+   "list": "esq26",
+   "rank": null,
+   "metro": "seattle"
+  },
+  {
+   "name": "Kelly's Korner Tavern",
+   "city": "Placentia",
+   "st": "CA",
+   "list": "esq26",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Cody's Public House",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "esq26",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "The Double Windsor",
+   "city": "Brooklyn",
+   "st": "NY",
+   "list": "esq26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Sauvage Wine Bar and Shop",
+   "city": "Phoenix",
+   "st": "AZ",
+   "list": "esq24",
+   "rank": null,
+   "metro": "phoenix"
+  },
+  {
+   "name": "Bar Next Door",
+   "city": "West Hollywood",
+   "st": "CA",
+   "list": "esq24",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "La Dolce Vita",
+   "city": "Beverly Hills",
+   "st": "CA",
+   "list": "esq24",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Chispa",
+   "city": "Napa",
+   "st": "CA",
+   "list": "esq24",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Part Time Lover",
+   "city": "San Diego",
+   "st": "CA",
+   "list": "esq24",
+   "rank": null,
+   "metro": "sandiego"
+  },
+  {
+   "name": "Dawn Club",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "esq24",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Golden Sardine",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "esq24",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Starlite",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "esq24",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Traveling Mercies",
+   "city": "Aurora",
+   "st": "CO",
+   "list": "esq24",
+   "rank": null,
+   "metro": "denver"
+  },
+  {
+   "name": "Sunday Vinyl",
+   "city": "Denver",
+   "st": "CO",
+   "list": "esq24",
+   "rank": null,
+   "metro": "denver"
+  },
+  {
+   "name": "Simmer Down",
+   "city": "Wilmington",
+   "st": "DE",
+   "list": "esq24",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Kaiju",
+   "city": "Miami",
+   "st": "FL",
+   "list": "esq24",
+   "rank": null,
+   "metro": "miami"
+  },
+  {
+   "name": "Medium Cool",
+   "city": "Miami Beach",
+   "st": "FL",
+   "list": "esq24",
+   "rank": null,
+   "metro": "miami"
+  },
+  {
+   "name": "Punch Room at the Tampa Edition",
+   "city": "Tampa",
+   "st": "FL",
+   "list": "esq24",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Ranger Station",
+   "city": "Atlanta",
+   "st": "GA",
+   "list": "esq24",
+   "rank": null,
+   "metro": "atlanta"
+  },
+  {
+   "name": "Shipwreck Bar and Sushi at Kona Village",
+   "city": "Kailua-Kona",
+   "st": "HI",
+   "list": "esq24",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Bisous",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "esq24",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Nine Bar",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "esq24",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Equal Measure",
+   "city": "Boston",
+   "st": "MA",
+   "list": "esq24",
+   "rank": null,
+   "metro": "boston"
+  },
+  {
+   "name": "Birds of Paradise",
+   "city": "Brighton",
+   "st": "MA",
+   "list": "esq24",
+   "rank": null,
+   "metro": "boston"
+  },
+  {
+   "name": "Collins at the Fontainebleau",
+   "city": "Las Vegas",
+   "st": "NV",
+   "list": "esq24",
+   "rank": null,
+   "metro": "lasvegas"
+  },
+  {
+   "name": "Liquid Diet",
+   "city": "Las Vegas",
+   "st": "NV",
+   "list": "esq24",
+   "rank": null,
+   "metro": "lasvegas"
+  },
+  {
+   "name": "La Otra",
+   "city": "Aberdeen Township",
+   "st": "NJ",
+   "list": "esq24",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Mirador",
+   "city": "Kingston",
+   "st": "NY",
+   "list": "esq24",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Martiny's",
+   "city": "New York",
+   "st": "NY",
+   "list": "esq24",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Paradise Lost",
+   "city": "New York",
+   "st": "NY",
+   "list": "esq24",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Parcelle",
+   "city": "New York",
+   "st": "NY",
+   "list": "esq24",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "The Portrait Bar",
+   "city": "New York",
+   "st": "NY",
+   "list": "esq24",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Sip & Guzzle",
+   "city": "New York",
+   "st": "NY",
+   "list": "esq24",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Tigre",
+   "city": "New York",
+   "st": "NY",
+   "list": "esq24",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "The Tusk Bar",
+   "city": "New York",
+   "st": "NY",
+   "list": "esq24",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "The Uncanny",
+   "city": "Portland",
+   "st": "OR",
+   "list": "esq24",
+   "rank": null,
+   "metro": "portland"
+  },
+  {
+   "name": "Poison Heart",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "esq24",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "Post Haste",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "esq24",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "Four Walls",
+   "city": "Nashville",
+   "st": "TN",
+   "list": "esq24",
+   "rank": null,
+   "metro": "nashville"
+  },
+  {
+   "name": "Tiger Bar",
+   "city": "Nashville",
+   "st": "TN",
+   "list": "esq24",
+   "rank": null,
+   "metro": "nashville"
+  },
+  {
+   "name": "Ayahuasca Cantina",
+   "city": "Dallas",
+   "st": "TX",
+   "list": "esq24",
+   "rank": null,
+   "metro": "dallas"
+  },
+  {
+   "name": "Light Years",
+   "city": "Houston",
+   "st": "TX",
+   "list": "esq24",
+   "rank": null,
+   "metro": "houston"
+  },
+  {
+   "name": "Little's Oyster Bar",
+   "city": "Houston",
+   "st": "TX",
+   "list": "esq24",
+   "rank": null,
+   "metro": "houston"
+  },
+  {
+   "name": "Refuge",
+   "city": "Houston",
+   "st": "TX",
+   "list": "esq24",
+   "rank": null,
+   "metro": "houston"
+  },
+  {
+   "name": "Fanboy",
+   "city": "Richmond",
+   "st": "VA",
+   "list": "esq24",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Bar Bayonne",
+   "city": "Seattle",
+   "st": "WA",
+   "list": "esq24",
+   "rank": null,
+   "metro": "seattle"
+  },
+  {
+   "name": "Gosh",
+   "city": "New York",
+   "st": "NY",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Los Salvajes",
+   "city": "New York",
+   "st": "NY",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Bar Snack",
+   "city": "New York",
+   "st": "NY",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Vandell",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Seco",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Las Rosas",
+   "city": "Miami",
+   "st": "FL",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": "miami"
+  },
+  {
+   "name": "Over Under",
+   "city": "Miami",
+   "st": "FL",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": "miami"
+  },
+  {
+   "name": "ZeyZey",
+   "city": "Miami",
+   "st": "FL",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": "miami"
+  },
+  {
+   "name": "Culebra",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Gus' Sip & Dip",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Best Intentions",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Providencia",
+   "city": "Washington",
+   "st": "DC",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": "washington"
+  },
+  {
+   "name": "Nightbloom",
+   "city": "New Orleans",
+   "st": "LA",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": "neworleans"
+  },
+  {
+   "name": "Room for Improvement",
+   "city": "Portland",
+   "st": "ME",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Doris",
+   "city": "Seattle",
+   "st": "WA",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": "seattle"
+  },
+  {
+   "name": "The Ink Drinker",
+   "city": "Seattle",
+   "st": "WA",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": "seattle"
+  },
+  {
+   "name": "Specs",
+   "city": "Burlington",
+   "st": "VT",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Frankie's Summer Club",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "La Jefa",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "Doom Bar",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "Kenny's Upstairs",
+   "city": "St. Louis",
+   "st": "MO",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Parley",
+   "city": "Austin",
+   "st": "TX",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": "austin"
+  },
+  {
+   "name": "Equipment Room",
+   "city": "Austin",
+   "st": "TX",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": "austin"
+  },
+  {
+   "name": "Buddy Buddy",
+   "city": "Atlanta",
+   "st": "GA",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": "atlanta"
+  },
+  {
+   "name": "Maestro",
+   "city": "Tulsa",
+   "st": "OK",
+   "list": "infitbars26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "The Union Club",
+   "city": "Missoula",
+   "st": "MT",
+   "list": "esq25",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Schmuck",
+   "city": "New York",
+   "st": "NY",
+   "list": "esq25",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Lorem Ipsum",
+   "city": "Charlotte",
+   "st": "NC",
+   "list": "esq25",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "La Descarga",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "esq25",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Marie's Crisis",
+   "city": "New York",
+   "st": "NY",
+   "list": "esq25",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Farmshop",
+   "city": "Santa Monica",
+   "st": "CA",
+   "list": "esq25",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Bud Rip's Old 9th Ward Bar",
+   "city": "New Orleans",
+   "st": "LA",
+   "list": "esq25",
+   "rank": null,
+   "metro": "neworleans"
+  },
+  {
+   "name": "Skyline Lounge at Legoland Hotel",
+   "city": "Carlsbad",
+   "st": "CA",
+   "list": "esq25",
+   "rank": null,
+   "metro": "sandiego"
+  },
+  {
+   "name": "Dan Sung Sa",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "esq25",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Crucible",
+   "city": "Asheville",
+   "st": "NC",
+   "list": "esq25",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Meetinghouse",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "esq25",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "Hemlock",
+   "city": "Catskill",
+   "st": "NY",
+   "list": "esq25",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Too Soon",
+   "city": "Portland",
+   "st": "OR",
+   "list": "esq25",
+   "rank": null,
+   "metro": "portland"
+  },
+  {
+   "name": "Schubas",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "esq25",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Molly's Irish Pub",
+   "city": "New Orleans",
+   "st": "LA",
+   "list": "esq25",
+   "rank": null,
+   "metro": "neworleans"
+  },
+  {
+   "name": "Zig Zag Cafe",
+   "city": "Seattle",
+   "st": "WA",
+   "list": "gq25b10",
+   "rank": 1,
+   "metro": "seattle"
+  },
+  {
+   "name": "Angel's Share",
+   "city": "New York",
+   "st": "NY",
+   "list": "gq25b10",
+   "rank": 2,
+   "metro": "newyork"
+  },
+  {
+   "name": "The Violet Hour",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "gq25b10",
+   "rank": 3,
+   "metro": "chicago"
+  },
+  {
+   "name": "Clover Club",
+   "city": "Brooklyn",
+   "st": "NY",
+   "list": "gq25b10",
+   "rank": 4,
+   "metro": "newyork"
+  },
+  {
+   "name": "The Alembic",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "gq25b10",
+   "rank": 5,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Death & Co.",
+   "city": "New York",
+   "st": "NY",
+   "list": "gq25b10",
+   "rank": 6,
+   "metro": "newyork"
+  },
+  {
+   "name": "PDT",
+   "city": "New York",
+   "st": "NY",
+   "list": "gq25b10",
+   "rank": 7,
+   "metro": "newyork"
+  },
+  {
+   "name": "PX",
+   "city": "Alexandria",
+   "st": "VA",
+   "list": "gq25b10",
+   "rank": 8,
+   "metro": "washington"
+  },
+  {
+   "name": "Comstock Saloon",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "gq25b10",
+   "rank": 9,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Holeman & Finch",
+   "city": "Atlanta",
+   "st": "GA",
+   "list": "gq25b10",
+   "rank": 10,
+   "metro": "atlanta"
+  },
+  {
+   "name": "Tiki-Ti",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "gq25b10",
+   "rank": 11,
+   "metro": "losangeles"
+  },
+  {
+   "name": "The Patterson House",
+   "city": "Nashville",
+   "st": "TN",
+   "list": "gq25b10",
+   "rank": 12,
+   "metro": "nashville"
+  },
+  {
+   "name": "Eastern Standard",
+   "city": "Boston",
+   "st": "MA",
+   "list": "gq25b10",
+   "rank": 13,
+   "metro": "boston"
+  },
+  {
+   "name": "Rickhouse",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "gq25b10",
+   "rank": 14,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Anvil",
+   "city": "Houston",
+   "st": "TX",
+   "list": "gq25b10",
+   "rank": 15,
+   "metro": "houston"
+  },
+  {
+   "name": "Arnaud's French 75",
+   "city": "New Orleans",
+   "st": "LA",
+   "list": "gq25b10",
+   "rank": 16,
+   "metro": "neworleans"
+  },
+  {
+   "name": "Elixir",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "gq25b10",
+   "rank": 17,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Columbia Room",
+   "city": "Washington",
+   "st": "DC",
+   "list": "gq25b10",
+   "rank": 18,
+   "metro": "washington"
+  },
+  {
+   "name": "Cole's",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "gq25b10",
+   "rank": 19,
+   "metro": "losangeles"
+  },
+  {
+   "name": "The Whistler",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "gq25b10",
+   "rank": 20,
+   "metro": "chicago"
+  },
+  {
+   "name": "Drink",
+   "city": "Boston",
+   "st": "MA",
+   "list": "gq25b10",
+   "rank": 21,
+   "metro": "boston"
+  },
+  {
+   "name": "Pegu Club",
+   "city": "New York",
+   "st": "NY",
+   "list": "gq25b10",
+   "rank": 22,
+   "metro": "newyork"
+  },
+  {
+   "name": "The Edison",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "gq25b10",
+   "rank": 23,
+   "metro": "losangeles"
+  },
+  {
+   "name": "The Franklin Mortgage & Investment Co.",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "gq25b10",
+   "rank": 24,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "Needle and Thread (inside Tavern Law)",
+   "city": "Seattle",
+   "st": "WA",
+   "list": "gq25b10",
+   "rank": 25,
+   "metro": "seattle"
+  },
+  {
+   "name": "Mayahuel",
+   "city": "New York",
+   "st": "NY",
+   "list": "gq25b10",
+   "rank": 1,
+   "metro": "newyork"
+  },
+  {
+   "name": "Smuggler's Cove",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "gq25b10",
+   "rank": 2,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "La Descarga",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "gq25b10",
+   "rank": 3,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Cyrus",
+   "city": "Healdsburg",
+   "st": "CA",
+   "list": "gq25b10",
+   "rank": 1,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Iris",
+   "city": "New Orleans",
+   "st": "LA",
+   "list": "gq25b10",
+   "rank": 2,
+   "metro": "neworleans"
+  },
+  {
+   "name": "Heaven's Dog",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "gq25b10",
+   "rank": 3,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Fino",
+   "city": "Austin",
+   "st": "TX",
+   "list": "gq25b10",
+   "rank": 4,
+   "metro": "austin"
+  },
+  {
+   "name": "Prime Meats",
+   "city": "Brooklyn",
+   "st": "NY",
+   "list": "gq25b10",
+   "rank": 5,
+   "metro": "newyork"
+  },
+  {
+   "name": "Momofuku",
+   "city": "New York",
+   "st": "NY",
+   "list": "ba20r13",
+   "rank": 1,
+   "metro": "newyork"
+  },
+  {
+   "name": "The Restaurant at Meadowood",
+   "city": "Napa Valley",
+   "st": "CA",
+   "list": "ba20r13",
+   "rank": 2,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Husk",
+   "city": "Charleston",
+   "st": "SC",
+   "list": "ba20r13",
+   "rank": 3,
+   "metro": "charleston"
+  },
+  {
+   "name": "Alinea",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "ba20r13",
+   "rank": 4,
+   "metro": "chicago"
+  },
+  {
+   "name": "Manresa",
+   "city": "Los Gatos",
+   "st": "CA",
+   "list": "ba20r13",
+   "rank": 5,
+   "metro": null
+  },
+  {
+   "name": "Roberta's",
+   "city": "Brooklyn",
+   "st": "NY",
+   "list": "ba20r13",
+   "rank": 6,
+   "metro": "newyork"
+  },
+  {
+   "name": "Eleven Madison Park",
+   "city": "New York",
+   "st": "NY",
+   "list": "ba20r13",
+   "rank": 7,
+   "metro": "newyork"
+  },
+  {
+   "name": "Pok Pok",
+   "city": "Portland",
+   "st": "OR",
+   "list": "ba20r13",
+   "rank": 8,
+   "metro": "portland"
+  },
+  {
+   "name": "Mission Chinese Food",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "ba20r13",
+   "rank": 9,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Uchi / Uchiko",
+   "city": "Austin",
+   "st": "TX",
+   "list": "ba20r13",
+   "rank": 10,
+   "metro": "austin"
+  },
+  {
+   "name": "Animal",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "ba20r13",
+   "rank": 11,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Avec",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "ba20r13",
+   "rank": 12,
+   "metro": "chicago"
+  },
+  {
+   "name": "Le Bernardin",
+   "city": "New York",
+   "st": "NY",
+   "list": "ba20r13",
+   "rank": 13,
+   "metro": "newyork"
+  },
+  {
+   "name": "Cochon",
+   "city": "New Orleans",
+   "st": "LA",
+   "list": "ba20r13",
+   "rank": 14,
+   "metro": "neworleans"
+  },
+  {
+   "name": "The Walrus and the Carpenter",
+   "city": "Seattle",
+   "st": "WA",
+   "list": "ba20r13",
+   "rank": 15,
+   "metro": "seattle"
+  },
+  {
+   "name": "Shake Shack",
+   "city": "New York",
+   "st": "NY",
+   "list": "ba20r13",
+   "rank": 16,
+   "metro": "newyork"
+  },
+  {
+   "name": "Franklin Barbecue",
+   "city": "Austin",
+   "st": "TX",
+   "list": "ba20r13",
+   "rank": 17,
+   "metro": "austin"
+  },
+  {
+   "name": "Balthazar",
+   "city": "New York",
+   "st": "NY",
+   "list": "ba20r13",
+   "rank": 18,
+   "metro": "newyork"
+  },
+  {
+   "name": "Primo",
+   "city": "Rockland",
+   "st": "ME",
+   "list": "ba20r13",
+   "rank": 19,
+   "metro": null
+  },
+  {
+   "name": "Swan Oyster Depot",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "ba20r13",
+   "rank": 20,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Lannie's Bar-B-Q Spot",
+   "city": "Selma",
+   "st": "AL",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Ta'Carbon",
+   "city": "Glendale",
+   "st": "AZ",
+   "list": "usat25r",
+   "rank": null,
+   "metro": "phoenix"
+  },
+  {
+   "name": "Course",
+   "city": "Scottsdale",
+   "st": "AZ",
+   "list": "usat25r",
+   "rank": null,
+   "metro": "phoenix"
+  },
+  {
+   "name": "Rooster and the Pig",
+   "city": "Palm Springs",
+   "st": "CA",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "The Taco Stop",
+   "city": "Fort Collins",
+   "st": "CO",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Bardea Food & Drink",
+   "city": "Wilmington",
+   "st": "DE",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Bicyclette Cookshop",
+   "city": "Naples",
+   "st": "FL",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Pearl & Horn",
+   "city": "Pensacola",
+   "st": "FL",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Swordfish Grill",
+   "city": "Cortez",
+   "st": "FL",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Wexford",
+   "city": "Savannah",
+   "st": "GA",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Oak Park",
+   "city": "Des Moines",
+   "st": "IA",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Bodhi",
+   "city": "Indianapolis",
+   "st": "IN",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Roots Eatery and Pub",
+   "city": "Wolcott",
+   "st": "IN",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Decade",
+   "city": "Louisville",
+   "st": "KY",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Quebedeaux's Cajun Cafe",
+   "city": "Pineville",
+   "st": "LA",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "The Rooftop at Pelham House Resort",
+   "city": "Dennis Port",
+   "st": "MA",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Wusong Tiki Bar",
+   "city": "Cambridge",
+   "st": "MA",
+   "list": "usat25r",
+   "rank": null,
+   "metro": "boston"
+  },
+  {
+   "name": "Bocado Tapas Wine Bar",
+   "city": "Worcester",
+   "st": "MA",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Mabel Gray",
+   "city": "Hazel Park",
+   "st": "MI",
+   "list": "usat25r",
+   "rank": null,
+   "metro": "detroit"
+  },
+  {
+   "name": "Tomato Brothers",
+   "city": "Howell",
+   "st": "MI",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Middlegate Station",
+   "city": "Fallon",
+   "st": "NV",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Aarzu Modern Indian Bistro",
+   "city": "Freehold Borough",
+   "st": "NJ",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Steve's Burgers",
+   "city": "Garfield",
+   "st": "NJ",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Canal House Station",
+   "city": "Milford",
+   "st": "NJ",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Augustine's Salumeria",
+   "city": "Mamaroneck",
+   "st": "NY",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Rocky's Restaurant",
+   "city": "Rochester",
+   "st": "NY",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Olivero",
+   "city": "Wilmington",
+   "st": "NC",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "The Crown",
+   "city": "Oklahoma City",
+   "st": "OK",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "The Aperture",
+   "city": "Cincinnati",
+   "st": "OH",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Agni",
+   "city": "Columbus",
+   "st": "OH",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Social at the Stone House",
+   "city": "Massillon",
+   "st": "OH",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Hayward",
+   "city": "McMinnville",
+   "st": "OR",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Akadi",
+   "city": "Portland",
+   "st": "OR",
+   "list": "usat25r",
+   "rank": null,
+   "metro": "portland"
+  },
+  {
+   "name": "Poison Heart",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "usat25r",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "Dharma Bums",
+   "city": "Point Pleasant",
+   "st": "PA",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Matunuck Oyster Bar",
+   "city": "South Kingstown",
+   "st": "RI",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Comal 864",
+   "city": "Greenville",
+   "st": "SC",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Sanaa's Gourmet Mediterranean",
+   "city": "Sioux Falls",
+   "st": "SD",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "A Dopo",
+   "city": "Knoxville",
+   "st": "TN",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Bad Idea",
+   "city": "Nashville",
+   "st": "TN",
+   "list": "usat25r",
+   "rank": null,
+   "metro": "nashville"
+  },
+  {
+   "name": "Dai Due",
+   "city": "Austin",
+   "st": "TX",
+   "list": "usat25r",
+   "rank": null,
+   "metro": "austin"
+  },
+  {
+   "name": "Jimenez y Friends Barbecue y Taqueria",
+   "city": "Lubbock",
+   "st": "TX",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Three Brothers",
+   "city": "Milwaukee",
+   "st": "WI",
+   "list": "usat25r",
+   "rank": null,
+   "metro": "milwaukee"
+  },
+  {
+   "name": "BroKogi Korean Fusion Restaurant",
+   "city": "Stevens Point",
+   "st": "WI",
+   "list": "usat25r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Cafe Monarch",
+   "city": "Scottsdale",
+   "st": "AZ",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "phoenix"
+  },
+  {
+   "name": "Christopher's at Wrigley Mansion",
+   "city": "Phoenix",
+   "st": "AZ",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "phoenix"
+  },
+  {
+   "name": "Ocean 44",
+   "city": "Scottsdale",
+   "st": "AZ",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "phoenix"
+  },
+  {
+   "name": "Steak 44",
+   "city": "Phoenix",
+   "st": "AZ",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "phoenix"
+  },
+  {
+   "name": "Uppercut",
+   "city": "Phoenix",
+   "st": "AZ",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "phoenix"
+  },
+  {
+   "name": "Bar Cecil",
+   "city": "Palm Springs",
+   "st": "CA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Boulevard",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Californios",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Callie",
+   "city": "San Diego",
+   "st": "CA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "sandiego"
+  },
+  {
+   "name": "Cesarina",
+   "city": "San Diego",
+   "st": "CA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "sandiego"
+  },
+  {
+   "name": "Chicano Nuevo",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Cowboy Star",
+   "city": "San Diego",
+   "st": "CA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "sandiego"
+  },
+  {
+   "name": "Dunsmoor",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "House of Prime Rib",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Kokkari Estiatorio",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Leila",
+   "city": "San Diego",
+   "st": "CA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "sandiego"
+  },
+  {
+   "name": "Lilo",
+   "city": "Carlsbad",
+   "st": "CA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "sandiego"
+  },
+  {
+   "name": "Naisho Omakase",
+   "city": "Costa Mesa",
+   "st": "CA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Providence",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Rich Table",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Saison",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Strong Water",
+   "city": "Anaheim",
+   "st": "CA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Musso & Frank Grill",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "The Progress",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Alma Fonda Fina",
+   "city": "Denver",
+   "st": "CO",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "denver"
+  },
+  {
+   "name": "Alteño Denver",
+   "city": "Denver",
+   "st": "CO",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "denver"
+  },
+  {
+   "name": "Florence Supper Club",
+   "city": "Denver",
+   "st": "CO",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "denver"
+  },
+  {
+   "name": "Guard & Grace",
+   "city": "Denver",
+   "st": "CO",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "denver"
+  },
+  {
+   "name": "Mezcaleria Alma",
+   "city": "Denver",
+   "st": "CO",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "denver"
+  },
+  {
+   "name": "Milpero",
+   "city": "Denver",
+   "st": "CO",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "denver"
+  },
+  {
+   "name": "The Wolf's Tailor",
+   "city": "Denver",
+   "st": "CO",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "denver"
+  },
+  {
+   "name": "Jônt",
+   "city": "Washington",
+   "st": "DC",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "washington"
+  },
+  {
+   "name": "Moon Rabbit by Kevin Tien",
+   "city": "Washington",
+   "st": "DC",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "washington"
+  },
+  {
+   "name": "Bern's Steak House",
+   "city": "Tampa",
+   "st": "FL",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Buccan",
+   "city": "Palm Beach",
+   "st": "FL",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Bones",
+   "city": "Atlanta",
+   "st": "GA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "atlanta"
+  },
+  {
+   "name": "La Grotta",
+   "city": "Atlanta",
+   "st": "GA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "atlanta"
+  },
+  {
+   "name": "UMI",
+   "city": "Atlanta",
+   "st": "GA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "atlanta"
+  },
+  {
+   "name": "Merriman's Maui",
+   "city": "Lahaina",
+   "st": "HI",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Daisies",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Ever",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Gibsons Italia",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Joe's Seafood, Prime Steak & Stone Crab",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Kasama",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Le Colonial",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Lula Cafe",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Mon Ami Gabi",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "North Pond",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Pizz'Amici",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "RL Restaurant",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Zarella Pizzeria & Taverna",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "MeeshMeesh Mediterranean",
+   "city": "Louisville",
+   "st": "KY",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Tana Restaurant",
+   "city": "Louisville",
+   "st": "KY",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Dakar NOLA",
+   "city": "New Orleans",
+   "st": "LA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "neworleans"
+  },
+  {
+   "name": "GW Fins",
+   "city": "New Orleans",
+   "st": "LA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "neworleans"
+  },
+  {
+   "name": "Lune",
+   "city": "Dennis Port",
+   "st": "MA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Pammy's",
+   "city": "Cambridge",
+   "st": "MA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "boston"
+  },
+  {
+   "name": "Scales",
+   "city": "Portland",
+   "st": "ME",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "The Saddle River Inn",
+   "city": "Saddle River",
+   "st": "NJ",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Geronimo",
+   "city": "Santa Fe",
+   "st": "NM",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Chambers",
+   "city": "New York",
+   "st": "NY",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Del Vino Vineyards",
+   "city": "Northport",
+   "st": "NY",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Don Angie",
+   "city": "New York",
+   "st": "NY",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Fairfax",
+   "city": "New York",
+   "st": "NY",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Gallaghers Steakhouse",
+   "city": "New York",
+   "st": "NY",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Graciela",
+   "city": "New York",
+   "st": "NY",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Jeffrey's Grocery",
+   "city": "New York",
+   "st": "NY",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Joseph Leonard",
+   "city": "New York",
+   "st": "NY",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Kabawa",
+   "city": "New York",
+   "st": "NY",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Palma",
+   "city": "New York",
+   "st": "NY",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Red Hook Tavern",
+   "city": "Brooklyn",
+   "st": "NY",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Sailor",
+   "city": "Brooklyn",
+   "st": "NY",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "The Odeon",
+   "city": "New York",
+   "st": "NY",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "The Tavern at Gramercy Tavern",
+   "city": "New York",
+   "st": "NY",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Una Pizza Napoletana",
+   "city": "New York",
+   "st": "NY",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Jeff Ruby's Steakhouse",
+   "city": "Cincinnati",
+   "st": "OH",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Pepp & Dolores",
+   "city": "Cincinnati",
+   "st": "OH",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Sotto",
+   "city": "Cincinnati",
+   "st": "OH",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Fiorella",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "Friday Saturday Sunday",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "Her Place Supper Club",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "Mawn",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "Provenance",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "Saloon Restaurant",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "Sao",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "Vetri Cucina",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "Bastion",
+   "city": "Nashville",
+   "st": "TN",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "nashville"
+  },
+  {
+   "name": "Kase x Noko",
+   "city": "Nashville",
+   "st": "TN",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "nashville"
+  },
+  {
+   "name": "Locust",
+   "city": "Nashville",
+   "st": "TN",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "nashville"
+  },
+  {
+   "name": "Noko",
+   "city": "Nashville",
+   "st": "TN",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "nashville"
+  },
+  {
+   "name": "Aba",
+   "city": "Austin",
+   "st": "TX",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "austin"
+  },
+  {
+   "name": "BCN Taste & Tradition",
+   "city": "Houston",
+   "st": "TX",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "houston"
+  },
+  {
+   "name": "J Carver's",
+   "city": "Austin",
+   "st": "TX",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "austin"
+  },
+  {
+   "name": "Mamani",
+   "city": "Dallas",
+   "st": "TX",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "dallas"
+  },
+  {
+   "name": "Mister Charles",
+   "city": "Dallas",
+   "st": "TX",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "dallas"
+  },
+  {
+   "name": "Mot Hai Ba (Lakewood)",
+   "city": "Dallas",
+   "st": "TX",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "dallas"
+  },
+  {
+   "name": "Red Ash Italia",
+   "city": "Austin",
+   "st": "TX",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "austin"
+  },
+  {
+   "name": "L'Auberge Chez François",
+   "city": "Great Falls",
+   "st": "VA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "washington"
+  },
+  {
+   "name": "The Pink Door",
+   "city": "Seattle",
+   "st": "WA",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "seattle"
+  },
+  {
+   "name": "Nakama",
+   "city": "Milwaukee",
+   "st": "WI",
+   "list": "ot100r26",
+   "rank": null,
+   "metro": "milwaukee"
+  },
+  {
+   "name": "Apothecary at Brent's Drugs",
+   "city": "Jackson",
+   "st": "MS",
+   "list": "usat24b",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Barcoa Agaveria",
+   "city": "Phoenix",
+   "st": "AZ",
+   "list": "usat24b",
+   "rank": null,
+   "metro": "phoenix"
+  },
+  {
+   "name": "Bloomsday Cafe",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "usat24b",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "Boycott Bar",
+   "city": "Phoenix",
+   "st": "AZ",
+   "list": "usat24b",
+   "rank": null,
+   "metro": "phoenix"
+  },
+  {
+   "name": "Bryant's Cocktail Lounge",
+   "city": "Milwaukee",
+   "st": "WI",
+   "list": "usat24b",
+   "rank": null,
+   "metro": "milwaukee"
+  },
+  {
+   "name": "Crow & Quill",
+   "city": "Asheville",
+   "st": "NC",
+   "list": "usat24b",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Deer Park Tavern",
+   "city": "Newark",
+   "st": "DE",
+   "list": "usat24b",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Edna's",
+   "city": "Oklahoma City",
+   "st": "OK",
+   "list": "usat24b",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Flora-Bama",
+   "city": "Perdido Key",
+   "st": "FL",
+   "list": "usat24b",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Gator Club",
+   "city": "Sarasota",
+   "st": "FL",
+   "list": "usat24b",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Hello, Marjorie",
+   "city": "Des Moines",
+   "st": "IA",
+   "list": "usat24b",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Hey Love",
+   "city": "Portland",
+   "st": "OR",
+   "list": "usat24b",
+   "rank": null,
+   "metro": "portland"
+  },
+  {
+   "name": "Intracoastal Club",
+   "city": "Houma",
+   "st": "LA",
+   "list": "usat24b",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "The L Street Tavern",
+   "city": "Boston",
+   "st": "MA",
+   "list": "usat24b",
+   "rank": null,
+   "metro": "boston"
+  },
+  {
+   "name": "Law Bird",
+   "city": "Columbus",
+   "st": "OH",
+   "list": "usat24b",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "The Lipstick Lounge",
+   "city": "Nashville",
+   "st": "TN",
+   "list": "usat24b",
+   "rank": null,
+   "metro": "nashville"
+  },
+  {
+   "name": "Longfellow",
+   "city": "Cincinnati",
+   "st": "OH",
+   "list": "usat24b",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Neat Bourbon Bar & Bottle Shop",
+   "city": "Louisville",
+   "st": "KY",
+   "list": "usat24b",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Ocean Grill and Tiki Bar",
+   "city": "Carolina Beach",
+   "st": "NC",
+   "list": "usat24b",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Paramita Sound",
+   "city": "Detroit",
+   "st": "MI",
+   "list": "usat24b",
+   "rank": null,
+   "metro": "detroit"
+  },
+  {
+   "name": "Preservation Pub",
+   "city": "Knoxville",
+   "st": "TN",
+   "list": "usat24b",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Radio Social",
+   "city": "Rochester",
+   "st": "NY",
+   "list": "usat24b",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Sahara Lounge",
+   "city": "Austin",
+   "st": "TX",
+   "list": "usat24b",
+   "rank": null,
+   "metro": "austin"
+  },
+  {
+   "name": "Saints and Scholars",
+   "city": "Yonkers",
+   "st": "NY",
+   "list": "usat24b",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Sam's Silver Circle",
+   "city": "Indianapolis",
+   "st": "IN",
+   "list": "usat24b",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Tierney's Tavern",
+   "city": "Montclair",
+   "st": "NJ",
+   "list": "usat24b",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Wonder Bar",
+   "city": "Asbury Park",
+   "st": "NJ",
+   "list": "usat24b",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Sip & Guzzle",
+   "city": "New York",
+   "st": "NY",
+   "list": "na50b26",
+   "rank": 1,
+   "metro": "newyork"
+  },
+  {
+   "name": "Bar Snack",
+   "city": "New York",
+   "st": "NY",
+   "list": "na50b26",
+   "rank": 3,
+   "metro": "newyork"
+  },
+  {
+   "name": "Schmuck",
+   "city": "New York",
+   "st": "NY",
+   "list": "na50b26",
+   "rank": 4,
+   "metro": "newyork"
+  },
+  {
+   "name": "Jewel of the South",
+   "city": "New Orleans",
+   "st": "LA",
+   "list": "na50b26",
+   "rank": 6,
+   "metro": "neworleans"
+  },
+  {
+   "name": "Superbueno",
+   "city": "New York",
+   "st": "NY",
+   "list": "na50b26",
+   "rank": 9,
+   "metro": "newyork"
+  },
+  {
+   "name": "Kumiko",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "na50b26",
+   "rank": 11,
+   "metro": "chicago"
+  },
+  {
+   "name": "True Laurel",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "na50b26",
+   "rank": 14,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Clemente Bar",
+   "city": "New York",
+   "st": "NY",
+   "list": "na50b26",
+   "rank": 15,
+   "metro": "newyork"
+  },
+  {
+   "name": "Best Intentions",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "na50b26",
+   "rank": 16,
+   "metro": "chicago"
+  },
+  {
+   "name": "Cure",
+   "city": "New Orleans",
+   "st": "LA",
+   "list": "na50b26",
+   "rank": 21,
+   "metro": "neworleans"
+  },
+  {
+   "name": "Martiny's",
+   "city": "New York",
+   "st": "NY",
+   "list": "na50b26",
+   "rank": 23,
+   "metro": "newyork"
+  },
+  {
+   "name": "Gus' Sip & Dip",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "na50b26",
+   "rank": 27,
+   "metro": "chicago"
+  },
+  {
+   "name": "Mírate",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "na50b26",
+   "rank": 28,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Bisous",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "na50b26",
+   "rank": 30,
+   "metro": "chicago"
+  },
+  {
+   "name": "Angel's Share",
+   "city": "New York",
+   "st": "NY",
+   "list": "na50b26",
+   "rank": 31,
+   "metro": "newyork"
+  },
+  {
+   "name": "Overstory",
+   "city": "New York",
+   "st": "NY",
+   "list": "na50b26",
+   "rank": 33,
+   "metro": "newyork"
+  },
+  {
+   "name": "Press Club",
+   "city": "Washington",
+   "st": "DC",
+   "list": "na50b26",
+   "rank": 34,
+   "metro": "washington"
+  },
+  {
+   "name": "Double Chicken Please",
+   "city": "New York",
+   "st": "NY",
+   "list": "na50b26",
+   "rank": 35,
+   "metro": "newyork"
+  },
+  {
+   "name": "Bar Madonna",
+   "city": "New York",
+   "st": "NY",
+   "list": "na50b26",
+   "rank": 36,
+   "metro": "newyork"
+  },
+  {
+   "name": "Attaboy",
+   "city": "New York",
+   "st": "NY",
+   "list": "na50b26",
+   "rank": 37,
+   "metro": "newyork"
+  },
+  {
+   "name": "Service Bar",
+   "city": "Washington",
+   "st": "DC",
+   "list": "na50b26",
+   "rank": 39,
+   "metro": "washington"
+  },
+  {
+   "name": "Maison Premiere",
+   "city": "New York",
+   "st": "NY",
+   "list": "na50b26",
+   "rank": 40,
+   "metro": "newyork"
+  },
+  {
+   "name": "Pacific Cocktail Haven",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "na50b26",
+   "rank": 41,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Café La Trova",
+   "city": "Miami",
+   "st": "FL",
+   "list": "na50b26",
+   "rank": 42,
+   "metro": "miami"
+  },
+  {
+   "name": "Daisy Margarita Bar",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "na50b26",
+   "rank": 44,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Employees Only",
+   "city": "New York",
+   "st": "NY",
+   "list": "na50b26",
+   "rank": 45,
+   "metro": "newyork"
+  },
+  {
+   "name": "Viceversa",
+   "city": "Miami",
+   "st": "FL",
+   "list": "na50b26",
+   "rank": 46,
+   "metro": "miami"
+  },
+  {
+   "name": "Bandista",
+   "city": "Houston",
+   "st": "TX",
+   "list": "na50b26",
+   "rank": 47,
+   "metro": "houston"
+  },
+  {
+   "name": "Little Bird",
+   "city": "Fairhope",
+   "st": "AL",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Perennial",
+   "city": "Montgomery",
+   "st": "AL",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Durant's",
+   "city": "Phoenix",
+   "st": "AZ",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "phoenix"
+  },
+  {
+   "name": "Lasang Pinoy",
+   "city": "Rogers",
+   "st": "AR",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Yerord Mas Bakery and Deli",
+   "city": "Glendale",
+   "st": "CA",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Komal",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Jacaranda",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Restaurant Naides",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Mesa Agricola",
+   "city": "Escondido",
+   "st": "CA",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "sandiego"
+  },
+  {
+   "name": "Bar Panisse",
+   "city": "Berkeley",
+   "st": "CA",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Heretik",
+   "city": "Denver",
+   "st": "CO",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "denver"
+  },
+  {
+   "name": "Milpero",
+   "city": "Denver",
+   "st": "CO",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "denver"
+  },
+  {
+   "name": "Rye Bunny",
+   "city": "Washington",
+   "st": "DC",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "washington"
+  },
+  {
+   "name": "Albi",
+   "city": "Washington",
+   "st": "DC",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "washington"
+  },
+  {
+   "name": "Tin Tin",
+   "city": null,
+   "st": "FL",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "The Tides Market",
+   "city": null,
+   "st": "FL",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "So. Fox",
+   "city": "Atlanta",
+   "st": "GA",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "atlanta"
+  },
+  {
+   "name": "Maze",
+   "city": "Honolulu",
+   "st": "HI",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Creepies",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Kouklas Greek Eatery",
+   "city": "Niles",
+   "st": "IL",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Dakar NOLA",
+   "city": "New Orleans",
+   "st": "LA",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "neworleans"
+  },
+  {
+   "name": "Dolfy's",
+   "city": "New Orleans",
+   "st": "LA",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "neworleans"
+  },
+  {
+   "name": "Douro",
+   "city": "Portland",
+   "st": "ME",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Chef's Counter at Burnt Hill Farm",
+   "city": "Clarksburg",
+   "st": "MD",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Dalia",
+   "city": "Boston",
+   "st": "MA",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "boston"
+  },
+  {
+   "name": "Tacos Huey",
+   "city": "Detroit",
+   "st": "MI",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "detroit"
+  },
+  {
+   "name": "Rose's",
+   "city": "Detroit",
+   "st": "MI",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "detroit"
+  },
+  {
+   "name": "Khue's Kitchen",
+   "city": "St. Paul",
+   "st": "MN",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "twincities"
+  },
+  {
+   "name": "Anjin",
+   "city": "Kansas City",
+   "st": "MO",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "kansascity"
+  },
+  {
+   "name": "Korai Kitchen",
+   "city": "Jersey City",
+   "st": "NJ",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Leo's",
+   "city": "Santa Fe",
+   "st": "NM",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Bistrot Ha",
+   "city": "New York",
+   "st": "NY",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Meju",
+   "city": "New York",
+   "st": "NY",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Yamada",
+   "city": "New York",
+   "st": "NY",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Zoli",
+   "city": "New York",
+   "st": "NY",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Big Cat",
+   "city": "Raleigh",
+   "st": "NC",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "triangle"
+  },
+  {
+   "name": "Rosy",
+   "city": "Cleveland",
+   "st": "OH",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Hayward",
+   "city": "Carlton",
+   "st": "OR",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "OK Chicken and Khao Soi",
+   "city": "Portland",
+   "st": "OR",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "portland"
+  },
+  {
+   "name": "Titusz",
+   "city": "Pittsburgh",
+   "st": "PA",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Bomb Bomb",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "Merci",
+   "city": "Charleston",
+   "st": "SC",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "charleston"
+  },
+  {
+   "name": "Junior",
+   "city": "Nashville",
+   "st": "TN",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "nashville"
+  },
+  {
+   "name": "Cauponor",
+   "city": "Nashville",
+   "st": "TN",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "nashville"
+  },
+  {
+   "name": "Paprika",
+   "city": "Austin",
+   "st": "TX",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": "austin"
+  },
+  {
+   "name": "Elemi Taqueria",
+   "city": "El Paso",
+   "st": "TX",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Junah",
+   "city": "Salt Lake City",
+   "st": "UT",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Passage",
+   "city": "Langley",
+   "st": "WA",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Hamma Hamma Oyster Saloon",
+   "city": "Lilliwaup",
+   "st": "WA",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "La Sirena",
+   "city": "Ephraim",
+   "st": "WI",
+   "list": "nyt50r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Sunny's",
+   "city": "Miami",
+   "st": "FL",
+   "list": "infat14r26",
+   "rank": null,
+   "metro": "miami"
+  },
+  {
+   "name": "Provenance",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "infat14r26",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "The Catbird Seat",
+   "city": "Nashville",
+   "st": "TN",
+   "list": "infat14r26",
+   "rank": null,
+   "metro": "nashville"
+  },
+  {
+   "name": "Le Veau d'Or",
+   "city": "New York",
+   "st": "NY",
+   "list": "infat14r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Oriole",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "infat14r26",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Odd Duck",
+   "city": "Austin",
+   "st": "TX",
+   "list": "infat14r26",
+   "rank": null,
+   "metro": "austin"
+  },
+  {
+   "name": "Langbaan",
+   "city": "Portland",
+   "st": "OR",
+   "list": "infat14r26",
+   "rank": null,
+   "metro": "portland"
+  },
+  {
+   "name": "Albi",
+   "city": "Washington",
+   "st": "DC",
+   "list": "infat14r26",
+   "rank": null,
+   "metro": "washington"
+  },
+  {
+   "name": "Kamayan ATL",
+   "city": "Atlanta",
+   "st": "GA",
+   "list": "infat14r26",
+   "rank": null,
+   "metro": "atlanta"
+  },
+  {
+   "name": "Nancy's Hustle",
+   "city": "Houston",
+   "st": "TX",
+   "list": "infat14r26",
+   "rank": null,
+   "metro": "houston"
+  },
+  {
+   "name": "Anajak Thai",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "infat14r26",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Archipelago",
+   "city": "Seattle",
+   "st": "WA",
+   "list": "infat14r26",
+   "rank": null,
+   "metro": "seattle"
+  },
+  {
+   "name": "San Ho Won",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "infat14r26",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Neptune Oyster",
+   "city": "Boston",
+   "st": "MA",
+   "list": "infat14r26",
+   "rank": null,
+   "metro": "boston"
+  },
+  {
+   "name": "Holbox",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Emeril's",
+   "city": "New Orleans",
+   "st": "LA",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "neworleans"
+  },
+  {
+   "name": "Lei",
+   "city": "New York",
+   "st": "NY",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Tâm Tâm",
+   "city": "Miami",
+   "st": "FL",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "miami"
+  },
+  {
+   "name": "Talat Market",
+   "city": "Atlanta",
+   "st": "GA",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "atlanta"
+  },
+  {
+   "name": "The Koji Club",
+   "city": "Boston",
+   "st": "MA",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "boston"
+  },
+  {
+   "name": "Smithereens",
+   "city": "New York",
+   "st": "NY",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Albi",
+   "city": "Washington",
+   "st": "DC",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "washington"
+  },
+  {
+   "name": "Sunny's Steakhouse",
+   "city": "Miami",
+   "st": "FL",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "miami"
+  },
+  {
+   "name": "Torrisi",
+   "city": "New York",
+   "st": "NY",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Atoboy",
+   "city": "New York",
+   "st": "NY",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Pizzeria Beddia",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "Lutèce",
+   "city": "Washington",
+   "st": "DC",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "washington"
+  },
+  {
+   "name": "Maison Passerelle",
+   "city": "New York",
+   "st": "NY",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Izakaya Rintaro",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Kismet",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Madeira Park",
+   "city": "Atlanta",
+   "st": "GA",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "atlanta"
+  },
+  {
+   "name": "Daru",
+   "city": "Washington",
+   "st": "DC",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "washington"
+  },
+  {
+   "name": "Corima",
+   "city": "New York",
+   "st": "NY",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Bar Etoile",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Kayu",
+   "city": "Washington",
+   "st": "DC",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "washington"
+  },
+  {
+   "name": "RVR",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Vernick Food & Drink",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "La Tête d'Or by Daniel",
+   "city": "New York",
+   "st": "NY",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Somaek",
+   "city": "Boston",
+   "st": "MA",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "boston"
+  },
+  {
+   "name": "Mi Tocaya Antojería",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Si! Mon",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Boia De",
+   "city": "Miami",
+   "st": "FL",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "miami"
+  },
+  {
+   "name": "CheLi",
+   "city": "New York",
+   "st": "NY",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "La Semilla",
+   "city": "Atlanta",
+   "st": "GA",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "atlanta"
+  },
+  {
+   "name": "Penny",
+   "city": "New York",
+   "st": "NY",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "N/Soto",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Lenoir",
+   "city": "Austin",
+   "st": "TX",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "austin"
+  },
+  {
+   "name": "Cafe Yaya",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Stissing House",
+   "city": "Pine Plains",
+   "st": "NY",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Borgo",
+   "city": "New York",
+   "st": "NY",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Lucian Books and Wine",
+   "city": "Atlanta",
+   "st": "GA",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "atlanta"
+  },
+  {
+   "name": "Saint Julivert Fisherie",
+   "city": "Brooklyn",
+   "st": "NY",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Leon's Oyster Shop",
+   "city": "Charleston",
+   "st": "SC",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "charleston"
+  },
+  {
+   "name": "The Four Horsemen",
+   "city": "Brooklyn",
+   "st": "NY",
+   "list": "resy40r26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Bryant's Cocktail Lounge",
+   "city": "Milwaukee",
+   "st": "WI",
+   "list": "mashedb22",
+   "rank": null,
+   "metro": "milwaukee"
+  },
+  {
+   "name": "Cafe La Trova",
+   "city": "Miami",
+   "st": "FL",
+   "list": "mashedb22",
+   "rank": null,
+   "metro": "miami"
+  },
+  {
+   "name": "Frankie's Tiki Room",
+   "city": "Las Vegas",
+   "st": "NV",
+   "list": "mashedb22",
+   "rank": null,
+   "metro": "lasvegas"
+  },
+  {
+   "name": "Green Mill Cocktail Lounge",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "mashedb22",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "The Happy Dog",
+   "city": "Cleveland",
+   "st": "OH",
+   "list": "mashedb22",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Katana Kitten",
+   "city": "New York",
+   "st": "NY",
+   "list": "mashedb22",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Kona's Street Market",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "mashedb22",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Lafitte's Blacksmith Shop",
+   "city": "New Orleans",
+   "st": "LA",
+   "list": "mashedb22",
+   "rank": null,
+   "metro": "neworleans"
+  },
+  {
+   "name": "Library Bar",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "mashedb22",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Mount Royal Tavern",
+   "city": "Baltimore",
+   "st": "MD",
+   "list": "mashedb22",
+   "rank": null,
+   "metro": "baltimore"
+  },
+  {
+   "name": "Service Bar",
+   "city": "Washington",
+   "st": "DC",
+   "list": "mashedb22",
+   "rank": null,
+   "metro": "washington"
+  },
+  {
+   "name": "Viridian",
+   "city": "Oakland",
+   "st": "CA",
+   "list": "mashedb22",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Yvonne's",
+   "city": "Boston",
+   "st": "MA",
+   "list": "mashedb22",
+   "rank": null,
+   "metro": "boston"
+  },
+  {
+   "name": "49er Lounge",
+   "city": "Gallup",
+   "st": "NM",
+   "list": "mashedb22",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Alinea",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Alta Adams",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Animal",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Atelier Crenn",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Atomix",
+   "city": "New York",
+   "st": "NY",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Baroo",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Carbone",
+   "city": "New York",
+   "st": "NY",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Chubby Fish",
+   "city": "Charleston",
+   "st": "SC",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "charleston"
+  },
+  {
+   "name": "Compère Lapin",
+   "city": "New Orleans",
+   "st": "LA",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "neworleans"
+  },
+  {
+   "name": "Crawfish & Noodles",
+   "city": "Houston",
+   "st": "TX",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "houston"
+  },
+  {
+   "name": "Dakar NOLA",
+   "city": "New Orleans",
+   "st": "LA",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "neworleans"
+  },
+  {
+   "name": "The Four Horsemen",
+   "city": "New York",
+   "st": "NY",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Franklin Barbecue",
+   "city": "Austin",
+   "st": "TX",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "austin"
+  },
+  {
+   "name": "Gjelina",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "The Grey",
+   "city": "Savannah",
+   "st": "GA",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Husk",
+   "city": "Charleston",
+   "st": "SC",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "charleston"
+  },
+  {
+   "name": "Kann",
+   "city": "Portland",
+   "st": "OR",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "portland"
+  },
+  {
+   "name": "Kasama",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Kogi BBQ",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Mission Chinese Food",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Mission Chinese Food",
+   "city": "New York",
+   "st": "NY",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Mi Tocaya Antojería",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Momofuku Ssäm Bar",
+   "city": "New York",
+   "st": "NY",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Nong's Khao Man Gai",
+   "city": "Portland",
+   "st": "OR",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "portland"
+  },
+  {
+   "name": "Owamni",
+   "city": "Minneapolis",
+   "st": "MN",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "twincities"
+  },
+  {
+   "name": "Pizzeria Mozza",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Rasika",
+   "city": "Washington",
+   "st": "DC",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "washington"
+  },
+  {
+   "name": "Red Rooster",
+   "city": "New York",
+   "st": "NY",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Reem's California",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Sister Pie",
+   "city": "Detroit",
+   "st": "MI",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "detroit"
+  },
+  {
+   "name": "South Philly Barbacoa",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "Superiority Burger",
+   "city": "New York",
+   "st": "NY",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Sushi Nakazawa",
+   "city": "New York",
+   "st": "NY",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Taco María",
+   "city": "Costa Mesa",
+   "st": "CA",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Toro",
+   "city": "Boston",
+   "st": "MA",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "boston"
+  },
+  {
+   "name": "Town",
+   "city": "Honolulu",
+   "st": "HI",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Veracruz All Natural",
+   "city": "Austin",
+   "st": "TX",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "austin"
+  },
+  {
+   "name": "Via Carota",
+   "city": "New York",
+   "st": "NY",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Zahav",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "eaterat38r25",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "Almanac",
+   "city": "Philadelphia",
+   "st": "PA",
+   "list": "banewb25",
+   "rank": null,
+   "metro": "philadelphia"
+  },
+  {
+   "name": "Gus' Sip & Dip",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "banewb25",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Madeira Park",
+   "city": "Atlanta",
+   "st": "GA",
+   "list": "banewb25",
+   "rank": null,
+   "metro": "atlanta"
+  },
+  {
+   "name": "Schmuck",
+   "city": "New York",
+   "st": "NY",
+   "list": "banewb25",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Prelude at the Jay Hotel",
+   "city": "San Francisco",
+   "st": "CA",
+   "list": "banewb25",
+   "rank": null,
+   "metro": "sanfrancisco"
+  },
+  {
+   "name": "Providencia",
+   "city": "Washington",
+   "st": "DC",
+   "list": "banewb25",
+   "rank": null,
+   "metro": "washington"
+  },
+  {
+   "name": "Public Parking",
+   "city": "Madison",
+   "st": "WI",
+   "list": "banewb25",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Lee's",
+   "city": "Houston",
+   "st": "TX",
+   "list": "banewb25",
+   "rank": null,
+   "metro": "houston"
+  },
+  {
+   "name": "Tatlo",
+   "city": "New Orleans",
+   "st": "LA",
+   "list": "banewb25",
+   "rank": null,
+   "metro": "neworleans"
+  },
+  {
+   "name": "Echo Lake",
+   "city": "Brooklyn",
+   "st": "NY",
+   "list": "punchnewb26",
+   "rank": null,
+   "metro": "newyork"
+  },
+  {
+   "name": "Peach Crease Club",
+   "city": "Denver",
+   "st": "CO",
+   "list": "punchnewb26",
+   "rank": null,
+   "metro": "denver"
+  },
+  {
+   "name": "Culebra",
+   "city": "Chicago",
+   "st": "IL",
+   "list": "punchnewb26",
+   "rank": null,
+   "metro": "chicago"
+  },
+  {
+   "name": "Vandell",
+   "city": "Los Angeles",
+   "st": "CA",
+   "list": "punchnewb26",
+   "rank": null,
+   "metro": "losangeles"
+  },
+  {
+   "name": "Bar Roza",
+   "city": "Nashville",
+   "st": "TN",
+   "list": "punchnewb26",
+   "rank": null,
+   "metro": "nashville"
+  }
+ ]
+}
