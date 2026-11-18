@@ -475,6 +475,38 @@ body.city-losangeles.theme-bars{
   .achip button{background:none;border:none;color:inherit;cursor:pointer;font-size:13px;line-height:1;opacity:.7;}
   .achip button:hover{opacity:1;}
 
+
+  /* ===== Menu card ===== */
+  .tier-grid:has(.mcard){gap:22px;padding:22px 22px 24px;align-items:stretch;}
+  .board:has(.mcard){gap:22px;padding:22px 0 8px;border-top:none;align-items:stretch;}
+  .mcard{background:var(--panel);border:1px solid var(--rule);outline:1px solid var(--c);outline-offset:-7px;display:flex;flex-direction:column;padding:10px;position:relative;transition:transform .18s ease,box-shadow .18s ease;}
+  .mcard:hover{transform:translateY(-4px);box-shadow:0 14px 28px var(--shadow);}
+  .mcard.closed{opacity:.55;}
+  .mcard.closed .mc-name{text-decoration:line-through;}
+  .mc-top{text-align:center;padding:12px 10px 0;}
+  .mc-cui{font-family:'AccentSans','Space Grotesk',sans-serif;font-size:10px;font-weight:700;letter-spacing:.24em;text-transform:uppercase;color:var(--c);}
+  .mc-no{font-family:'Playfair Display',Georgia,serif;font-weight:900;font-style:italic;font-size:50px;line-height:1;color:var(--c);margin-top:2px;}
+  .mc-line{display:flex;align-items:baseline;gap:8px;padding:10px 8px 0;}
+  .mc-name{margin:0;font-family:'AccentSerif','Fraunces',serif;font-weight:600;font-size:22px;line-height:1.1;letter-spacing:-.01em;color:var(--ink);}
+  .mc-cap{color:var(--c);font-size:150%;line-height:.8;}
+  .mc-dots{flex:1;border-bottom:2px dotted var(--rule-bold);transform:translateY(-4px);min-width:12px;}
+  .mc-price{font-family:'AccentSans','Space Grotesk',sans-serif;font-weight:700;font-size:13px;color:var(--ink-soft);}
+  .mc-hood{padding:3px 8px 0;font-family:'AccentSerif','Newsreader',serif;font-style:italic;font-size:14px;color:var(--ink-soft);}
+  .mc-facts{margin:12px 8px 0;display:flex;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);}
+  .mc-fact{flex:1;min-width:0;display:flex;flex-direction:column;align-items:center;gap:4px;padding:10px 4px;border-right:1px dotted var(--rule-bold);text-align:center;}
+  .mc-fact:last-child{border-right:none;}
+  .mc-ico{display:flex;gap:2px;align-items:center;height:18px;}
+  .mc-fact b{font-family:'AccentSans','Space Grotesk',sans-serif;font-size:12px;font-weight:700;color:var(--ink);line-height:1.2;}
+  .mc-fact > span{font-family:'AccentSans','Space Grotesk',sans-serif;font-size:8.5px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--faint);}
+  .mc-dash{font-size:13px;color:var(--rule-bold);}
+  .mc-num{font-family:'Playfair Display',Georgia,serif;font-weight:900;font-style:italic;font-size:19px;line-height:1;color:var(--c);}
+  .mcard .vtags{padding:12px 8px 0;margin-top:0;}
+  .mcard .vmark{margin-top:auto;padding:11px 8px 13px;}
+  .mcard .vtags + .vmark{margin-top:12px;}
+  body.theme-bars .mcard{box-shadow:0 0 14px -6px var(--c);}
+  body.theme-bars .mcard:hover{box-shadow:0 0 22px -4px var(--c);}
+  body.theme-bars .mc-name{font-family:'AccentSans','Bebas Neue',sans-serif;font-weight:400;font-size:26px;letter-spacing:.03em;}
+  @media(max-width:900px){.tier-grid:has(.mcard){padding:16px;gap:18px;}}
   /* =================== BOARD =================== */
   .board{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));
     border-top:1px solid var(--rule);position:relative;z-index:1;}
@@ -1552,8 +1584,13 @@ const PRICE_FULL={1:"$30 or less",2:"$30–50",3:"$50–100",4:"$100+"};
 const PRICE_SYM={1:"$",2:"$$",3:"$$$",4:"$$$$"};
 const CUISINES={tasting:"Tasting",newam:"New American",med:"Mediterranean",latin:"Latin",asian:"Asian",
  japanese:"Japanese",french:"French",italian:"Italian",pizza:"Pizza",seafood:"Seafood",steak:"Steak",
- mexican:"Mexican",bbq:"Barbecue",southern:"Southern",global:"Global",indian:"Indian",classics:"Classics",
- bakery:"Bakery",gastropub:"Gastropub",cheesesteak:"Cheesesteak"};
+ mexican:"Mexican",bbq:"BBQ & Southern",global:"Global",indian:"Indian",classics:"Classics",
+ bakery:"Bakery",gastropub:"Gastropub",sandwich:"Sandwiches"};
+/* Folded cuisines: cheesesteaks live under Sandwiches; Southern (and soul food) under BBQ & Southern.
+   Only the cuisine type changes; the Philly "Cheesesteaks & Hoagies" tier keys off v.vb, so it stays. */
+const TYPE_ALIAS={cheesesteak:"sandwich",hoagie:"sandwich",sandwiches:"sandwich",southern:"bbq",soul:"bbq"};
+function foldTypes(arr){(arr||[]).forEach(function(v){if(v&&TYPE_ALIAS[v.type])v.type=TYPE_ALIAS[v.type];});}
+Object.keys(CITIES_DATA).forEach(function(k){foldTypes(CITIES_DATA[k].restos);});
 const DRINKS={m:"Cocktails",b:"Beer / Tavern",w:"Wine"};
 const THEME={
   resto:{edition:"The Restaurants Edition", ear:["Price · Free","City Final","Weekend Table"]},
@@ -1862,19 +1899,40 @@ function barTiers(city){
 }
 function vibeOrder(){ return state.kind==="resto"?restoTiers(state.city):barTiers(state.city); }
 function vibeLabel(id){ var o=vibeOrder().find(function(x){return x[0]===id;}); return o?o[1]:id; }
-function tierCard(v,i,totalLists){
-  const leaf=v.vg?` · \u{1F331}${v.vn?"*":""}`:"";
-  const price=v.pr?` · ${PRICE_SYM[v.pr]}`:"";
-  return `<article class="vcard clip ${v.cl?"closed":""}" data-name="${encodeURIComponent(v.name)}">
-    <div class="clip-hd"><span class="clip-no">No. ${i+1}</span></div>
-    <h3 class="vname">${v.name}</h3>
-    <div class="clip-by">${typeName(v)}${v.hood?` in ${v.hood}`:""}${v.cl?" · Closed":""}</div>
-    <div class="clip-cr">As credited by</div>
+/* ===== Menu card: one color per cuisine (bars: per drink type) ===== */
+const CUI_COL={"tasting": "#6b3f8f", "newam": "#2f6aa3", "med": "#12806a", "latin": "#a3307e", "asian": "#c4511a", "japanese": "#2b4a9a", "french": "#8c1c3a", "italian": "#2c7546", "pizza": "#c8322b", "seafood": "#0f7a8c", "steak": "#7a2b1d", "mexican": "#b8860b", "bbq": "#5c3a21", "global": "#4b4fa8", "indian": "#d06414", "classics": "#3a3a3a", "bakery": "#a8692a", "gastropub": "#2b4a32", "sandwich": "#b8860b", "quick": "#d9541e", "american": "#2a4b8d", "spanish": "#b5362a", "brunch": "#c9901a", "caribbean": "#0f8b80", "african": "#b5562a", "greek": "#1f5fa8", "cocktails": "#2ee6ff", "beer": "#ffb020", "wine": "#ff6f61"};
+const TYPE2KEY={"tasting": "tasting", "newam": "newam", "med": "med", "latin": "latin", "asian": "asian", "japanese": "japanese", "french": "french", "italian": "italian", "pizza": "pizza", "seafood": "seafood", "steak": "steak", "mexican": "mexican", "bbq": "bbq", "global": "global", "indian": "indian", "classics": "classics", "bakery": "bakery", "gastropub": "gastropub", "sandwich": "sandwich", "quick": "quick", "american": "american", "spanish": "spanish", "brunch": "brunch", "caribbean": "caribbean", "african": "african", "greek": "greek", "cocktails": "cocktails", "beer": "beer", "wine": "wine", "m": "cocktails", "b": "beer", "w": "wine", "chinese": "asian", "korean": "asian", "vietnamese": "asian", "thai": "asian", "filipino": "asian", "ramen": "japanese", "steakhouse": "steak", "deli": "sandwich", "hotdog": "quick", "cafe": "bakery", "mediterranean": "med", "lebanese": "med", "moroccan": "med", "pakistani": "indian", "afghan": "indian", "peruvian": "latin", "argentinian": "latin", "liberian": "african", "british": "gastropub", "basque": "spanish", "vegan": "newam"};
+function cardColor(v){var k=TYPE2KEY[v.type];return CUI_COL[k]||(state.kind==='resto'?'#4b4fa8':'#2ee6ff');}
+function coinSvg(on,c){var col=on?c:'var(--rule-bold)';return '<svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5" fill="'+(on?'color-mix(in srgb,'+c+' 18%,transparent)':'none')+'" stroke="'+col+'" stroke-width="2"></circle><path d="M12 7.5v9M14.5 9.5c-.6-.8-1.5-1.2-2.5-1.2-1.4 0-2.5.8-2.5 1.9 0 2.6 5 1.4 5 4 0 1.1-1.1 1.9-2.5 1.9-1 0-1.9-.4-2.5-1.2" fill="none" stroke="'+col+'" stroke-width="2"></path></svg>';}
+function starSvg(){return '<svg width="12" height="12" viewBox="0 0 24 24" fill="var(--gold)" aria-hidden="true"><path d="M12 2l3 7 7 .6-5.3 4.7 1.6 7.2L12 17.8 5.7 21.5l1.6-7.2L2 9.6 9 9z"></path></svg>';}
+function michelinStars(v){var L=lists();for(var j=0;j<v.lists.length;j++){var d=L[v.lists[j][0]];if(d&&d.starChip&&d.mono==="★")return v.lists[j][1]||1;}return 0;}
+function cityHasMichelin(){var L=lists();return Object.keys(L).some(function(k){return L[k].starChip&&L[k].mono==="\u2605";});}
+function bestRank(v){var L=lists(),best=null;v.lists.forEach(function(p){var d=L[p[0]];if(!d||d.starChip||p[1]==null)return;if(!best||p[1]<best.r)best={r:p[1],m:d.mono};});return best;}
+function menuCard(v,noLabel,totalLists){
+  const c=cardColor(v), resto=state.kind==='resto', dash='<span class="mc-dash">—</span>';
+  const fact=(ico,top,lab)=>`<div class="mc-fact"><div class="mc-ico">${ico}</div><b>${top}</b><span>${lab}</span></div>`;
+  let f1,f2;
+  if(resto){
+    const pr=v.pr||0, coins=[1,2,3,4].map(n=>coinSvg(n<=pr,c)).join('');
+    f1=fact(pr?coins:dash, pr?PRICE_SYM[pr]:'—', 'Price');
+    if(cityHasMichelin()){const st=michelinStars(v); f2=fact(st?starSvg().repeat(st):dash, st?(st+(st>1?' stars':' star')):'None', 'Michelin');}
+    else {const br=bestRank(v); f2=fact(br?`<span class="mc-num">#${br.r}</span>`:dash, br?br.m:'Unranked', 'Best rank');}
+  } else {
+    f1=fact(dash.replace('—','·'), v.vb?vibeLabel(v.vb):typeName(v), 'Section');
+    const br=bestRank(v); f2=fact(br?`<span class="mc-num">#${br.r}</span>`:dash, br?br.m:'Unranked', 'Best rank');
+  }
+  const f3=fact(`<span class="mc-num">${v.lists.length}</span>`, `of ${totalLists}`, 'Lists');
+  const nm=v.name||'', pr=v.pr?PRICE_SYM[v.pr]:'';
+  return `<article class="mcard ${v.cl?'closed':''}" style="--c:${c}" data-name="${encodeURIComponent(v.name)}">
+    <div class="mc-top"><div class="mc-cui">${typeName(v)}</div>${noLabel?`<div class="mc-no">${noLabel}</div>`:''}</div>
+    <div class="mc-line"><h3 class="mc-name"><span class="mc-cap">${nm.charAt(0)}</span>${nm.slice(1)}</h3><span class="mc-dots" aria-hidden="true"></span><span class="mc-price">${pr}</span></div>
+    <div class="mc-hood">${v.hood||''}${v.cl?' · Closed':''}</div>
+    <div class="mc-facts">${f1}${f2}${f3}</div>
     <div class="vtags">${listTags(v)}</div>
-    <div class="clip-ft"><span class="clip-cnt">On <b>${v.lists.length}</b> of ${totalLists} lists${price}${leaf}</span></div>
     ${markRow(v)}
   </article>`;
 }
+function tierCard(v,i,totalLists){ return menuCard(v,`No. ${i+1}`,totalLists); }
 const TIER_ICONS={cheesesteak:'<path d="M3 13c0-2.2 2-3.5 4.5-3.5h9C19 9.5 21 10.8 21 13s-2 3.2-4.5 3.2h-9C5 16.2 3 15.2 3 13z"/><path d="M4.5 11.4c3-1.4 12-1.4 15 0"/><path d="M6 14.2l2-.7 2 .7 2-.7 2 .7 2-.7"/>',
  lunch:'<path d="M3 11l9-5 9 5"/><path d="M4 11h16v3a3 3 0 0 1-3 3H7a3 3 0 0 1-3-3v-3z"/><path d="M7.5 9l1.4 .8 1.5-.8 1.5 .8 1.4-.8"/>',
  takeout:'<path d="M6 8h12l-1 11a1 1 0 0 1-1 1H8a1 1 0 0 1-1-1L6 8z"/><path d="M4.5 8h15l-1.2-3.2a1 1 0 0 0-.94-.8H6.64a1 1 0 0 0-.94 .8L4.5 8z"/><path d="M10 12v4M14 12v4"/>',
@@ -2002,20 +2060,7 @@ function renderBoard(vs){
   document.getElementById("mapwrap").style.display="none";
   const b=document.getElementById("board"); b.style.display="";
   const totalLists=Object.keys(lists()).length;
-  b.innerHTML=vs.map((v,i)=>{
-    const leaf = v.vg?` · 🌱${v.vn?"*":""}`:"";
-    const price = v.pr?` · ${PRICE_SYM[v.pr]}`:"";
-    const no = state.sort==="count" ? `<span class="clip-no">No. ${i+1}</span>` : "";
-    return `<article class="vcard clip ${v.cl?"closed":""}" data-name="${encodeURIComponent(v.name)}">
-      <div class="clip-hd">${no}</div>
-      <h3 class="vname">${v.name}</h3>
-      <div class="clip-by">${typeName(v)}${v.hood?` in ${v.hood}`:""}${v.cl?" · Closed":""}</div>
-      <div class="clip-cr">As credited by</div>
-      <div class="vtags">${listTags(v)}</div>
-      <div class="clip-ft"><span class="clip-cnt">On <b>${v.lists.length}</b> of ${totalLists} lists${price}${leaf}</span></div>
-      ${markRow(v)}
-    </article>`;
-  }).join("");
+  b.innerHTML=vs.map((v,i)=>menuCard(v, state.sort==="count"?`No. ${i+1}`:"", totalLists)).join("");
   wireCards();
 }
 function renderTable(vs){
