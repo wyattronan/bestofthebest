@@ -1267,7 +1267,7 @@
      null
     ]
    ],
-   "dual": false,
+   "dual": true,
    "vb": "specialty"
   },
   {
@@ -1562,6 +1562,10 @@
     [
      "thrilllv",
      null
+    ],
+    [
+     "barmaglv",
+     null
     ]
    ],
    "dual": false,
@@ -1606,6 +1610,14 @@
     [
      "thrilllv",
      null
+    ],
+    [
+     "infatlv",
+     null
+    ],
+    [
+     "barmaglv",
+     null
     ]
    ],
    "dual": false,
@@ -1634,6 +1646,14 @@
     [
      "thrilllv",
      null
+    ],
+    [
+     "infatlv",
+     null
+    ],
+    [
+     "barmaglv",
+     null
     ]
    ],
    "dual": false,
@@ -1657,6 +1677,10 @@
     ],
     [
      "thrilllv",
+     null
+    ],
+    [
+     "infatlv",
      null
     ]
    ],
@@ -1693,6 +1717,14 @@
     ],
     [
      "eaterlv",
+     null
+    ],
+    [
+     "infatlv",
+     null
+    ],
+    [
+     "barmaglv",
      null
     ]
    ],
@@ -1738,6 +1770,10 @@
     [
      "thrilllv",
      null
+    ],
+    [
+     "barmaglv",
+     null
     ]
    ],
    "dual": false,
@@ -1758,6 +1794,10 @@
     [
      "thrilllv",
      null
+    ],
+    [
+     "barmaglv",
+     null
     ]
    ],
    "dual": false,
@@ -1777,6 +1817,10 @@
     ],
     [
      "eaterlv",
+     null
+    ],
+    [
+     "infatlv",
      null
     ]
    ],
@@ -1842,6 +1886,10 @@
     [
      "eaterlv",
      null
+    ],
+    [
+     "barmaglv",
+     null
     ]
    ],
    "dual": false,
@@ -1906,6 +1954,10 @@
     [
      "eaterlv",
      null
+    ],
+    [
+     "barmaglv",
+     null
     ]
    ],
    "dual": false,
@@ -1925,6 +1977,14 @@
     ],
     [
      "thrilllv",
+     null
+    ],
+    [
+     "infatlv",
+     null
+    ],
+    [
+     "barmaglv",
      null
     ]
    ],
@@ -1958,6 +2018,10 @@
     [
      "eaterlv",
      null
+    ],
+    [
+     "infatlv",
+     null
     ]
    ],
    "dual": false,
@@ -1990,6 +2054,10 @@
     [
      "eaterlv",
      null
+    ],
+    [
+     "barmaglv",
+     null
     ]
    ],
    "dual": false,
@@ -2005,6 +2073,10 @@
    "lists": [
     [
      "eaterlv",
+     null
+    ],
+    [
+     "barmaglv",
      null
     ]
    ],
@@ -2026,6 +2098,14 @@
     [
      "thrilllv",
      null
+    ],
+    [
+     "infatlv",
+     null
+    ],
+    [
+     "barmaglv",
+     null
     ]
    ],
    "dual": false,
@@ -2041,6 +2121,14 @@
    "lists": [
     [
      "eaterlv",
+     null
+    ],
+    [
+     "infatlv",
+     null
+    ],
+    [
+     "barmaglv",
      null
     ]
    ],
@@ -2137,6 +2225,362 @@
    "lists": [
     [
      "thrilllv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Double Down Saloon",
+   "hood": "Paradise",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1055647,
+   "lng": -115.1502618,
+   "lists": [
+    [
+     "infatlv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Hard Shake",
+   "hood": "The Strip",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.106392,
+   "lng": -115.173526,
+   "lists": [
+    [
+     "infatlv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Legacy Club",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.171837,
+   "lng": -115.1458384,
+   "lists": [
+    [
+     "infatlv",
+     null
+    ],
+    [
+     "barmaglv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Cabinet Of Curiosities",
+   "hood": "The Strip",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1140426,
+   "lng": -115.1687929,
+   "lists": [
+    [
+     "infatlv",
+     null
+    ],
+    [
+     "barmaglv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Vanderpump à Paris",
+   "hood": "The Strip",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1122926,
+   "lng": -115.1707358,
+   "lists": [
+    [
+     "infatlv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "White Whale",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1688344,
+   "lng": -115.1407697,
+   "lists": [
+    [
+     "infatlv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Petrossian Bar",
+   "hood": "The Strip",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1125374,
+   "lng": -115.176168,
+   "lists": [
+    [
+     "infatlv",
+     null
+    ],
+    [
+     "barmaglv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Dino's Lounge",
+   "hood": "Arts District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1524621,
+   "lng": -115.1519182,
+   "lists": [
+    [
+     "infatlv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Peppermill Fireside Lounge",
+   "hood": "The Strip",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1336884,
+   "lng": -115.1632833,
+   "lists": [
+    [
+     "infatlv",
+     null
+    ],
+    [
+     "barmaglv",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "mixo"
+  },
+  {
+   "name": "Doberman Drawing Room",
+   "hood": "Arts District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1595366,
+   "lng": -115.152393,
+   "lists": [
+    [
+     "infatlv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Nocturno",
+   "hood": "Arts District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1599282,
+   "lng": -115.1520896,
+   "lists": [
+    [
+     "infatlv",
+     null
+    ],
+    [
+     "barmaglv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Cleaver",
+   "hood": "Paradise",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1191466,
+   "lng": -115.1543385,
+   "lists": [
+    [
+     "barmaglv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Ski Lodge",
+   "hood": "The Strip",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1098749,
+   "lng": -115.1766622,
+   "lists": [
+    [
+     "barmaglv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Aft Cocktail Deck",
+   "hood": "The Strip",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1263678,
+   "lng": -115.1668263,
+   "lists": [
+    [
+     "barmaglv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Jammyland",
+   "hood": "Arts District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1578644,
+   "lng": -115.1531909,
+   "lists": [
+    [
+     "barmaglv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Petite Boheme",
+   "hood": "Arts District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1543923,
+   "lng": -115.1535781,
+   "lists": [
+    [
+     "barmaglv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "VISTA Cocktail Lounge",
+   "hood": "The Strip",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1171554,
+   "lng": -115.1753254,
+   "lists": [
+    [
+     "barmaglv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Collins",
+   "hood": "The Strip",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1384222,
+   "lng": -115.1599735,
+   "lists": [
+    [
+     "barmaglv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Easy's Cocktail Lounge",
+   "hood": "The Strip",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.1073106,
+   "lng": -115.1774099,
+   "lists": [
+    [
+     "barmaglv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Overlook Lounge",
+   "hood": "The Strip",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.126443,
+   "lng": -115.1662092,
+   "lists": [
+    [
+     "barmaglv",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Vesper Bar",
+   "hood": "The Strip",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 36.10978,
+   "lng": -115.17582,
+   "lists": [
+    [
+     "barmaglv",
      null
     ]
    ],
@@ -2243,6 +2687,24 @@
    "tag": "THRILLIST",
    "name": "Thrillist: Las Vegas Bars You Have to Visit At Least Once in Your Lifetime",
    "year": "2023",
+   "ranked": false,
+   "starChip": false
+  },
+  "infatlv": {
+   "cls": "b-infatlv",
+   "mono": "IN",
+   "tag": "INFAT",
+   "name": "The Infatuation: The Best Bars In Las Vegas",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "barmaglv": {
+   "cls": "b-barmaglv",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The 29 Best Bars in Las Vegas",
+   "year": "2026",
    "ranked": false,
    "starChip": false
   }

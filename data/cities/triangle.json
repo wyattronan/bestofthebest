@@ -1507,6 +1507,10 @@
     [
      "indybtri",
      5
+    ],
+    [
+     "eatertri",
+     null
     ]
    ],
    "vb": "mixo",
@@ -1539,6 +1543,10 @@
     [
      "indybtri",
      7
+    ],
+    [
+     "eatertri",
+     null
     ]
    ],
    "vb": "mixo",
@@ -1595,6 +1603,10 @@
     [
      "indybtri",
      10
+    ],
+    [
+     "eatertri",
+     null
     ]
    ],
    "vb": "vibey",
@@ -1626,6 +1638,10 @@
    "lists": [
     [
      "ralmagbar",
+     null
+    ],
+    [
+     "eatertri",
      null
     ]
    ],
@@ -1674,6 +1690,10 @@
    "lists": [
     [
      "ralmagbar",
+     null
+    ],
+    [
+     "eatertri",
      null
     ]
    ],
@@ -2359,6 +2379,118 @@
    ],
    "dual": false,
    "vb": "party"
+  },
+  {
+   "name": "Wild Turkey Lounge",
+   "hood": "Northwest Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.899187,
+   "lng": -78.7635832,
+   "lists": [
+    [
+     "eatertri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Level7",
+   "hood": "North Hills",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.838232,
+   "lng": -78.6402946,
+   "lists": [
+    [
+     "eatertri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Blind Barbour",
+   "hood": "West Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.8093527,
+   "lng": -78.7678289,
+   "lists": [
+    [
+     "eatertri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Killjoy",
+   "hood": "Glenwood South",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.7821239,
+   "lng": -78.6454146,
+   "lists": [
+    [
+     "eatertri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Gallo Pelón Mezcaleria",
+   "hood": "Downtown Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.779269,
+   "lng": -78.638445,
+   "lists": [
+    [
+     "eatertri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Wye Hill Kitchen & Brewing",
+   "hood": "Boylan Heights",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 35.7784835,
+   "lng": -78.6491499,
+   "lists": [
+    [
+     "eatertri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brewery"
+  },
+  {
+   "name": "Bittersweet",
+   "hood": "Downtown Raleigh",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 35.7768529,
+   "lng": -78.6386769,
+   "lists": [
+    [
+     "eatertri",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
   }
  ],
  "rlists": {
@@ -2469,6 +2601,15 @@
    "tag": "N&O",
    "name": "Raleigh News & Observer: A Guide to Triangle Nightlife: Bars, Breweries, Arcades, Live Music and More",
    "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "eatertri": {
+   "cls": "b-eatertri",
+   "mono": "EAT",
+   "tag": "EATER",
+   "name": "Eater: Raleigh's Top 12 Cocktail Bars Open Right Now",
+   "year": "2021",
    "ranked": false,
    "starChip": false
   }

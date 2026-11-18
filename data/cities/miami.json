@@ -302,7 +302,7 @@
     ]
    ],
    "vb": "oldguard",
-   "dual": false
+   "dual": true
   },
   {
    "name": "Zitz Sum",
@@ -1818,7 +1818,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": true
   },
   {
    "name": "Osaka Miami",
@@ -2545,6 +2545,10 @@
     [
      "bonappmia",
      null
+    ],
+    [
+     "barmagmia",
+     null
     ]
    ],
    "vb": "wine",
@@ -2721,6 +2725,10 @@
     [
      "eaterbmia",
      null
+    ],
+    [
+     "barmagmia",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2764,6 +2772,10 @@
     ],
     [
      "eaterbmia",
+     null
+    ],
+    [
+     "barmagmia",
      null
     ]
    ],
@@ -2828,6 +2840,10 @@
     ],
     [
      "eaterbmia",
+     null
+    ],
+    [
+     "barmagmia",
      null
     ]
    ],
@@ -2917,6 +2933,10 @@
     [
      "tomia",
      9
+    ],
+    [
+     "barmagmia",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2936,6 +2956,10 @@
     ],
     [
      "eaterbmia",
+     null
+    ],
+    [
+     "barmagmia",
      null
     ]
    ],
@@ -3249,6 +3273,10 @@
     [
      "eatermia",
      null
+    ],
+    [
+     "barmagmia",
+     null
     ]
    ],
    "dual": false,
@@ -3317,6 +3345,166 @@
    ],
    "dual": false,
    "vb": "mixo"
+  },
+  {
+   "name": "Bar Kaiju",
+   "hood": "Little River",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.85194,
+   "lng": -80.1931731,
+   "lists": [
+    [
+     "barmagmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Champagne Bar at Four Seasons Surf Club",
+   "hood": "Surfside",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 25.877559,
+   "lng": -80.1214868,
+   "lists": [
+    [
+     "barmagmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Macchialina",
+   "hood": "South Beach",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.7784805,
+   "lng": -80.1410231,
+   "lists": [
+    [
+     "barmagmia",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "vibey"
+  },
+  {
+   "name": "Sunny's Steakhouse",
+   "hood": "Little River",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.8428922,
+   "lng": -80.1969685,
+   "lists": [
+    [
+     "barmagmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "LPM Miami",
+   "hood": "Brickell",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.7605686,
+   "lng": -80.1900512,
+   "lists": [
+    [
+     "barmagmia",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "mixo"
+  },
+  {
+   "name": "1986 Steak House",
+   "hood": "Coconut Grove",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.7283316,
+   "lng": -80.2403124,
+   "lists": [
+    [
+     "barmagmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "MiniBar Miami",
+   "hood": "South Beach",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.7741927,
+   "lng": -80.1361823,
+   "lists": [
+    [
+     "barmagmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Monterrey Bar",
+   "hood": "Belle Isle",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.791928,
+   "lng": -80.1490238,
+   "lists": [
+    [
+     "barmagmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Vecinos",
+   "hood": "Mid-Beach",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 25.8069463,
+   "lng": -80.1250842,
+   "lists": [
+    [
+     "barmagmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Water Lion Wine + Alchemy",
+   "hood": "Mid-Beach",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 25.7916477,
+   "lng": -80.1291191,
+   "lists": [
+    [
+     "barmagmia",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
   }
  ],
  "rlists": {
@@ -3454,6 +3642,15 @@
    "tag": "EATER",
    "name": "Eater Miami: Every Important Miami Bar, Mapped",
    "year": "2018",
+   "ranked": false,
+   "starChip": false
+  },
+  "barmagmia": {
+   "cls": "b-barmagmia",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The 17 Best Bars in Miami",
+   "year": "2026",
    "ranked": false,
    "starChip": false
   }

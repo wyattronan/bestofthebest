@@ -554,7 +554,7 @@
      null
     ]
    ],
-   "dual": false,
+   "dual": true,
    "vb": "global"
   },
   {
@@ -1624,7 +1624,7 @@
      null
     ]
    ],
-   "dual": false,
+   "dual": true,
    "vb": "brunch"
   },
   {
@@ -1737,6 +1737,10 @@
     [
      "punchchs",
      null
+    ],
+    [
+     "eaterchs",
+     null
     ]
    ],
    "dual": false,
@@ -1776,6 +1780,10 @@
     ],
     [
      "punchchs",
+     null
+    ],
+    [
+     "eaterchs",
      null
     ]
    ],
@@ -1837,6 +1845,10 @@
     [
      "cntchs",
      null
+    ],
+    [
+     "eaterchs",
+     null
     ]
    ],
    "dual": false,
@@ -1864,6 +1876,10 @@
     ],
     [
      "cntchs",
+     null
+    ],
+    [
+     "eaterchs",
      null
     ]
    ],
@@ -2016,6 +2032,10 @@
     ],
     [
      "chstoday",
+     null
+    ],
+    [
+     "eaterchs",
      null
     ]
    ],
@@ -2241,6 +2261,10 @@
     [
      "cntchs",
      null
+    ],
+    [
+     "eaterchs",
+     null
     ]
    ],
    "dual": false,
@@ -2260,6 +2284,10 @@
     ],
     [
      "cntchs",
+     null
+    ],
+    [
+     "eaterchs",
      null
     ]
    ],
@@ -2420,6 +2448,10 @@
    "lists": [
     [
      "cntchs",
+     null
+    ],
+    [
+     "eaterchs",
      null
     ]
    ],
@@ -2877,6 +2909,86 @@
    ],
    "dual": false,
    "vb": "vibey"
+  },
+  {
+   "name": "Paddock & Whisky",
+   "hood": "James Island",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7631455,
+   "lng": -79.9861754,
+   "lists": [
+    [
+     "eaterchs",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Babas on Cannon",
+   "hood": "Cannonborough",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 32.7916281,
+   "lng": -79.9412724,
+   "lists": [
+    [
+     "eaterchs",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "wine"
+  },
+  {
+   "name": "Bin 152",
+   "hood": "Downtown",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 32.7779225,
+   "lng": -79.9328379,
+   "lists": [
+    [
+     "eaterchs",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Lost Isle",
+   "hood": "Johns Island",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7287209,
+   "lng": -80.067571,
+   "lists": [
+    [
+     "eaterchs",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "vibey"
+  },
+  {
+   "name": "Seanachai",
+   "hood": "Johns Island",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7331236,
+   "lng": -80.0571853,
+   "lists": [
+    [
+     "eaterchs",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
   }
  ],
  "rlists": {
@@ -3014,6 +3126,15 @@
    "tag": "RESY",
    "name": "Resy: The Best Places to Drink in Charleston",
    "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "eaterchs": {
+   "cls": "b-eaterchs",
+   "mono": "EAT",
+   "tag": "EATER",
+   "name": "Eater: 13 Essential Charleston Bars for Cocktails, Beer, Wine",
+   "year": "2025",
    "ranked": false,
    "starChip": false
   }

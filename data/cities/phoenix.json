@@ -164,7 +164,7 @@
     ]
    ],
    "vb": "specialty",
-   "dual": false,
+   "dual": true,
    "to": 1
   },
   {
@@ -351,7 +351,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": true
   },
   {
    "name": "Stoop Kid",
@@ -500,7 +500,7 @@
     ]
    ],
    "vb": "taco",
-   "dual": false,
+   "dual": true,
    "to": 1
   },
   {
@@ -5305,6 +5305,10 @@
     [
      "thrillphx",
      null
+    ],
+    [
+     "infatphx",
+     null
     ]
    ],
    "vb": "mixo",
@@ -6465,6 +6469,118 @@
    ],
    "dual": false,
    "vb": "mixo"
+  },
+  {
+   "name": "Chilte",
+   "hood": "Grand Avenue",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.452812,
+   "lng": -112.0845473,
+   "lists": [
+    [
+     "infatphx",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "mixo"
+  },
+  {
+   "name": "Valentine",
+   "hood": "Melrose",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.4959474,
+   "lng": -112.0839291,
+   "lists": [
+    [
+     "infatphx",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "mixo"
+  },
+  {
+   "name": "Huarachis Taqueria",
+   "hood": "Downtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.4575158,
+   "lng": -112.0740684,
+   "lists": [
+    [
+     "infatphx",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "vibey"
+  },
+  {
+   "name": "Belly Kitchen & Bar",
+   "hood": "Melrose",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.5088404,
+   "lng": -112.0821052,
+   "lists": [
+    [
+     "infatphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Second Story Liquor Bar",
+   "hood": "Old Town Scottsdale",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.4966464,
+   "lng": -111.9264229,
+   "lists": [
+    [
+     "infatphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Canal Club",
+   "hood": "Old Town Scottsdale",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.508855,
+   "lng": -111.924906,
+   "lists": [
+    [
+     "infatphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Lux Central",
+   "hood": "Midtown",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.5004756,
+   "lng": -112.0741388,
+   "lists": [
+    [
+     "infatphx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
   }
  ],
  "rlists": {
@@ -6611,6 +6727,15 @@
    "tag": "THRILLIST",
    "name": "Thrillist: 21 Bars in Phoenix That Belong on Your Must-Visit List",
    "year": "2023",
+   "ranked": false,
+   "starChip": false
+  },
+  "infatphx": {
+   "cls": "b-infatphx",
+   "mono": "IN",
+   "tag": "INFAT",
+   "name": "The Infatuation: Drinking Great Cocktails — Phoenix",
+   "year": "2025",
    "ranked": false,
    "starChip": false
   }

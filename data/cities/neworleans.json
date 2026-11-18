@@ -1706,6 +1706,10 @@
     [
      "nolamagno",
      null
+    ],
+    [
+     "eaternola",
+     null
     ]
    ],
    "vb": "mixo",
@@ -1741,6 +1745,10 @@
     ],
     [
      "nolamagno",
+     null
+    ],
+    [
+     "eaternola",
      null
     ]
    ],
@@ -1818,6 +1826,10 @@
     [
      "nolamagno",
      null
+    ],
+    [
+     "eaternola",
+     null
     ]
    ],
    "vb": "mixo",
@@ -1858,6 +1870,10 @@
     [
      "nolamagno",
      null
+    ],
+    [
+     "eaternola",
+     null
     ]
    ],
    "vb": "mixo",
@@ -1885,6 +1901,10 @@
     ],
     [
      "thrillno",
+     null
+    ],
+    [
+     "eaternola",
      null
     ]
    ],
@@ -1929,6 +1949,10 @@
     ],
     [
      "nolamagno",
+     null
+    ],
+    [
+     "eaternola",
      null
     ]
    ],
@@ -2118,6 +2142,10 @@
     [
      "nolamagno",
      null
+    ],
+    [
+     "eaternola",
+     null
     ]
    ],
    "vb": "dive",
@@ -2149,6 +2177,10 @@
     ],
     [
      "nolamagno",
+     null
+    ],
+    [
+     "eaternola",
      null
     ]
    ],
@@ -2190,6 +2222,10 @@
     [
      "barmagno",
      null
+    ],
+    [
+     "eaternola",
+     null
     ]
    ],
    "vb": "dive",
@@ -2213,6 +2249,10 @@
     ],
     [
      "nolamagno",
+     null
+    ],
+    [
+     "eaternola",
      null
     ]
    ],
@@ -2253,6 +2293,10 @@
     ],
     [
      "nolamagno",
+     null
+    ],
+    [
+     "eaternola",
      null
     ]
    ],
@@ -2322,6 +2366,10 @@
     [
      "nolamagno",
      null
+    ],
+    [
+     "eaternola",
+     null
     ]
    ],
    "vb": "dive",
@@ -2378,6 +2426,10 @@
     [
      "nolamagno",
      null
+    ],
+    [
+     "eaternola",
+     null
     ]
    ],
    "vb": "vibey",
@@ -2405,6 +2457,10 @@
     ],
     [
      "nolamagno",
+     null
+    ],
+    [
+     "eaternola",
      null
     ]
    ],
@@ -2501,6 +2557,10 @@
     ],
     [
      "thrillno",
+     null
+    ],
+    [
+     "eaternola",
      null
     ]
    ],
@@ -2714,6 +2774,10 @@
     [
      "thrillno",
      null
+    ],
+    [
+     "eaternola",
+     null
     ]
    ],
    "dual": false,
@@ -2825,6 +2889,10 @@
     ],
     [
      "nolamagno",
+     null
+    ],
+    [
+     "eaternola",
      null
     ]
    ],
@@ -3197,6 +3265,10 @@
    "lists": [
     [
      "nolamagno",
+     null
+    ],
+    [
+     "eaternola",
      null
     ]
    ],
@@ -3986,6 +4058,22 @@
    ],
    "dual": false,
    "vb": "mixo"
+  },
+  {
+   "name": "Dovetail Bar",
+   "hood": "French Quarter",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 29.9569105,
+   "lng": -90.0720894,
+   "lists": [
+    [
+     "eaternola",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
   }
  ],
  "rlists": {
@@ -4123,6 +4211,15 @@
    "tag": "NOLA MAG",
    "name": "New Orleans Magazine (MyNewOrleans.com): Best Bars: The Toasted of the Town",
    "year": "2023",
+   "ranked": false,
+   "starChip": false
+  },
+  "eaternola": {
+   "cls": "b-eaternola",
+   "mono": "EAT",
+   "tag": "EATER",
+   "name": "Eater: These Are the Very Best Bars in New Orleans",
+   "year": "2026",
    "ranked": false,
    "starChip": false
   }

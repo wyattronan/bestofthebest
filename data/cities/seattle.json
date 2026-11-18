@@ -2531,6 +2531,10 @@
     [
      "barmagsea",
      null
+    ],
+    [
+     "infatsea",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2795,6 +2799,10 @@
     [
      "barmagsea",
      null
+    ],
+    [
+     "infatsea",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2842,6 +2850,10 @@
    "lists": [
     [
      "seametb",
+     null
+    ],
+    [
+     "infatsea",
      null
     ]
    ],
@@ -2911,6 +2923,10 @@
     [
      "belib",
      4
+    ],
+    [
+     "infatsea",
+     null
     ]
    ],
    "vb": "wine",
@@ -3002,6 +3018,10 @@
     ],
     [
      "barmagsea",
+     null
+    ],
+    [
+     "infatsea",
      null
     ]
    ],
@@ -3195,6 +3215,10 @@
     [
      "eaterbsea",
      null
+    ],
+    [
+     "infatsea",
+     null
     ]
    ],
    "vb": "vibey",
@@ -3307,6 +3331,10 @@
     [
      "thrillsea",
      null
+    ],
+    [
+     "infatsea",
+     null
     ]
    ],
    "vb": "party",
@@ -3383,6 +3411,10 @@
     [
      "timeoutsea",
      null
+    ],
+    [
+     "infatsea",
+     null
     ]
    ],
    "vb": "dive",
@@ -3434,6 +3466,10 @@
     ],
     [
      "punchsea",
+     null
+    ],
+    [
+     "infatsea",
      null
     ]
    ],
@@ -3558,6 +3594,10 @@
     ],
     [
      "barmagsea",
+     null
+    ],
+    [
+     "infatsea",
      null
     ]
    ],
@@ -3819,6 +3859,10 @@
     [
      "barmagsea",
      null
+    ],
+    [
+     "infatsea",
+     null
     ]
    ],
    "dual": false,
@@ -3850,6 +3894,10 @@
    "lists": [
     [
      "barmagsea",
+     null
+    ],
+    [
+     "infatsea",
      null
     ]
    ],
@@ -4027,6 +4075,10 @@
     [
      "timeoutsea",
      null
+    ],
+    [
+     "infatsea",
+     null
     ]
    ],
    "dual": false,
@@ -4042,6 +4094,10 @@
    "lists": [
     [
      "timeoutsea",
+     null
+    ],
+    [
+     "infatsea",
      null
     ]
    ],
@@ -4090,6 +4146,10 @@
    "lists": [
     [
      "timeoutsea",
+     null
+    ],
+    [
+     "infatsea",
      null
     ]
    ],
@@ -4171,10 +4231,94 @@
     [
      "cntsea",
      null
+    ],
+    [
+     "infatsea",
+     null
     ]
    ],
    "dual": false,
    "vb": "wine"
+  },
+  {
+   "name": "Daphnes Bar",
+   "hood": "Edmonds",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.810897,
+   "lng": -122.377717,
+   "lists": [
+    [
+     "infatsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Tim's Tavern",
+   "hood": "White Center",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.5158568,
+   "lng": -122.3556874,
+   "lists": [
+    [
+     "infatsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
+  },
+  {
+   "name": "Crescent Lounge",
+   "hood": "Capitol Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.6174352,
+   "lng": -122.3263099,
+   "lists": [
+    [
+     "infatsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Hannyatou",
+   "hood": "Fremont",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 47.6539785,
+   "lng": -122.3441822,
+   "lists": [
+    [
+     "infatsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Clock-Out Lounge",
+   "hood": "Beacon Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 47.5590595,
+   "lng": -122.303927,
+   "lists": [
+    [
+     "infatsea",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "livemusic"
   }
  ],
  "rlists": {
@@ -4339,6 +4483,15 @@
    "tag": "CNTRAV",
    "name": "Condé Nast Traveler: 15 Best Bars in Seattle",
    "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "infatsea": {
+   "cls": "b-infatsea",
+   "mono": "IN",
+   "tag": "INFAT",
+   "name": "The Infatuation: The 21 Best Bars In Seattle",
+   "year": "2026",
    "ranked": false,
    "starChip": false
   }

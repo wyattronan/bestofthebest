@@ -347,7 +347,7 @@
      null
     ]
    ],
-   "dual": false,
+   "dual": true,
    "vb": "datenight"
   },
   {
@@ -414,7 +414,7 @@
      null
     ]
    ],
-   "dual": false,
+   "dual": true,
    "vb": "italian"
   },
   {
@@ -478,7 +478,7 @@
      null
     ]
    ],
-   "dual": false,
+   "dual": true,
    "vb": "global"
   },
   {
@@ -547,7 +547,7 @@
      null
     ]
    ],
-   "dual": false,
+   "dual": true,
    "vb": "global"
   },
   {
@@ -585,7 +585,7 @@
      null
     ]
    ],
-   "dual": false,
+   "dual": true,
    "vb": "global"
   },
   {
@@ -877,7 +877,7 @@
      null
     ]
    ],
-   "dual": false,
+   "dual": true,
    "vb": "global"
   },
   {
@@ -1013,7 +1013,7 @@
      null
     ]
    ],
-   "dual": false,
+   "dual": true,
    "vb": "datenight"
   },
   {
@@ -1081,7 +1081,7 @@
      null
     ]
    ],
-   "dual": false,
+   "dual": true,
    "vb": "global"
   },
   {
@@ -1215,6 +1215,14 @@
     [
      "exploremn",
      null
+    ],
+    [
+     "eatertc",
+     null
+    ],
+    [
+     "infattc",
+     null
     ]
    ],
    "dual": false,
@@ -1239,6 +1247,10 @@
     [
      "barmagtc",
      null
+    ],
+    [
+     "eatertc",
+     null
     ]
    ],
    "dual": false,
@@ -1258,6 +1270,10 @@
     ],
     [
      "barmagtc",
+     null
+    ],
+    [
+     "eatertc",
      null
     ]
    ],
@@ -1311,6 +1327,10 @@
     [
      "exploremn",
      null
+    ],
+    [
+     "eatertc",
+     null
     ]
    ],
    "dual": false,
@@ -1326,6 +1346,10 @@
    "lists": [
     [
      "exploremn",
+     null
+    ],
+    [
+     "eatertc",
      null
     ]
    ],
@@ -1591,6 +1615,10 @@
     [
      "barmagtc",
      null
+    ],
+    [
+     "infattc",
+     null
     ]
    ],
    "dual": false,
@@ -1643,6 +1671,394 @@
    ],
    "dual": false,
    "vb": "wine"
+  },
+  {
+   "name": "Meritage",
+   "hood": "Downtown St Paul",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9463889,
+   "lng": -93.0966667,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "mixo"
+  },
+  {
+   "name": "Moscow on the Hill",
+   "hood": "Cathedral Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9467726,
+   "lng": -93.115596,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "mixo"
+  },
+  {
+   "name": "Sweeney's Saloon",
+   "hood": "Cathedral Hill",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 44.9442005,
+   "lng": -93.1260592,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Spot Bar",
+   "hood": "West End",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9270249,
+   "lng": -93.1362667,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Half Time Rec",
+   "hood": "Como",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 44.9704048,
+   "lng": -93.1429706,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Black Hart of Saint Paul",
+   "hood": "Hamline-Midway",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 44.9560416,
+   "lng": -93.1600329,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Bar Cart Lounge and Restaurant",
+   "hood": "Grand Avenue",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9402341,
+   "lng": -93.1664144,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Estelle",
+   "hood": "Macalester-Groveland",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9341422,
+   "lng": -93.1767928,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Dubliner Pub",
+   "hood": "St Anthony Park",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 44.9605197,
+   "lng": -93.18964,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Merlins Rest",
+   "hood": "Longfellow",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 44.9481987,
+   "lng": -93.2202315,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Bull's Horn Food and Drink",
+   "hood": "Standish",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9198093,
+   "lng": -93.222725,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Grumpy's Bar",
+   "hood": "Northeast",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.0101117,
+   "lng": -93.2618041,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Oro by Nixta",
+   "hood": "Northeast",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.0006201,
+   "lng": -93.2663604,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "vibey"
+  },
+  {
+   "name": "Dusty's Bar",
+   "hood": "Northeast",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.0007702,
+   "lng": -93.2701598,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Cuzzy's Grill & Bar",
+   "hood": "North Loop",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 44.9862047,
+   "lng": -93.2752031,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "19 Bar",
+   "hood": "Loring Park",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9675787,
+   "lng": -93.2788174,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Bar Brava",
+   "hood": "North Loop",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 44.9986768,
+   "lng": -93.2814959,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "wine"
+  },
+  {
+   "name": "CC Club",
+   "hood": "Lyn-Lake",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.955388,
+   "lng": -93.288444,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Martina",
+   "hood": "Linden Hills",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9241805,
+   "lng": -93.3149508,
+   "lists": [
+    [
+     "eatertc",
+     null
+    ],
+    [
+     "infattc",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "mixo"
+  },
+  {
+   "name": "Petite León",
+   "hood": "Kingfield",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9339549,
+   "lng": -93.2782073,
+   "lists": [
+    [
+     "infattc",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "mixo"
+  },
+  {
+   "name": "Dario",
+   "hood": "North Loop",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9840329,
+   "lng": -93.2746547,
+   "lists": [
+    [
+     "infattc",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "mixo"
+  },
+  {
+   "name": "Nolo's Kitchen & Bar",
+   "hood": "North Loop",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9862331,
+   "lng": -93.2756242,
+   "lists": [
+    [
+     "infattc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Hi-Lo Diner",
+   "hood": "Longfellow",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9485987,
+   "lng": -93.214285,
+   "lists": [
+    [
+     "infattc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Francis",
+   "hood": "Longfellow",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 44.9487402,
+   "lng": -93.2162045,
+   "lists": [
+    [
+     "infattc",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
   }
  ],
  "rlists": {
@@ -1717,6 +2133,24 @@
    "tag": "BARMAG",
    "name": "BarMagazine: The 14 Best Bars in Minneapolis",
    "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "eatertc": {
+   "cls": "b-eatertc",
+   "mono": "EAT",
+   "tag": "EATER",
+   "name": "Eater: The Twin Cities' Best Bars",
+   "year": "2025",
+   "ranked": false,
+   "starChip": false
+  },
+  "infattc": {
+   "cls": "b-infattc",
+   "mono": "IN",
+   "tag": "INFAT",
+   "name": "The Infatuation: Drinking Great Cocktails — Minneapolis",
+   "year": "2024",
    "ranked": false,
    "starChip": false
   }

@@ -72,7 +72,7 @@
      null
     ]
    ],
-   "dual": false,
+   "dual": true,
    "vb": "tasting"
   },
   {
@@ -838,7 +838,7 @@
      null
     ]
    ],
-   "dual": false,
+   "dual": true,
    "vb": "italian"
   },
   {
@@ -1037,7 +1037,7 @@
      null
     ]
    ],
-   "dual": false,
+   "dual": true,
    "vb": "datenight"
   },
   {
@@ -1409,6 +1409,10 @@
     [
      "barmagsd",
      null
+    ],
+    [
+     "eatersd",
+     null
     ]
    ],
    "dual": false,
@@ -1589,6 +1593,10 @@
     [
      "infatsd",
      null
+    ],
+    [
+     "eatersd",
+     null
     ]
    ],
    "dual": false,
@@ -1657,6 +1665,10 @@
     [
      "thrillnlsd",
      null
+    ],
+    [
+     "eatersd",
+     null
     ]
    ],
    "dual": false,
@@ -1696,6 +1708,10 @@
     ],
     [
      "sdmagbar",
+     null
+    ],
+    [
+     "eatersd",
      null
     ]
    ],
@@ -1845,6 +1861,10 @@
     [
      "barmagsd",
      null
+    ],
+    [
+     "eatersd",
+     null
     ]
    ],
    "dual": false,
@@ -1860,6 +1880,10 @@
    "lists": [
     [
      "barmagsd",
+     null
+    ],
+    [
+     "eatersd",
      null
     ]
    ],
@@ -1988,6 +2012,10 @@
    "lists": [
     [
      "infatsd",
+     null
+    ],
+    [
+     "eatersd",
      null
     ]
    ],
@@ -2169,6 +2197,10 @@
     [
      "thrillnlsd",
      null
+    ],
+    [
+     "eatersd",
+     null
     ]
    ],
    "dual": false,
@@ -2248,6 +2280,246 @@
    "lists": [
     [
      "thrillnlsd",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Jeune et Jolie",
+   "hood": "Carlsbad",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.1629346,
+   "lng": -117.3517258,
+   "lists": [
+    [
+     "eatersd",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "vibey"
+  },
+  {
+   "name": "Same Same",
+   "hood": "Carlsbad",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 33.1595409,
+   "lng": -117.3507964,
+   "lists": [
+    [
+     "eatersd",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Whaling Bar",
+   "hood": "La Jolla",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.8485632,
+   "lng": -117.2734965,
+   "lists": [
+    [
+     "eatersd",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "O'Brien's Pub",
+   "hood": "Kearny Mesa",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 32.8252617,
+   "lng": -117.1558833,
+   "lists": [
+    [
+     "eatersd",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brewery"
+  },
+  {
+   "name": "Paradisaea",
+   "hood": "Bird Rock",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.815358,
+   "lng": -117.2707638,
+   "lists": [
+    [
+     "eatersd",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "mixo"
+  },
+  {
+   "name": "Sidecar",
+   "hood": "Bay Park",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7719297,
+   "lng": -117.202362,
+   "lists": [
+    [
+     "eatersd",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Luau",
+   "hood": "Rolando",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7685479,
+   "lng": -117.0442618,
+   "lists": [
+    [
+     "eatersd",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Gärten",
+   "hood": "Bay Park",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 32.7644792,
+   "lng": -117.1990255,
+   "lists": [
+    [
+     "eatersd",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "brewery"
+  },
+  {
+   "name": "Cantina Mayahuel",
+   "hood": "Normal Heights",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7630722,
+   "lng": -117.130601,
+   "lists": [
+    [
+     "eatersd",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "Nómade",
+   "hood": "Normal Heights",
+   "type": "w",
+   "typekind": "drink",
+   "lat": 32.7626926,
+   "lng": -117.1294167,
+   "lists": [
+    [
+     "eatersd",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "wine"
+  },
+  {
+   "name": "Riviera Supper Club and Turquoise Room",
+   "hood": "La Mesa",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7622865,
+   "lng": -117.0296255,
+   "lists": [
+    [
+     "eatersd",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Tribute Pizza",
+   "hood": "North Park",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7472929,
+   "lng": -117.1280532,
+   "lists": [
+    [
+     "eatersd",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "vibey"
+  },
+  {
+   "name": "Panama 66",
+   "hood": "Balboa Park",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 32.7316833,
+   "lng": -117.1508871,
+   "lists": [
+    [
+     "eatersd",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Kindred",
+   "hood": "South Park",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7214597,
+   "lng": -117.1300628,
+   "lists": [
+    [
+     "eatersd",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Lion's Share",
+   "hood": "Little Italy",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 32.7119496,
+   "lng": -117.1689918,
+   "lists": [
+    [
+     "eatersd",
      null
     ]
    ],
@@ -2372,6 +2644,15 @@
    "tag": "THRILLIST",
    "name": "Thrillist: The Ultimate Guide to San Diego Nightlife",
    "year": "2024",
+   "ranked": false,
+   "starChip": false
+  },
+  "eatersd": {
+   "cls": "b-eatersd",
+   "mono": "EAT",
+   "tag": "EATER",
+   "name": "Eater: The Best Bars in San Diego",
+   "year": "2026",
    "ranked": false,
    "starChip": false
   }

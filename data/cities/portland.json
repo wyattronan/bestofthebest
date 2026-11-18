@@ -1554,7 +1554,7 @@
     ]
    ],
    "vb": "datenight",
-   "dual": false
+   "dual": true
   },
   {
    "name": "Khao Moo Dang",
@@ -2150,6 +2150,10 @@
     [
      "pdxmobar",
      null
+    ],
+    [
+     "eaterpdx",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2169,6 +2173,10 @@
     ],
     [
      "barmagpdx",
+     null
+    ],
+    [
+     "eaterpdx",
      null
     ]
    ],
@@ -2226,6 +2234,10 @@
     [
      "barmagpdx",
      null
+    ],
+    [
+     "eaterpdx",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2270,6 +2282,10 @@
     [
      "thrillpdx",
      null
+    ],
+    [
+     "eaterpdx",
+     null
     ]
    ],
    "vb": "mixo",
@@ -2289,6 +2305,10 @@
     ],
     [
      "barmagpdx",
+     null
+    ],
+    [
+     "eaterpdx",
      null
     ]
    ],
@@ -2326,6 +2346,10 @@
     [
      "barmagpdx",
      null
+    ],
+    [
+     "eaterpdx",
+     null
     ]
    ],
    "dual": false,
@@ -2341,6 +2365,10 @@
    "lists": [
     [
      "barmagpdx",
+     null
+    ],
+    [
+     "eaterpdx",
      null
     ]
    ],
@@ -2358,6 +2386,10 @@
     [
      "barmagpdx",
      null
+    ],
+    [
+     "eaterpdx",
+     null
     ]
    ],
    "dual": false,
@@ -2373,6 +2405,10 @@
    "lists": [
     [
      "barmagpdx",
+     null
+    ],
+    [
+     "eaterpdx",
      null
     ]
    ],
@@ -2422,6 +2458,10 @@
     [
      "thrillpdx",
      null
+    ],
+    [
+     "eaterpdx",
+     null
     ]
    ],
    "dual": false,
@@ -2470,6 +2510,10 @@
     [
      "thrillpdx",
      null
+    ],
+    [
+     "eaterpdx",
+     null
     ]
    ],
    "dual": false,
@@ -2517,6 +2561,102 @@
    "lists": [
     [
      "thrillpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Grandma's Secret",
+   "hood": "Nob Hill",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.5337948,
+   "lng": -122.6985047,
+   "lists": [
+    [
+     "eaterpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Pink Rabbit",
+   "hood": "Pearl District",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.524861,
+   "lng": -122.6830101,
+   "lists": [
+    [
+     "eaterpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Deadshot",
+   "hood": "Buckman",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.5073482,
+   "lng": -122.6549445,
+   "lists": [
+    [
+     "eaterpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Bible Club",
+   "hood": "Sellwood",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.4740936,
+   "lng": -122.6497484,
+   "lists": [
+    [
+     "eaterpdx",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "Bellwether Bar",
+   "hood": "Montavilla",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.519401,
+   "lng": -122.6016574,
+   "lists": [
+    [
+     "eaterpdx",
+     null
+    ]
+   ],
+   "dual": true,
+   "vb": "vibey"
+  },
+  {
+   "name": "Arbor Hall",
+   "hood": "Montavilla",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 45.519255,
+   "lng": -122.582211,
+   "lists": [
+    [
+     "eaterpdx",
      null
     ]
    ],
@@ -2650,6 +2790,15 @@
    "tag": "THRILLIST",
    "name": "Thrillist: 10 Bars You Can't Leave Portland Without Trying",
    "year": "2024",
+   "ranked": false,
+   "starChip": false
+  },
+  "eaterpdx": {
+   "cls": "b-eaterpdx",
+   "mono": "EAT",
+   "tag": "EATER",
+   "name": "Eater: The Best Portland Cocktail Bars",
+   "year": "2025",
    "ranked": false,
    "starChip": false
   }

@@ -1480,6 +1480,198 @@
    ],
    "dual": false,
    "vb": "mixo"
+  },
+  {
+   "name": "County Clare Inn & Pub",
+   "hood": "Lower East Side",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 43.0466374,
+   "lng": -87.8993613,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Dugout 54",
+   "hood": "Story Hill",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 43.0367734,
+   "lng": -87.9808616,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Champps Americana",
+   "hood": "Brookfield",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 43.0191193,
+   "lng": -88.106119,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "McBob's Pub & Grill",
+   "hood": "Washington Heights",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 43.0605599,
+   "lng": -87.9753848,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Steny's Tavern & Grill",
+   "hood": "Walker's Point",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 43.0230301,
+   "lng": -87.9123062,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Maxwell's",
+   "hood": "Cedarburg",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 43.3008755,
+   "lng": -87.9894352,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Brat Stop",
+   "hood": "Kenosha",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 42.5681933,
+   "lng": -87.9570068,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Revere's Wells Street Tavern",
+   "hood": "Delafield",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 43.0602686,
+   "lng": -88.4053483,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "vibey"
+  },
+  {
+   "name": "The Wicked Hop",
+   "hood": "Third Ward",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 43.0348282,
+   "lng": -87.9075775,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Red Lion Pub",
+   "hood": "Lower East Side",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 43.0552911,
+   "lng": -87.9009719,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Pete's Pub",
+   "hood": "Brady Street",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 43.0531276,
+   "lng": -87.8956633,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
+  },
+  {
+   "name": "Oscar's Pub & Grill",
+   "hood": "Walker's Point",
+   "type": "b",
+   "typekind": "drink",
+   "lat": 43.0244089,
+   "lng": -87.9348207,
+   "lists": [
+    [
+     "eatermke",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "dive"
   }
  ],
  "rlists": {
@@ -1581,6 +1773,15 @@
    "tag": "BARMAG",
    "name": "BarMagazine: The Best Bars in Milwaukee",
    "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "eatermke": {
+   "cls": "b-eatermke",
+   "mono": "EAT",
+   "tag": "EATER",
+   "name": "Eater: 13 Milwaukee-Area Bars Where You Can Grab a Pint This Winter",
+   "year": "2024",
    "ranked": false,
    "starChip": false
   }

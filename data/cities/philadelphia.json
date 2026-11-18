@@ -2921,6 +2921,10 @@
     [
      "eaterphl",
      null
+    ],
+    [
+     "barmagphl",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3173,6 +3177,10 @@
     [
      "belib",
      1
+    ],
+    [
+     "barmagphl",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3337,6 +3345,10 @@
     [
      "punchphl",
      null
+    ],
+    [
+     "barmagphl",
+     null
     ]
    ],
    "vb": "mixo",
@@ -3470,6 +3482,10 @@
     [
      "eaterphl",
      null
+    ],
+    [
+     "barmagphl",
+     null
     ]
    ],
    "dual": false,
@@ -3501,6 +3517,10 @@
    "lists": [
     [
      "eaterphl",
+     null
+    ],
+    [
+     "barmagphl",
      null
     ]
    ],
@@ -3549,6 +3569,10 @@
    "lists": [
     [
      "eaterphl",
+     null
+    ],
+    [
+     "barmagphl",
      null
     ]
    ],
@@ -4098,6 +4122,15 @@
    "mono": "RE",
    "tag": "RESY",
    "name": "Resy: The Best Places to Drink in Philadelphia",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false
+  },
+  "barmagphl": {
+   "cls": "b-barmagphl",
+   "mono": "BM",
+   "tag": "BARMAG",
+   "name": "BarMagazine: The 6 Best Bars in Philadelphia",
    "year": "2026",
    "ranked": false,
    "starChip": false

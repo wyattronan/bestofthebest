@@ -3552,6 +3552,10 @@
     [
      "thrillchi",
      null
+    ],
+    [
+     "infatchi",
+     null
     ]
    ],
    "dual": false,
@@ -3599,6 +3603,10 @@
     ],
     [
      "barmagchi",
+     null
+    ],
+    [
+     "infatchi",
      null
     ]
    ],
@@ -3684,6 +3692,10 @@
     [
      "barmagchi",
      null
+    ],
+    [
+     "infatchi",
+     null
     ]
    ],
    "dual": false,
@@ -3723,6 +3735,10 @@
     ],
     [
      "barmagchi",
+     null
+    ],
+    [
+     "infatchi",
      null
     ]
    ],
@@ -3860,6 +3876,10 @@
     ],
     [
      "thrillchi",
+     null
+    ],
+    [
+     "infatchi",
      null
     ]
    ],
@@ -4093,6 +4113,10 @@
     [
      "barmagchi",
      null
+    ],
+    [
+     "infatchi",
+     null
     ]
    ],
    "dual": false,
@@ -4157,6 +4181,10 @@
     [
      "barmagchi",
      null
+    ],
+    [
+     "infatchi",
+     null
     ]
    ],
    "dual": false,
@@ -4180,6 +4208,10 @@
     ],
     [
      "barmagchi",
+     null
+    ],
+    [
+     "infatchi",
      null
     ]
    ],
@@ -4249,6 +4281,10 @@
     [
      "cnt40",
      null
+    ],
+    [
+     "infatchi",
+     null
     ]
    ],
    "dual": false,
@@ -4277,6 +4313,10 @@
     [
      "thrillchi",
      null
+    ],
+    [
+     "infatchi",
+     null
     ]
    ],
    "dual": false,
@@ -4296,6 +4336,10 @@
     ],
     [
      "ba",
+     null
+    ],
+    [
+     "infatchi",
      null
     ]
    ],
@@ -4320,6 +4364,10 @@
     ],
     [
      "opentblchi",
+     null
+    ],
+    [
+     "infatchi",
      null
     ]
    ],
@@ -4388,6 +4436,10 @@
     ],
     [
      "opentblchi",
+     null
+    ],
+    [
+     "infatchi",
      null
     ]
    ],
@@ -4513,6 +4565,10 @@
     [
      "thrillchi",
      null
+    ],
+    [
+     "infatchi",
+     null
     ]
    ],
    "dual": false,
@@ -4568,6 +4624,10 @@
     ],
     [
      "thrillchi",
+     null
+    ],
+    [
+     "infatchi",
      null
     ]
    ],
@@ -5200,6 +5260,10 @@
     [
      "thrillchi",
      null
+    ],
+    [
+     "infatchi",
+     null
     ]
    ],
    "dual": false,
@@ -5288,6 +5352,10 @@
     [
      "thrillchi",
      null
+    ],
+    [
+     "infatchi",
+     null
     ]
    ],
    "dual": false,
@@ -5303,6 +5371,10 @@
    "lists": [
     [
      "ba",
+     null
+    ],
+    [
+     "infatchi",
      null
     ]
    ],
@@ -5552,6 +5624,10 @@
     [
      "opentblchi",
      null
+    ],
+    [
+     "infatchi",
+     null
     ]
    ],
    "dual": false,
@@ -5600,6 +5676,10 @@
     [
      "barmagchi",
      null
+    ],
+    [
+     "infatchi",
+     null
     ]
    ],
    "dual": false,
@@ -5615,6 +5695,10 @@
    "lists": [
     [
      "barmagchi",
+     null
+    ],
+    [
+     "infatchi",
      null
     ]
    ],
@@ -5775,6 +5859,38 @@
    "lists": [
     [
      "thrillchi",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Victor Bar",
+   "hood": "North Center",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 41.9545925,
+   "lng": -87.6785715,
+   "lists": [
+    [
+     "infatchi",
+     null
+    ]
+   ],
+   "dual": false,
+   "vb": "mixo"
+  },
+  {
+   "name": "The Heavy Feather",
+   "hood": "Logan Square",
+   "type": "m",
+   "typekind": "drink",
+   "lat": 41.9242181,
+   "lng": -87.6989609,
+   "lists": [
+    [
+     "infatchi",
      null
     ]
    ],
@@ -6070,6 +6186,15 @@
    "tag": "THRILLIST",
    "name": "Thrillist: The Best Bars in Chicago Right Now",
    "year": "2023",
+   "ranked": false,
+   "starChip": false
+  },
+  "infatchi": {
+   "cls": "b-infatchi",
+   "mono": "IN",
+   "tag": "INFAT",
+   "name": "The Infatuation: The Best Cocktail Bars In Chicago",
+   "year": "2026",
    "ranked": false,
    "starChip": false
   }
