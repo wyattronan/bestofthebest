@@ -1478,9 +1478,10 @@ body.theme-bars .usa-navbtn:hover{color:var(--accent2);}
 .mk:hover{color:var(--ink);border-color:var(--ink);}
 .mk.on{background:var(--accent);color:var(--bg,#fff);border-color:var(--accent);}
 .stars{display:inline-flex;gap:3px;margin-left:auto;padding-left:8px;}
-.star{cursor:pointer;color:var(--rule-bold);font-size:16px;line-height:1;transition:.12s;}
+.star{cursor:pointer;color:var(--rule-bold);font-size:16px;line-height:1;transition:.12s;position:relative;}
 .star:hover{transform:scale(1.15);}
 .star.f{color:var(--gold);}
+  .star.half::before{content:"\2605";position:absolute;left:0;top:0;width:50%;overflow:hidden;color:var(--gold);pointer-events:none;}
 #pop .vmark{margin:13px 0 2px;padding:13px 2px 6px;}
 .mapwrap{margin-top:6px;}
 #map{height:min(70vh,620px);width:100%;border:1px solid var(--rule-bold);border-radius:4px;background:var(--bg2);}
@@ -1499,6 +1500,7 @@ body.theme-bars .usa-navbtn:hover{color:var(--accent2);}
 .mappop .mk.on{background:#b4291e;color:#fff;border-color:#b4291e;}
 .mappop .star{color:#d0d0d0;}
 .mappop .star.f{color:#d2a017;}
+  #pop .vmark .star.half::before{color:#d2a017;}
 </style>
 
 
@@ -1696,15 +1698,16 @@ function allMarks(){try{return JSON.parse(localStorage.getItem("bob:marks")||"{}
 function getMark(v){return allMarks()[markKey(v)]||{m:null,r:0};}
 function setMark(v,patch){try{const a=allMarks(),k=markKey(v),cur=a[k]||{m:null,r:0},nw=Object.assign({},cur,patch);if(!nw.m&&!nw.r)delete a[k];else a[k]=nw;localStorage.setItem("bob:marks",JSON.stringify(a));if(window.BOB_syncPush)window.BOB_syncPush();}catch(e){}}
 function markRow(v){const mk=getMark(v);
-  const stars=[1,2,3,4,5].map(i=>`<span class="star ${i<=mk.r?"f":""}" data-star="${i}">\u2605</span>`).join("");
+  const stars=[1,2,3,4,5].map(i=>`<span class="star ${mk.r>=i?"f":(mk.r>=i-0.5?"half":"")}" data-star="${i}">\u2605</span>`).join("");
   return `<div class="vmark" data-vn="${encodeURIComponent(v.name)}">
     <button class="mk ${mk.m==="been"?"on":""}" data-mk="been">\u2713 Been</button>
     <button class="mk ${mk.m==="want"?"on":""}" data-mk="want">\u25ce Want</button>
     <span class="stars" title="Your rating">${stars}</span></div>`;}
 function wireMarks(scope){scope.querySelectorAll(".vmark").forEach(box=>{
     const name=decodeURIComponent(box.dataset.vn),v=venues().find(x=>x.name===name);if(!v)return;
-    box.querySelectorAll(".mk[data-mk]").forEach(btn=>btn.onclick=e=>{e.stopPropagation();const cur=getMark(v).m,val=btn.dataset.mk;setMark(v,{m:cur===val?null:val});render();});
-    box.querySelectorAll(".star[data-star]").forEach(st=>st.onclick=e=>{e.stopPropagation();const n=+st.dataset.star,cur=getMark(v).r;setMark(v,{r:cur===n?0:n});render();});});}
+    const sync=()=>{const mk=getMark(v);box.querySelectorAll(".mk[data-mk]").forEach(b=>b.classList.toggle("on",b.dataset.mk===mk.m));box.querySelectorAll(".star[data-star]").forEach(s=>{const si=+s.dataset.star;s.className="star "+(mk.r>=si?"f":(mk.r>=si-0.5?"half":""));});};
+    box.querySelectorAll(".mk[data-mk]").forEach(btn=>btn.onclick=e=>{e.stopPropagation();const cur=getMark(v).m,val=btn.dataset.mk;setMark(v,{m:cur===val?null:val});sync();render();});
+    box.querySelectorAll(".star[data-star]").forEach(st=>st.onclick=e=>{e.stopPropagation();const rc=st.getBoundingClientRect();const base=+st.dataset.star;const n=((e.clientX-rc.left)<rc.width*0.5)?base-0.5:base;const cur=getMark(v).r;setMark(v,{r:cur===n?0:n});sync();render();});});}
 let LMAP=null,LGROUP=null,LTILE=null,MAP_MARKERS=[];
 function declutterLabels(){
   if(!LMAP||!MAP_MARKERS.length) return;
@@ -2360,7 +2363,7 @@ function openUsaVenueCard(ck,kind,name){
   );
   if(!pop) return;
   pop.querySelectorAll(".vmark .mk[data-mk]").forEach(function(btn){ btn.onclick=function(e){ e.stopPropagation(); var cur=getMark(vv).m, val=btn.dataset.mk; setMark(vv,{m:cur===val?null:val}); openUsaVenueCard(ck,kind,name); }; });
-  pop.querySelectorAll(".vmark .star[data-star]").forEach(function(st){ st.onclick=function(e){ e.stopPropagation(); var nR=+st.dataset.star, cur=getMark(vv).r; setMark(vv,{r:cur===nR?0:nR}); openUsaVenueCard(ck,kind,name); }; });
+  pop.querySelectorAll(".vmark .star[data-star]").forEach(function(st){ st.onclick=function(e){ e.stopPropagation(); var rc=st.getBoundingClientRect(); var base=+st.dataset.star; var nR=((e.clientX-rc.left)<rc.width*0.5)?base-0.5:base; var cur=getMark(vv).r; setMark(vv,{r:cur===nR?0:nR}); openUsaVenueCard(ck,kind,name); }; });
   var go=document.getElementById("usaGoCity"); if(go) go.onclick=function(){ closeModal(); };
 }
 function openUsaReport(){
@@ -2533,6 +2536,8 @@ body.theme-bars .acct-chip{box-shadow:0 0 10px rgba(42,224,255,.18);}
   border-radius:2px;padding:1px 5px;color:var(--ink-soft);}
 .mine-row .mr-stars{color:var(--accent);font-size:13px;letter-spacing:1px;white-space:nowrap;}
 .mine-row .mr-stars .e{opacity:.22;}
+.mine-row .mr-stars .h{position:relative;color:color-mix(in srgb,var(--accent) 22%,transparent);}
+.mine-row .mr-stars .h::before{content:"\2605";position:absolute;left:0;top:0;width:50%;overflow:hidden;color:var(--accent);}
 .bob-mine .mine-empty{padding:26px 4px;color:var(--ink-soft);font-size:13px;text-align:center;}
 .bob-mine .mine-foot{font-size:10.5px;color:var(--ink-soft);margin-top:12px;text-align:center;}
 @media(max-width:560px){.acct-chip .ac-name{display:none;}}
@@ -2711,7 +2716,7 @@ body.theme-bars .acct-chip{box-shadow:0 0 10px rgba(42,224,255,.18);}
 
   /* ---------- My Want / Been / Ratings (cross-city) ---------- */
   var mineTab="want", mineSort="rating";
-  function starStr(r){ var o=""; for(var i=1;i<=5;i++){ o+= i<=r?'★':'<span class="e">★</span>'; } return o; }
+  function starStr(r){ var o=""; for(var i=1;i<=5;i++){ o+= (r>=i)?'★':((r>=i-0.5)?'<span class="h">★</span>':'<span class="e">★</span>'); } return o; }
   function openMine(tab){
     mineTab=tab||"want";
     var pop=showPop('<div class="bob-mine" id="bobMine"></div>');
