@@ -120,79 +120,132 @@
           "PUNCH",
           "Washingtonian",
           "Boston Magazine",
-          "Chicago Magazine"
+          "Chicago Magazine",
+          "Esquire",
+          "Food & Wine",
+          "OpenTable",
+          "USA Today",
+          "Bon Appétit",
+          "North America's 50 Best",
+          "World's 50 Best",
+          "Michelin"
         ],
         "note": "When a watched publication posts a NEW prestigious city list, it is flagged for your approval (never auto-added) to keep prestige discipline."
       }
     },
     "release_calendar": [
       {
-        "month": 2,
-        "label": "Washingtonian 100 Very Best (DC)",
-        "pull": [
-          "washdc"
-        ]
-      },
-      {
-        "month": 4,
-        "label": "James Beard Award nominees",
+        "month": 1,
+        "label": "James Beard semifinalists (~late Jan, all cities); PUNCH Best New Cocktail Bars (Dec–Jan)",
         "pull": [
           "jba",
           "jbny",
           "jbdc",
           "jbsf",
           "jbla",
+          "jbatl",
+          "jbhou",
+          "jbaus",
           "jbbny",
           "jbbdc",
           "jbbsf"
         ]
       },
       {
-        "month": 6,
-        "label": "World's 50 Best Restaurants; Boston Mag Best of Boston",
+        "month": 2,
+        "label": "USA TODAY Restaurants of the Year (~late Jan–Feb — NATIONAL, add new edition yearly); Washingtonian 100 Very Best (DC)",
         "pull": [
-          "bosmag"
+          "washdc"
+        ]
+      },
+      {
+        "month": 3,
+        "label": "James Beard finalists (~late Mar, all cities)",
+        "pull": [
+          "jba",
+          "jbny",
+          "jbdc",
+          "jbsf",
+          "jbla",
+          "jbatl",
+          "jbhou",
+          "jbaus"
+        ]
+      },
+      {
+        "month": 4,
+        "label": "North America's 50 Best Bars (NATIONAL)",
+        "pull": []
+      },
+      {
+        "month": 5,
+        "label": "North America's 50 Best Restaurants; Food & Wine Best New Chefs; Resy 40 Across America; Condé Nast Traveler Hot List",
+        "pull": [
+          "resysf",
+          "resyla",
+          "resyatl",
+          "resyaus"
+        ]
+      },
+      {
+        "month": 6,
+        "label": "World's 50 Best Restaurants; James Beard winners; Boston Mag Best of Boston; Michelin California (SF/LA/San Diego)",
+        "pull": [
+          "bosmag",
+          "michsf",
+          "michla"
+        ]
+      },
+      {
+        "month": 8,
+        "label": "Bon Appétit Best New Restaurants (~late Aug — NATIONAL); Michelin Southwest (Phoenix/Scottsdale)",
+        "pull": [
+          "bacg"
         ]
       },
       {
         "month": 9,
-        "label": "Bon Appétit Best New; Michelin Chicago",
-        "pull": [
-          "bacg",
-          "mich",
-          "bib"
-        ]
-      },
-      {
-        "month": 10,
-        "label": "Condé Nast Readers' Choice; NYT Best Restaurants in America",
+        "label": "Food & Wine Restaurant of the Year (~Sep 1 — NATIONAL); NYT Restaurant List / 50 Best in America (~mid-Sep)",
         "pull": [
           "nyt50chi",
           "nyt50ny",
           "nyt50dc",
           "nyt50bos",
           "nyt50sf",
-          "nyt50la"
+          "nyt50la",
+          "nyt50sea",
+          "nyt50atl",
+          "nyt50hou",
+          "nyt50aus"
+        ]
+      },
+      {
+        "month": 10,
+        "label": "Condé Nast Traveler Readers' Choice; World's 50 Best Bars (Oct–Nov); Michelin American South (Atlanta)",
+        "pull": [
+          "michatl",
+          "bibatl"
         ]
       },
       {
         "month": 11,
-        "label": "World's 50 Best Bars; Michelin New York",
-        "pull": [
-          "michny"
-        ]
+        "label": "OpenTable Top 100 Restaurants (~early Nov — NATIONAL); World's 50 Best Bars; Michelin American South (Nashville/New Orleans/Charleston)",
+        "pull": []
       },
       {
         "month": 12,
-        "label": "LA Times 101; Eater Awards; Michelin California",
+        "label": "Michelin U.S. star ceremony ~Dec 14 (Chicago + NY/DC/Boston: mich/bib/michny/michdc/michbos); Esquire Best New Restaurants in America (~Dec 1 — NATIONAL); Time Out America's Best New Restaurants (~Dec 12 — NATIONAL); LA Times 101 Best; Eater Awards (city, Dec); PUNCH Best New Cocktail Bars",
         "pull": [
-          "latimesla",
-          "michsf",
-          "michla"
+          "mich",
+          "bib",
+          "michny",
+          "michdc",
+          "michbos",
+          "latimesla"
         ]
       }
     ],
-    "release_calendar_note": "Approximate annual windows; dates shift. A scheduled Claude reminder also pings ~3 weeks ahead. update.py flags windows in the current or next month."
+    "release_calendar_note": "Approximate annual US release windows; exact dates shift year to year. update.py flags windows in the current or next month in reports/latest.md, and the weekly Claude check reads this same calendar to decide which lists to verify. Michelin now runs regional ceremonies on a rolling schedule (California ~Jun; a combined U.S. star ceremony ~mid-Dec covering Chicago/NY/DC/Boston; American South ~Oct–Nov; Southwest ~Aug; American Great Lakes inaugural expected 2027)."
   },
   "lists": {
     "chicago": {
