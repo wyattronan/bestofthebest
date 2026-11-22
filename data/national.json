@@ -1,5 +1,14 @@
 {
  "lists": {
+  "fwroty26": {
+   "kind": "resto",
+   "name": "Food & Wine Restaurant of the Year 2026",
+   "pub": "Food & Wine",
+   "year": "2026",
+   "ranked": false,
+   "mono": "F&W",
+   "tag": "FOOD & WINE"
+  },
   "eater38b12": {
    "kind": "bars",
    "name": "Eater's 38 Essential Cocktail Bars Across the US",
