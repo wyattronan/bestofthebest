@@ -391,6 +391,10 @@
     [
      "ttnash",
      12
+    ],
+    [
+     "usat26r",
+     null
     ]
    ],
    "vb": "global",
@@ -888,6 +892,10 @@
     ],
     [
      "nyt50r26",
+     null
+    ],
+    [
+     "usat26r",
      null
     ]
    ],
@@ -3181,6 +3189,16 @@
    "ranked": false,
    "starChip": false,
    "nat": "infat14r26"
+  },
+  "usat26r": {
+   "cls": "plate r-usat25r",
+   "mono": "USA",
+   "tag": "USA TODAY",
+   "name": "USA Today Restaurants of the Year 2026",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "usat26r"
   }
  },
  "blists": {

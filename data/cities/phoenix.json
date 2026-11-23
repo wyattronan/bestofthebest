@@ -515,6 +515,10 @@
     [
      "eater38phx",
      null
+    ],
+    [
+     "usat26r",
+     null
     ]
    ],
    "vb": "taco",
@@ -3881,6 +3885,10 @@
     [
      "eater38phx",
      null
+    ],
+    [
+     "usat26r",
+     null
     ]
    ],
    "vb": "global",
@@ -7072,6 +7080,16 @@
    "ranked": false,
    "starChip": false,
    "nat": "nyt50r26"
+  },
+  "usat26r": {
+   "cls": "plate r-usat25r",
+   "mono": "USA",
+   "tag": "USA TODAY",
+   "name": "USA Today Restaurants of the Year 2026",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "usat26r"
   }
  },
  "blists": {

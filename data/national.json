@@ -234,6 +234,15 @@
    "ranked": true,
    "partial": true,
    "mono": "USA"
+  },
+  "usat26r": {
+   "kind": "resto",
+   "name": "USA Today Restaurants of the Year 2026",
+   "pub": "USA Today",
+   "year": "2026",
+   "ranked": false,
+   "mono": "USA",
+   "tag": "USA TODAY"
   }
  },
  "entries": [
@@ -4692,6 +4701,318 @@
    "list": "punchnewb26",
    "rank": null,
    "metro": "nashville"
+  },
+  {
+   "name": "Huarachis",
+   "city": "Phoenix",
+   "st": "AZ",
+   "list": "usat26r",
+   "rank": null,
+   "metro": "phoenix"
+  },
+  {
+   "name": "Indibar",
+   "city": "Scottsdale",
+   "st": "AZ",
+   "list": "usat26r",
+   "rank": null,
+   "metro": "phoenix"
+  },
+  {
+   "name": "The Stand",
+   "city": "Scottsdale",
+   "st": "AZ",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "El Mexicali Café II",
+   "city": "Indio",
+   "st": "CA",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Postcard Pizza",
+   "city": "Fort Collins",
+   "st": "CO",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Lewes Oyster House",
+   "city": "Lewes",
+   "st": "DE",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Tide Tables",
+   "city": "Bradenton",
+   "st": "FL",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Oceano",
+   "city": "Lake Worth Beach",
+   "st": "FL",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Bluebeard",
+   "city": "Indianapolis",
+   "st": "IN",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Prime & Providence",
+   "city": "West Des Moines",
+   "st": "IA",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Whatcha Smokin? BBQ + Brew",
+   "city": "Luther",
+   "st": "IA",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Volare",
+   "city": "Louisville",
+   "st": "KY",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Lea's Lunchroom",
+   "city": "Lecompte",
+   "st": "LA",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Sarma",
+   "city": "Somerville",
+   "st": "MA",
+   "list": "usat26r",
+   "rank": null,
+   "metro": "boston"
+  },
+  {
+   "name": "Spencer",
+   "city": "Ann Arbor",
+   "st": "MI",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Mayflower Cafe",
+   "city": "Jackson",
+   "st": "MS",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Esther's Kitchen",
+   "city": "Las Vegas",
+   "st": "NV",
+   "list": "usat26r",
+   "rank": null,
+   "metro": "lasvegas"
+  },
+  {
+   "name": "The Pasta Shop",
+   "city": "Denville",
+   "st": "NJ",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Ram & Rooster",
+   "city": "Metuchen",
+   "st": "NJ",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Anjelica's Restaurant",
+   "city": "Sea Bright",
+   "st": "NJ",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Pizzeria La Rosa",
+   "city": "New Rochelle",
+   "st": "NY",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Swan Market",
+   "city": "Rochester",
+   "st": "NY",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Bear's Smokehouse BBQ",
+   "city": "Asheville",
+   "st": "NC",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Luminosa",
+   "city": "Asheville",
+   "st": "NC",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Manna",
+   "city": "Wilmington",
+   "st": "NC",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Mita's",
+   "city": "Cincinnati",
+   "st": "OH",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Veritas",
+   "city": "Columbus",
+   "st": "OH",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Sedalia's Oyster & Seafood",
+   "city": "Oklahoma City",
+   "st": "OK",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Yardy Rum Bar",
+   "city": "Eugene",
+   "st": "OR",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Hamir's Indian Fusion",
+   "city": "York",
+   "st": "PA",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Nicks on Broadway",
+   "city": "Providence",
+   "st": "RI",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "White Wine & Butter",
+   "city": "Greer",
+   "st": "SC",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Skogen Kitchen",
+   "city": "Custer",
+   "st": "SD",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "J.C. Holdway",
+   "city": "Knoxville",
+   "st": "TN",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Junior",
+   "city": "Nashville",
+   "st": "TN",
+   "list": "usat26r",
+   "rank": null,
+   "metro": "nashville"
+  },
+  {
+   "name": "Maíz de la Vida",
+   "city": "Nashville",
+   "st": "TN",
+   "list": "usat26r",
+   "rank": null,
+   "metro": "nashville"
+  },
+  {
+   "name": "Keystone Grill",
+   "city": "Colonial Heights",
+   "st": "VA",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Maude & the Bear",
+   "city": "Staunton",
+   "st": "VA",
+   "list": "usat26r",
+   "rank": null,
+   "metro": null
+  },
+  {
+   "name": "Birch",
+   "city": "Milwaukee",
+   "st": "WI",
+   "list": "usat26r",
+   "rank": null,
+   "metro": "milwaukee"
   }
  ]
 }

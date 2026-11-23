@@ -79,6 +79,10 @@
     [
      "eatermke",
      null
+    ],
+    [
+     "usat26r",
+     null
     ]
    ],
    "dual": false,
@@ -1898,6 +1902,16 @@
    "ranked": false,
    "starChip": false,
    "nat": "ot100r26"
+  },
+  "usat26r": {
+   "cls": "plate r-usat25r",
+   "mono": "USA",
+   "tag": "USA TODAY",
+   "name": "USA Today Restaurants of the Year 2026",
+   "year": "2026",
+   "ranked": false,
+   "starChip": false,
+   "nat": "usat26r"
   }
  },
  "blists": {
